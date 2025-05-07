@@ -46,9 +46,12 @@ class CompaniesHouseScraper:
         self.companies_data_dir = os.path.join(DATA_DIR, "companies")
         self.officers_data_dir = os.path.join(DATA_DIR, "officers")
         self.filings_data_dir = os.path.join(DATA_DIR, "filings")
+        self.company_profiles_dir = os.path.join(DATA_DIR, "company_profiles")
+        self.company_officers_dir = os.path.join(DATA_DIR, "company_officers")
         
         # Create data directories if they don't exist
-        for directory in [self.companies_data_dir, self.officers_data_dir, self.filings_data_dir]:
+        for directory in [self.companies_data_dir, self.officers_data_dir, self.filings_data_dir, 
+                         self.company_profiles_dir, self.company_officers_dir]:
             os.makedirs(directory, exist_ok=True)
         
         logger.info("Scraper initialized")
@@ -182,27 +185,81 @@ class CompaniesHouseScraper:
             return
         
         try:
-            # Save profile
+            # Save raw profile
             profile_path = os.path.join(self.companies_data_dir, f"{company_number}.json")
             with open(profile_path, 'w', encoding='utf-8') as f:
                 json.dump(profile, f, indent=2)
             
-            # Save officers
+            # Save raw officers
             officers = company_data.get('officers', [])
             if officers:
                 officers_path = os.path.join(self.officers_data_dir, f"{company_number}.json")
                 with open(officers_path, 'w', encoding='utf-8') as f:
                     json.dump(officers, f, indent=2)
             
-            # Save filing history
+            # Save raw filing history
             filings = company_data.get('filing_history', [])
             if filings:
                 filings_path = os.path.join(self.filings_data_dir, f"{company_number}.json")
                 with open(filings_path, 'w', encoding='utf-8') as f:
                     json.dump(filings, f, indent=2)
-                    
-            logger.info(f"Successfully saved data for company {company_number}")
             
+            # Save structured company profile
+            if profile:
+                company_profile = {
+                    'company_number': company_number,
+                    'company_name': profile.get('company_name'),
+                    'company_status': profile.get('company_status'),
+                    'date_of_creation': profile.get('date_of_creation'),
+                    'type': profile.get('type'),
+                    'jurisdiction': profile.get('jurisdiction'),
+                    'sic_codes': profile.get('sic_codes', []),
+                    'has_insolvency_history': profile.get('has_insolvency_history'),
+                    'has_charges': profile.get('has_charges'),
+                    'has_super_secure_pscs': profile.get('has_super_secure_pscs'),
+                    'can_file': profile.get('can_file'),
+                    'registered_office_address': profile.get('registered_office_address', {}),
+                    'annual_return': profile.get('annual_return', {}),
+                    'accounts': profile.get('accounts', {}),
+                    'etag': profile.get('etag')
+                }
+                
+                company_profile_path = os.path.join(self.company_profiles_dir, f"{company_number}.json")
+                with open(company_profile_path, 'w', encoding='utf-8') as f:
+                    json.dump(company_profile, f, indent=2)
+            
+            # Save structured officers data
+            if officers:
+                structured_officers = []
+                
+                for officer in officers:
+                    structured_officer = {
+                        'name': officer.get('name'),
+                        'officer_role': officer.get('officer_role'),
+                        'appointed_on': officer.get('appointed_on'),
+                        'resigned_on': officer.get('resigned_on'),
+                        'nationality': officer.get('nationality'),
+                        'country_of_residence': officer.get('country_of_residence'),
+                        'occupation': officer.get('occupation'),
+                        'address': officer.get('address', {}),
+                        'date_of_birth': officer.get('date_of_birth', {}),
+                        'links': officer.get('links', {}),
+                        'former_names': officer.get('former_names', []),
+                        'identification': officer.get('identification', {})
+                    }
+                    structured_officers.append(structured_officer)
+                
+                officers_structured_path = os.path.join(self.company_officers_dir, f"{company_number}.json")
+                with open(officers_structured_path, 'w', encoding='utf-8') as f:
+                    json.dump({
+                        'company_number': company_number,
+                        'company_name': profile.get('company_name'),
+                        'total_officers': len(structured_officers),
+                        'officers': structured_officers
+                    }, f, indent=2)
+            
+            logger.info(f"Successfully saved all data for company {company_number}")
+        
         except Exception as e:
             logger.error(f"Error saving data for company {company_number}: {e}")
             raise
@@ -550,7 +607,7 @@ class CompaniesHouseScraper:
         Args:
             output_dir: Directory to save CSV files
         """
-        # Export companies data
+        # Export companies data (original format)
         companies = []
         for filename in os.listdir(self.companies_data_dir):
             if filename.endswith('.json'):
@@ -581,7 +638,54 @@ class CompaniesHouseScraper:
         else:
             logger.warning("No company data to export")
         
-        # Export officers data
+        # Export structured company profiles
+        company_profiles = []
+        for filename in os.listdir(self.company_profiles_dir):
+            if filename.endswith('.json'):
+                try:
+                    with open(os.path.join(self.company_profiles_dir, filename), 'r', encoding='utf-8') as f:
+                        profile = json.load(f)
+                        
+                        # Extract address components for easier analysis
+                        address = profile.get('registered_office_address', {})
+                        address_str = ", ".join([v for k, v in address.items() if v and k != 'postal_code'])
+                        
+                        # Extract accounts data
+                        accounts = profile.get('accounts', {})
+                        next_accounts = accounts.get('next_accounts', {})
+                        last_accounts = accounts.get('last_accounts', {})
+                        
+                        company_profiles.append({
+                            'company_number': profile.get('company_number'),
+                            'company_name': profile.get('company_name'),
+                            'company_status': profile.get('company_status'),
+                            'date_of_creation': profile.get('date_of_creation'),
+                            'type': profile.get('type'),
+                            'jurisdiction': profile.get('jurisdiction'),
+                            'sic_codes': ', '.join(profile.get('sic_codes', [])),
+                            'has_insolvency_history': profile.get('has_insolvency_history'),
+                            'has_charges': profile.get('has_charges'),
+                            'can_file': profile.get('can_file'),
+                            'address': address_str,
+                            'postal_code': address.get('postal_code'),
+                            'country': address.get('country'),
+                            'next_accounts_due': next_accounts.get('due_on'),
+                            'last_accounts_type': last_accounts.get('type'),
+                            'last_accounts_date': last_accounts.get('made_up_to')
+                        })
+                except Exception as e:
+                    logger.error(f"Error processing company profile file {filename}: {e}")
+                    continue
+        
+        if company_profiles:
+            df_profiles = pd.DataFrame(company_profiles)
+            profiles_csv_path = os.path.join(output_dir, 'company_profiles.csv')
+            df_profiles.to_csv(profiles_csv_path, index=False)
+            logger.info(f"Exported {len(company_profiles)} company profiles to {profiles_csv_path}")
+        else:
+            logger.warning("No company profile data to export")
+        
+        # Export officers data (original format)
         officers = []
         for filename in os.listdir(self.officers_data_dir):
             if filename.endswith('.json'):
@@ -613,6 +717,58 @@ class CompaniesHouseScraper:
             logger.info(f"Exported {len(officers)} officers to {officers_csv_path}")
         else:
             logger.warning("No officer data to export")
+        
+        # Export structured company officers data
+        company_officers = []
+        for filename in os.listdir(self.company_officers_dir):
+            if filename.endswith('.json'):
+                try:
+                    with open(os.path.join(self.company_officers_dir, filename), 'r', encoding='utf-8') as f:
+                        officers_data = json.load(f)
+                        company_number = officers_data.get('company_number')
+                        company_name = officers_data.get('company_name')
+                        
+                        for officer in officers_data.get('officers', []):
+                            # Extract address components for easier analysis
+                            address = officer.get('address', {})
+                            address_str = ", ".join([v for k, v in address.items() if v and k != 'postal_code'])
+                            
+                            # Process date of birth if available
+                            dob = officer.get('date_of_birth', {})
+                            birth_year = dob.get('year')
+                            birth_month = dob.get('month')
+                            # Format birth date if available
+                            birth_date = None
+                            if birth_year and birth_month:
+                                birth_date = f"{birth_year}-{birth_month:02d}"
+                            
+                            company_officers.append({
+                                'company_number': company_number,
+                                'company_name': company_name,
+                                'name': officer.get('name'),
+                                'officer_role': officer.get('officer_role'),
+                                'appointed_on': officer.get('appointed_on'),
+                                'resigned_on': officer.get('resigned_on'),
+                                'nationality': officer.get('nationality'),
+                                'country_of_residence': officer.get('country_of_residence'),
+                                'occupation': officer.get('occupation'),
+                                'address': address_str,
+                                'postal_code': address.get('postal_code', ''),
+                                'country': address.get('country', ''),
+                                'birth_date': birth_date,
+                                'former_names': json.dumps(officer.get('former_names', []))
+                            })
+                except Exception as e:
+                    logger.error(f"Error processing structured officers file {filename}: {e}")
+                    continue
+        
+        if company_officers:
+            df_company_officers = pd.DataFrame(company_officers)
+            company_officers_csv_path = os.path.join(output_dir, 'company_officers.csv')
+            df_company_officers.to_csv(company_officers_csv_path, index=False)
+            logger.info(f"Exported {len(company_officers)} company officers to {company_officers_csv_path}")
+        else:
+            logger.warning("No structured company officers data to export")
         
         # Export filings data
         filings = []

@@ -9,6 +9,7 @@ A Python application that uses the Companies House API to scrape information abo
 - Automatically handle pagination for large result sets
 - Save data in JSON format for easy processing
 - Export data to CSV files for analysis
+- Store company profiles and officers data in structured formats for advanced analysis
 
 ## Installation
 
@@ -100,8 +101,17 @@ python main.py --export
 
 This will generate the following CSV files in the `data` directory:
 - `companies.csv`: Basic information about each company
+- `company_profiles.csv`: Detailed structured company profile information
 - `officers.csv`: Information about company officers
+- `company_officers.csv`: Structured information about company officers with enhanced details
 - `filings.csv`: Company filing history
+
+The new structured data exports (`company_profiles.csv` and `company_officers.csv`) provide enhanced data organization with:
+- Better data categorization
+- Extracted and formatted address components
+- Parsed date of birth information for officers
+- Company-officer relationships
+- Normalized data formats for easier analysis
 
 ### Comprehensive Scraping of All UK Companies
 
@@ -148,8 +158,10 @@ During comprehensive scraping, the system will:
   - `api_client.py`: Client for the Companies House API
   - `scraper.py`: Main scraper implementation
 - `data/`: Stored data
-  - `companies/`: JSON files with company profiles
-  - `officers/`: JSON files with company officers
+  - `companies/`: JSON files with raw company profiles
+  - `company_profiles/`: JSON files with structured company profiles
+  - `officers/`: JSON files with raw company officers data
+  - `company_officers/`: JSON files with structured company officers data
   - `filings/`: JSON files with filing history
 - `tests/`: Test files
 - `main.py`: Command-line interface
