@@ -1,0 +1,28 @@
+[
+  {
+    "address": {
+      "country": "England",
+      "locality": "Morden",
+      "postal_code": "SM4 4QB",
+      "premises": "86 Kingsbridge Road"
+    },
+    "appointed_on": "2018-02-07",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/11191565/appointments/SH-xglKxWpfcZbdF0SPaYQDeqa0",
+      "officer": {
+        "appointments": "/officers/1DviygoZ9A9WUacjd2C-cpVfSVI/appointments"
+      }
+    },
+    "name": "AHMAD, Bashir Ud Din",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "242896010001"
+  }
+]

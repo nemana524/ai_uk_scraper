@@ -1,0 +1,34 @@
+{
+  "company_number": "16094195",
+  "company_name": "TECH INTERNATIONAL LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SYMES, Darren",
+      "officer_role": "director",
+      "appointed_on": "2024-11-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "N11 3NE",
+        "premises": "35 Firs Avenue"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1958
+      },
+      "links": {
+        "self": "/company/16094195/appointments/JfoCEcAz68d97qG0dXjL5nV-Wng",
+        "officer": {
+          "appointments": "/officers/2egHsnwUekzWCZ8Nzsc3SlYbgCs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

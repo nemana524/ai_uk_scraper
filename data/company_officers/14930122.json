@@ -1,0 +1,37 @@
+{
+  "company_number": "14930122",
+  "company_name": "TECH BEAST LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MUSTAFA, Muhammad, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2023-06-12",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "James Carter Road",
+        "address_line_2": "Suite A",
+        "country": "United Kingdom",
+        "locality": "Mildenhall",
+        "postal_code": "IP28 7DE",
+        "premises": "82",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 2001
+      },
+      "links": {
+        "self": "/company/14930122/appointments/9IP5_huWjG4klzTeCqjMX7N8v2I",
+        "officer": {
+          "appointments": "/officers/PIOqaZRLjzJsfcpjWz2hNkuPbCo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

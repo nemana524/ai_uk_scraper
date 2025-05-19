@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-05-31",
+      "period_end_on": "2020-05-31",
+      "period_start_on": "2019-06-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2022-02-28",
+      "overdue": true,
+      "period_end_on": "2021-05-31",
+      "period_start_on": "2020-06-01"
+    },
+    "next_due": "2022-02-28",
+    "next_made_up_to": "2021-05-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH GOLD LIMITED",
+  "company_number": "10197289",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2021-05-23",
+    "next_due": "2022-06-06",
+    "next_made_up_to": "2022-05-23",
+    "overdue": true
+  },
+  "date_of_creation": "2016-05-24",
+  "etag": "f020120d2e6baa611795a5fe8455058ffb04d2fd",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10197289/persons-with-significant-control",
+    "self": "/company/10197289",
+    "filing_history": "/company/10197289/filing-history",
+    "officers": "/company/10197289/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "1 Lymington Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW6 1HX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

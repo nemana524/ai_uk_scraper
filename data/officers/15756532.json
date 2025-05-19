@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "20 Prince Regent Road",
+      "country": "England",
+      "locality": "Hounslow",
+      "postal_code": "TW3 1ER",
+      "premises": "Flat 65 Barratt House"
+    },
+    "appointed_on": "2024-06-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1993
+    },
+    "links": {
+      "self": "/company/15756532/appointments/ECsFVouDcLzmcmfg4Np55RzkHyI",
+      "officer": {
+        "appointments": "/officers/FbZJRbqRrgdkGOQZ52Hvutgmjkw/appointments"
+      }
+    },
+    "name": "MOLINA MUNIESA, Marc",
+    "nationality": "Spanish",
+    "occupation": "Operations Manager",
+    "officer_role": "director",
+    "person_number": "323651550001"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "company_number": "10783488",
+  "company_name": "TECH & DESIGN LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "FRANKLIN, Peter",
+      "officer_role": "director",
+      "appointed_on": "2017-05-22",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Dry Lane",
+        "country": "England",
+        "locality": "Witney",
+        "postal_code": "OX29 9TJ",
+        "premises": "Bay 16 Crawley Mill Industrial Estate",
+        "region": "Oxfordshire"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1976
+      },
+      "links": {
+        "self": "/company/10783488/appointments/X7S3KOjy2c8kAio5SyRcI9ckxYQ",
+        "officer": {
+          "appointments": "/officers/dPtKoefqWskDebUgbsZSbGsJBag/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

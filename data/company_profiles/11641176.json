@@ -1,0 +1,44 @@
+{
+  "company_number": "11641176",
+  "company_name": "TECH ASTRA LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2018-10-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "11, Tubb Way Basingstoke",
+    "country": "United Kingdom",
+    "locality": "Hampshire",
+    "postal_code": "RG24 9QA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-10-31",
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-11-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-31",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-11-01"
+    },
+    "next_due": "2026-07-31",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "etag": "7a404d6e731d304efb635c3af569470c212bbb89"
+}

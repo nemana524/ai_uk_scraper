@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2026-11-10",
+      "overdue": false,
+      "period_end_on": "2026-02-28",
+      "period_start_on": "2025-02-10"
+    },
+    "next_due": "2026-11-10",
+    "next_made_up_to": "2026-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GENIE LONDON LIMITED",
+  "company_number": "16239649",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-02-23",
+    "next_made_up_to": "2026-02-09",
+    "overdue": false
+  },
+  "date_of_creation": "2025-02-10",
+  "etag": "e72866dbe7b2839c9d750b7529b035a6b2b4dd00",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16239649/persons-with-significant-control",
+    "self": "/company/16239649",
+    "filing_history": "/company/16239649/filing-history",
+    "officers": "/company/16239649/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "27 Old Gloucester Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC1N 3AX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

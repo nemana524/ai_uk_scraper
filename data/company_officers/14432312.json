@@ -1,0 +1,65 @@
+{
+  "company_number": "14432312",
+  "company_name": "TECH & MARKETING LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MENESES, Ruben",
+      "officer_role": "director",
+      "appointed_on": "2022-10-20",
+      "resigned_on": null,
+      "nationality": "Spanish",
+      "country_of_residence": "Spain",
+      "occupation": "Entrepreneur",
+      "address": {
+        "address_line_1": "0048 At B",
+        "country": "Spain",
+        "locality": "Madrid",
+        "postal_code": "28050",
+        "premises": "Ana De Austria"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/14432312/appointments/RK3VZrf8f1fQxisTuDTsvjo5gFQ",
+        "officer": {
+          "appointments": "/officers/wfANADkpWix7wlLF4ZlxmMvyhgA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "1ST SECRETARIES LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2022-10-25",
+      "resigned_on": "2024-03-01",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71 - 75",
+        "region": "England"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/14432312/appointments/a3_1dNxn5dzZRw-J3EPzDloFBAk",
+        "officer": {
+          "appointments": "/officers/9F_ly-Z3mCA27WXhysoNZpGtZMg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "12298342"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "company_number": "11162763",
+  "company_name": "TECH BUILDING LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2018-01-22",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "41100",
+    "41202",
+    "68320"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "70 Bardsway Avenue",
+    "country": "United Kingdom",
+    "locality": "Blackpool",
+    "postal_code": "FY3 8JR"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2019-01-31",
+      "period_end_on": "2019-01-31",
+      "period_start_on": "2018-01-22",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2021-01-31",
+      "overdue": true,
+      "period_end_on": "2020-01-31",
+      "period_start_on": "2019-02-01"
+    },
+    "next_due": "2021-01-31",
+    "next_made_up_to": "2020-01-31",
+    "overdue": true
+  },
+  "etag": "4bf2e0ee49f3cfad2f4432568fbc62e847b873e1"
+}

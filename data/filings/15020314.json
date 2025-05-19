@@ -1,0 +1,261 @@
+[
+  {
+    "transaction_id": "MzQ2MzA3MDc1NGFkaXF6a2N4",
+    "barcode": "XE0OGML6",
+    "type": "AA",
+    "date": "2025-04-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 3,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQ2MzA3MDc1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/U90TSRHByJU4rdeQfftYnhNieReYdbqbnuZAr2voSkY"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MjQyNTczMGFkaXF6a2N4",
+    "barcode": "XDUUV3YR",
+    "type": "TM01",
+    "date": "2025-01-23",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mihaly Bedo",
+      "termination_date": "2025-01-23"
+    },
+    "pages": 1,
+    "action_date": "2025-01-23",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQ1MjQyNTczMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VFaPvgBJQAVmfunbGuFgOabUFSOxGcKa_U-eJByUMAo"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTg4OTQzNmFkaXF6a2N4",
+    "barcode": "XDTFUCU2",
+    "type": "CS01",
+    "date": "2025-01-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-03"
+    },
+    "pages": 3,
+    "action_date": "2025-01-03",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQ0OTg4OTQzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0NZ-KqPCmDXRqGxeFfSW_AkzPcsgAxQJTifjkbLEXGA"
+    }
+  },
+  {
+    "transaction_id": "MzQyODQyODAyNmFkaXF6a2N4",
+    "barcode": "XD7389XS",
+    "type": "AD01",
+    "date": "2024-07-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-07-11",
+      "old_address": "Office 4595 182-184 High Street London E6 2JA England",
+      "new_address": "Office 4595 182-184 High Street North London E6 2JA"
+    },
+    "pages": 1,
+    "action_date": "2024-07-11",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQyODQyODAyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ltFFdbsBzQ6g2NRAskUM-Hxpw133Mpgi-TrPcu-jkGg"
+    }
+  },
+  {
+    "transaction_id": "MzQyODQyNzcwM2FkaXF6a2N4",
+    "barcode": "XD7388KB",
+    "type": "AD01",
+    "date": "2024-07-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-07-11",
+      "old_address": "254 Thong Lane Gravesend DA12 4LG England",
+      "new_address": "Office 4595 182-184 High Street London E6 2JA"
+    },
+    "pages": 1,
+    "action_date": "2024-07-11",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQyODQyNzcwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aIqiuqGbKXQDJGqMm8n5NRl9hr1IG3VSCLzCexCE8Dc"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTg2MTc2M2FkaXF6a2N4",
+    "barcode": "XD1UETCS",
+    "type": "AP01",
+    "date": "2024-04-26",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Mihaly Bedo",
+      "appointment_date": "2024-04-22"
+    },
+    "pages": 2,
+    "action_date": "2024-04-22",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQxOTg2MTc2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kxK-wLbUpoxPahfQz8ArGYtbMmtffs1SHPnEFrP8ifI"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzYzNTE0M2FkaXF6a2N4",
+    "barcode": "XCUUE8E8",
+    "type": "TM01",
+    "date": "2024-01-16",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mihaly Bedo",
+      "termination_date": "2024-01-02"
+    },
+    "pages": 1,
+    "action_date": "2024-01-02",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQwNzYzNTE0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Bu_SuzBnpnXEIy10-OcJI7IiOMXZx9WW_LtE9mcTz2o"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzM2NTY5NGFkaXF6a2N4",
+    "barcode": "XCUJWCA9",
+    "type": "CS01",
+    "date": "2024-01-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-01-12"
+    },
+    "pages": 4,
+    "action_date": "2024-01-12",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQwNzM2NTY5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/55iRQx1iEPZzb10MMXLFv4Gpl7l_WCQhA1g7woVNxr0"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzM1OTg5OGFkaXF6a2N4",
+    "barcode": "XCUJW44J",
+    "type": "PSC01",
+    "date": "2024-01-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Sukhjeet Singh",
+      "notification_date": "2024-01-02"
+    },
+    "pages": 2,
+    "action_date": "2024-01-02",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQwNzM1OTg5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xcNj-3SabBXS9bvoFRFSaB3ZerhN3I4Qlgn8t6tjIQE"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzM1OTU4NGFkaXF6a2N4",
+    "barcode": "XCUJW2Y9",
+    "type": "PSC07",
+    "date": "2024-01-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mihaly Bedo",
+      "cessation_date": "2024-01-01"
+    },
+    "pages": 1,
+    "action_date": "2024-01-01",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQwNzM1OTU4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fIr4dzBOe1LyEJLLsIdOVnz1w0y59Z0NAgPI0Y-o1Pk"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzM1OTA3NWFkaXF6a2N4",
+    "barcode": "XCUJW0SZ",
+    "type": "AP01",
+    "date": "2024-01-12",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Sukhjeet Singh",
+      "appointment_date": "2024-01-02"
+    },
+    "pages": 2,
+    "action_date": "2024-01-02",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQwNzM1OTA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/H32ID-5HAiJPR2-4OP_Csz7dUS1LObUpq2Szb_KyBoo"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzM1NjQ5OGFkaXF6a2N4",
+    "barcode": "XCUJVPXS",
+    "type": "AD01",
+    "date": "2024-01-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-01-12",
+      "old_address": "63 Woodgate Road Wootton Northampton NN4 6ET England",
+      "new_address": "254 Thong Lane Gravesend DA12 4LG"
+    },
+    "pages": 1,
+    "action_date": "2024-01-12",
+    "links": {
+      "self": "/company/15020314/filing-history/MzQwNzM1NjQ5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zp2S4ZGV5qU6H59q_eQlhPUXJl-2Gki0j1wboTgH25U"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzIwMzIwN2FkaXF6a2N4",
+    "barcode": "XC88LSOY",
+    "type": "NEWINC",
+    "date": "2023-07-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-07-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-07-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-07-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15020314/filing-history/MzM4NzIwMzIwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nV_c8F23h_GtyYgKfaJl_nwCuCFwkS_lr1rt1OcEUUg"
+    }
+  }
+]

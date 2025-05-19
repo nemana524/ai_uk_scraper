@@ -1,0 +1,56 @@
+[
+  {
+    "transaction_id": "MzQ0MzcxOTg4NWFkaXF6a2N4",
+    "barcode": "XDG571NS",
+    "type": "CS01",
+    "date": "2024-11-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-11-18"
+    },
+    "pages": 3,
+    "action_date": "2024-11-18",
+    "links": {
+      "self": "/company/16046296/filing-history/MzQ0MzcxOTg4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xaU7XEKzHVDwVn3g2tuFa3AIMK9R3VwU8wrFbDdhXyk"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTE0NzM5MGFkaXF6a2N4",
+    "barcode": "XDEPRLYW",
+    "type": "NEWINC",
+    "date": "2024-10-28",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-10-28",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-28",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-10-28",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-10-28"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/16046296/filing-history/MzQ0MTE0NzM5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6E08KecTYw7BAOn3KBNfLaBhmQS4ZzAGsHoKq-v2vYY"
+    }
+  }
+]

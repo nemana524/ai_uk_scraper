@@ -1,0 +1,36 @@
+{
+  "company_number": "12997922",
+  "company_name": "TECH FANATICS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BATH, Mukhtiar Singh",
+      "officer_role": "director",
+      "appointed_on": "2020-11-04",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "121 Livery Street",
+        "country": "United Kingdom",
+        "locality": "Birmingham",
+        "postal_code": "B3 1RS",
+        "premises": "Colman House",
+        "region": "West Midlands"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/12997922/appointments/f2D3877ux5k-fKuGuvvHt1fpitc",
+        "officer": {
+          "appointments": "/officers/tzIBxkNZx6mUDgQ_z2JLd0zG3cg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

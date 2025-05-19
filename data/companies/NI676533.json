@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-29",
+      "period_end_on": "2024-02-29",
+      "period_start_on": "2023-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-03-01"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GROUP LTD",
+  "company_number": "NI676533",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-02-15",
+    "next_due": "2025-03-01",
+    "next_made_up_to": "2025-02-15",
+    "overdue": true
+  },
+  "date_of_creation": "2021-02-16",
+  "etag": "f8911321e406cc70920a48f8e14dfb00f0087216",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "links": {
+    "persons_with_significant_control": "/company/NI676533/persons-with-significant-control",
+    "self": "/company/NI676533",
+    "filing_history": "/company/NI676533/filing-history",
+    "officers": "/company/NI676533/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "18 Central Avenue Central Avenue",
+    "country": "Northern Ireland",
+    "locality": "Cookstown",
+    "postal_code": "BT80 8AJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

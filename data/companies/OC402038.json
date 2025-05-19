@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "05",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-05",
+      "period_end_on": "2024-04-05",
+      "period_start_on": "2023-04-06",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-05",
+      "overdue": false,
+      "period_end_on": "2025-04-05",
+      "period_start_on": "2024-04-06"
+    },
+    "next_due": "2026-01-05",
+    "next_made_up_to": "2025-04-05",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DIRECTION LLP",
+  "company_number": "OC402038",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-29",
+    "next_due": "2025-10-13",
+    "next_made_up_to": "2025-09-29",
+    "overdue": false
+  },
+  "date_of_creation": "2015-09-30",
+  "etag": "98563839f331c5f7c0763bbe442b57966ab62e19",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/OC402038/persons-with-significant-control",
+    "self": "/company/OC402038",
+    "filing_history": "/company/OC402038/filing-history",
+    "officers": "/company/OC402038/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "8 Bourne Close",
+    "country": "England",
+    "locality": "Warminster",
+    "postal_code": "BA12 9PT",
+    "region": "Wiltshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "type": "llp",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

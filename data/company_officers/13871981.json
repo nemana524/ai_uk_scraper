@@ -1,0 +1,119 @@
+{
+  "company_number": "13871981",
+  "company_name": "TECH CONSTRUCTIONS GROUP LIMITED",
+  "total_officers": 4,
+  "officers": [
+    {
+      "name": "IOAN, Ciprian Marian",
+      "officer_role": "director",
+      "appointed_on": "2023-01-08",
+      "resigned_on": null,
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Bussines",
+      "address": {
+        "address_line_1": "Bridge Street",
+        "country": "England",
+        "locality": "Hemel Hempstead",
+        "postal_code": "HP1 1FU",
+        "premises": "25"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/13871981/appointments/x-Owd5qx0Q0gfke4G2YH_VLjRUM",
+        "officer": {
+          "appointments": "/officers/moFk7gxv6fH1qdf7fMGFbu8MPEc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GHEORGHE, Ontel",
+      "officer_role": "director",
+      "appointed_on": "2023-08-02",
+      "resigned_on": "2023-08-02",
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Norwood Avenue",
+        "country": "England",
+        "locality": "Wembley",
+        "postal_code": "HA0 1LY",
+        "premises": "44"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1965
+      },
+      "links": {
+        "self": "/company/13871981/appointments/wr5UlkzNZr3Ek6dTiCoX573ZVMU",
+        "officer": {
+          "appointments": "/officers/FzqH6eUTCS00gVxRAOPat0Zwgyw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MARIAN, Ioan Ciprian",
+      "officer_role": "director",
+      "appointed_on": "2023-07-10",
+      "resigned_on": "2023-08-02",
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "Bridge Street",
+        "country": "England",
+        "locality": "Hemel Hempstead",
+        "postal_code": "HP1 1FU",
+        "premises": "25"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/13871981/appointments/lJblaUqnCCztEKTyKgBmm1Zewsw",
+        "officer": {
+          "appointments": "/officers/ZbiQq8Ly9fXFl1YJ2RWBVQ1DGOo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ONTEL, Gheorghe",
+      "officer_role": "director",
+      "appointed_on": "2022-01-25",
+      "resigned_on": "2023-07-10",
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "Norwood Avenue",
+        "country": "England",
+        "locality": "Wembley",
+        "postal_code": "HA0 1LY",
+        "premises": "44"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1965
+      },
+      "links": {
+        "self": "/company/13871981/appointments/SNuMneoyvclyfu5WSMjiDdgVgsk",
+        "officer": {
+          "appointments": "/officers/15-QULOISGTh-fiUI9C9UAIm3ug/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

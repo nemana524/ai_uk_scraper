@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "90 Navigation Street",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B5 4AA",
+      "premises": "Apartment 43 Orion Building"
+    },
+    "appointed_on": "2025-03-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/16309069/appointments/YnG1vOU5Q-Lj5lZogDgXNkGs2b4",
+      "officer": {
+        "appointments": "/officers/4pzv3as03ZQJLfWClHe623y6hCI/appointments"
+      }
+    },
+    "name": "GOSWAMI, Tarun",
+    "nationality": "Indian",
+    "occupation": "Software Engineer",
+    "officer_role": "director",
+    "person_number": "333311330001"
+  }
+]

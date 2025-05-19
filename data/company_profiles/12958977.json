@@ -1,0 +1,45 @@
+{
+  "company_number": "12958977",
+  "company_name": "TECH CLAD FACADES LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2020-10-19",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "43910"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "24 Dumers Chase",
+    "address_line_2": "Radcliffe",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M26 2TH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "d50dd225289ecbc26b393c8eb2c707934a42f724"
+}

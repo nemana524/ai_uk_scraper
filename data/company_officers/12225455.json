@@ -1,0 +1,36 @@
+{
+  "company_number": "12225455",
+  "company_name": "TECH ESSENTIALS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PHILIP, Biju",
+      "officer_role": "director",
+      "appointed_on": "2019-09-25",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "Unit H",
+        "address_line_2": "Astor Road Salford",
+        "country": "England",
+        "locality": "Manchester",
+        "postal_code": "M50 1BB",
+        "premises": "C/O Love 2 Sleep Ltd"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/12225455/appointments/U6FFTg5tRXG1jqtFxvGA0Y58ff4",
+        "officer": {
+          "appointments": "/officers/IOs38Ej39fILigIqisDCh3hTXJ8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

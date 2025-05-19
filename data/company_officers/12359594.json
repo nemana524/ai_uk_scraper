@@ -1,0 +1,88 @@
+{
+  "company_number": "12359594",
+  "company_name": "TECH GLOVES IT LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "RUBIN, Michael Alexander",
+      "officer_role": "director",
+      "appointed_on": "2019-12-11",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director Of It",
+      "address": {
+        "address_line_1": "Rossall Road",
+        "locality": "Thornton-Cleveleys",
+        "postal_code": "FY5 1AP",
+        "premises": "13",
+        "region": "Lancashire"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/12359594/appointments/jAZM0fHlSCl6RhjXSjor9QpKyjE",
+        "officer": {
+          "appointments": "/officers/eyINjBw26idzSos589GRuBwniDA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ZULUAGA, Veronica",
+      "officer_role": "secretary",
+      "appointed_on": "2019-12-11",
+      "resigned_on": "2020-11-16",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "207 Regent Street",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "W1B 3HH",
+        "premises": "Level 3"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/12359594/appointments/b55Nyx7Mz9Lb_guGg4OBhxgSeRg",
+        "officer": {
+          "appointments": "/officers/zeZ_js4oWdNAUAmUlFCCivJt2WA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ABBASS, Derek James",
+      "officer_role": "director",
+      "appointed_on": "2019-12-11",
+      "resigned_on": "2021-08-19",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Operatons Director",
+      "address": {
+        "address_line_1": "Rossall Road",
+        "locality": "Thornton-Cleveleys",
+        "postal_code": "FY5 1AP",
+        "premises": "13",
+        "region": "Lancashire"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1966
+      },
+      "links": {
+        "self": "/company/12359594/appointments/L8E9bvgjwwt5nslmvQkWouwzTcE",
+        "officer": {
+          "appointments": "/officers/gFnY4-FFyAtfLMRIR59hTGWdN58/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

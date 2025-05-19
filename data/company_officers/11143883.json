@@ -1,0 +1,92 @@
+{
+  "company_number": "11143883",
+  "company_name": "TECH GUYS 360 LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "SMITH, Neil",
+      "officer_role": "director",
+      "appointed_on": "2018-01-10",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "It Specialist",
+      "address": {
+        "address_line_1": "Wells Avenue",
+        "country": "United Kingdom",
+        "locality": "Wigan",
+        "postal_code": "WN5 7NN",
+        "premises": "6"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/11143883/appointments/5ys8f44sO9FpR5ef8zbfPaIGmm8",
+        "officer": {
+          "appointments": "/officers/CTrSc8b0aBRMxsnseGzj7XlDSEs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "OKELL, Linda",
+      "officer_role": "director",
+      "appointed_on": "2018-01-26",
+      "resigned_on": "2022-03-14",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Secretary",
+      "address": {
+        "address_line_1": "Church Road",
+        "address_line_2": "Rainford",
+        "country": "England",
+        "locality": "St. Helens",
+        "postal_code": "WA11 8HB",
+        "premises": "Rainford Parish Council"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1953
+      },
+      "links": {
+        "self": "/company/11143883/appointments/Fv5DbTos2oVAugpKgI4WdjJXBGs",
+        "officer": {
+          "appointments": "/officers/486mCxV2UogFCr9eWFGkKcMvVoQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "OKELL, Linda",
+      "officer_role": "director",
+      "appointed_on": "2018-01-10",
+      "resigned_on": "2018-01-23",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Secretary",
+      "address": {
+        "address_line_1": "Wells Avenue",
+        "country": "United Kingdom",
+        "locality": "Wigan",
+        "postal_code": "WN5 7NN",
+        "premises": "6"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1953
+      },
+      "links": {
+        "self": "/company/11143883/appointments/qJZSA0ZPKZ-L0XmjA-VPdfAceWM",
+        "officer": {
+          "appointments": "/officers/ph6IHpqjyE8q1DEO1rcKBx-JF6M/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

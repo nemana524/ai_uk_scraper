@@ -1,0 +1,355 @@
+[
+  {
+    "transaction_id": "MzQ0NDk2NDEzNmFkaXF6a2N4",
+    "barcode": "XDGODCSG",
+    "type": "AA",
+    "date": "2024-11-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-02-29"
+    },
+    "pages": 13,
+    "action_date": "2024-02-29",
+    "links": {
+      "self": "/company/11199788/filing-history/MzQ0NDk2NDEzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TNlfR2jTuDehCjjuhBxQdCoJ-IqlfNiuvcQpnya7NTY"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDg5NDI1MmFkaXF6a2N4",
+    "barcode": "XDB6O52J",
+    "type": "CS01",
+    "date": "2024-09-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-07-23"
+    },
+    "pages": 3,
+    "action_date": "2024-07-23",
+    "links": {
+      "self": "/company/11199788/filing-history/MzQzNDg5NDI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rmFJpTINgIX995EI6Sir3JVy0vxndA4dNcd5olz-b8c"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTc3Njg2MmFkaXF6a2N4",
+    "barcode": "XCH9V56B",
+    "type": "AA",
+    "date": "2023-11-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-02-28"
+    },
+    "pages": 8,
+    "action_date": "2023-02-28",
+    "links": {
+      "self": "/company/11199788/filing-history/MzQwMTc3Njg2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EvtL3FkwI6PXzj7O3MJD-866eVIZeStTKiO0vVPW5ME"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDcwNDUyNGFkaXF6a2N4",
+    "barcode": "XCAMAQKO",
+    "type": "CS01",
+    "date": "2023-08-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-07-23"
+    },
+    "pages": 3,
+    "action_date": "2023-07-23",
+    "links": {
+      "self": "/company/11199788/filing-history/MzM5MDcwNDUyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SbqEyWu7p_KkvtqjW-URNkJlXes6OfW2zDJZ0qgKQd0"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzUxMjU1MmFkaXF6a2N4",
+    "barcode": "XBDKGPN4",
+    "type": "AA",
+    "date": "2022-09-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-02-28"
+    },
+    "pages": 8,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/11199788/filing-history/MzM1MzUxMjU1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a6cJclIfXpYWwb2L8AgGWgv1AUBj9BjTM3dhin-XogY"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTgxODk1N2FkaXF6a2N4",
+    "barcode": "XBB4HA8X",
+    "type": "CS01",
+    "date": "2022-08-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-07-23"
+    },
+    "pages": 5,
+    "action_date": "2022-07-23",
+    "links": {
+      "self": "/company/11199788/filing-history/MzM0OTgxODk1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xGilqRdGKCVuzfphNOSrCZX53x4WnOfLGBEexfs585E"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTgxODgyN2FkaXF6a2N4",
+    "barcode": "XBB4H9W3",
+    "type": "AD01",
+    "date": "2022-08-25",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-08-25",
+      "old_address": "PO Box TN25 7GX 7 7 Plover Avenue Finberry Ashford Kent TN25 7GX England",
+      "new_address": "7 Plover Avenue Finberry Ashford Kent TN25 7GX"
+    },
+    "pages": 1,
+    "action_date": "2022-08-25",
+    "links": {
+      "self": "/company/11199788/filing-history/MzM0OTgxODgyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SGUSvyj5qnfF2doBtNUvIgmqynvkJhtvjs--9QaxUu8"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTgxODc0MGFkaXF6a2N4",
+    "barcode": "XBB4H99E",
+    "type": "TM01",
+    "date": "2022-08-25",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Peter John Bushell",
+      "termination_date": "2021-09-11"
+    },
+    "pages": 1,
+    "action_date": "2021-09-11",
+    "links": {
+      "self": "/company/11199788/filing-history/MzM0OTgxODc0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OG_VN-KvZDXVwX_j6Mn7zPnHj5WeTZiZuW9X_wK6OMk"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTgxODYzMWFkaXF6a2N4",
+    "barcode": "XBB4H8TT",
+    "type": "AD01",
+    "date": "2022-08-25",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-08-25",
+      "old_address": "66 Hunter Road Willesborough Ashford TN24 0RT England",
+      "new_address": "PO Box TN25 7GX 7 7 Plover Avenue Finberry Ashford Kent TN25 7GX"
+    },
+    "pages": 1,
+    "action_date": "2022-08-25",
+    "links": {
+      "self": "/company/11199788/filing-history/MzM0OTgxODYzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hRraZi6I3g9oD_RR5_fJXLmRMYmDTgcr1b8ByPeFrOc"
+    }
+  },
+  {
+    "transaction_id": "MzMxMTcwMjg0OGFkaXF6a2N4",
+    "barcode": "XABNVE49",
+    "type": "CS01",
+    "date": "2021-08-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-07-23"
+    },
+    "pages": 3,
+    "action_date": "2021-07-23",
+    "links": {
+      "self": "/company/11199788/filing-history/MzMxMTcwMjg0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P4Wa1p3Vy42_bfT9QI0dcEhtXyBeb40d-zoS43MfQos"
+    }
+  },
+  {
+    "transaction_id": "MzMwMDUwMzk2OWFkaXF6a2N4",
+    "barcode": "XA47ZNEO",
+    "type": "AA",
+    "date": "2021-05-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-02-28"
+    },
+    "pages": 8,
+    "action_date": "2021-02-28",
+    "links": {
+      "self": "/company/11199788/filing-history/MzMwMDUwMzk2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cnvfaeUKzN9SAc7lczTghPTYDoMueCMYjRdpMy7Kg7M"
+    }
+  },
+  {
+    "transaction_id": "MzI4NzczMDE5MGFkaXF6a2N4",
+    "barcode": "X9VMTD3V",
+    "type": "AA",
+    "date": "2021-01-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-02-28"
+    },
+    "pages": 3,
+    "action_date": "2020-02-28",
+    "links": {
+      "self": "/company/11199788/filing-history/MzI4NzczMDE5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ANrSK9_BIgfJgTMfbfOmNefV2DDAr1CVERgpTuwr6n8"
+    }
+  },
+  {
+    "transaction_id": "MzI3ODgzOTE3MWFkaXF6a2N4",
+    "barcode": "X9EE9NRN",
+    "type": "CS01",
+    "date": "2020-09-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-07-23"
+    },
+    "pages": 3,
+    "action_date": "2020-07-23",
+    "links": {
+      "self": "/company/11199788/filing-history/MzI3ODgzOTE3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bBD0BwC4ezAAoO7sdcMqDNPsfIDXswFS7pGBXV87AnI"
+    }
+  },
+  {
+    "transaction_id": "MzI3ODgzOTEyNGFkaXF6a2N4",
+    "barcode": "X9EE9NPF",
+    "type": "AD01",
+    "date": "2020-09-26",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-09-26",
+      "old_address": "6 Lincoln Gardens Kingsnorth Ashford TN25 7FX United Kingdom",
+      "new_address": "66 Hunter Road Willesborough Ashford TN24 0RT"
+    },
+    "pages": 1,
+    "action_date": "2020-09-26",
+    "links": {
+      "self": "/company/11199788/filing-history/MzI3ODgzOTEyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ohcm7ZDucrNmUrqrivUgl5r0COWoMUV4SqkcVZcrikQ"
+    }
+  },
+  {
+    "transaction_id": "MzIzOTk5MzI4OGFkaXF6a2N4",
+    "barcode": "X8AB9DZ6",
+    "type": "CS01",
+    "date": "2019-07-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-07-23"
+    },
+    "pages": 5,
+    "action_date": "2019-07-23",
+    "links": {
+      "self": "/company/11199788/filing-history/MzIzOTk5MzI4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lalUhb5Hx4kEoDP3VJVoYtLGFlEQbjYbftzzQxJ4Eno"
+    }
+  },
+  {
+    "transaction_id": "MzIzOTk5Mjk0OGFkaXF6a2N4",
+    "barcode": "X8AB9CEA",
+    "type": "AA",
+    "date": "2019-07-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-02-28"
+    },
+    "pages": 2,
+    "action_date": "2019-02-28",
+    "links": {
+      "self": "/company/11199788/filing-history/MzIzOTk5Mjk0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MgNopIu3kGQBWQGetgN4Zxf2go_VY-4ua4GAnBCfrZ8"
+    }
+  },
+  {
+    "transaction_id": "MzIzOTk5MjY5NWFkaXF6a2N4",
+    "barcode": "X8AB9B43",
+    "type": "AP01",
+    "date": "2019-07-23",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Peter John Bushell",
+      "appointment_date": "2019-07-23"
+    },
+    "pages": 2,
+    "action_date": "2019-07-23",
+    "links": {
+      "self": "/company/11199788/filing-history/MzIzOTk5MjY5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jtzzrJzZ0dyBR_QbTwnEUtvr1znZuN8IqWiTanlMoaw"
+    }
+  },
+  {
+    "transaction_id": "MzIyNzE1MTA0OGFkaXF6a2N4",
+    "barcode": "X7ZHIJJU",
+    "type": "CS01",
+    "date": "2019-02-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-02-11"
+    },
+    "pages": 3,
+    "action_date": "2019-02-11",
+    "links": {
+      "self": "/company/11199788/filing-history/MzIyNzE1MTA0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pbj3mB7xtAxKiznq0mrdUSP3Pqda1yzWk3O7LIkeTvE"
+    }
+  },
+  {
+    "transaction_id": "MzE5NzQ1NzMzNWFkaXF6a2N4",
+    "barcode": "X6ZHA9S9",
+    "type": "NEWINC",
+    "date": "2018-02-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-02-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-02-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-02-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-02-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11199788/filing-history/MzE5NzQ1NzMzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gw9GkbRiZ1wAnoODEIx96FTQg97DCTpzr8gpYmIIiYo"
+    }
+  }
+]

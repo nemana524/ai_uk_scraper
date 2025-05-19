@@ -1,0 +1,65 @@
+{
+  "company_number": "15674088",
+  "company_name": "TECH FUSION SOLUTIONS LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "ONYIA, Ogechukwu",
+      "officer_role": "director",
+      "appointed_on": "2024-04-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Unit 3a,34-35 Hatton Garden",
+        "address_line_2": "Holborn",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1N 8DX",
+        "premises": "Suite 4579"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/15674088/appointments/fZUsKrGK4pUERqsTZglM6x7hMyA",
+        "officer": {
+          "appointments": "/officers/NDUMXky-eD48jnLdMmMWKgx35Ac/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ONYIA, Ugochukwu",
+      "officer_role": "director",
+      "appointed_on": "2024-04-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Unit 3a,34-35 Hatton Garden",
+        "address_line_2": "Holborn",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1N 8DX",
+        "premises": "Suite 4579"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15674088/appointments/bYaq1Talb8Ff0b1Ahqj2NpLSi50",
+        "officer": {
+          "appointments": "/officers/tuPtWYTkge7WXYxlZhFMx6CqgQk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

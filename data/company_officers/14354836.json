@@ -1,0 +1,35 @@
+{
+  "company_number": "14354836",
+  "company_name": "TECH EAGLE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHEMISA, Marwaan Mohamed",
+      "officer_role": "director",
+      "appointed_on": "2022-09-13",
+      "resigned_on": null,
+      "nationality": "Italian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/14354836/appointments/9fBKWPtPdFSQPLSCjuLjzF49-Ro",
+        "officer": {
+          "appointments": "/officers/s2S-uxfJKkevojLIBJFM35cJ26o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

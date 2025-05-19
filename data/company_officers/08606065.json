@@ -1,0 +1,35 @@
+{
+  "company_number": "08606065",
+  "company_name": "TECH GROW LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "DEL PALACIO AGUIRRE, Itxaso",
+      "officer_role": "director",
+      "appointed_on": "2013-07-11",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Investment Deal-Flow",
+      "address": {
+        "address_line_1": "59 Bunhill Row",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1Y 8QW",
+        "premises": "Flat 24"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/08606065/appointments/meUzQnuG3331I06UA9L4unHb-uU",
+        "officer": {
+          "appointments": "/officers/LcdTvMxizD6QgkxFpSEVv-JffkE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

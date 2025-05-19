@@ -1,0 +1,45 @@
+{
+  "company_number": "11967455",
+  "company_name": "TECH 4 REPAIR LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2019-04-29",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "82 Albion Place",
+    "address_line_2": "Campbell Park",
+    "country": "England",
+    "locality": "Milton Keynes",
+    "postal_code": "MK9 4AB"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "114e5e0d6cd91e156e7b726af95527c6d2887487"
+}

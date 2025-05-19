@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-26",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-03-26"
+    },
+    "next_due": "2025-12-26",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CLOUD DEPOT LIMITED",
+  "company_number": "15593662",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2025-04-08",
+    "next_made_up_to": "2025-03-25",
+    "overdue": true
+  },
+  "date_of_creation": "2024-03-26",
+  "etag": "ab40a35c8f751bf924ad16540ce52fc864d3cf4f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15593662/persons-with-significant-control",
+    "self": "/company/15593662",
+    "filing_history": "/company/15593662/filing-history",
+    "officers": "/company/15593662/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2024-11-25",
+      "effective_from": "2024-03-26",
+      "name": "TECH FIX DEPOT LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "67 Albany Road",
+    "country": "England",
+    "locality": "Norwich",
+    "postal_code": "NR3 1EE",
+    "region": "Norfolk"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "82110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

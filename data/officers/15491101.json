@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "177 Washwood Heath Road",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B8 1RW",
+      "premises": "Flat 5"
+    },
+    "appointed_on": "2024-02-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/15491101/appointments/GRGnynr2NK6DvDffkFyJ1mjU8wc",
+      "officer": {
+        "appointments": "/officers/Y7svDCY3_0h9-te1wSLpWSyuqgA/appointments"
+      }
+    },
+    "name": "KHAN, Nouman",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "319365050001"
+  }
+]

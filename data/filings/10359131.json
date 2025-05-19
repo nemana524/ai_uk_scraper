@@ -1,0 +1,668 @@
+[
+  {
+    "transaction_id": "MzQzNDYwNTA4NmFkaXF6a2N4",
+    "barcode": "XDB17RCR",
+    "type": "CS01",
+    "date": "2024-09-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-09-04"
+    },
+    "pages": 3,
+    "action_date": "2024-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzQzNDYwNTA4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/E_82Sd28wSQTZtttaIgDMa9CXKsLXyEoexW-iNg0edo"
+    }
+  },
+  {
+    "transaction_id": "MzQyODA2NjY3OGFkaXF6a2N4",
+    "barcode": "XD7022A2",
+    "type": "AA",
+    "date": "2024-07-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 7,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzQyODA2NjY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tM5ySgMRni5fqI9Eqi8sccsR00ivg-W6_9C8CWeqkeI"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDc2MjYzNGFkaXF6a2N4",
+    "barcode": "XCD07FZ5",
+    "type": "CH01",
+    "date": "2023-09-28",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-09-04",
+      "officer_name": "Mr Daniel Aaron Graham"
+    },
+    "pages": 2,
+    "action_date": "2023-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzM5NDc2MjYzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Tv-SUCbZJF5PdZnARX9jjTXzctG1JKAMmH28-MEGNFM"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzQzNjY4NmFkaXF6a2N4",
+    "barcode": "XCCBJHLD",
+    "type": "CS01",
+    "date": "2023-09-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-09-04"
+    },
+    "pages": 3,
+    "action_date": "2023-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzM5MzQzNjY4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YZ9tRnctMy_Ea_EHhCBnHu8IbdxHGMVUmzlZ_eZSMFg"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg1MzMyMmFkaXF6a2N4",
+    "barcode": "XCA0W9UW",
+    "type": "AA",
+    "date": "2023-08-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 7,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzM4OTg1MzMyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bI61qn3aQP25ZaXcjP8zBrQS4roDoySoZql6afgGiFk"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTUzMzQ2NmFkaXF6a2N4",
+    "barcode": "XBCAXU7U",
+    "type": "CS01",
+    "date": "2022-09-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-09-04"
+    },
+    "pages": 3,
+    "action_date": "2022-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzM1MTUzMzQ2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SJEDOT3WVTBbHYwBnEGWZr74r4EKs0_hFKFAE6OAm-0"
+    }
+  },
+  {
+    "transaction_id": "MzM0Nzc5MjY2M2FkaXF6a2N4",
+    "barcode": "XB9PN4BV",
+    "type": "AA",
+    "date": "2022-08-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 7,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzM0Nzc5MjY2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OxMRfTpL-wkL4lr0ohriTTemai7tQ8kzaU3kDz_W_Ls"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTU5ODY3OGFkaXF6a2N4",
+    "barcode": "XAE48OUY",
+    "type": "AA",
+    "date": "2021-09-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 7,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzMxNTU5ODY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XYdqLJwrz8lN6sSD8z99z2cORRDcDwriY8zizrhYIFw"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDc3MTUxOGFkaXF6a2N4",
+    "barcode": "XADNXYCY",
+    "type": "CS01",
+    "date": "2021-09-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-09-04"
+    },
+    "pages": 5,
+    "action_date": "2021-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzMxNDc3MTUxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3bZpp565YYtmKXSDsAmKJ5Rd0FRpjpfNa4f51IFtF_E"
+    }
+  },
+  {
+    "transaction_id": "MzMwODg5NzczNWFkaXF6a2N4",
+    "barcode": "XA9LFBHM",
+    "type": "PSC01",
+    "date": "2021-07-27",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Luke Patrick Graham",
+      "notification_date": "2021-03-30"
+    },
+    "pages": 2,
+    "action_date": "2021-03-30",
+    "links": {
+      "self": "/company/10359131/filing-history/MzMwODg5NzczNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oNtmJdq4dgpEdR43qv3aPbY4AIij6dcjSnGkhhZomAw"
+    }
+  },
+  {
+    "transaction_id": "MzMwODg5NzczN2FkaXF6a2N4",
+    "barcode": "XA9LFBFU",
+    "type": "PSC05",
+    "date": "2021-07-27",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-03-30",
+      "psc_name": "Amplecom Limited"
+    },
+    "pages": 2,
+    "action_date": "2021-03-30",
+    "links": {
+      "self": "/company/10359131/filing-history/MzMwODg5NzczN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_wCfaZka0n_7plHmrcWCEfAZpKh1wRV2X3QrL7Cs5ec"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjUwODcxNmFkaXF6a2N4",
+    "barcode": "XA5CPBJM",
+    "type": "AP01",
+    "date": "2021-05-27",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Luke Patrick Graham",
+      "appointment_date": "2021-05-27"
+    },
+    "pages": 2,
+    "action_date": "2021-05-27",
+    "links": {
+      "self": "/company/10359131/filing-history/MzMwMjUwODcxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v0bM1VZJ4GhZ7XkvEuDEHl7qBkmOHR1An2mi5XhF6WI"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDU0ODY0MWFkaXF6a2N4",
+    "barcode": "X9FNNIMG",
+    "type": "AA",
+    "date": "2020-10-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 7,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI4MDU0ODY0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rhdo03bdUM0a2eR9ToJ8wdz-428G7xQa36EFl5pqBew"
+    }
+  },
+  {
+    "transaction_id": "MzI3ODA2NDc5NWFkaXF6a2N4",
+    "barcode": "X9DVN0RN",
+    "type": "CS01",
+    "date": "2020-09-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-09-04"
+    },
+    "pages": 3,
+    "action_date": "2020-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI3ODA2NDc5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W9TC5r55i39v2tXrAC-hKirXTyiUFeOPmp97D3MfHLg"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTY3MTcxNGFkaXF6a2N4",
+    "barcode": "X8F5W0U2",
+    "type": "CS01",
+    "date": "2019-10-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-09-04"
+    },
+    "pages": 6,
+    "action_date": "2019-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI0NTY3MTcxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/u1b1gZjWBLcZZCJED8ZoY9uIa1gfRaPEFmtWGpcQth4"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTY3MTE2NGFkaXF6a2N4",
+    "barcode": "X8F5VZTF",
+    "type": "PSC05",
+    "date": "2019-10-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2019-06-30",
+      "psc_name": "Amplecom Limited"
+    },
+    "pages": 2,
+    "action_date": "2019-06-30",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI0NTY3MTE2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I3HuxMgwcuQZpwhZu24QVEAghF9lDMbirRVlO56A3_g"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTEzNjg3NGFkaXF6a2N4",
+    "barcode": "X8EPPDAJ",
+    "type": "AA",
+    "date": "2019-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 7,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI0NTEzNjg3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WI6zRLNkMU-VnHCyQ0bageIB_AJOFEV5yf9dS5loA6o"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTAwMTQ0MGFkaXF6a2N4",
+    "barcode": "X8EPHKU0",
+    "type": "SH01",
+    "date": "2019-09-24",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2016-09-05",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "100"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2016-09-05",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI0NTAwMTQ0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5yt_j-pQfQyTN58pCWSCRHdPdUOVH4fqpUc4awG4HBc"
+    }
+  },
+  {
+    "transaction_id": "MzI0NDU2ODMxNWFkaXF6a2N4",
+    "barcode": "X8E9V76O",
+    "type": "TM01",
+    "date": "2019-09-18",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Sarah Shearer",
+      "termination_date": "2019-09-18"
+    },
+    "pages": 1,
+    "action_date": "2019-09-18",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI0NDU2ODMxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6sKYf6HqvRGLPpqz4F0Bro-NQJ3qrENUNfJLAYtSCDA"
+    }
+  },
+  {
+    "transaction_id": "MzI0NDU2NzY0NmFkaXF6a2N4",
+    "barcode": "X8E9V2VU",
+    "type": "PSC07",
+    "date": "2019-09-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Luke Graham",
+      "cessation_date": "2019-09-16"
+    },
+    "pages": 1,
+    "action_date": "2019-09-16",
+    "links": {
+      "self": "/company/10359131/filing-history/MzI0NDU2NzY0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wwa7tFZtHTpCOtm8mAatqrVNdpSxz71Pv0kXzWIX_6o"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzMzNTgwM2FkaXF6a2N4",
+    "barcode": "X7LZHS6H",
+    "type": "TM01",
+    "date": "2018-12-31",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Luke Graham",
+      "termination_date": "2018-12-18"
+    },
+    "pages": 1,
+    "action_date": "2018-12-18",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIyMzMzNTgwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HAuLIz8LbhPTfGJVHOk5v3leqkcTUSWH7w2F5WSTmK4"
+    }
+  },
+  {
+    "transaction_id": "MzIxOTE1Mzg4MGFkaXF6a2N4",
+    "barcode": "X7IJF5S8",
+    "type": "AA",
+    "date": "2018-11-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2018-03-31"
+    },
+    "pages": 7,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIxOTE1Mzg4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rn1MJ8JXiMjBU5EcqGti-IH4RPuxH9xtEnohwGzH6X0"
+    }
+  },
+  {
+    "transaction_id": "MzIxNjc5Mjk3MGFkaXF6a2N4",
+    "barcode": "X7GBWAIG",
+    "type": "AA01",
+    "date": "2018-10-11",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2018-10-31",
+      "new_date": "2018-03-31"
+    },
+    "pages": 1,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIxNjc5Mjk3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wir0idn6Cp71Yz7Wsb61aQ2PFk5MWv_4FG6TU45W_JY"
+    }
+  },
+  {
+    "transaction_id": "MzIxNTUxNTY0MmFkaXF6a2N4",
+    "barcode": "X7F9P2T6",
+    "type": "CS01",
+    "date": "2018-09-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-09-04"
+    },
+    "pages": 3,
+    "action_date": "2018-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIxNTUxNTY0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X8LOVdr6GxeBTIQHTPBs9qse9XStlY7lr0i9HiFA9ik"
+    }
+  },
+  {
+    "transaction_id": "MzIwNjUyMjI3OWFkaXF6a2N4",
+    "barcode": "X77EC6UH",
+    "type": "AA",
+    "date": "2018-06-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2017-10-31"
+    },
+    "pages": 8,
+    "action_date": "2017-10-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIwNjUyMjI3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZgSd1usqOSFRHewQoSQ6SdxO7sWKqN6okvOhSD4PpXA"
+    }
+  },
+  {
+    "transaction_id": "MzIwNjQ2MzQyOGFkaXF6a2N4",
+    "barcode": "X7763GS8",
+    "type": "AD01",
+    "date": "2018-06-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-06-01",
+      "old_address": "1 Fore Street Avenue London EC2Y 9DT England",
+      "new_address": "16 Murdock Road Dorcan Swindon SN3 5HY"
+    },
+    "pages": 1,
+    "action_date": "2018-06-01",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIwNjQ2MzQyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FKDZffaVmlUHHf8wfznLrfORu6BZU6r4sfibypf1ol0"
+    }
+  },
+  {
+    "transaction_id": "MzIwNjQ2MzM2MWFkaXF6a2N4",
+    "barcode": "X7763DG9",
+    "type": "TM01",
+    "date": "2018-06-01",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Peter Daniel Shutt",
+      "termination_date": "2018-05-31"
+    },
+    "pages": 1,
+    "action_date": "2018-05-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIwNjQ2MzM2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oc-zHh967HNIhc0A36xR4bz-MQBFJ8ouUp3pM3NruA0"
+    }
+  },
+  {
+    "transaction_id": "MzIwMTgxMzkyMWFkaXF6a2N4",
+    "barcode": "X734NJYG",
+    "type": "TM01",
+    "date": "2018-04-04",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Tomasz Grabarczyk",
+      "termination_date": "2018-03-31"
+    },
+    "pages": 1,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzIwMTgxMzkyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FHO1-n2P36LhLbTuH2Z2DiKf8uL3tcbSHomMz5-BGIc"
+    }
+  },
+  {
+    "transaction_id": "MzE5Mjk5OTUxM2FkaXF6a2N4",
+    "barcode": "X6LC4AOR",
+    "type": "CH01",
+    "date": "2017-12-15",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2017-12-15",
+      "officer_name": "Mr Luke Graham"
+    },
+    "pages": 2,
+    "action_date": "2017-12-15",
+    "links": {
+      "self": "/company/10359131/filing-history/MzE5Mjk5OTUxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nAo_pVdRWyjo8U3kmGRwCuxbVilO3poGeUd0lFn945Y"
+    }
+  },
+  {
+    "transaction_id": "MzE5MTg2MzEwMGFkaXF6a2N4",
+    "barcode": "X6KKFLXL",
+    "type": "AP01",
+    "date": "2017-12-04",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Peter Daniel Shutt",
+      "appointment_date": "2017-03-01"
+    },
+    "pages": 2,
+    "action_date": "2017-03-01",
+    "links": {
+      "self": "/company/10359131/filing-history/MzE5MTg2MzEwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-7ssPdVQcc9oqCtofyRsrC3tL1wNLdoARBIRJE9HTTw"
+    }
+  },
+  {
+    "transaction_id": "MzE4ODgyOTM2NmFkaXF6a2N4",
+    "barcode": "X6HWOCUJ",
+    "type": "AA01",
+    "date": "2017-10-27",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2017-09-30",
+      "new_date": "2017-10-31"
+    },
+    "pages": 1,
+    "action_date": "2017-10-31",
+    "links": {
+      "self": "/company/10359131/filing-history/MzE4ODgyOTM2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GYMP7J7Gzh4Ex8ROq_f59UeheA0owI-PpmnfO69g0xU"
+    }
+  },
+  {
+    "transaction_id": "MzE4NDg5NzMzNGFkaXF6a2N4",
+    "barcode": "X6EHOHS8",
+    "type": "CS01",
+    "date": "2017-09-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2017-09-04"
+    },
+    "pages": 3,
+    "action_date": "2017-09-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzE4NDg5NzMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AyIrQyfT5ROQo6p1v7y9uovM9AeWaU682BUF0D4lR0k"
+    }
+  },
+  {
+    "transaction_id": "MzE4NDg5MjY1NWFkaXF6a2N4",
+    "barcode": "X6EHI9PN",
+    "type": "AP01",
+    "date": "2017-09-07",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Tomasz Grabarczyk",
+      "appointment_date": "2017-08-01"
+    },
+    "pages": 2,
+    "action_date": "2017-08-01",
+    "links": {
+      "self": "/company/10359131/filing-history/MzE4NDg5MjY1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kwO1REZ7s1S8aYvri4LZnPb3ieT0Rq40QwbWa39NlaA"
+    }
+  },
+  {
+    "transaction_id": "MzE4MjE4MzkzOWFkaXF6a2N4",
+    "barcode": "X6C0G6UX",
+    "type": "AP01",
+    "date": "2017-08-03",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Sarah Shearer",
+      "appointment_date": "2017-08-01"
+    },
+    "pages": 2,
+    "action_date": "2017-08-01",
+    "links": {
+      "self": "/company/10359131/filing-history/MzE4MjE4MzkzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8XvVPUyBt48cFuyXK1akcrKl4D3pxe7OxsZbspWNfKE"
+    }
+  },
+  {
+    "transaction_id": "MzE3OTY5NjIyNmFkaXF6a2N4",
+    "barcode": "X69YEGE2",
+    "type": "AD01",
+    "date": "2017-07-04",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2017-07-04",
+      "old_address": "16 Dorcan Business Village Murdock Road Swindon SN3 5HY United Kingdom",
+      "new_address": "1 Fore Street Avenue London EC2Y 9DT"
+    },
+    "pages": 1,
+    "action_date": "2017-07-04",
+    "links": {
+      "self": "/company/10359131/filing-history/MzE3OTY5NjIyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HZl_2jRR9LA4Eaegkv88ZwP_UOVukgC0kuSG7TCTPJk"
+    }
+  },
+  {
+    "transaction_id": "MzE1NjUwMjA4NmFkaXF6a2N4",
+    "barcode": "X5EN58YP",
+    "type": "NEWINC",
+    "date": "2016-09-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-09-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-09-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "99"
+            }
+          ]
+        },
+        "action_date": "2016-09-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 33,
+    "links": {
+      "self": "/company/10359131/filing-history/MzE1NjUwMjA4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nbqQc0jlzupt6DY5YPubc8FNFzwrMGeIUoE8CuTVyXY"
+    }
+  }
+]

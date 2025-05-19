@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-05",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-08-05"
+    },
+    "next_due": "2026-05-05",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AFFAIRS & CRAFTS LTD",
+  "company_number": "15878557",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-08-18",
+    "next_made_up_to": "2025-08-04",
+    "overdue": false
+  },
+  "date_of_creation": "2024-08-05",
+  "etag": "8e3aac3ac5d8165c0e107dff24a5572c93a6dd46",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15878557/persons-with-significant-control",
+    "self": "/company/15878557",
+    "filing_history": "/company/15878557/filing-history",
+    "officers": "/company/15878557/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "156 Hornchurch Road",
+    "country": "England",
+    "locality": "Hornchurch",
+    "postal_code": "RM11 1QH"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47429"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

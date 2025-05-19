@@ -1,0 +1,45 @@
+{
+  "company_number": "15549969",
+  "company_name": "TECH AR NOVA LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-03-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012",
+    "62020",
+    "71121"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "57-67 Lexham Gardens",
+    "address_line_2": "London",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "W8 6JJ",
+    "region": "Uk"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-09",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-03-09"
+    },
+    "next_due": "2025-12-09",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "30ec2a3b925e7f1c383d341232e5a7190ef6215d"
+}

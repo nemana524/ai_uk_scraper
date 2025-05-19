@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "167 Station Road",
+      "country": "England",
+      "locality": "Edgware",
+      "postal_code": "HA8 7JU",
+      "premises": "Matrix Business Centre"
+    },
+    "appointed_on": "2023-04-05",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/14782756/appointments/fEamUYE43GbZ-nm1Nmpk6g50o8c",
+      "officer": {
+        "appointments": "/officers/FuHLK9erqIpKnF6P4ggSTXJz7VA/appointments"
+      }
+    },
+    "name": "AHMED, Burhan",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "282916140001"
+  }
+]

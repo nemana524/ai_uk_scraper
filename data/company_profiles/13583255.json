@@ -1,0 +1,44 @@
+{
+  "company_number": "13583255",
+  "company_name": "TECH HOUSING LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-08-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "68209"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "2 Fernway Close",
+    "country": "England",
+    "locality": "Wimborne",
+    "postal_code": "BH21 2ST"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "etag": "a5bc4ad98f16bf1964a643bc8547683b96573ec5"
+}

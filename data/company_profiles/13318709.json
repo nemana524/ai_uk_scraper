@@ -1,0 +1,47 @@
+{
+  "company_number": "13318709",
+  "company_name": "TECH CLARIFIED LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-04-07",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "62030",
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-04-30",
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2027-01-31",
+      "overdue": false,
+      "period_end_on": "2026-04-30",
+      "period_start_on": "2025-05-01"
+    },
+    "next_due": "2027-01-31",
+    "next_made_up_to": "2026-04-30",
+    "overdue": false
+  },
+  "etag": "36699c59e287c6562bf2dc4e4824d2a776543dc4"
+}

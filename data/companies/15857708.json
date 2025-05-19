@@ -1,0 +1,53 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-24",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-07-24"
+    },
+    "next_due": "2026-04-24",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FIX SC LTD",
+  "company_number": "15857708",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-08-06",
+    "next_made_up_to": "2025-07-23",
+    "overdue": false
+  },
+  "date_of_creation": "2024-07-24",
+  "etag": "9c0d938605ccc264f4bd7a66146e8e17b7c7f319",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15857708/persons-with-significant-control",
+    "self": "/company/15857708",
+    "filing_history": "/company/15857708/filing-history",
+    "officers": "/company/15857708/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "9 Edward Street",
+    "country": "United Kingdom",
+    "locality": "Salford",
+    "postal_code": "M7 1SN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

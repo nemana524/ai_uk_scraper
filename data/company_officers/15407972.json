@@ -1,0 +1,37 @@
+{
+  "company_number": "15407972",
+  "company_name": "TECH BRIDGE CONSULTANCY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MAHMOOD, Muzafar",
+      "officer_role": "director",
+      "appointed_on": "2024-01-12",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "The Copse",
+        "address_line_2": "Bushby",
+        "country": "United Kingdom",
+        "locality": "Leicester",
+        "postal_code": "LE7 9RW",
+        "premises": "9",
+        "region": "Leicestershire"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1966
+      },
+      "links": {
+        "self": "/company/15407972/appointments/W1v44et1VbMW4eVAK23BF0EHvpU",
+        "officer": {
+          "appointments": "/officers/pfOHNzA4alVkLbGR_PgWvkxGsxY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

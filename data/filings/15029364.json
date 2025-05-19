@@ -1,0 +1,78 @@
+[
+  {
+    "transaction_id": "MzQzMzUyNjA3NWFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-09-03",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15029364/filing-history/MzQzMzUyNjA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/A5sa-LJRctz7_UZJgSiAt7NgR7s1OuSKed6h2amSROY"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDMzMzYyNmFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-06-18",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15029364/filing-history/MzQyNDMzMzYyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ntuWHRQuUfnSt9y-z_kcuXZbLJuR3vk7RXLYtNr1Jng"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDMzMzA4N2FkaXF6a2N4",
+    "barcode": "XD4LXFAP",
+    "type": "DS01",
+    "date": "2024-06-05",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/15029364/filing-history/MzQyNDMzMzA4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IKZCdidvFvE4i34I_bHjtwDkbLto1_VhgupBhhq7vcg"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzUyNjUwM2FkaXF6a2N4",
+    "barcode": "XC8J461S",
+    "type": "NEWINC",
+    "date": "2023-07-26",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-07-26",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-26",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-07-26",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-07-26"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15029364/filing-history/MzM4NzUyNjUwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kk7EBeMXfO_L_WAThQqOcbp37npug9Yw3LaV7wv7N_s"
+    }
+  }
+]

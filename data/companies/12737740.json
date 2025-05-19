@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-31",
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-08-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-08-01"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GIMMICKS LTD",
+  "company_number": "12737740",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-20",
+    "next_due": "2025-06-03",
+    "next_made_up_to": "2025-05-20",
+    "overdue": false
+  },
+  "date_of_creation": "2020-07-13",
+  "etag": "6a8ea118318de00132477b838f3d7f986533fd07",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12737740/persons-with-significant-control",
+    "registers": "/company/12737740/registers",
+    "self": "/company/12737740",
+    "filing_history": "/company/12737740/filing-history",
+    "officers": "/company/12737740/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "124 City Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47190"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "10045892",
+  "company_name": "TECH INSIGHT LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHULMAN, Derrick",
+      "officer_role": "director",
+      "appointed_on": "2016-03-07",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "country": "England",
+        "locality": "Frome",
+        "postal_code": "BA11 4LA",
+        "premises": "41 Nunney Rd",
+        "region": "Somerset"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1956
+      },
+      "links": {
+        "self": "/company/10045892/appointments/YsXVmq22e5lLnRZAtz27ciNtoGQ",
+        "officer": {
+          "appointments": "/officers/VF55jFsCdNCfmpysT7dp_2D8p3c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

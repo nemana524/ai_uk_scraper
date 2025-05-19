@@ -1,0 +1,69 @@
+[
+  {
+    "transaction_id": "MzQ2NDY1MDA4NmFkaXF6a2N4",
+    "barcode": "XE1KVLKJ",
+    "type": "CS01",
+    "date": "2025-04-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-11"
+    },
+    "pages": 3,
+    "action_date": "2025-03-11",
+    "links": {
+      "self": "/company/15557302/filing-history/MzQ2NDY1MDA4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hyc18MkeQ5m2P8b1uyOYjy9IRf3uDr8598IUv_GJp6k"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NDY0ODA1MGFkaXF6a2N4",
+    "barcode": "XE1KVDA8",
+    "type": "AD01",
+    "date": "2025-04-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-04-30",
+      "old_address": "2 & 2a-2B Station Road London NW4 4PZ United Kingdom",
+      "new_address": "International House 45-55 Commercial Street London E1 6BD"
+    },
+    "pages": 1,
+    "action_date": "2025-04-30",
+    "links": {
+      "self": "/company/15557302/filing-history/MzQ2NDY0ODA1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v8hZpe__F-gpb4xFNZbooNXfImnvw6cgMrvE-CGEvqg"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzc1NDU0N2FkaXF6a2N4",
+    "barcode": "XCYDMFHD",
+    "type": "NEWINC",
+    "date": "2024-03-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2024-03-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-03-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-03-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/15557302/filing-history/MzQxMzc1NDU0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WJqNSdKr01lJbJM7ZZR0qJ6HtUq5c7l_RRwKnU15Za8"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-25",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-25"
+    },
+    "next_due": "2025-07-25",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH IT FUTURE LIMITED",
+  "company_number": "15233722",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2024-11-07",
+    "next_made_up_to": "2024-10-24",
+    "overdue": true
+  },
+  "date_of_creation": "2023-10-25",
+  "etag": "ed5ec797d660fdbc550e846dca73b374a88a32d6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15233722/persons-with-significant-control",
+    "self": "/company/15233722",
+    "filing_history": "/company/15233722/filing-history",
+    "officers": "/company/15233722/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "15233722 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "registered_office_is_in_dispute": true,
+  "sic_codes": [
+    "47990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,152 @@
+{
+  "company_number": "09274399",
+  "company_name": "TECH LOGIQ LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "HUGHES, Robin Stuart",
+      "officer_role": "director",
+      "appointed_on": "2017-07-31",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Fleming Centre",
+        "address_line_2": "Fleming Way",
+        "country": "England",
+        "locality": "Crawley",
+        "postal_code": "RH10 9NN",
+        "premises": "Unit B1",
+        "region": "West Sussex"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/09274399/appointments/ZFHzfkY-kDNI99aRv7y3kMVNPzI",
+        "officer": {
+          "appointments": "/officers/bh2-yum6_Qice1l3J5ftQloti3Y/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JOHNSON, Hamish Wallace",
+      "officer_role": "director",
+      "appointed_on": "2017-07-31",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Fleming Centre",
+        "address_line_2": "Fleming Way",
+        "country": "England",
+        "locality": "Crawley",
+        "postal_code": "RH10 9NN",
+        "premises": "Unit B1",
+        "region": "West Sussex"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/09274399/appointments/ymLOIW3zcfNEDeWcVITgsdGDyho",
+        "officer": {
+          "appointments": "/officers/imLmROfjCJraqtc9VAFFz9sb9j8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "UZUNOV, Aleksandar Dimitrov",
+      "officer_role": "director",
+      "appointed_on": "2017-08-24",
+      "resigned_on": null,
+      "nationality": "Bulgarian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Fleming Centre",
+        "address_line_2": "Fleming Way",
+        "country": "England",
+        "locality": "Crawley",
+        "postal_code": "RH10 9NN",
+        "premises": "Unit B1",
+        "region": "West Sussex"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/09274399/appointments/3qpuBN9BgzUVq4EpKmKf0uXO5Fg",
+        "officer": {
+          "appointments": "/officers/r5eMEAnLPYg-ITacUOtHPbvZYR4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GILBERT, Charles Stuart",
+      "officer_role": "director",
+      "appointed_on": "2014-10-23",
+      "resigned_on": "2017-08-24",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Unit 14 The Tramsheds",
+        "address_line_2": "Coomber Way",
+        "locality": "Croydon",
+        "postal_code": "CR0 4TQ"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1963
+      },
+      "links": {
+        "self": "/company/09274399/appointments/6JEmRcoRm5RP2eBrosk53P6Q57Q",
+        "officer": {
+          "appointments": "/officers/W8vvMzov2kG1jwBYF5D_RsBl_bo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "HEIMAN, Osker",
+      "officer_role": "director",
+      "appointed_on": "2014-10-22",
+      "resigned_on": "2014-10-22",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Formation 1st Director",
+      "address": {
+        "address_line_1": "Prestwich",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M25 9JY",
+        "premises": "47 Bury New Road"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/09274399/appointments/7gjDz0o9tmloHf5dhZ8wpf51ME0",
+        "officer": {
+          "appointments": "/officers/ELWqbVTjQt3q_4kl4OQKd6PkdFE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

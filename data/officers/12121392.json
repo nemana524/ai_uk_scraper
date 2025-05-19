@@ -1,0 +1,117 @@
+[
+  {
+    "address": {
+      "country": "England",
+      "locality": "Gillingham",
+      "postal_code": "ME8 6JE",
+      "premises": "41 Twydall Lane",
+      "region": "Kent"
+    },
+    "appointed_on": "2019-09-23",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1991
+    },
+    "links": {
+      "self": "/company/12121392/appointments/EWy64A1L_BoCmuZk-OdbeLJ7ZnA",
+      "officer": {
+        "appointments": "/officers/W9KsIRYT2KF4Gg6Tf-ebuaVFxr8/appointments"
+      }
+    },
+    "name": "SUMMERS, James Nicholas",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "263378910001"
+  },
+  {
+    "address": {
+      "address_line_1": "Bryant Road",
+      "address_line_2": "Strood",
+      "country": "England",
+      "locality": "Rochester",
+      "postal_code": "ME2 3EW",
+      "premises": "Bryant House",
+      "region": "Kent"
+    },
+    "appointed_on": "2020-01-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1949
+    },
+    "links": {
+      "self": "/company/12121392/appointments/fFXRV6r2iUzM4j2NbA0jYtdG_Kg",
+      "officer": {
+        "appointments": "/officers/7JxIGb--5t-P0_1sdKCm5hWTwuI/appointments"
+      }
+    },
+    "name": "SUMMERS, Brian Leslie",
+    "nationality": "British",
+    "occupation": "Scaffolder",
+    "officer_role": "director",
+    "resigned_on": "2020-02-03",
+    "person_number": "266647990001"
+  },
+  {
+    "address": {
+      "address_line_1": "Bryant Road",
+      "address_line_2": "Strood",
+      "country": "England",
+      "locality": "Rochester",
+      "postal_code": "ME2 3EW",
+      "premises": "Bryant House",
+      "region": "Kent"
+    },
+    "appointed_on": "2020-01-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1964
+    },
+    "links": {
+      "self": "/company/12121392/appointments/JIIpIPVklxWFJzxfLP1irpMjJm8",
+      "officer": {
+        "appointments": "/officers/qpHuUkeZnV0wrhe5ir3Y2c9c8j8/appointments"
+      }
+    },
+    "name": "SUMMERS, Deborah",
+    "nationality": "British",
+    "occupation": "Project Manager",
+    "officer_role": "director",
+    "resigned_on": "2020-02-03",
+    "person_number": "266667560001"
+  },
+  {
+    "address": {
+      "address_line_1": "Twydall Lane",
+      "country": "England",
+      "locality": "Gillingham",
+      "postal_code": "ME8 6JE",
+      "premises": "41"
+    },
+    "appointed_on": "2019-07-24",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1997
+    },
+    "links": {
+      "self": "/company/12121392/appointments/1moOvk2egsRav3QVp9r_paIO_2g",
+      "officer": {
+        "appointments": "/officers/gJUXtDFKzApR1RUIXoG5dN_jir4/appointments"
+      }
+    },
+    "name": "SUMMERS, Eleanor May",
+    "nationality": "English",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2019-09-23",
+    "person_number": "260821590001"
+  }
+]

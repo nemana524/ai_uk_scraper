@@ -1,0 +1,49 @@
+[
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2024-07-23",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15853919/appointments/siphcvUwHXs7fqNV2pH-GDErZc8",
+      "officer": {
+        "appointments": "/officers/iHrckRsvuejB1cC4GZlx1sMOzEM/appointments"
+      }
+    },
+    "name": "ABDULLAH, Adil, Mr.",
+    "officer_role": "secretary",
+    "person_number": "325394840001"
+  },
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2024-07-23",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1996
+    },
+    "links": {
+      "self": "/company/15853919/appointments/rmXm_BtAt6LkE6zA1_36vDZ68Cs",
+      "officer": {
+        "appointments": "/officers/vYVmzuwVsg2MaU_EVFDW9gfAZNc/appointments"
+      }
+    },
+    "name": "ABDULLAH, Adil, Mr.",
+    "nationality": "Pakistani",
+    "occupation": "Ceo",
+    "officer_role": "director",
+    "person_number": "325394830001"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "company_number": "15796593",
+  "company_name": "TECH IT SERVICES LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "ADEMAJ, Eltona",
+      "officer_role": "director",
+      "appointed_on": "2024-06-23",
+      "resigned_on": null,
+      "nationality": "Albanian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Hickling Close",
+        "country": "United Kingdom",
+        "locality": "Bedford",
+        "postal_code": "MK40 4NA",
+        "premises": "12"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/15796593/appointments/C_i8RSspnGpIJODOSvH623nAjmY",
+        "officer": {
+          "appointments": "/officers/IOBnvLx7DV_mwgbpT0-HRZIAkqk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KASTRATI, Luan",
+      "officer_role": "director",
+      "appointed_on": "2024-06-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Hickling Close",
+        "country": "United Kingdom",
+        "locality": "Bedford",
+        "postal_code": "MK40 4NA",
+        "premises": "12"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/15796593/appointments/8xIVrS2DpVuz_nLPMxBZFuw97Go",
+        "officer": {
+          "appointments": "/officers/s6S2oEKoU1ZU8--8CQEUKSd6des/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

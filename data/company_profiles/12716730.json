@@ -1,0 +1,47 @@
+{
+  "company_number": "12716730",
+  "company_name": "TECH ACADEMY LTD",
+  "company_status": "active",
+  "date_of_creation": "2020-07-03",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62011",
+    "62012",
+    "62020",
+    "85320"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "239-241 Kennington Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE11 5QU"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "740b0ccb7318be6347cde784f43af0346b9ab5f5"
+}

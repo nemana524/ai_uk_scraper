@@ -1,0 +1,35 @@
+{
+  "company_number": "13635688",
+  "company_name": "TECH HANDSHAKE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NAQVI, Syed Alamdar Hussnain",
+      "officer_role": "director",
+      "appointed_on": "2021-09-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Technologist",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "124"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/13635688/appointments/VvFc0oGNqUYcWFqLuROxiXpcxN4",
+        "officer": {
+          "appointments": "/officers/oMXSj8DlsNtBdJ6jyMdUyyuf4MQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

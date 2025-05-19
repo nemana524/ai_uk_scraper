@@ -1,0 +1,128 @@
+[
+  {
+    "transaction_id": "MzQ0OTY1NzcwMWFkaXF6a2N4",
+    "barcode": "XDTAH3EA",
+    "type": "AD01",
+    "date": "2025-01-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-01-01",
+      "old_address": "9 Park Road London SE25 6LA England",
+      "new_address": "6th Floor Amp House Dingwall Road Croydon CR0 2LX"
+    },
+    "pages": 1,
+    "action_date": "2025-01-01",
+    "links": {
+      "self": "/company/14567309/filing-history/MzQ0OTY1NzcwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/n-gPa_Axqw1g2GZgk5xEXa1r0Xe16kUGaTgjEWYcVV8"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTE4ODA0NWFkaXF6a2N4",
+    "barcode": "XDIV6AQ8",
+    "type": "CS01",
+    "date": "2024-12-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-12-15"
+    },
+    "pages": 4,
+    "action_date": "2024-12-15",
+    "links": {
+      "self": "/company/14567309/filing-history/MzQ0OTE4ODA0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9MoD8_LcW4TZ2jMNBIAQUWsMKi8Ct2f7uzlaXHtli1w"
+    }
+  },
+  {
+    "transaction_id": "MzQ0ODU1Mzg4N2FkaXF6a2N4",
+    "barcode": "XDICMFOW",
+    "type": "AA",
+    "date": "2024-12-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 3,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/14567309/filing-history/MzQ0ODU1Mzg4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m6oE7T4tYtaPxAwSJffA0gmfcTiWOLvQo_zuEMvAPyI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjAyNzE1NWFkaXF6a2N4",
+    "barcode": "XDF8V16I",
+    "type": "AD01",
+    "date": "2024-11-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-11-05",
+      "old_address": "6 Alderson Court 1 Goodman Crescent Croydon CR0 2nd England",
+      "new_address": "9 Park Road London SE25 6LA"
+    },
+    "pages": 1,
+    "action_date": "2024-11-05",
+    "links": {
+      "self": "/company/14567309/filing-history/MzQ0MjAyNzE1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PpAxSBs7MdqZraEvZ5oFfW6-qqCwsXGg5GuzCA2UUHw"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDIxMjAzMmFkaXF6a2N4",
+    "barcode": "XCIET9HL",
+    "type": "CS01",
+    "date": "2023-12-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-15"
+    },
+    "pages": 3,
+    "action_date": "2023-12-15",
+    "links": {
+      "self": "/company/14567309/filing-history/MzQwNDIxMjAzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ig3tx136f68VUJsxXU_yLx0xUDwVUTfMjvxY0dH0ybY"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDM2ODEwN2FkaXF6a2N4",
+    "barcode": "XBUC8NSY",
+    "type": "NEWINC",
+    "date": "2023-01-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-01-03",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-01-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-01-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-01-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14567309/filing-history/MzM2NDM2ODEwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FQxQlM5aMggn9YSXmolGeCmUgHyT92WP3J9HlYeek3U"
+    }
+  }
+]

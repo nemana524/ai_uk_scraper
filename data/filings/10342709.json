@@ -1,0 +1,522 @@
+[
+  {
+    "transaction_id": "MzQ0NzIxMDk3NGFkaXF6a2N4",
+    "barcode": "ADHNOX9M",
+    "type": "AA",
+    "date": "2024-12-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 6,
+    "action_date": "2024-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzQ0NzIxMDk3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a40DhXFsEowbREXMAFzcUPI1Dw7yu799GUFkGjw0sPk"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzA5MTk2NWFkaXF6a2N4",
+    "barcode": "XDA2C7BS",
+    "type": "CS01",
+    "date": "2024-08-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-22"
+    },
+    "pages": 3,
+    "action_date": "2024-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzQzMzA5MTk2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6BKMV_pilN5Iffd53g_mjx7leABzmd11Nna_gt6wsWY"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDgyMTAwMmFkaXF6a2N4",
+    "barcode": "ACIMXGFM",
+    "type": "AA",
+    "date": "2024-01-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 10,
+    "action_date": "2023-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzQwNDgyMTAwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sboWY98kv7Hel2jzM56voinjIwuJxvU9ShhBN_CcGdo"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTMwOTA1NWFkaXF6a2N4",
+    "barcode": "XCAZKVAZ",
+    "type": "CS01",
+    "date": "2023-08-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-22"
+    },
+    "pages": 3,
+    "action_date": "2023-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzM5MTMwOTA1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/plKZMFCQSHGNp6lDl-r0JwU4mm98E8MuXhnVouckD-g"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTMwNzYxMmFkaXF6a2N4",
+    "barcode": "XCAZKO8A",
+    "type": "PSC04",
+    "date": "2023-08-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-08-23",
+      "psc_name": "Mr Kristopher Ming Sum"
+    },
+    "pages": 2,
+    "action_date": "2022-08-23",
+    "links": {
+      "self": "/company/10342709/filing-history/MzM5MTMwNzYxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MxdKw8I_4yNae-lfwzevnnGmIUDn3z7vgThsBuWrgxc"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzAyMzY0M2FkaXF6a2N4",
+    "barcode": "ABJ7YHRN",
+    "type": "AA",
+    "date": "2022-12-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 7,
+    "action_date": "2022-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzM2MzAyMzY0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QLFtUUBj0T1CDRZ1qZijoEO_9Ky2B-xiGqDrLVn-FmE"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDc0ODU4OWFkaXF6a2N4",
+    "barcode": "XBBXDFSR",
+    "type": "CS01",
+    "date": "2022-09-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-08-22"
+    },
+    "pages": 3,
+    "action_date": "2022-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzM1MDc0ODU4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/R45JRn-YLTRF0LtfIAzU70e3yjCM7IypGn7jUXdq9VI"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzQ2NDU2MWFkaXF6a2N4",
+    "barcode": "AACP8BL7",
+    "type": "AA",
+    "date": "2021-09-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 7,
+    "action_date": "2021-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzMxMzQ2NDU2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j3CdOVERMtApfZ8T8AK6JqKnSH9rtPUppibgLBSGJK4"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjAxNTQyNmFkaXF6a2N4",
+    "barcode": "XABQSX54",
+    "type": "CS01",
+    "date": "2021-08-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-08-22"
+    },
+    "pages": 3,
+    "action_date": "2021-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzMxMjAxNTQyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qAydnDqi-IsnHH-2XcGXtoaUt62vDasslMJzARZ7P3g"
+    }
+  },
+  {
+    "transaction_id": "MzI4Nzg4MDc0OWFkaXF6a2N4",
+    "barcode": "A9KLFXC3",
+    "type": "AA",
+    "date": "2021-01-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 8,
+    "action_date": "2020-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzI4Nzg4MDc0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XpJj9I8xmRmW77nMhKyBor6eM9oZTW-cPqNdWqHIYzA"
+    }
+  },
+  {
+    "transaction_id": "MzI3NjYxMjUxNGFkaXF6a2N4",
+    "barcode": "X9CP46RF",
+    "type": "CS01",
+    "date": "2020-09-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-08-22"
+    },
+    "pages": 3,
+    "action_date": "2020-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzI3NjYxMjUxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ANQgbbABCSwxQYzWIODoeu9yPJYvWHuA8MTKTg6xuSM"
+    }
+  },
+  {
+    "transaction_id": "MzI1MjU3MDUyMGFkaXF6a2N4",
+    "barcode": "A8KAUSJU",
+    "type": "AA",
+    "date": "2019-12-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 8,
+    "action_date": "2019-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzI1MjU3MDUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SNnH7XXvgDUparkiHWMlRyalXWMIQvFIIek8fbBSF-A"
+    }
+  },
+  {
+    "transaction_id": "MzI0NjUwNTEzNGFkaXF6a2N4",
+    "barcode": "X8FR8KE0",
+    "type": "AD01",
+    "date": "2019-10-10",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-10-10",
+      "old_address": "14B Lower North Street Exeter EX4 3ET United Kingdom",
+      "new_address": "45 Preston Street Exeter EX1 1DF"
+    },
+    "pages": 1,
+    "action_date": "2019-10-10",
+    "links": {
+      "self": "/company/10342709/filing-history/MzI0NjUwNTEzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/b_NvTUBX5sIAh2KjmY-hw1fRK9RvB8dTZXoI7Y3Sj4o"
+    }
+  },
+  {
+    "transaction_id": "MzI0MjMzNzc0OWFkaXF6a2N4",
+    "barcode": "X8CD7BRS",
+    "type": "CS01",
+    "date": "2019-08-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-08-22"
+    },
+    "pages": 3,
+    "action_date": "2019-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzI0MjMzNzc0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2UDoBVHHOC9Yt6Rh2TaWvbPd0Gby3MKV876s6CZZYZE"
+    }
+  },
+  {
+    "transaction_id": "MzIzMzE1MzMwMmFkaXF6a2N4",
+    "barcode": "X84FG46J",
+    "type": "PSC04",
+    "date": "2019-04-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2019-04-24",
+      "psc_name": "Mr Kristopher Ming Sum"
+    },
+    "pages": 2,
+    "action_date": "2019-04-24",
+    "links": {
+      "self": "/company/10342709/filing-history/MzIzMzE1MzMwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/V3uKriUXvLcltFWus-gJAmYLDLQSvPNE2th4P8KsoSg"
+    }
+  },
+  {
+    "transaction_id": "MzIzMzE1MzI3OGFkaXF6a2N4",
+    "barcode": "X84FG3ZC",
+    "type": "CH01",
+    "date": "2019-04-29",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-04-24",
+      "officer_name": "Mr Kristopher Ming Sum"
+    },
+    "pages": 2,
+    "action_date": "2019-04-24",
+    "links": {
+      "self": "/company/10342709/filing-history/MzIzMzE1MzI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hzumd67LAsCrlNEHoLC69OBZcVNUJLG5NYZZsseaWys"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDA2MzExM2FkaXF6a2N4",
+    "barcode": "A7WDJ7SJ",
+    "type": "AA",
+    "date": "2019-01-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-03-31"
+    },
+    "pages": 8,
+    "action_date": "2018-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzIyNDA2MzExM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I_AjbIgEP_QCR1OCCWpcY5MrSl677KorG7fZ_ozqjiI"
+    }
+  },
+  {
+    "transaction_id": "MzIxMjYyNTUxN2FkaXF6a2N4",
+    "barcode": "X7CW4AQ2",
+    "type": "CS01",
+    "date": "2018-08-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-08-22"
+    },
+    "pages": 3,
+    "action_date": "2018-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzIxMjYyNTUxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hPX6y0Kr9LtSGZ21K-ZTgC2ie1xLFuDn0ibo1ltnYZI"
+    }
+  },
+  {
+    "transaction_id": "MzIxMDM1MTkwMGFkaXF6a2N4",
+    "barcode": "X7ATSH55",
+    "type": "PSC07",
+    "date": "2018-07-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Robert James Glover",
+      "cessation_date": "2018-07-23"
+    },
+    "pages": 1,
+    "action_date": "2018-07-23",
+    "links": {
+      "self": "/company/10342709/filing-history/MzIxMDM1MTkwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AZ_Gl1DyRD5uLq7t2MeF-JCX7NwisvjxQpX_gPQKsbc"
+    }
+  },
+  {
+    "transaction_id": "MzIxMDM1MTg4MWFkaXF6a2N4",
+    "barcode": "X7ATSG7T",
+    "type": "TM01",
+    "date": "2018-07-23",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Robert James Glover",
+      "termination_date": "2018-07-23"
+    },
+    "pages": 1,
+    "action_date": "2018-07-23",
+    "links": {
+      "self": "/company/10342709/filing-history/MzIxMDM1MTg4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ChYlfSqRMHK5VLkN_UZy8CSF8SpUIUxRmgrFk6oU2XE"
+    }
+  },
+  {
+    "transaction_id": "MzIwODE2MjIxOGFkaXF6a2N4",
+    "barcode": "X78VUZNV",
+    "type": "AA01",
+    "date": "2018-06-25",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2018-08-31",
+      "new_date": "2018-03-31"
+    },
+    "pages": 1,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/10342709/filing-history/MzIwODE2MjIxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eqEwt82xVrTvut9lI5Ksp6GWGXOJcU8TDipcl99BVyI"
+    }
+  },
+  {
+    "transaction_id": "MzIwNTg3MTU3NWFkaXF6a2N4",
+    "barcode": "A76GX35K",
+    "type": "AA",
+    "date": "2018-05-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-08-31"
+    },
+    "pages": 8,
+    "action_date": "2017-08-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzIwNTg3MTU3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/19Pi3ieFc6BrkbhFjDYN78sox4E9c1hti5939N_IULs"
+    }
+  },
+  {
+    "transaction_id": "MzE5NTU3ODIyN2FkaXF6a2N4",
+    "barcode": "X6XWDV6Z",
+    "type": "AD01",
+    "date": "2018-01-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-01-18",
+      "old_address": "16 Hawthorn Close Cullompton EX15 1SL United Kingdom",
+      "new_address": "14B Lower North Street Exeter EX4 3ET"
+    },
+    "pages": 1,
+    "action_date": "2018-01-18",
+    "links": {
+      "self": "/company/10342709/filing-history/MzE5NTU3ODIyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_yzK8jHkps8gLvV8h-TqgWlWAcwhniC9BGziJf7jcVg"
+    }
+  },
+  {
+    "transaction_id": "MzE4NTg5MDY4NGFkaXF6a2N4",
+    "barcode": "X6FGO3FV",
+    "type": "AD01",
+    "date": "2017-09-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2017-09-21",
+      "old_address": "31-32 Southernhay East Exeter Devon EX1 1NX",
+      "new_address": "16 Hawthorn Close Cullompton EX15 1SL"
+    },
+    "pages": 1,
+    "action_date": "2017-09-21",
+    "links": {
+      "self": "/company/10342709/filing-history/MzE4NTg5MDY4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wgKHIECpHIDAvknz02E8SEe3CNKRmz_AZ5ZhNN9WfWw"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzU4ODY2OWFkaXF6a2N4",
+    "barcode": "X6DGIH1K",
+    "type": "CS01",
+    "date": "2017-08-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2017-08-22"
+    },
+    "pages": 3,
+    "action_date": "2017-08-22",
+    "links": {
+      "self": "/company/10342709/filing-history/MzE4MzU4ODY2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WjJPS1hckZU83X99I8V9nKY_iStQZ4PUUN9MfBvEWdA"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzU4ODA2N2FkaXF6a2N4",
+    "barcode": "X6DGHTNE",
+    "type": "PSC09",
+    "date": "2017-08-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement",
+    "description_values": {
+      "withdrawal_date": "2017-08-23"
+    },
+    "pages": 2,
+    "action_date": "2017-08-23",
+    "links": {
+      "self": "/company/10342709/filing-history/MzE4MzU4ODA2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UGcwArXxnm_53ZCwV-gpVbJgpGkE-AQXDnTF3cX-SFg"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzU4Nzk3OWFkaXF6a2N4",
+    "barcode": "X6DGHPVV",
+    "type": "PSC01",
+    "date": "2017-08-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Robert James Glover",
+      "notification_date": "2016-08-23"
+    },
+    "pages": 2,
+    "action_date": "2016-08-23",
+    "links": {
+      "self": "/company/10342709/filing-history/MzE4MzU4Nzk3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xo_C7coFMblPCo61Y4gV6w9h8kY9nJxUAR_SaK-FR7c"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzU3OTQxOWFkaXF6a2N4",
+    "barcode": "X6DG8SNF",
+    "type": "PSC01",
+    "date": "2017-08-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Kristopher Ming Sum",
+      "notification_date": "2016-08-23"
+    },
+    "pages": 2,
+    "action_date": "2016-08-23",
+    "links": {
+      "self": "/company/10342709/filing-history/MzE4MzU3OTQxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/829aLYje0N6YUqhjyzr9Qh3p-gKvPb_h5MtLgPzmpds"
+    }
+  },
+  {
+    "transaction_id": "MzE1NTcwODE0M2FkaXF6a2N4",
+    "barcode": "A5DMOLSZ",
+    "type": "CICINC",
+    "date": "2016-08-23",
+    "category": "incorporation",
+    "description": "incorporation-community-interest-company",
+    "pages": 57,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10342709/filing-history/MzE1NTcwODE0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xw7bm9bRjyuqsogRZSb4JCpcgk2SqFvI60qHVUV9-Wk"
+    }
+  }
+]

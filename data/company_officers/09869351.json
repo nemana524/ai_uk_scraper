@@ -1,0 +1,35 @@
+{
+  "company_number": "09869351",
+  "company_name": "TECH AND TOY STORE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "UMAIR, Hina",
+      "officer_role": "director",
+      "appointed_on": "2015-11-12",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Hameway",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E6 6HP",
+        "premises": "67"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/09869351/appointments/VmI0Bo2YXd34SgNe1gLVa-31UNE",
+        "officer": {
+          "appointments": "/officers/peGfxe-_wIWAtmlRGJgrn0Pk9Gg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

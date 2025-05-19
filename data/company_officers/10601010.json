@@ -1,0 +1,35 @@
+{
+  "company_number": "10601010",
+  "company_name": "TECH MAGICIAN LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BEVERIDGE, Carl",
+      "officer_role": "director",
+      "appointed_on": "2017-02-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Managing Director",
+      "address": {
+        "address_line_1": "Chapel Lane",
+        "country": "England",
+        "locality": "Brampton",
+        "postal_code": "CA8 1RX",
+        "premises": "Henderson Close"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/10601010/appointments/HpfPhDMmtiTatKNGbZVUfYxDdas",
+        "officer": {
+          "appointments": "/officers/eEqlQWh3f9m0S8WTdzeflecjUdQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

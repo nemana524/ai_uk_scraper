@@ -1,0 +1,65 @@
+[
+  {
+    "transaction_id": "MzQ0ODkzNjAyMGFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-12-31",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15033363/filing-history/MzQ0ODkzNjAyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T1FEshLXQRTGDSByXo3TKJ9cffYnMbJW4JQBn5U4T7A"
+    }
+  },
+  {
+    "transaction_id": "MzQzODUzMjY3N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-10-15",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15033363/filing-history/MzQzODUzMjY3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/irYp1lhtqajQcH4qa5vd1RbUikIVp6T7zprTYOnCBGc"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzczMDY0MmFkaXF6a2N4",
+    "barcode": "XC8LY5AX",
+    "type": "NEWINC",
+    "date": "2023-07-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-07-27",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-07-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-07-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15033363/filing-history/MzM4NzczMDY0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yu0Z8T8UZLul8D7p2W0TapVG9SRHrP1hcrXtk-5L4RQ"
+    }
+  }
+]

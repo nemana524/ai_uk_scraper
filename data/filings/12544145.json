@@ -1,0 +1,261 @@
+[
+  {
+    "transaction_id": "MzQ2MjQ0ODkxNmFkaXF6a2N4",
+    "barcode": "XE0G8ESJ",
+    "type": "CS01",
+    "date": "2025-04-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-04-01"
+    },
+    "pages": 3,
+    "action_date": "2025-04-01",
+    "links": {
+      "self": "/company/12544145/filing-history/MzQ2MjQ0ODkxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0VfJCv0dqNc_CRkL-JvZLGwPh4_cn4FMY-4trZHZWRU"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MTI1NzUyMGFkaXF6a2N4",
+    "barcode": "XDU9A1UO",
+    "type": "AA",
+    "date": "2025-01-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-04-30"
+    },
+    "pages": 4,
+    "action_date": "2024-04-30",
+    "links": {
+      "self": "/company/12544145/filing-history/MzQ1MTI1NzUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ixhSLtNPouhP03M4G1f7OO0KRxmeuYCgXWEhUT96jXo"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzIzNzU2MGFkaXF6a2N4",
+    "barcode": "XDA51MEA",
+    "type": "CH01",
+    "date": "2024-08-23",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-08-23",
+      "officer_name": "Mr Grzegorz Cedro"
+    },
+    "pages": 2,
+    "action_date": "2024-08-23",
+    "links": {
+      "self": "/company/12544145/filing-history/MzQzMzIzNzU2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SFgMTNNYgOr0axkYG2a_P2Xh56lyrOfgPzidNGm1dSo"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzIzNzE4NmFkaXF6a2N4",
+    "barcode": "XDA51KZF",
+    "type": "AD01",
+    "date": "2024-08-23",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-08-23",
+      "old_address": "Craven House 40-44 Uxbridge Road London W5 2BS United Kingdom",
+      "new_address": "28-29 the Broadway London W5 2NP"
+    },
+    "pages": 1,
+    "action_date": "2024-08-23",
+    "links": {
+      "self": "/company/12544145/filing-history/MzQzMzIzNzE4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9llSF-W4IhSRlKLX_zok2I05xmKz2ZNkGQp8c5RFjmE"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzkzMTAzN2FkaXF6a2N4",
+    "barcode": "XD0SHHE0",
+    "type": "CS01",
+    "date": "2024-04-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-04-01"
+    },
+    "pages": 3,
+    "action_date": "2024-04-01",
+    "links": {
+      "self": "/company/12544145/filing-history/MzQxNzkzMTAzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-Fenm3YLM9SQXlxwVpXtIbLHGc8UbMkzlpvIP242FIs"
+    }
+  },
+  {
+    "transaction_id": "MzQwODk5MDYwM2FkaXF6a2N4",
+    "barcode": "XCVIQPBE",
+    "type": "AA",
+    "date": "2024-01-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-04-30"
+    },
+    "pages": 4,
+    "action_date": "2023-04-30",
+    "links": {
+      "self": "/company/12544145/filing-history/MzQwODk5MDYwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/z7T2ZgR4Om-B0UOkWE3Aqf1AQuXzrpnEGzuI5jsPp2A"
+    }
+  },
+  {
+    "transaction_id": "MzM3NTk4Njg1MWFkaXF6a2N4",
+    "barcode": "XC1AQ6V6",
+    "type": "CS01",
+    "date": "2023-04-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-04-01"
+    },
+    "pages": 3,
+    "action_date": "2023-04-01",
+    "links": {
+      "self": "/company/12544145/filing-history/MzM3NTk4Njg1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eI_SGcS5m4J2Neyo9-WxEP8if8Spmj8lBHdO0iFbNL0"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjgwMzM3OGFkaXF6a2N4",
+    "barcode": "XBVTO3JC",
+    "type": "AA",
+    "date": "2023-01-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-04-30"
+    },
+    "pages": 4,
+    "action_date": "2022-04-30",
+    "links": {
+      "self": "/company/12544145/filing-history/MzM2NjgwMzM3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zU3lepHFPcAGtfVvqqEwl6dbbcAvAJQeQ2s0XkvVAnk"
+    }
+  },
+  {
+    "transaction_id": "MzMzNjI3NDczMmFkaXF6a2N4",
+    "barcode": "XB1W7C7F",
+    "type": "CS01",
+    "date": "2022-04-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-04-01"
+    },
+    "pages": 3,
+    "action_date": "2022-04-01",
+    "links": {
+      "self": "/company/12544145/filing-history/MzMzNjI3NDczMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CBtg_GxVwaTf3FQ2Cg2brCJkdLvQAN7g-TsFeQZBpmY"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjcwODM5MGFkaXF6a2N4",
+    "barcode": "XA8425NT",
+    "type": "AA",
+    "date": "2021-07-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-04-30"
+    },
+    "pages": 4,
+    "action_date": "2021-04-30",
+    "links": {
+      "self": "/company/12544145/filing-history/MzMwNjcwODM5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SycrET8GcHqjVh1PYaxY8GIYcRw1w5SF8qMXbC6D1Hc"
+    }
+  },
+  {
+    "transaction_id": "MzMwNDEzOTg2NGFkaXF6a2N4",
+    "barcode": "XA6E8EW1",
+    "type": "PSC01",
+    "date": "2021-06-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Grzegorz Cedro",
+      "notification_date": "2021-06-11"
+    },
+    "pages": 2,
+    "action_date": "2021-06-11",
+    "links": {
+      "self": "/company/12544145/filing-history/MzMwNDEzOTg2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QHMgiQe-bWlVZXjO2W-FZ3LeYmvk8dh-EdMtNEGmN_c"
+    }
+  },
+  {
+    "transaction_id": "MzMwNDEzOTgyM2FkaXF6a2N4",
+    "barcode": "XA6E8EU1",
+    "type": "PSC09",
+    "date": "2021-06-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement",
+    "description_values": {
+      "withdrawal_date": "2021-06-11"
+    },
+    "pages": 2,
+    "action_date": "2021-06-11",
+    "links": {
+      "self": "/company/12544145/filing-history/MzMwNDEzOTgyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eW1zQUBMSk2bvDz76dXtDO82zQ8JtF2wm522R2zd1ks"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODkzODA1NmFkaXF6a2N4",
+    "barcode": "XA38NL3E",
+    "type": "CS01",
+    "date": "2021-04-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-04-01"
+    },
+    "pages": 3,
+    "action_date": "2021-04-01",
+    "links": {
+      "self": "/company/12544145/filing-history/MzI5ODkzODA1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dhzx83XbqblBZGubnzQ6haNYiFYkcN3FnPRvBSh57z0"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTUyMjg4OGFkaXF6a2N4",
+    "barcode": "X921Q7Z9",
+    "type": "NEWINC",
+    "date": "2020-04-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2020-04-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-04-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10,000"
+            }
+          ]
+        },
+        "action_date": "2020-04-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 27,
+    "links": {
+      "self": "/company/12544145/filing-history/MzI2MTUyMjg4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S9aISJ7eyH4R3-LR5es32rJWYTkJKuGRnOn0OQzrRso"
+    }
+  }
+]

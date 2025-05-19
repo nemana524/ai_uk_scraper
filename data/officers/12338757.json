@@ -1,0 +1,96 @@
+[
+  {
+    "address": {
+      "address_line_1": "Colvestone Crescent",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E8 2LH",
+      "premises": "16a"
+    },
+    "appointed_on": "2019-11-28",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/12338757/appointments/x93umYVsAa2wjfYFD-Csw4y50Kg",
+      "officer": {
+        "appointments": "/officers/5qXer183gI8n4zWqBiNguaz2Ync/appointments"
+      }
+    },
+    "name": "ARMITAGE, Bessie",
+    "officer_role": "secretary",
+    "person_number": "264836530001"
+  },
+  {
+    "address": {
+      "address_line_1": "Colvestone Crescent",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E8 2LH",
+      "premises": "16a"
+    },
+    "appointed_on": "2019-11-28",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/12338757/appointments/W1ENUQyb38OYltgyYUSJ2Ymm4aI",
+      "officer": {
+        "appointments": "/officers/otP1ccL1gTnV25GdYJlvWHKY-mE/appointments"
+      }
+    },
+    "name": "HAJJAR, Oliver",
+    "officer_role": "secretary",
+    "person_number": "264836520001"
+  },
+  {
+    "address": {
+      "address_line_1": "Colvestone Crescent",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E8 2LH",
+      "premises": "16a"
+    },
+    "appointed_on": "2019-11-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/12338757/appointments/dlDNL9fQHOByxL-TViR8scQ63_g",
+      "officer": {
+        "appointments": "/officers/Zl3uVaIFJjrkLah3nFieJ_4Xivs/appointments"
+      }
+    },
+    "name": "ARMITAGE, Bessie",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "264836510001"
+  },
+  {
+    "address": {
+      "address_line_1": "Colvestone Crescent",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E8 2LH",
+      "premises": "16a"
+    },
+    "appointed_on": "2019-11-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/12338757/appointments/j5mAQA0NlZHjYJPwx9t5OYV9YqY",
+      "officer": {
+        "appointments": "/officers/2NUjRjaM85p9n7eE7NhThu3-ORY/appointments"
+      }
+    },
+    "name": "HAJJAR, Oliver",
+    "nationality": "American",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "247541570002"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "company_number": "09673317",
+  "company_name": "TECH LEADERS LTD",
+  "company_status": "active",
+  "date_of_creation": "2015-07-07",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Office 14 58 Peregrine Road",
+    "address_line_2": "Hainault",
+    "country": "United Kingdom",
+    "locality": "Ilford",
+    "postal_code": "IG6 3SZ",
+    "region": "Essex"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-30",
+      "period_end_on": "2024-07-30",
+      "period_start_on": "2023-07-31",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": false,
+      "period_end_on": "2025-07-30",
+      "period_start_on": "2024-07-31"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-30",
+    "overdue": false
+  },
+  "etag": "903b0b1658a6765fddf76758dccbfaa049b4a7ec"
+}

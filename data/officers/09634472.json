@@ -1,0 +1,28 @@
+[
+  {
+    "address": {
+      "country": "United Kingdom",
+      "locality": "Liverpool",
+      "postal_code": "L3 9AG",
+      "premises": "20 Chapel Street"
+    },
+    "appointed_on": "2015-06-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1970
+    },
+    "links": {
+      "self": "/company/09634472/appointments/jYKQeC0MjuQDRZJoQ8mQ9KQIsd4",
+      "officer": {
+        "appointments": "/officers/3RpjAi9FG42HlwlanBZl0unm_HQ/appointments"
+      }
+    },
+    "name": "SALMON, Jonathan Peter",
+    "nationality": "British",
+    "occupation": "Consultant",
+    "officer_role": "director",
+    "person_number": "56065420008"
+  }
+]

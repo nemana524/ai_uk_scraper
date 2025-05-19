@@ -1,0 +1,115 @@
+[
+  {
+    "transaction_id": "MzQ0Mjg0ODM5MmFkaXF6a2N4",
+    "barcode": "XDFPA16B",
+    "type": "PSC01",
+    "date": "2024-11-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Bilal Nawaz Kiani",
+      "notification_date": "2024-11-12"
+    },
+    "pages": 2,
+    "action_date": "2024-11-12",
+    "links": {
+      "self": "/company/16006361/filing-history/MzQ0Mjg0ODM5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4dPpls0RcUIuhwrVrkv622LMolDjE6HHbvA0h7vg7Vo"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Mjg0ODI5MmFkaXF6a2N4",
+    "barcode": "XDFPA0U9",
+    "type": "PSC07",
+    "date": "2024-11-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Sarah Zenib Bibi",
+      "cessation_date": "2024-11-12"
+    },
+    "pages": 1,
+    "action_date": "2024-11-12",
+    "links": {
+      "self": "/company/16006361/filing-history/MzQ0Mjg0ODI5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jp7T2j75BuTCkbK8awEIdDkBjxlh7qqGxWGSkKIrULs"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Mjg0ODIyMWFkaXF6a2N4",
+    "barcode": "XDFPA0NC",
+    "type": "TM01",
+    "date": "2024-11-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Sarah Zenib Bibi",
+      "termination_date": "2024-11-12"
+    },
+    "pages": 1,
+    "action_date": "2024-11-12",
+    "links": {
+      "self": "/company/16006361/filing-history/MzQ0Mjg0ODIyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D_wIXg2dROKLt-6T7i20d2W0nGunLE_CEo7CDft9Qro"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Mjg0ODIwN2FkaXF6a2N4",
+    "barcode": "XDFPA0IW",
+    "type": "AP01",
+    "date": "2024-11-12",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Bilal Nawaz Kiani",
+      "appointment_date": "2024-11-12"
+    },
+    "pages": 2,
+    "action_date": "2024-11-12",
+    "links": {
+      "self": "/company/16006361/filing-history/MzQ0Mjg0ODIwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xKgafUlekcG6PY9rK6uGdStqAQrAfHjDhChJN_-YGBY"
+    }
+  },
+  {
+    "transaction_id": "MzQzODc3ODI2MGFkaXF6a2N4",
+    "barcode": "XDDAOFAI",
+    "type": "NEWINC",
+    "date": "2024-10-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-10-08",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-08",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-10-08",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-10-08"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/16006361/filing-history/MzQzODc3ODI2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sP7o7v3JD-cha_eVP_vb2_b9IIx0_NhZ87Xmca7YEqo"
+    }
+  }
+]

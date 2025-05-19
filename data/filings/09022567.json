@@ -1,0 +1,636 @@
+[
+  {
+    "transaction_id": "MzQ2NTM3MDczM2FkaXF6a2N4",
+    "barcode": "XE213H6Q",
+    "type": "CS01",
+    "date": "2025-05-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-05-02"
+    },
+    "pages": 3,
+    "action_date": "2025-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzQ2NTM3MDczM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5s-izSdZQbKXXLJNb1QVbITBeifVJ-ZEg52yrBA6Gq8"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NTM2NzM2OGFkaXF6a2N4",
+    "barcode": "XE2133GA",
+    "type": "AD01",
+    "date": "2025-05-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-05-07",
+      "old_address": "321 - 323 Office 7636 High Road Romford RM6 6AX England",
+      "new_address": "321 - 323 High Road Office 7636 Romford Essex RM6 6AX"
+    },
+    "pages": 1,
+    "action_date": "2025-05-07",
+    "links": {
+      "self": "/company/09022567/filing-history/MzQ2NTM2NzM2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i1Eusy7bHcglRHAa45wztD5-419Cdk_nkHa--m-GSHQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NjcxNzk4NWFkaXF6a2N4",
+    "barcode": "XDX9LDCA",
+    "type": "AD01",
+    "date": "2025-02-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-02-27",
+      "old_address": "12 Old Bond Street Mayfair London W1S 4PW England",
+      "new_address": "321 - 323 Office 7636 High Road Romford RM6 6AX"
+    },
+    "pages": 1,
+    "action_date": "2025-02-27",
+    "links": {
+      "self": "/company/09022567/filing-history/MzQ1NjcxNzk4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZuCDbGhdycFbRnxi4zZhJR-kOBwRMdEYDRHiO8QI1R0"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NjU1NTU5NGFkaXF6a2N4",
+    "barcode": "XDX6SYS9",
+    "type": "AA",
+    "date": "2025-02-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 3,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzQ1NjU1NTU5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QpFCm0cTJc3R4IjvPz_aLlZvTlhbHW1ssi_87xMKEQA"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjE0NDY5NWFkaXF6a2N4",
+    "barcode": "XD39DE1U",
+    "type": "CS01",
+    "date": "2024-05-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-02"
+    },
+    "pages": 3,
+    "action_date": "2024-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzQyMjE0NDY5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vya7eIw3-sdeeSFphp-b7ane00GUJoabrpGMYb7DBvY"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzAwNjM2N2FkaXF6a2N4",
+    "barcode": "XCXXBR29",
+    "type": "AA",
+    "date": "2024-02-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 3,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzQxMzAwNjM2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WINkelQyU2p4xVg7sQrqNbG70KZseaStiZWiudiEzh8"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDY2MDk0OGFkaXF6a2N4",
+    "barcode": "XCWI4EOW",
+    "type": "AD01",
+    "date": "2024-02-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-02-09",
+      "old_address": "124 City Road London EC1V 2NX England",
+      "new_address": "12 Old Bond Street Mayfair London W1S 4PW"
+    },
+    "pages": 1,
+    "action_date": "2024-02-09",
+    "links": {
+      "self": "/company/09022567/filing-history/MzQxMDY2MDk0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9ORJUBdWVPzYGQc5lCr8fe0U26KrL7lyMc1dY9PMGk4"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTQ5NjA3NmFkaXF6a2N4",
+    "barcode": "XC3LN3XO",
+    "type": "CS01",
+    "date": "2023-05-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-05-02"
+    },
+    "pages": 3,
+    "action_date": "2023-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzM3OTQ5NjA3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Trxe7dCLhRkR01kYWaDc1n_EezufGwv0hHPMy6jDMJU"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTQ5NTEzNWFkaXF6a2N4",
+    "barcode": "XC3LMZHM",
+    "type": "CH01",
+    "date": "2023-05-15",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-01",
+      "officer_name": "Ms Tolu Olubanjo"
+    },
+    "pages": 2,
+    "action_date": "2023-05-01",
+    "links": {
+      "self": "/company/09022567/filing-history/MzM3OTQ5NTEzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/njzQQq20XmITzhwQIPIYfdVPMYZBlZey1brt0pGkb_o"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTAzNTg2NmFkaXF6a2N4",
+    "barcode": "XBYAUS7L",
+    "type": "AA",
+    "date": "2023-02-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-05-31"
+    },
+    "pages": 3,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzM3MTAzNTg2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bQOtGmIOfEqtal0XQ07oGDUP7FT9hG8dugwNJ95P3vM"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzE5NDg1MGFkaXF6a2N4",
+    "barcode": "XB6NLJ02",
+    "type": "AD01",
+    "date": "2022-06-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-06-21",
+      "old_address": "Kemp House City Road London EC1V 2NX England",
+      "new_address": "124 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "action_date": "2022-06-21",
+    "links": {
+      "self": "/company/09022567/filing-history/MzM0MzE5NDg1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F66BvZCsyqbhrAKBy4erFIQ6QdjUm88toiQ7dxNQIsA"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzE5NDI4OGFkaXF6a2N4",
+    "barcode": "XB6NLGGH",
+    "type": "TM01",
+    "date": "2022-06-21",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Olufemi Olubanjoko",
+      "termination_date": "2022-06-21"
+    },
+    "pages": 1,
+    "action_date": "2022-06-21",
+    "links": {
+      "self": "/company/09022567/filing-history/MzM0MzE5NDI4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z76827SQwkTjHCCCihVjpjwvzQV4vqvg6KHHyiI6QyQ"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzE5NDE2N2FkaXF6a2N4",
+    "barcode": "XB6NLG0Z",
+    "type": "PSC07",
+    "date": "2022-06-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Olubanjoko Olubanjoko",
+      "cessation_date": "2022-06-21"
+    },
+    "pages": 1,
+    "action_date": "2022-06-21",
+    "links": {
+      "self": "/company/09022567/filing-history/MzM0MzE5NDE2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZquJ_xfu8QczUNmBqvUEnyjfuD153KR8fCNL1h0rXY8"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTM0MTA2MmFkaXF6a2N4",
+    "barcode": "XB41L3FL",
+    "type": "CS01",
+    "date": "2022-05-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-05-02"
+    },
+    "pages": 3,
+    "action_date": "2022-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzMzOTM0MTA2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/h-oN6E_cdPceEaAjyHR6Ut_Y66Iqi1z-IGQRkv6lQiE"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTM1MjQyNGFkaXF6a2N4",
+    "barcode": "XAYTIN5L",
+    "type": "AA",
+    "date": "2022-02-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-05-31"
+    },
+    "pages": 3,
+    "action_date": "2021-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzMzMTM1MjQyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/owi3TSoHzdeTtK6Qmg9KNU0_fOt4sDtb39OCYWVDgAE"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjgwMTIyM2FkaXF6a2N4",
+    "barcode": "XA5I6ZQQ",
+    "type": "AA",
+    "date": "2021-05-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-05-31"
+    },
+    "pages": 3,
+    "action_date": "2020-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzMwMjgwMTIyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/V_oVeQvOV3HQJBCjIFQXa6T7ukQD_ZrPi2WO6CGXkWY"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTk2NjY2NWFkaXF6a2N4",
+    "barcode": "XA548J5G",
+    "type": "CS01",
+    "date": "2021-05-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-05-02"
+    },
+    "pages": 3,
+    "action_date": "2021-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzMwMTk2NjY2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oF13Yz7Q-pqnC_LfJZ5oDKoRZbMgtrN3Z1aflUqwfnU"
+    }
+  },
+  {
+    "transaction_id": "MzI2NTI3NTgxNWFkaXF6a2N4",
+    "barcode": "X95HKPSG",
+    "type": "CS01",
+    "date": "2020-05-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-05-02"
+    },
+    "pages": 3,
+    "action_date": "2020-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzI2NTI3NTgxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KHAuBOxP_4ekJZHyXIx1t7hFU6aH2AifnP970EPcfnM"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODU4NjkzN2FkaXF6a2N4",
+    "barcode": "X8ZRK17V",
+    "type": "AA",
+    "date": "2020-02-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-05-31"
+    },
+    "pages": 2,
+    "action_date": "2019-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzI1ODU4NjkzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MH3GmL4Dusz5p79nMQoOPx4x0rooYBzc8b8BNiqVj7M"
+    }
+  },
+  {
+    "transaction_id": "MzIzNTg1Nzk1NWFkaXF6a2N4",
+    "barcode": "X86N235L",
+    "type": "CS01",
+    "date": "2019-05-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-05-02"
+    },
+    "pages": 3,
+    "action_date": "2019-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzIzNTg1Nzk1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hyTFNJTSzYtuxw8dPn5ky1kMY5z3dFGG67SxIGkEKAw"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTg0MjQ4OGFkaXF6a2N4",
+    "barcode": "X836PYM8",
+    "type": "AD01",
+    "date": "2019-04-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-04-11",
+      "old_address": "1112a High Road Romford RM6 4AH",
+      "new_address": "Kemp House City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "action_date": "2019-04-11",
+    "links": {
+      "self": "/company/09022567/filing-history/MzIzMTg0MjQ4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i2sRBAAunB80wDRAl0sYej35BVWpi2gby8lTZV4ZFF4"
+    }
+  },
+  {
+    "transaction_id": "MzIyNzg2MzAxNWFkaXF6a2N4",
+    "barcode": "X802MP2J",
+    "type": "AA",
+    "date": "2019-02-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-05-31"
+    },
+    "pages": 2,
+    "action_date": "2018-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzIyNzg2MzAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XCtNzpvgeUhZVWhBY6QuDXoOc8ZkruYmxTUmo3-5oSM"
+    }
+  },
+  {
+    "transaction_id": "MzIwNTEyMzE1OGFkaXF6a2N4",
+    "barcode": "X762BJQJ",
+    "type": "CS01",
+    "date": "2018-05-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-05-02"
+    },
+    "pages": 3,
+    "action_date": "2018-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzIwNTEyMzE1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j7Z6UwEqKpqNFiLwuncfYCUdHl1h0gtbcEw_oH9YLE0"
+    }
+  },
+  {
+    "transaction_id": "MzE5NzAwNjc2MmFkaXF6a2N4",
+    "barcode": "X6Z58OD5",
+    "type": "AA",
+    "date": "2018-02-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-05-31"
+    },
+    "pages": 2,
+    "action_date": "2017-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzE5NzAwNjc2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/h5akiqUZpR6HlrUgdd4o_Z9S0JD5K3DF-bGcaJJuXi4"
+    }
+  },
+  {
+    "transaction_id": "MzE3NDk1NTAxMGFkaXF6a2N4",
+    "barcode": "X65OMWYB",
+    "type": "CS01",
+    "date": "2017-05-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-05-02"
+    },
+    "pages": 6,
+    "action_date": "2017-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzE3NDk1NTAxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Rhp5-Ksa6JuOwaHVq4WYfZibw5ywUlbsbd6sWkvzo-0"
+    }
+  },
+  {
+    "transaction_id": "MzE3MTQ4NTU2MmFkaXF6a2N4",
+    "barcode": "X62M540Q",
+    "type": "AA",
+    "date": "2017-03-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2016-05-31"
+    },
+    "pages": 3,
+    "action_date": "2016-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzE3MTQ4NTU2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vy5YZSte-DotIWaxOVur9ZVXAwZWhwg0-C5eQK_mVIk"
+    }
+  },
+  {
+    "transaction_id": "MzE0OTc2NzA4OGFkaXF6a2N4",
+    "barcode": "X58684E9",
+    "type": "AR01",
+    "date": "2016-05-31",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-05-31",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-05-31",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2016-05-31"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2016-05-02"
+    },
+    "pages": 3,
+    "action_date": "2016-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzE0OTc2NzA4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YQgdSeJfu15ryftJ78ooDcb6zxhh8nF4Jk764kcku1s"
+    }
+  },
+  {
+    "transaction_id": "MzE0MDU0ODU1OWFkaXF6a2N4",
+    "barcode": "X4ZFNAWC",
+    "type": "AA",
+    "date": "2016-01-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2015-05-31"
+    },
+    "pages": 3,
+    "action_date": "2015-05-31",
+    "links": {
+      "self": "/company/09022567/filing-history/MzE0MDU0ODU1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3tM5bCJ4s6qXqi6jLxwXkI2jVM_h_rIzuWYMGriBRbU"
+    }
+  },
+  {
+    "transaction_id": "MzEyNDIyNjY3MWFkaXF6a2N4",
+    "barcode": "X48HWSQ9",
+    "type": "AR01",
+    "date": "2015-05-30",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-05-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-05-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2015-05-30"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2015-05-02"
+    },
+    "pages": 3,
+    "action_date": "2015-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzEyNDIyNjY3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qUzgO0dGEQdW-FkQ2xo3Aam5pJtl8dnhN_wzkF_wxOM"
+    }
+  },
+  {
+    "transaction_id": "MzEyNDIyNjY2NmFkaXF6a2N4",
+    "barcode": "X48HWSIQ",
+    "type": "CH01",
+    "date": "2015-05-30",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2014-09-20",
+      "officer_name": "Olufemi Olubanjoko"
+    },
+    "pages": 2,
+    "action_date": "2014-09-20",
+    "links": {
+      "self": "/company/09022567/filing-history/MzEyNDIyNjY2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tQ3XMWqJUTN976JQKtk_k7PKJwdbCDrzdt614KWtY1g"
+    }
+  },
+  {
+    "transaction_id": "MzExMjQ2Mzc2MmFkaXF6a2N4",
+    "barcode": "X3LUI7WQ",
+    "type": "AP01",
+    "date": "2014-12-01",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Tolu Olubanjoko",
+      "appointment_date": "2014-05-02"
+    },
+    "pages": 2,
+    "action_date": "2014-05-02",
+    "links": {
+      "self": "/company/09022567/filing-history/MzExMjQ2Mzc2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f3ocGhltu0Joke5ByZHRnFD0v5AP6VZdiorUKS4U6Hs"
+    }
+  },
+  {
+    "transaction_id": "MzExMTI2NDc3MWFkaXF6a2N4",
+    "barcode": "X3KHAPGB",
+    "type": "AD01",
+    "date": "2014-11-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2014-11-12",
+      "old_address": "100 Hill View Drive London SE28 0LL United Kingdom",
+      "new_address": "1112a High Road Romford RM6 4AH"
+    },
+    "pages": 1,
+    "action_date": "2014-11-12",
+    "links": {
+      "self": "/company/09022567/filing-history/MzExMTI2NDc3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pm96fjEc3qpiHDnNYvvd628z-BUhXV1HV-8oFjxygno"
+    }
+  },
+  {
+    "transaction_id": "MzA5OTI5MDk4NmFkaXF6a2N4",
+    "barcode": "X36ZOTGA",
+    "type": "NEWINC",
+    "date": "2014-05-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2014-05-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2014-05-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2014-05-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 27,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09022567/filing-history/MzA5OTI5MDk4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TtATfW8iKtbmK3DNN3zZcTxtT5sKDkZ1uPLonGyeYBs"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "company_number": "15100236",
+  "company_name": "TECH COINSQ INTERNATIONAL LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MENG, Hans Peter, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2023-08-28",
+      "resigned_on": null,
+      "nationality": "Swiss",
+      "country_of_residence": "Switzerland",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Dorfstrasse 15",
+        "country": "Switzerland",
+        "locality": "3600, Basel",
+        "postal_code": "3600",
+        "premises": "15"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1951
+      },
+      "links": {
+        "self": "/company/15100236/appointments/cztmKCXqG0j5TcHPFn0iee9JMpI",
+        "officer": {
+          "appointments": "/officers/h9gzDYoLXX9H5IamUIncX5h2KA0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SLATER, Steve Aston, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2023-08-28",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "New Gloucestershire St",
+        "country": "United Kingdom",
+        "locality": "London United",
+        "postal_code": "N17 9FQ",
+        "premises": "27"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15100236/appointments/gLAiPmdjzgSMVTMEE5WGo3JIgjY",
+        "officer": {
+          "appointments": "/officers/50PVIeYFdzN2XNZKWGyGnSxEpmo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

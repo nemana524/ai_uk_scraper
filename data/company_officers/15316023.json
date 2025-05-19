@@ -1,0 +1,36 @@
+{
+  "company_number": "15316023",
+  "company_name": "TECH FRONTIERS CONSULTING LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "COSTLEY WHITE, Theodora",
+      "officer_role": "director",
+      "appointed_on": "2023-11-29",
+      "resigned_on": null,
+      "nationality": "Italian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director And Founder",
+      "address": {
+        "address_line_1": "45 Fitzroy Street",
+        "address_line_2": "Fitzrovia",
+        "country": "United Kingdom",
+        "locality": "London,",
+        "postal_code": "W1T 6EB",
+        "premises": "4th Floor, Silverstream House"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/15316023/appointments/JfKyxdzPrZ6_N31stnL-aZZk0OI",
+        "officer": {
+          "appointments": "/officers/pCcVUdMyLD1pyhvvVpOn0D_OQ3o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

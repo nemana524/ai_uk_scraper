@@ -1,0 +1,36 @@
+{
+  "company_number": "08819278",
+  "company_name": "TECH BUSINESS SOLUTIONS UK LTD.",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ISHMAIL, Moshood Olawunmi",
+      "officer_role": "director",
+      "appointed_on": "2013-12-18",
+      "resigned_on": null,
+      "nationality": "Nigerian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Web Designer",
+      "address": {
+        "address_line_1": "Selsdon Avenue",
+        "address_line_2": "Woodley",
+        "country": "England",
+        "locality": "Reading",
+        "postal_code": "RG5 4PG",
+        "premises": "52"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/08819278/appointments/m0f1w5gm7Fynz5mhJqqu1VWViAo",
+        "officer": {
+          "appointments": "/officers/eZomB-AuOEcO0jtAV6ASVKHD1Yk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "transaction_id": "MzQ1NzU4MTE4M2FkaXF6a2N4",
+    "barcode": "XDXQ7OXM",
+    "type": "CS01",
+    "date": "2025-03-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-21"
+    },
+    "pages": 3,
+    "action_date": "2025-01-21",
+    "links": {
+      "self": "/company/15431839/filing-history/MzQ1NzU4MTE4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/giF1HvrxP2L2yuZhIxZy3Y7vSL6vPZBqqOoxj3-2ulY"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDE1NjU2NmFkaXF6a2N4",
+    "barcode": "XDAT4YU1",
+    "type": "AD01",
+    "date": "2024-09-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-09-02",
+      "old_address": "369B Croydon Road Wallington SM6 7NY England",
+      "new_address": "287 Lower Addiscombe Road Croydon CR0 6RE"
+    },
+    "pages": 1,
+    "action_date": "2024-09-02",
+    "links": {
+      "self": "/company/15431839/filing-history/MzQzNDE1NjU2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8JWNoI4qKICbwEp0z-a9hV7L7nqSkfE6xXtZGXADb-4"
+    }
+  },
+  {
+    "transaction_id": "MzQwODMwNTMyNmFkaXF6a2N4",
+    "barcode": "XCV57DWO",
+    "type": "NEWINC",
+    "date": "2024-01-22",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-01-22",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-22",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-01-22",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-01-22"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15431839/filing-history/MzQwODMwNTMyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KRZSJRJcbRFv5RWYsQngCztdVL-wm_aRYNpOIPmmzf4"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Pitt Street",
+      "address_line_2": "Denton",
+      "country": "United Kingdom",
+      "locality": "Manchester",
+      "postal_code": "M34 6PT",
+      "premises": "12"
+    },
+    "appointed_on": "2019-03-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1924
+    },
+    "links": {
+      "self": "/company/11874518/appointments/lq9N7JhONKoFNg7nqKRgWRmFX3o",
+      "officer": {
+        "appointments": "/officers/2vJyumTLKR9rwzzBrRKtkJs4xB4/appointments"
+      }
+    },
+    "name": "ALARABI ALHAG, Bashir",
+    "nationality": "Libyan",
+    "occupation": "Unemployed",
+    "officer_role": "director",
+    "person_number": "256211910001"
+  }
+]

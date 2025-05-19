@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Anderton Road",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B11 1NB",
+      "premises": "122"
+    },
+    "appointed_on": "2024-08-16",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Wales",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1986
+    },
+    "links": {
+      "self": "/company/15902401/appointments/IQwiReJzN18n1tNz6siSm_BiXqo",
+      "officer": {
+        "appointments": "/officers/kESscGHQtuPIZ2faESQvaXrqkto/appointments"
+      }
+    },
+    "name": "ASHFAQ, Ali",
+    "nationality": "Pakistani",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "326228580001"
+  }
+]

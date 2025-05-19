@@ -1,0 +1,59 @@
+[
+  {
+    "transaction_id": "MzQ0MjQ2MTA1M2FkaXF6a2N4",
+    "barcode": "XDFEH1M2",
+    "type": "CERTNM",
+    "date": "2024-11-08",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2024-11-07"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-11-08",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed house of the needy LTD\\certificate issued on 08/11/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/15979295/filing-history/MzQ0MjQ2MTA1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jMPm5dcsYdmpxGzR12x6m1ni_WX_3VlZXOM8ern_ccI"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzIyMjI0OWFkaXF6a2N4",
+    "barcode": "XDCDX72Y",
+    "type": "NEWINC",
+    "date": "2024-09-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-09-25",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15979295/filing-history/MzQzNzIyMjI0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VnK5xLbNKM6_BlNGvwvqfm6F2oTV85VSHaNnrAyhEkg"
+    }
+  }
+]

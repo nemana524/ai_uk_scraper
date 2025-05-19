@@ -1,0 +1,36 @@
+{
+  "company_number": "SC510537",
+  "company_name": "TECH BASE BEARSDEN LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SAGHIR, Yasir",
+      "officer_role": "director",
+      "appointed_on": "2015-07-10",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Scotland",
+      "occupation": "Shop Keeper",
+      "address": {
+        "address_line_1": "Canniesburn Toll",
+        "address_line_2": "Bearsden",
+        "country": "Scotland",
+        "locality": "Glasgow",
+        "postal_code": "G61 2QU",
+        "premises": "3"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/SC510537/appointments/nUPeX2jyeT5rAMf1tzE4QrKZv74",
+        "officer": {
+          "appointments": "/officers/a-oXvTGARcoD3OXoXx2AxBBmiE0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

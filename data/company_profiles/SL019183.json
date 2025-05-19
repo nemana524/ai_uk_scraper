@@ -1,0 +1,22 @@
+{
+  "company_number": "SL019183",
+  "company_name": "TECH ACTIVITY L.P.",
+  "company_status": "active",
+  "date_of_creation": "2014-12-30",
+  "type": "limited-partnership",
+  "jurisdiction": "scotland",
+  "sic_codes": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "5 South Charlotte Street",
+    "country": "Scotland",
+    "locality": "Edinburgh",
+    "postal_code": "EH2 4AN"
+  },
+  "annual_return": {},
+  "accounts": {},
+  "etag": "1acf1de4f608234a04d4459e8dad01000b19a912"
+}

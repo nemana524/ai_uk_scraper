@@ -1,0 +1,31 @@
+{
+  "company_number": "14962027",
+  "company_name": "TECH INNOVATIOUS GROUP INC LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-06-26",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47910",
+    "62020",
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "17 King Edwards Road",
+    "country": "England",
+    "locality": "Ruislip",
+    "postal_code": "HA4 7AE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    }
+  },
+  "etag": "3cd537b1ac64380bfef53ef90a66612dd9f2cf35"
+}

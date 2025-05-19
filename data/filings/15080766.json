@@ -1,0 +1,191 @@
+[
+  {
+    "transaction_id": "MzQ2NTIyOTc2OGFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-05-13",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15080766/filing-history/MzQ2NTIyOTc2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8XSi43ahr6cCWn-GW2ouI9GOxe9u6BUNj4ojQKP6wQY"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTE1MTAyN2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-02-25",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15080766/filing-history/MzQ1NTE1MTAyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HGbC1rpFmk59G1RVODIG11w4FuIT7vhfFQvhA4A5bY4"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzM1OTEzOWFkaXF6a2N4",
+    "barcode": "XCI65S2P",
+    "type": "CS01",
+    "date": "2023-12-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-12-04"
+    },
+    "pages": 5,
+    "action_date": "2023-12-04",
+    "links": {
+      "self": "/company/15080766/filing-history/MzQwMzM1OTEzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m9NlIatJzyyWOonLBaYLDk4os_PwlCZLn6PeaZN37vI"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzM1NzY0OWFkaXF6a2N4",
+    "barcode": "XCI65L09",
+    "type": "PSC08",
+    "date": "2023-12-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "notification-of-a-person-with-significant-control-statement",
+    "pages": 2,
+    "links": {
+      "self": "/company/15080766/filing-history/MzQwMzM1NzY0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8x-b0z_DvTasevqsthh-7AKBcEC-VvHtqHNtMaUpIu4"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzM1NTEzOGFkaXF6a2N4",
+    "barcode": "XCI6595M",
+    "type": "TM01",
+    "date": "2023-12-11",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Nuala Thornton",
+      "termination_date": "2023-12-02"
+    },
+    "pages": 1,
+    "action_date": "2023-12-02",
+    "links": {
+      "self": "/company/15080766/filing-history/MzQwMzM1NTEzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sfmj1hfJuO5JmVcMZU0JqoUHRuLtJFcsxTDns7s1gmQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzM1NTEyOGFkaXF6a2N4",
+    "barcode": "XCI6595E",
+    "type": "AP01",
+    "date": "2023-12-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Md Faishal Ahmed",
+      "appointment_date": "2023-12-02"
+    },
+    "pages": 2,
+    "action_date": "2023-12-02",
+    "links": {
+      "self": "/company/15080766/filing-history/MzQwMzM1NTEyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bsIPZHgVpk88uV_3O7DnIt9khHl9X_psjAp2nJzskoQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzM1NTEzM2FkaXF6a2N4",
+    "barcode": "XCI6597M",
+    "type": "AD01",
+    "date": "2023-12-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-12-11",
+      "old_address": ", Dept 2, 43 Owston Road, Carcroft, Doncaster, DN6 8DA, United Kingdom",
+      "new_address": "21 Hessel Street London E1 2LR"
+    },
+    "pages": 1,
+    "action_date": "2023-12-11",
+    "links": {
+      "self": "/company/15080766/filing-history/MzQwMzM1NTEzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HmAYyo8s7Q4zmEAeMrd0aPn3L0VDGWj8rvQnq2Hi2IM"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzM1NTEyMGFkaXF6a2N4",
+    "barcode": "XCI65956",
+    "type": "PSC07",
+    "date": "2023-12-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nuala Thornton",
+      "cessation_date": "2023-12-02"
+    },
+    "pages": 1,
+    "action_date": "2023-12-02",
+    "links": {
+      "self": "/company/15080766/filing-history/MzQwMzM1NTEyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XkVtHmbctWKyvPi2qzi8uImBODxjQRfnqaVRta3Ny0o"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzM1NTExNWFkaXF6a2N4",
+    "barcode": "XCI658YB",
+    "type": "PSC07",
+    "date": "2023-12-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Cfs Secretaries Limited",
+      "cessation_date": "2023-12-02"
+    },
+    "pages": 1,
+    "action_date": "2023-12-02",
+    "links": {
+      "self": "/company/15080766/filing-history/MzQwMzM1NTExNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HrVEy2a-TDJx9nY8To1O3RISJFj6PX5APSj_-pxd3Pg"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTk3Njk2M2FkaXF6a2N4",
+    "barcode": "XCA3MBAP",
+    "type": "NEWINC",
+    "date": "2023-08-18",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-08-18",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-18",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-08-18",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-08-18"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 12,
+    "links": {
+      "self": "/company/15080766/filing-history/MzM4OTk3Njk2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0VY0V2hM-bsSCpRykIzXr4ITPIsGUfTZrqf0_mttCNw"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-03-31",
+      "period_end_on": "2023-03-31",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH CLEANING LTD",
+  "company_number": "14002901",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-03-24"
+  },
+  "date_of_cessation": "2024-09-10",
+  "date_of_creation": "2022-03-25",
+  "etag": "75df7437fe3c2fe49b160548f90f2c9f1d251007",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14002901/persons-with-significant-control",
+    "self": "/company/14002901",
+    "filing_history": "/company/14002901/filing-history",
+    "officers": "/company/14002901/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "14002901 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "registered_office_is_in_dispute": true,
+  "sic_codes": [
+    "81229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

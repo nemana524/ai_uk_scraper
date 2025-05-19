@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH LOGIC LONDON LIMITED",
+  "company_number": "11246500",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-08",
+    "next_due": "2026-02-22",
+    "next_made_up_to": "2026-02-08",
+    "overdue": false
+  },
+  "date_of_creation": "2018-03-10",
+  "etag": "acadfb740dac2b407b1a7153b3cc0ec7048f8a32",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11246500/persons-with-significant-control",
+    "self": "/company/11246500",
+    "filing_history": "/company/11246500/filing-history",
+    "officers": "/company/11246500/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "The Basement, Goodmayes House",
+    "address_line_2": "45-49 Goodmayes Road",
+    "country": "England",
+    "locality": "Ilford",
+    "postal_code": "IG3 9UF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

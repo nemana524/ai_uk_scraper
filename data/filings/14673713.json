@@ -1,0 +1,155 @@
+[
+  {
+    "transaction_id": "MzQ2MTU5OTkxNGFkaXF6a2N4",
+    "barcode": "XDZZR8EX",
+    "type": "AA",
+    "date": "2025-04-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2025-03-31"
+    },
+    "pages": 4,
+    "action_date": "2025-03-31",
+    "links": {
+      "self": "/company/14673713/filing-history/MzQ2MTU5OTkxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dA4JlWge2mhL9Ej5e0N22CLB4KqY-WZEnXpUn1Nkeh0"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTU5Mzk2OWFkaXF6a2N4",
+    "barcode": "XDYPDGNH",
+    "type": "CERTNM",
+    "date": "2025-03-21",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2025-03-15"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2025-03-21",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed tech worker LTD\\certificate issued on 21/03/25"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/14673713/filing-history/MzQ1OTU5Mzk2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xbKn9CaQYOvwmhwC3h7rv6qgXH1cpdfipRR3NOGRmO8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NDc3OTMxN2FkaXF6a2N4",
+    "barcode": "XDW7OJBU",
+    "type": "CS01",
+    "date": "2025-02-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-12"
+    },
+    "pages": 3,
+    "action_date": "2025-02-12",
+    "links": {
+      "self": "/company/14673713/filing-history/MzQ1NDc3OTMxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uH-dLLBCIsUhjxQETHhfYIlsBSIRhK_nz7Vo4LXJEyY"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTg3NDkzOGFkaXF6a2N4",
+    "barcode": "XDTFSSFV",
+    "type": "AA",
+    "date": "2025-01-03",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-02-28"
+    },
+    "pages": 4,
+    "action_date": "2024-02-28",
+    "links": {
+      "self": "/company/14673713/filing-history/MzQ0OTg3NDkzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fZ2oqZobr_WxNY3pEHs3OWTI7AX5emaUy3hjQaWxpkQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTg3Mzc0MGFkaXF6a2N4",
+    "barcode": "XDTFSNFM",
+    "type": "AA01",
+    "date": "2025-01-03",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2025-02-28",
+      "new_date": "2025-03-31"
+    },
+    "pages": 1,
+    "action_date": "2025-03-31",
+    "links": {
+      "self": "/company/14673713/filing-history/MzQ0OTg3Mzc0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rJ4gCkAD7qRxKJU7XPu40h6_A9A_AfxyftydWpD9Xv4"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzA0MTQzMmFkaXF6a2N4",
+    "barcode": "XD09FUEW",
+    "type": "CS01",
+    "date": "2024-04-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-02-17"
+    },
+    "pages": 3,
+    "action_date": "2024-02-17",
+    "links": {
+      "self": "/company/14673713/filing-history/MzQxNzA0MTQzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K5f5XaaAWeBx_CYvYZ9bAfZNTi_A49DGChjFNgAhKTo"
+    }
+  },
+  {
+    "transaction_id": "MzM2OTcxNzA3NWFkaXF6a2N4",
+    "barcode": "XBXJTG0Z",
+    "type": "NEWINC",
+    "date": "2023-02-18",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-02-18",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-02-18",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-02-18"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/14673713/filing-history/MzM2OTcxNzA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EJhosGULJs7N_jxLYgRhW3VgNFKU8IS9k5XL_8-nZK8"
+    }
+  }
+]

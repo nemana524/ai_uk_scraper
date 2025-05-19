@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-28",
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-29"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DESIGN SOLUTIONS LIMITED",
+  "company_number": "07544903",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-28",
+    "next_due": "2026-03-14",
+    "next_made_up_to": "2026-02-28",
+    "overdue": false
+  },
+  "date_of_creation": "2011-02-28",
+  "etag": "a91e42a19339504bd05201ad6bdb8932b7f199ae",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-02-28",
+  "links": {
+    "persons_with_significant_control": "/company/07544903/persons-with-significant-control",
+    "self": "/company/07544903",
+    "filing_history": "/company/07544903/filing-history",
+    "officers": "/company/07544903/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "The 1921 Building East Malling Business Centre",
+    "address_line_2": "New Road",
+    "country": "England",
+    "locality": "East Malling",
+    "postal_code": "ME19 6BJ",
+    "region": "West Malling"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "74100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

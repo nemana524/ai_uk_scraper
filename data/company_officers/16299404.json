@@ -1,0 +1,36 @@
+{
+  "company_number": "16299404",
+  "company_name": "TECH IT TRAINING LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NICHOLLS, Paul",
+      "officer_role": "director",
+      "appointed_on": "2025-03-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Principle Consultant",
+      "address": {
+        "address_line_1": "Arundel Drive",
+        "address_line_2": "Ranskill",
+        "country": "England",
+        "locality": "Retford",
+        "postal_code": "DN22 8PG",
+        "premises": "7"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1976
+      },
+      "links": {
+        "self": "/company/16299404/appointments/JQYKvwb87H4j8K6Kcfq-zhBlpjQ",
+        "officer": {
+          "appointments": "/officers/o1dCGMGlPB3MRJfXUODyX6ljC7A/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

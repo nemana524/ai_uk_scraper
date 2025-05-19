@@ -1,0 +1,388 @@
+[
+  {
+    "transaction_id": "MzQ2NDY3NDM3N2FkaXF6a2N4",
+    "barcode": "XE1KYJNN",
+    "type": "AA",
+    "date": "2025-04-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 7,
+    "links": {
+      "self": "/company/14245575/filing-history/MzQ2NDY3NDM3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VA7-3xvRETHxQ4ZszukgSSbHohe5RlTk5SQSaE3ji8g"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODY4OTU5MWFkaXF6a2N4",
+    "barcode": "XDYBSU0Z",
+    "type": "CS01",
+    "date": "2025-03-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-14"
+    },
+    "pages": 3,
+    "action_date": "2025-03-14",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQ1ODY4OTU5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DU3TYPCnLEP3WOa2gpDvDe5O7O_ch62EdsexpC9zyy8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDY4NzMzOWFkaXF6a2N4",
+    "barcode": "XDU3O60Y",
+    "type": "AP01",
+    "date": "2025-01-12",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Ghenadie Cretu",
+      "appointment_date": "2025-01-11"
+    },
+    "pages": 2,
+    "action_date": "2025-01-11",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQ1MDY4NzMzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YPSEDCyW1j3NYFULg_cuv4lc8qUKUingTcpFlaFF27Q"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDY4NzI2OWFkaXF6a2N4",
+    "barcode": "XDU3O5RN",
+    "type": "TM01",
+    "date": "2025-01-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Andreea Lungu",
+      "termination_date": "2025-01-10"
+    },
+    "pages": 1,
+    "action_date": "2025-01-10",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQ1MDY4NzI2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3Gxdm6JgjWTiYMJ44fNW0g5VPWmhWLaJLbNxdBjgKuw"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjI2OTM1MWFkaXF6a2N4",
+    "barcode": "XD5SVDNF",
+    "type": "AA",
+    "date": "2024-06-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 7,
+    "links": {
+      "self": "/company/14245575/filing-history/MzQyNjI2OTM1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8SwGcK-uly2cs4dfF5ngmTrcTTTbL6g1FkMx-9bzd3U"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU5MTE5MGFkaXF6a2N4",
+    "barcode": "XCYWHTAH",
+    "type": "CS01",
+    "date": "2024-03-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-03-14"
+    },
+    "pages": 5,
+    "action_date": "2024-03-14",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQxNDU5MTE5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZNRoQ8WHukGvZV87-g85ov1x4O3LTbW4IQs7kXHcOvs"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU5MDg4N2FkaXF6a2N4",
+    "barcode": "XCYWHSUZ",
+    "type": "AP01",
+    "date": "2024-03-14",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Andreea Lungu",
+      "appointment_date": "2024-03-01"
+    },
+    "pages": 2,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQxNDU5MDg4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dw0fwUWRvmUsAykiJtN7_7PEEo7IzWCP3CjjaKQJekw"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU5MDc3MGFkaXF6a2N4",
+    "barcode": "XCYWHSIH",
+    "type": "PSC01",
+    "date": "2024-03-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ghenadie Cretu",
+      "notification_date": "2024-03-01"
+    },
+    "pages": 2,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQxNDU5MDc3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ux5iC9BK3kz3w3ex8SKK8CuKqO55YGyWnlJOvRoDel0"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU5MDIxM2FkaXF6a2N4",
+    "barcode": "XCYWHS2R",
+    "type": "TM01",
+    "date": "2024-03-14",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ghenadie Cretu",
+      "termination_date": "2024-03-01"
+    },
+    "pages": 1,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQxNDU5MDIxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T5sqmndNa05pq9l_g-4S42j2_5rncZsb1NcMSIcuCI8"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU5MDIxMGFkaXF6a2N4",
+    "barcode": "XCYWHRVK",
+    "type": "PSC07",
+    "date": "2024-03-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ghenadie Cretu",
+      "cessation_date": "2024-03-01"
+    },
+    "pages": 1,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQxNDU5MDIxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/d0EChR2pT7BLy1iR9oXX_y-Xd5d0CeiESwvYWwmhwLs"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjM1MTkwMGFkaXF6a2N4",
+    "barcode": "XCXM6EB7",
+    "type": "AD01",
+    "date": "2024-02-25",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-02-25",
+      "old_address": "42 Grundy Street London E14 6DR England",
+      "new_address": "32 Ive Farm Close London E10 5HQ"
+    },
+    "pages": 1,
+    "action_date": "2024-02-25",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQxMjM1MTkwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xTHYkk2ukcFdvmMfxyUWgjJHYedTNVOtcaCO8vD__HA"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjc3MjI5NGFkaXF6a2N4",
+    "barcode": "XCU8WBEI",
+    "type": "CH01",
+    "date": "2024-01-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-12-25",
+      "officer_name": "Ghenadie Cretu"
+    },
+    "pages": 2,
+    "action_date": "2023-12-25",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQwNjc3MjI5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mOXZajOELBHpI9GvkCwMtSeZF6g49VwOvzzedGxT8eM"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjc3MjI1NGFkaXF6a2N4",
+    "barcode": "XCU8WB8J",
+    "type": "PSC04",
+    "date": "2024-01-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-12-23",
+      "psc_name": "Ghenadie Cretu"
+    },
+    "pages": 2,
+    "action_date": "2023-12-23",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQwNjc3MjI1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qyn4x9kk8TVCuh3SNbiuEjNfHO059Dq1oumA5FC8M4M"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjc3MjE2NWFkaXF6a2N4",
+    "barcode": "XCU8WAVF",
+    "type": "AD01",
+    "date": "2024-01-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-01-07",
+      "old_address": "44 Grundy Street London E14 6DR England",
+      "new_address": "42 Grundy Street London E14 6DR"
+    },
+    "pages": 1,
+    "action_date": "2024-01-07",
+    "links": {
+      "self": "/company/14245575/filing-history/MzQwNjc3MjE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jy9Tm3IPYup45OfQMgezyTLt93JGHiF7AH6O74vwWNI"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDU4MjQxOGFkaXF6a2N4",
+    "barcode": "XCAJK6AJ",
+    "type": "CH01",
+    "date": "2023-08-23",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-08-23",
+      "officer_name": "Ghenadie Cretu"
+    },
+    "pages": 2,
+    "action_date": "2023-08-23",
+    "links": {
+      "self": "/company/14245575/filing-history/MzM5MDU4MjQxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LRkKomu6yrkBQXSMuToYDkLBQF7mB_xbaYEBVtlTHzk"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDU4MjI4NmFkaXF6a2N4",
+    "barcode": "XCAJK5W9",
+    "type": "PSC04",
+    "date": "2023-08-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-08-23",
+      "psc_name": "Ghenadie Cretu"
+    },
+    "pages": 2,
+    "action_date": "2023-08-23",
+    "links": {
+      "self": "/company/14245575/filing-history/MzM5MDU4MjI4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UYjs7BKsteYoeNz6f7hJHIo5hZ53fjJCkw3uyp4NxUo"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDU4MjIwMGFkaXF6a2N4",
+    "barcode": "XCAJK5F7",
+    "type": "AD01",
+    "date": "2023-08-23",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-23",
+      "old_address": "8 Tolcarne Avenue Tolcarne Avenue Fishermead Milton Keynes MK6 2BU England",
+      "new_address": "44 Grundy Street London E14 6DR"
+    },
+    "pages": 1,
+    "action_date": "2023-08-23",
+    "links": {
+      "self": "/company/14245575/filing-history/MzM5MDU4MjIwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yEs2GoF9zv3_miRIZJ6z851w-3EmOFvc-5J06JZLOgA"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzIwNzM2OGFkaXF6a2N4",
+    "barcode": "XC88MBSR",
+    "type": "CS01",
+    "date": "2023-07-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-07-19"
+    },
+    "pages": 3,
+    "action_date": "2023-07-19",
+    "links": {
+      "self": "/company/14245575/filing-history/MzM4NzIwNzM2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ejRzt8QqMuXkEPupKnq9bPBTOnDh5OD2UcfzZgVav40"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTQ2NjYxM2FkaXF6a2N4",
+    "barcode": "XC3LJKNF",
+    "type": "AD01",
+    "date": "2023-05-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-15",
+      "old_address": "3 Cranesbill Place Conniburrow Milton Keynes MK14 7DE England",
+      "new_address": "8 Tolcarne Avenue Tolcarne Avenue Fishermead Milton Keynes MK6 2BU"
+    },
+    "pages": 1,
+    "action_date": "2023-05-15",
+    "links": {
+      "self": "/company/14245575/filing-history/MzM3OTQ2NjYxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9g_42FQQFShzKiYA2sVkIpQP2zjlwZfPR9pBCzqrkwY"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjEwMjU4NmFkaXF6a2N4",
+    "barcode": "XB8LFOD5",
+    "type": "NEWINC",
+    "date": "2022-07-20",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-07-20",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-20",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-07-20",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-07-20"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14245575/filing-history/MzM0NjEwMjU4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MvTWRAJlzG9jAW7XgnTExNtrbQYeaQOdfPGRsDIfu_4"
+    }
+  }
+]

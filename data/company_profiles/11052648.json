@@ -1,0 +1,44 @@
+{
+  "company_number": "11052648",
+  "company_name": "TECH AND JAM LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2017-11-07",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "21 Front St",
+    "country": "England",
+    "locality": "York",
+    "postal_code": "YO24 3BW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "etag": "85f086c0430afed652a2f504d53eac11cc55f0b0"
+}

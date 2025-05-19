@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "next_accounts": {
+      "due_on": "2025-02-16",
+      "overdue": true,
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-05-16"
+    },
+    "next_due": "2025-02-16",
+    "next_made_up_to": "2024-05-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH FORWARD LTD",
+  "company_number": "14872648",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-15",
+    "next_due": "2025-05-29",
+    "next_made_up_to": "2025-05-15",
+    "overdue": false
+  },
+  "date_of_creation": "2023-05-16",
+  "etag": "82c2afb03120601fe3f4862bb9deb6f8808ef9cb",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14872648/persons-with-significant-control",
+    "self": "/company/14872648",
+    "filing_history": "/company/14872648/filing-history",
+    "officers": "/company/14872648/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Unit H2, The Brewery Quarter",
+    "address_line_2": "High Street",
+    "country": "United Kingdom",
+    "locality": "Cheltenham",
+    "postal_code": "GL50 3FF",
+    "region": "Gloucestershire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

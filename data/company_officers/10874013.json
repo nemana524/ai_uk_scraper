@@ -1,0 +1,35 @@
+{
+  "company_number": "10874013",
+  "company_name": "TECH INLINE LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AHMED, Bilal",
+      "officer_role": "director",
+      "appointed_on": "2017-07-19",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Owner",
+      "address": {
+        "address_line_1": "Naseby Road",
+        "country": "England",
+        "locality": "Dagenham",
+        "postal_code": "RM10 7JP",
+        "premises": "40"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/10874013/appointments/RgyTCe1WF790zzgYKXDukSR30eE",
+        "officer": {
+          "appointments": "/officers/Kr9DUuJ-mfl-cK0m3YNzt7BLxcM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

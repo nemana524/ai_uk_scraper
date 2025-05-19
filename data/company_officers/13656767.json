@@ -1,0 +1,37 @@
+{
+  "company_number": "13656767",
+  "company_name": "TECH DEPARTMENT LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "HASSANEIN, Alaa",
+      "officer_role": "director",
+      "appointed_on": "2021-10-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Conduit Street",
+        "address_line_2": "Unit 5, The Central Business Centre",
+        "country": "United Kingdom",
+        "locality": "Leicester",
+        "postal_code": "LE2 0JN",
+        "premises": "54",
+        "region": "Leicestershire"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/13656767/appointments/uFKUgsHxHdv16epnlZIzoKHRO64",
+        "officer": {
+          "appointments": "/officers/USC5XruGHHZN70U2p-Hg_vbeKFA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

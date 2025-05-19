@@ -1,0 +1,107 @@
+[
+  {
+    "transaction_id": "MzQ2NTUzMTUzM2FkaXF6a2N4",
+    "barcode": "XE23WH85",
+    "type": "CS01",
+    "date": "2025-05-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-26"
+    },
+    "pages": 3,
+    "action_date": "2025-03-26",
+    "links": {
+      "self": "/company/15597017/filing-history/MzQ2NTUzMTUzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LeVQ7vAI-rKPME5WoIE18zBcHFvgECz3ABM8erwIRj0"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjI3ODAxNWFkaXF6a2N4",
+    "barcode": "XE08GDNS",
+    "type": "CH01",
+    "date": "2025-04-11",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2025-04-11",
+      "officer_name": "Mr Neil Radley"
+    },
+    "pages": 2,
+    "action_date": "2025-04-11",
+    "links": {
+      "self": "/company/15597017/filing-history/MzQ2MjI3ODAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i-hoD42yd4auHXD0uMYpxnHojFTfrS_TAtzl7AX7koA"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjI3ODAxNmFkaXF6a2N4",
+    "barcode": "XE08GDM1",
+    "type": "PSC04",
+    "date": "2025-04-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2025-04-11",
+      "psc_name": "Mr Neil Radley"
+    },
+    "pages": 2,
+    "action_date": "2025-04-11",
+    "links": {
+      "self": "/company/15597017/filing-history/MzQ2MjI3ODAxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/h_lxgA-piHT7q-bO7a9_-Vc6XcFxuUWQUSacygHcU50"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjI3ODAxNGFkaXF6a2N4",
+    "barcode": "XE08GDEU",
+    "type": "AD01",
+    "date": "2025-04-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-04-11",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ United Kingdom",
+      "new_address": "5 Heol Glaslyn Caldicot Gwent NP26 4PG"
+    },
+    "pages": 1,
+    "action_date": "2025-04-11",
+    "links": {
+      "self": "/company/15597017/filing-history/MzQ2MjI3ODAxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AIUG9NGpEhvagL-I6k3Ct4kpjivn3QBCpD7PE7ljJvs"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjI1OTIyOGFkaXF6a2N4",
+    "barcode": "XCZSX3HM",
+    "type": "NEWINC",
+    "date": "2024-03-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2024-03-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-03-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-03-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 30,
+    "links": {
+      "self": "/company/15597017/filing-history/MzQxNjI1OTIyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WRJ0gKUgqYLkhiE0TEH3ijQt4ibx-kqdAL_B-rJdF1M"
+    }
+  }
+]

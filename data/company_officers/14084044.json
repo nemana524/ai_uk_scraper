@@ -1,0 +1,36 @@
+{
+  "company_number": "14084044",
+  "company_name": "TECH COG LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "WILKES, Carl John",
+      "officer_role": "director",
+      "appointed_on": "2022-05-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Thorncliffe Road",
+        "country": "England",
+        "locality": "Barrow-In-Furness",
+        "postal_code": "LA14 5PZ",
+        "premises": "Rangemore",
+        "region": "Cumbria"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/14084044/appointments/3n2Z5R00XkHa4R-JDmruw7VYSsA",
+        "officer": {
+          "appointments": "/officers/u6jAoLkbG3-dTZLAbblMn4HCy3A/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

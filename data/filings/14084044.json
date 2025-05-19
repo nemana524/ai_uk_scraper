@@ -1,0 +1,188 @@
+[
+  {
+    "transaction_id": "MzQ2NTMzMDM0MmFkaXF6a2N4",
+    "barcode": "XE20YTX7",
+    "type": "CS01",
+    "date": "2025-05-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-05-07"
+    },
+    "pages": 3,
+    "action_date": "2025-05-07",
+    "links": {
+      "self": "/company/14084044/filing-history/MzQ2NTMzMDM0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6rbZhY4Le-HcN8wVmAhWYeMwCAyx21Xkd6yKfhjjBsM"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MzA2NTUyMWFkaXF6a2N4",
+    "barcode": "XE0OFZY3",
+    "type": "EW02",
+    "date": "2025-04-17",
+    "category": "officers",
+    "subcategory": "register",
+    "description": "withdrawal-of-the-directors-residential-address-register-information-from-the-public-register",
+    "pages": 1,
+    "links": {
+      "self": "/company/14084044/filing-history/MzQ2MzA2NTUyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xuh1O3eMLZtDqiZ0gsyEWmztQkVaqgnRchK62giLEuw"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDA3NDg0MWFkaXF6a2N4",
+    "barcode": "XDDZ1BGO",
+    "type": "AD01",
+    "date": "2024-10-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-10-18",
+      "old_address": "1 Victoria Court Oxford Street Barrow-in-Furness LA14 5WD England",
+      "new_address": "Rangemore Thorncliffe Road Barrow-in-Furness Cumbria LA14 5PZ"
+    },
+    "pages": 1,
+    "action_date": "2024-10-18",
+    "links": {
+      "self": "/company/14084044/filing-history/MzQ0MDA3NDg0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Di_imJTfCi2jiidrhwH-AO5qjDWRNkLLSzS2w3yB3GU"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDA3NDc1NGFkaXF6a2N4",
+    "barcode": "XDDZ1B9D",
+    "type": "EH02",
+    "date": "2024-10-18",
+    "category": "officers",
+    "subcategory": "register",
+    "description": "elect-to-keep-the-directors-residential-address-register-information-on-the-public-register",
+    "pages": 1,
+    "links": {
+      "self": "/company/14084044/filing-history/MzQ0MDA3NDc1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SnNVY4EFDO3n4gaf4v87xgtPdKJp85z4IU8CwXjWBJY"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTcyNDUwM2FkaXF6a2N4",
+    "barcode": "XD5I60T5",
+    "type": "AA",
+    "date": "2024-06-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 4,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/14084044/filing-history/MzQyNTcyNDUwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XC0mGzNvEDdyndP4ori-_bBjc6m4khS_FUWG2hR4R8Q"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDg0NTY1MGFkaXF6a2N4",
+    "barcode": "XD2L84YJ",
+    "type": "CS01",
+    "date": "2024-05-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-07"
+    },
+    "pages": 3,
+    "action_date": "2024-05-07",
+    "links": {
+      "self": "/company/14084044/filing-history/MzQyMDg0NTY1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Tdh8r5QpPOkfFCOvNqDcRYkH3C6C1XLziWRPn9j5I0"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDU4MDgxM2FkaXF6a2N4",
+    "barcode": "XD2AUM7M",
+    "type": "CS01",
+    "date": "2024-05-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-02"
+    },
+    "pages": 3,
+    "action_date": "2024-05-02",
+    "links": {
+      "self": "/company/14084044/filing-history/MzQyMDU4MDgxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/trMEPhbT_wnrt05EjhJzuHM3IksXBBZOQgtjlMOFdrk"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzEwNjcyM2FkaXF6a2N4",
+    "barcode": "XC5RK6DN",
+    "type": "AA",
+    "date": "2023-06-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 4,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/14084044/filing-history/MzM4MzEwNjcyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o4BAGvqA_Y8mGw2iGvf339RAmLQhczqBnTflc1tqC-k"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODY1MzkxM2FkaXF6a2N4",
+    "barcode": "XC2V9Z97",
+    "type": "CS01",
+    "date": "2023-05-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-05-02"
+    },
+    "pages": 3,
+    "action_date": "2023-05-02",
+    "links": {
+      "self": "/company/14084044/filing-history/MzM3ODY1MzkxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EZD0rnlMS9A_rYmC-lVsvKQEA3NtLdsvg1KXKshrte4"
+    }
+  },
+  {
+    "transaction_id": "MzMzODE0MTI2NWFkaXF6a2N4",
+    "barcode": "XB3886QB",
+    "type": "NEWINC",
+    "date": "2022-05-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-05-03",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-05-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-05-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-05-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14084044/filing-history/MzMzODE0MTI2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/77vPWtmpKVUvJpneT0bsRBm5iiUpDOnDT0t_ux_Dulw"
+    }
+  }
+]

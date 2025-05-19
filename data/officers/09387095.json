@@ -1,0 +1,60 @@
+[
+  {
+    "address": {
+      "address_line_1": "Rumer Hill Business Estate",
+      "address_line_2": "Rumer Hill Road",
+      "country": "England",
+      "locality": "Cannock",
+      "postal_code": "WS11 0ET",
+      "premises": "Unit 10",
+      "region": "Staffordshire"
+    },
+    "appointed_on": "2015-01-13",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/09387095/appointments/Rx05nTXJvOMos13oxeZgUiwqQTk",
+      "officer": {
+        "appointments": "/officers/1p5epoWJOzqhruNhqQK4Vy_0oug/appointments"
+      }
+    },
+    "name": "DOUGLAS, Lewis Wayne",
+    "nationality": "British",
+    "occupation": "Labourer",
+    "officer_role": "director",
+    "person_number": "194064940001"
+  },
+  {
+    "address": {
+      "address_line_1": "Rumer Hill Business Estate",
+      "address_line_2": "Rumer Hill Road",
+      "country": "England",
+      "locality": "Cannock",
+      "postal_code": "WS11 0ET",
+      "premises": "10",
+      "region": "Staffordshire"
+    },
+    "appointed_on": "2015-01-13",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/09387095/appointments/beXtf5lDOnniTK-Ops8YQeioRJI",
+      "officer": {
+        "appointments": "/officers/PDsKjHLl8b2ofTgbGV-8ZoR591Y/appointments"
+      }
+    },
+    "name": "DOUGLAS, Rhiannon Leigh",
+    "nationality": "British",
+    "occupation": "Secretary",
+    "officer_role": "director",
+    "person_number": "194064950001"
+  }
+]

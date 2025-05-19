@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH 4.0 HOLDINGS LTD",
+  "company_number": "13721582",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-02",
+    "next_due": "2025-11-16",
+    "next_made_up_to": "2025-11-02",
+    "overdue": false
+  },
+  "date_of_creation": "2021-11-03",
+  "etag": "21f1bf1b96da6b1d000b88f277c3d161435939eb",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13721582/persons-with-significant-control",
+    "self": "/company/13721582",
+    "filing_history": "/company/13721582/filing-history",
+    "officers": "/company/13721582/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Kingston House",
+    "address_line_2": "Myton Street",
+    "country": "United Kingdom",
+    "locality": "Hull",
+    "postal_code": "HU1 2PS",
+    "region": "East Yorkshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "64209"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

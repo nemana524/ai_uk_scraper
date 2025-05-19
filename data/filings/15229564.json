@@ -1,0 +1,240 @@
+[
+  {
+    "transaction_id": "MzQ1NTQxMzY4NGFkaXF6a2N4",
+    "barcode": "XDWNL43S",
+    "type": "AP01",
+    "date": "2025-02-18",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Bakhtiar Ahmed Malik",
+      "appointment_date": "2025-02-17"
+    },
+    "pages": 2,
+    "action_date": "2025-02-17",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQ1NTQxMzY4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5QJMgncCJXyDSkdhRf_WS_rM8o8xIvbDO5mik_Mw_X0"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTQxMzY1MmFkaXF6a2N4",
+    "barcode": "XDWNL41L",
+    "type": "PSC01",
+    "date": "2025-02-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Bakhtiar Ahmed Malik",
+      "notification_date": "2025-02-17"
+    },
+    "pages": 2,
+    "action_date": "2025-02-17",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQ1NTQxMzY1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/usnnWMt88LatoAv0csBoFRbxvFI9BkcCMj4JMJZQXVw"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTQxMzQ4NWFkaXF6a2N4",
+    "barcode": "XDWNL3M7",
+    "type": "PSC07",
+    "date": "2025-02-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Umair Zafar",
+      "cessation_date": "2025-02-17"
+    },
+    "pages": 1,
+    "action_date": "2025-02-17",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQ1NTQxMzQ4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YpwnCkL1pqwMnvxZweuvOf2W6JMsXbZ6_nqY1zSjRr4"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTQxMzQ3OWFkaXF6a2N4",
+    "barcode": "XDWNL3F4",
+    "type": "TM01",
+    "date": "2025-02-18",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Umair Zafar",
+      "termination_date": "2025-02-17"
+    },
+    "pages": 1,
+    "action_date": "2025-02-17",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQ1NTQxMzQ3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/R-J5wPv4x47OdbAD7Owe3VYXl0gb5ISB5eerZpV2YR0"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzcwNzM5NGFkaXF6a2N4",
+    "barcode": "XDG55VG3",
+    "type": "CS01",
+    "date": "2024-11-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-22"
+    },
+    "pages": 4,
+    "action_date": "2024-10-22",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQ0MzcwNzM5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YhHyjrfL0wVsOZ8SRq2hGpp6uMxld7XwZPx09efw0XM"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzcwNjI3NWFkaXF6a2N4",
+    "barcode": "XDG55Q2G",
+    "type": "AP01",
+    "date": "2024-11-18",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Umair Zafar",
+      "appointment_date": "2024-11-14"
+    },
+    "pages": 2,
+    "action_date": "2024-11-14",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQ0MzcwNjI3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ABLbuEWN3-UyLrOmJHiwv_CiVpFOBiO3SqZhUy_oL_A"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzQ2MTUxN2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-10-08",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15229564/filing-history/MzQzNzQ2MTUxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Mc_Kwjkp0c5eJG6_KFTDhzzseo64jJQ5fCJ3FmM1YSI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjE4NTQxMWFkaXF6a2N4",
+    "barcode": "XD9H4N6Z",
+    "type": "AD01",
+    "date": "2024-08-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-08-14",
+      "old_address": "158 Hampton Road Ilford IG1 1PR England",
+      "new_address": "10 st. Andrews Mill Legrams Lane Bradford BD7 2EA"
+    },
+    "pages": 1,
+    "action_date": "2024-08-14",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQzMjE4NTQxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f80wUXRDNtFLFyJQNijm_9vopT0vE1DjlFvaxLDYpsM"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTMwMjE5MWFkaXF6a2N4",
+    "barcode": "XCVTEQT5",
+    "type": "PSC01",
+    "date": "2024-01-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Umair Zafar",
+      "notification_date": "2024-01-29"
+    },
+    "pages": 2,
+    "action_date": "2024-01-29",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQwOTMwMjE5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BBCmuy4Og3qGjxUrmE_b22fpKOCw1zmdk4h229x1yoE"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTMwMTI1NmFkaXF6a2N4",
+    "barcode": "XCVTEMW9",
+    "type": "TM01",
+    "date": "2024-01-30",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Syed Rizwan Akhlaque",
+      "termination_date": "2024-01-29"
+    },
+    "pages": 1,
+    "action_date": "2024-01-29",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQwOTMwMTI1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xBXHA75gxRvsRG2R7OUTxBbfvP0SqoUdPGPaIlZOcZg"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTMwMTA5OGFkaXF6a2N4",
+    "barcode": "XCVTELZ6",
+    "type": "PSC07",
+    "date": "2024-01-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Syed Rizwan Akhlaque",
+      "cessation_date": "2024-01-29"
+    },
+    "pages": 1,
+    "action_date": "2024-01-29",
+    "links": {
+      "self": "/company/15229564/filing-history/MzQwOTMwMTA5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sVjWBZHvmchA_hUddi1_jo--_dacwe5WTQtHsZ2Rr8Q"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzQ5Njk4NWFkaXF6a2N4",
+    "barcode": "XCEQ8E9M",
+    "type": "NEWINC",
+    "date": "2023-10-23",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-10-23",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-23",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-10-23",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-10-23"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15229564/filing-history/MzM5NzQ5Njk4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/guVAjes8wSPNsZKqzB67w_6-CDbGyeVkJ03DmW9cKEQ"
+    }
+  }
+]

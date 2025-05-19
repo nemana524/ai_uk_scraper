@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-09",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-08-09"
+    },
+    "next_due": "2026-05-09",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FOUNDERS GROUP LTD",
+  "company_number": "15887810",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-13",
+    "next_due": "2025-09-27",
+    "next_made_up_to": "2025-09-13",
+    "overdue": false
+  },
+  "date_of_creation": "2024-08-09",
+  "etag": "e341ebe720fff3909b9289a8d5553531b638d30a",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15887810/persons-with-significant-control",
+    "self": "/company/15887810",
+    "filing_history": "/company/15887810/filing-history",
+    "officers": "/company/15887810/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "25c The Grove",
+    "address_line_2": "Marton-In-Cleveland",
+    "country": "England",
+    "locality": "Middlesbrough",
+    "postal_code": "TS7 8AF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

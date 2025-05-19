@@ -1,0 +1,46 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-11-30",
+      "period_end_on": "2022-11-30",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH CENTRE WORLDWIDE LTD",
+  "company_number": "13024417",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-11-15"
+  },
+  "date_of_cessation": "2024-11-26",
+  "date_of_creation": "2020-11-16",
+  "etag": "517f82ff8f7071b23034ea38e36e22fa637d20fa",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13024417/persons-with-significant-control",
+    "self": "/company/13024417",
+    "filing_history": "/company/13024417/filing-history",
+    "officers": "/company/13024417/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "27 Watling Place",
+    "country": "England",
+    "locality": "Sittingbourne",
+    "postal_code": "ME10 4ST",
+    "region": "Kent"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "95110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

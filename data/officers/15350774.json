@@ -1,0 +1,59 @@
+[
+  {
+    "address": {
+      "address_line_1": "Longridge Road",
+      "address_line_2": "Ribbleton",
+      "country": "England",
+      "locality": "Preston",
+      "postal_code": "PR2 5ND",
+      "premises": "Unit A63"
+    },
+    "appointed_on": "2024-09-19",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/15350774/appointments/FFNEi1vHgtgY7uyUcaxRk0GLxeY",
+      "officer": {
+        "appointments": "/officers/5-BkwoP3aN6t9axJlQABhDwuMv8/appointments"
+      }
+    },
+    "name": "MCIVER, Kevin",
+    "nationality": "British",
+    "occupation": "Sales Director",
+    "officer_role": "director",
+    "person_number": "270028860001"
+  },
+  {
+    "address": {
+      "address_line_1": "Longridge Road",
+      "address_line_2": "Ribbleton",
+      "country": "England",
+      "locality": "Preston",
+      "postal_code": "PR2 5ND",
+      "premises": "Unit A63"
+    },
+    "appointed_on": "2023-12-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1968
+    },
+    "links": {
+      "self": "/company/15350774/appointments/k4tUqfQcKEmGYImyuXijwZ4iGek",
+      "officer": {
+        "appointments": "/officers/-5GjMTlfQyXSLSsyQz3ChGJd_Tg/appointments"
+      }
+    },
+    "name": "SCOTT, Sean Dalton",
+    "nationality": "British",
+    "occupation": "General Manager",
+    "officer_role": "director",
+    "resigned_on": "2025-02-16",
+    "person_number": "317078980001"
+  }
+]

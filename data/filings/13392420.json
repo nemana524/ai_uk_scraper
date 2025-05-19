@@ -1,0 +1,198 @@
+[
+  {
+    "transaction_id": "MzQ1Njk0ODkzM2FkaXF6a2N4",
+    "barcode": "XDXCM6ZF",
+    "type": "AA",
+    "date": "2025-02-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 3,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/13392420/filing-history/MzQ1Njk0ODkzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TRgW5cGV28AeN3Wm4ey9ZzODWOdi1wF0zAQRBbL5ACI"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjg4MDY3MmFkaXF6a2N4",
+    "barcode": "XD3N0QR6",
+    "type": "CS01",
+    "date": "2024-05-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-11"
+    },
+    "pages": 3,
+    "action_date": "2024-05-11",
+    "links": {
+      "self": "/company/13392420/filing-history/MzQyMjg4MDY3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XNO1cAsR5EY2q7snZ6k_pgcTrZyaRenIOXcnvV9lTRQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjQ0MjQ1NWFkaXF6a2N4",
+    "barcode": "XCXOYERK",
+    "type": "AA",
+    "date": "2024-02-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 3,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/13392420/filing-history/MzQxMjQ0MjQ1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gDythy5Oi-51I7OWnyZliQNSktBZ8aPqJyE849uZsQE"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDk3NDM5MmFkaXF6a2N4",
+    "barcode": "XC4CU8SI",
+    "type": "CS01",
+    "date": "2023-05-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-05-11"
+    },
+    "pages": 3,
+    "action_date": "2023-05-11",
+    "links": {
+      "self": "/company/13392420/filing-history/MzM4MDk3NDM5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3M7gUTPL386iuO6ZIu-22ifwkTNJ8_PCKT0RNPAzuUs"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTc1NTM1NGFkaXF6a2N4",
+    "barcode": "XBYTINS8",
+    "type": "CH01",
+    "date": "2023-03-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-03-07",
+      "officer_name": "Miss Mahsa Shokouhi"
+    },
+    "pages": 2,
+    "action_date": "2023-03-07",
+    "links": {
+      "self": "/company/13392420/filing-history/MzM3MTc1NTM1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I9ITuugYUEkrr4qMK8EQdZD8djuhaCRTBzINrnqshsM"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTc1NTM0M2FkaXF6a2N4",
+    "barcode": "XBYTINO8",
+    "type": "PSC04",
+    "date": "2023-03-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-03-07",
+      "psc_name": "Miss Mahsa Shokouhi"
+    },
+    "pages": 2,
+    "action_date": "2023-03-07",
+    "links": {
+      "self": "/company/13392420/filing-history/MzM3MTc1NTM0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aAx2djdZfKjAsNkmRuh3Tm6-G4R5gaydC0JlSIwNfLQ"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTc1NTI1NGFkaXF6a2N4",
+    "barcode": "XBYTINAY",
+    "type": "AD01",
+    "date": "2023-03-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-03-07",
+      "old_address": "20 Pocklington Drive Manchester M23 1ED England",
+      "new_address": "3 Gwynant Place Manchester M20 4AE"
+    },
+    "pages": 1,
+    "action_date": "2023-03-07",
+    "links": {
+      "self": "/company/13392420/filing-history/MzM3MTc1NTI1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D07vNxXPS9fjDvZOOQV2xTUnladJeCDL6Fn9XNfwMPk"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODg4MzEzNWFkaXF6a2N4",
+    "barcode": "XBX171DK",
+    "type": "AA",
+    "date": "2023-02-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-05-31"
+    },
+    "pages": 3,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/13392420/filing-history/MzM2ODg4MzEzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IyI2oBef7Y-kKHUCg3Ww_AV2Vd3V3MaqVavhdA2e4hQ"
+    }
+  },
+  {
+    "transaction_id": "MzM0MDM0Mzc4M2FkaXF6a2N4",
+    "barcode": "XB4PREWG",
+    "type": "CS01",
+    "date": "2022-05-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-05-11"
+    },
+    "pages": 3,
+    "action_date": "2022-05-11",
+    "links": {
+      "self": "/company/13392420/filing-history/MzM0MDM0Mzc4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yvkdnsP8_xEe90InYTdl1GrQzDpDO3jAvqPiNmsWw68"
+    }
+  },
+  {
+    "transaction_id": "MzMwMDUyNDExMmFkaXF6a2N4",
+    "barcode": "XA480RFD",
+    "type": "NEWINC",
+    "date": "2021-05-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-05-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-05-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-05-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2021-05-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13392420/filing-history/MzMwMDUyNDExMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pcV_vP5__j4prk4zQu2rDUNj7eh1CNws0FfoRqk0vlI"
+    }
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "transaction_id": "MzQ1Mjg0ODUwMWFkaXF6a2N4",
+    "barcode": "XDV5PRQP",
+    "type": "PSC01",
+    "date": "2025-01-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Marina Andreea Andronache Andronache",
+      "notification_date": "2024-12-18"
+    },
+    "pages": 2,
+    "action_date": "2024-12-18",
+    "links": {
+      "self": "/company/12171185/filing-history/MzQ1Mjg0ODUwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cF8jvLM5oC-YSch-2j157OVoeaoLiMvpr1WQokbCF6c"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Nzk1NzcwM2FkaXF6a2N4",
+    "barcode": "XDI6L8FT",
+    "type": "PSC07",
+    "date": "2024-12-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nadeem Azeem",
+      "cessation_date": "2024-12-16"
+    },
+    "pages": 1,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/12171185/filing-history/MzQ0Nzk1NzcwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DK9ynK_aP_w1u-4Cx-tQ3BNDU7IIQqUAR7G7Hn3iwRc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Nzk1NzU3MmFkaXF6a2N4",
+    "barcode": "XDI6L7RE",
+    "type": "TM01",
+    "date": "2024-12-17",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Nadeem Azeem",
+      "termination_date": "2024-12-16"
+    },
+    "pages": 1,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/12171185/filing-history/MzQ0Nzk1NzU3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wg4yPkKYSS5xK-zfPCZwA4gxOubmoh-qasmcWm-v_Gg"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Nzk1NjY0NmFkaXF6a2N4",
+    "barcode": "XDI6L3VM",
+    "type": "AP01",
+    "date": "2024-12-17",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Marina Andreea Andronache",
+      "appointment_date": "2024-12-16"
+    },
+    "pages": 2,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/12171185/filing-history/MzQ0Nzk1NjY0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zRo3_YlQ1Cg7buRWFPUaGc03j2rPXTW6Q2gwPZVjHcI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzgwOTg4NmFkaXF6a2N4",
+    "barcode": "XDAIFAZN",
+    "type": "AA",
+    "date": "2024-08-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-08-31"
+    },
+    "pages": 4,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/12171185/filing-history/MzQzMzgwOTg4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UjShHcKDcRZ2ET11Kl_N-yBFwMFvwYSwhhvABxbFej0"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjU1OTg3OWFkaXF6a2N4",
+    "barcode": "XD9P1AG2",
+    "type": "CS01",
+    "date": "2024-08-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-17"
+    },
+    "pages": 3,
+    "action_date": "2024-08-17",
+    "links": {
+      "self": "/company/12171185/filing-history/MzQzMjU1OTg3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t5igYk37j7yrrWECwUl0H9Ml147GosFbE_rbzWTB8fY"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDQyNTI4OWFkaXF6a2N4",
+    "barcode": "XCCUMSM0",
+    "type": "CS01",
+    "date": "2023-09-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-22"
+    },
+    "pages": 3,
+    "action_date": "2023-08-22",
+    "links": {
+      "self": "/company/12171185/filing-history/MzM5NDQyNTI4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CgHIa4vFOtFmw8p5rD4vBccEW0sNfnRkI0-cpGaWgio"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTQ3NzM5NGFkaXF6a2N4",
+    "barcode": "XCB2EBPT",
+    "type": "AA",
+    "date": "2023-08-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-08-31"
+    },
+    "pages": 4,
+    "action_date": "2022-08-31",
+    "links": {
+      "self": "/company/12171185/filing-history/MzM5MTQ3NzM5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NYM8J7PQw8MMyQNgC7andH3i7VK9Vk6zhvzWDrScuW4"
+    }
+  },
+  {
+    "transaction_id": "MzM1Mjk0MTc1MWFkaXF6a2N4",
+    "barcode": "XBDC6CM3",
+    "type": "CS01",
+    "date": "2022-09-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-08-22"
+    },
+    "pages": 3,
+    "action_date": "2022-08-22",
+    "links": {
+      "self": "/company/12171185/filing-history/MzM1Mjk0MTc1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eEh81P4GHQrby1GQdK0Y6dssu4SDVuRJOFPUbusgM0Q"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDE2MjQ2NWFkaXF6a2N4",
+    "barcode": "XBBHH661",
+    "type": "AA",
+    "date": "2022-08-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-08-31"
+    },
+    "pages": 4,
+    "action_date": "2021-08-31",
+    "links": {
+      "self": "/company/12171185/filing-history/MzM1MDE2MjQ2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Lg2gr6_Uz44MuP2u7VGB_L95IzMyEK-UvFCI2M09hPQ"
+    }
+  },
+  {
+    "transaction_id": "MzMxODU4NTc4NWFkaXF6a2N4",
+    "barcode": "XAG4U0XU",
+    "type": "CS01",
+    "date": "2021-10-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-08-22"
+    },
+    "pages": 3,
+    "action_date": "2021-08-22",
+    "links": {
+      "self": "/company/12171185/filing-history/MzMxODU4NTc4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qvvcv2uvRzGG8OQ_Hio9XEzec9TqU_2HVlyaUi6iw-8"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDc4OTA2MGFkaXF6a2N4",
+    "barcode": "XAB00GYP",
+    "type": "AD01",
+    "date": "2021-08-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-08-16",
+      "old_address": "1B Farquharson Road Croydon CR0 2UH United Kingdom",
+      "new_address": "482 Fulham Road Fulham Road London SW6 5NH"
+    },
+    "pages": 1,
+    "action_date": "2021-08-16",
+    "links": {
+      "self": "/company/12171185/filing-history/MzMxMDc4OTA2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1YA619qwmt_el0mNaNVaR8-vG8xg2dDuxT8AKyxmSq4"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTgyMzg2MmFkaXF6a2N4",
+    "barcode": "XA4Z05U8",
+    "type": "AA",
+    "date": "2021-05-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-08-31"
+    },
+    "pages": 4,
+    "action_date": "2020-08-31",
+    "links": {
+      "self": "/company/12171185/filing-history/MzMwMTgyMzg2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XbkkM4UXxc-UFoPUCdSe-he6rbkLRoNgiRHC9yJnd4c"
+    }
+  },
+  {
+    "transaction_id": "MzI3NjUxMTU5NGFkaXF6a2N4",
+    "barcode": "X9CMFJ9M",
+    "type": "CS01",
+    "date": "2020-08-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-08-22"
+    },
+    "pages": 3,
+    "action_date": "2020-08-22",
+    "links": {
+      "self": "/company/12171185/filing-history/MzI3NjUxMTU5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uLOt9-0BW4sBmDqvO1_SmdUEJqJbRpyTw7bycTjpeKc"
+    }
+  },
+  {
+    "transaction_id": "MzI0MjM3ODUyM2FkaXF6a2N4",
+    "barcode": "X8CDBUGO",
+    "type": "NEWINC",
+    "date": "2019-08-23",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-08-23",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-08-23",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-08-23",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2019-08-23"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12171185/filing-history/MzI0MjM3ODUyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4czWwh-oEYc1Gp8BZre-HpfuXphLbudP-axap_3iP-E"
+    }
+  }
+]

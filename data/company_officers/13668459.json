@@ -1,0 +1,65 @@
+{
+  "company_number": "13668459",
+  "company_name": "TECH FOR TOGS LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MORGAN, Peter James",
+      "officer_role": "director",
+      "appointed_on": "2021-10-08",
+      "resigned_on": null,
+      "nationality": "Welsh",
+      "country_of_residence": "Wales",
+      "occupation": "Photographer",
+      "address": {
+        "address_line_1": "Plas Taliesin",
+        "country": "Wales",
+        "locality": "Penarth",
+        "postal_code": "CF64 1TN",
+        "premises": "30",
+        "region": "South Glamorgan"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/13668459/appointments/Bw4yYrMg0SdFhiKTU7Yxf1KtNVI",
+        "officer": {
+          "appointments": "/officers/llol1J0UnUR7OY7Z2Xuc1SStmD4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GRIEVE, Ross Andrew",
+      "officer_role": "director",
+      "appointed_on": "2021-10-08",
+      "resigned_on": "2022-08-02",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Photographer",
+      "address": {
+        "address_line_1": "Plas Taliesin",
+        "country": "United Kingdom",
+        "locality": "Penarth",
+        "postal_code": "CF64 1TN",
+        "premises": "5",
+        "region": "South Glamorgan"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/13668459/appointments/weLVzR49fQAtgvL3kn_r8T1oAwE",
+        "officer": {
+          "appointments": "/officers/nes5xiOjgLcYW2t8djZkm7q5680/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

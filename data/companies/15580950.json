@@ -1,0 +1,53 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-20",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-03-20"
+    },
+    "next_due": "2025-12-20",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EDGE SOLUTIONS LTD",
+  "company_number": "15580950",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-04-02",
+    "next_made_up_to": "2025-03-19",
+    "overdue": true
+  },
+  "date_of_creation": "2024-03-20",
+  "etag": "de0faa457f913e6b7a01d9aa3048b689d7b84ec6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15580950/persons-with-significant-control",
+    "self": "/company/15580950",
+    "filing_history": "/company/15580950/filing-history",
+    "officers": "/company/15580950/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "31 Chervil Rise",
+    "country": "England",
+    "locality": "Wolverhampton",
+    "postal_code": "WV10 0HZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "transaction_id": "MzQ1OTYwNzE5OGFkaXF6a2N4",
+    "barcode": "XDYS17A8",
+    "type": "CS01",
+    "date": "2025-03-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-09"
+    },
+    "pages": 3,
+    "action_date": "2025-03-09",
+    "links": {
+      "self": "/company/NI686485/filing-history/MzQ1OTYwNzE5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/11B5587zg_oNfmSHm3HjbX3B77mWit1-2ftGvP6j3Ps"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Njk1NDA4MGFkaXF6a2N4",
+    "barcode": "XDHQD8P7",
+    "type": "AA",
+    "date": "2024-12-11",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/NI686485/filing-history/MzQ0Njk1NDA4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6FF08eCYw5pp6UcL0_8uLoUAP0StV7y7DonDK276Wmc"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTY2MzMwNGFkaXF6a2N4",
+    "barcode": "XCZCVP9S",
+    "type": "CS01",
+    "date": "2024-03-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-09"
+    },
+    "pages": 3,
+    "action_date": "2024-03-09",
+    "links": {
+      "self": "/company/NI686485/filing-history/MzQxNTY2MzMwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S2mdjkFZpYiLneIwVeYs8sb19FpdBRp_K1ZUc4fiXus"
+    }
+  },
+  {
+    "transaction_id": "MzM4Njg5NTgyOGFkaXF6a2N4",
+    "barcode": "XC833CMW",
+    "type": "AA",
+    "date": "2023-07-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 3,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/NI686485/filing-history/MzM4Njg5NTgyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dR4tFiE1Pe1LaUcRl_zJklco3EfjK8rhUSUsz5u9P_Q"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDE4NDY4MmFkaXF6a2N4",
+    "barcode": "XC6IECDE",
+    "type": "RP04CS01",
+    "date": "2023-06-27",
+    "category": "confirmation-statement",
+    "subcategory": "document-replacement",
+    "description": "second-filing-of-confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2023-03-09"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/NI686485/filing-history/MzM4NDE4NDY4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DIBWuM5sn4-jrqwNeIdnRMcXTKsWftnv2eAWfkGtbKo"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDE4Mzk2M2FkaXF6a2N4",
+    "barcode": "XC6IE8GI",
+    "type": "SH01",
+    "date": "2023-06-26",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2023-03-09",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "2"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2023-03-09",
+    "links": {
+      "self": "/company/NI686485/filing-history/MzM4NDE4Mzk2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MueyQznJBp7WQBh3rUIAELF8629tOEsDWdGs70azWww"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDk2NzAwM2FkaXF6a2N4",
+    "barcode": "XC0MOO3L",
+    "type": "CS01",
+    "date": "2023-04-02",
+    "category": "confirmation-statement",
+    "annotations": [
+      {
+        "annotation": "Clarification A SECOND FILED CSO1 STATEMENT OF CAPITAL AND SHAREHOLDER INFORMATION WAS REGISTERED ON 27/06/2023",
+        "date": "2023-06-27",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Clarification a second filed CSO1 statement of capital and shareholder information was registered on 27/06/2023"
+        }
+      }
+    ],
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-09"
+    },
+    "pages": 3,
+    "action_date": "2023-03-09",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/NI686485/filing-history/MzM3NDk2NzAwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0aCJ4CI9njxWlJZFJmW45-Cj-M6286Kwk5XYKe_Kl0Q"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjM0ODI2OWFkaXF6a2N4",
+    "barcode": "XAZF4MW9",
+    "type": "NEWINC",
+    "date": "2022-03-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2022-03-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-03-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-03-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/NI686485/filing-history/MzMzMjM0ODI2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CqqqIeAFw5YgFF3jZRZwYWScXsnmBdbIi4SbVG3N6Tk"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "company_number": "14778748",
+  "company_name": "TECH ABD TEA LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AKRAM, Farrukh Imtiaz",
+      "officer_role": "director",
+      "appointed_on": "2023-04-04",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "High Road",
+        "country": "United Kingdom",
+        "locality": "Ilford",
+        "postal_code": "IG3 8TD",
+        "premises": "809"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/14778748/appointments/a95pp-Sz8dEyPcziBsbzmVNregE",
+        "officer": {
+          "appointments": "/officers/kWk3qjmpPV1h6etzHsGIOCTX9Qc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

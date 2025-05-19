@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-28",
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-29"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CITY DISTRIBUTIONS LIMITED",
+  "company_number": "11821137",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-02-11",
+    "next_due": "2025-02-25",
+    "next_made_up_to": "2025-02-11",
+    "overdue": true
+  },
+  "date_of_creation": "2019-02-12",
+  "etag": "16af0e0b1e8e705170f1f27c449519fc8f221992",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11821137/persons-with-significant-control",
+    "self": "/company/11821137",
+    "filing_history": "/company/11821137/filing-history",
+    "officers": "/company/11821137/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "33 Hanger Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W5 3HJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46520"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

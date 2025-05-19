@@ -1,0 +1,45 @@
+{
+  "company_number": "04442687",
+  "company_name": "TECH DRY CLEANERS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2002-05-20",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "96010"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Congress House , Office 10, Suite 1, 4th Floor",
+    "address_line_2": "14 Lyon Road",
+    "country": "England",
+    "locality": "Harrow",
+    "postal_code": "HA1 2EN"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "1ac58c46ff99313c2c5917e67cfd96bf096724e9"
+}

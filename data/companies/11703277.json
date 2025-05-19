@@ -1,0 +1,68 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CLUB LTD",
+  "company_number": "11703277",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-28",
+    "next_due": "2025-12-12",
+    "next_made_up_to": "2025-11-28",
+    "overdue": false
+  },
+  "date_of_creation": "2018-11-29",
+  "etag": "d5d38f5321594b1ef365839b5bdc60fe8c745035",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11703277/persons-with-significant-control",
+    "self": "/company/11703277",
+    "filing_history": "/company/11703277/filing-history",
+    "officers": "/company/11703277/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2020-06-23",
+      "effective_from": "2018-11-29",
+      "name": "NEXT THING EDUCATION CLUBS LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "G5 Audley House",
+    "address_line_2": "Northbridge Road",
+    "country": "England",
+    "locality": "Berkhamsted",
+    "postal_code": "HP4 1EH"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "85200",
+    "85590",
+    "85600"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "14424484",
+  "company_name": "TECH HOUSE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHAHZAD, Asim",
+      "officer_role": "director",
+      "appointed_on": "2022-10-17",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "76-78 Bury Park Road",
+        "country": "England",
+        "locality": "Luton",
+        "postal_code": "LU1 1HE",
+        "premises": "Ali & Co Accountant"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/14424484/appointments/04D6MODdo4Xbb4K1QlE2MBCLb5Y",
+        "officer": {
+          "appointments": "/officers/3b6MI_eKy9Ef8hXoDWTA0m9aQb0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

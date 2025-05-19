@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-03-31",
+      "period_end_on": "2023-03-31",
+      "period_start_on": "2022-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-12-31",
+      "overdue": true,
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01"
+    },
+    "next_due": "2024-12-31",
+    "next_made_up_to": "2024-03-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH FORGE MEDIA LTD",
+  "company_number": "09194965",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-29",
+    "next_due": "2025-09-12",
+    "next_made_up_to": "2025-08-29",
+    "overdue": false
+  },
+  "date_of_creation": "2014-08-29",
+  "etag": "c2c68e306741f5bdcf3d280e22c43ff2d8de40bb",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-08-29",
+  "links": {
+    "persons_with_significant_control": "/company/09194965/persons-with-significant-control",
+    "self": "/company/09194965",
+    "filing_history": "/company/09194965/filing-history",
+    "officers": "/company/09194965/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Armada House",
+    "address_line_2": "Telephone Avenue",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS1 4BQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "58142"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

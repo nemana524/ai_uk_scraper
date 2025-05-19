@@ -1,0 +1,94 @@
+[
+  {
+    "transaction_id": "MzQ2MTg1ODc2OWFkaXF6a2N4",
+    "barcode": "XE02RBH6",
+    "type": "CS01",
+    "date": "2025-04-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-25"
+    },
+    "pages": 4,
+    "action_date": "2025-03-25",
+    "links": {
+      "self": "/company/15595287/filing-history/MzQ2MTg1ODc2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tkOjKDVNn-v5iHCoD59s2yU3k3hnV9SVYk2TwCBU7l8"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTY2NjgwMGFkaXF6a2N4",
+    "barcode": "XDZZZ2XL",
+    "type": "TM01",
+    "date": "2025-04-07",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Osama Shuaib",
+      "termination_date": "2025-04-07"
+    },
+    "pages": 1,
+    "action_date": "2025-04-07",
+    "links": {
+      "self": "/company/15595287/filing-history/MzQ2MTY2NjgwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wKm_0-Xacb6P6uSB9cjyua1HOIEuxZAM40OioUnJggM"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTY2Njc3M2FkaXF6a2N4",
+    "barcode": "XDZZZ2VD",
+    "type": "PSC07",
+    "date": "2025-04-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Osama Shuaib",
+      "cessation_date": "2025-04-07"
+    },
+    "pages": 1,
+    "action_date": "2025-04-07",
+    "links": {
+      "self": "/company/15595287/filing-history/MzQ2MTY2Njc3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CIBQZXk4eUeKnF4hHlHbWHb0vZjuzGFlLtK3XchSJ3E"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTY2OTc3OGFkaXF6a2N4",
+    "barcode": "XCZCWIF4",
+    "type": "NEWINC",
+    "date": "2024-03-26",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-03-26",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-03-26",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-03-26",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2024-03-26"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 14,
+    "links": {
+      "self": "/company/15595287/filing-history/MzQxNTY2OTc3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t6aI_UxLoPBYTZff3KW-r8OdXqZ93vn6U67iO-rKQYw"
+    }
+  }
+]

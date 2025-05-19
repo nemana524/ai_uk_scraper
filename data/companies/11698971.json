@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AMIGOS LTD",
+  "company_number": "11698971",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-26",
+    "next_due": "2025-12-10",
+    "next_made_up_to": "2025-11-26",
+    "overdue": false
+  },
+  "date_of_creation": "2018-11-27",
+  "etag": "1bc7189585ba832af8582aed5f7ed16617d4dcb6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11698971/persons-with-significant-control",
+    "self": "/company/11698971",
+    "filing_history": "/company/11698971/filing-history",
+    "officers": "/company/11698971/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "5th Floor 167-169 Great Portland Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1W 5PF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

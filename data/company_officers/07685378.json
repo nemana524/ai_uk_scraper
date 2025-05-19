@@ -1,0 +1,35 @@
+{
+  "company_number": "07685378",
+  "company_name": "TECH LOGIC CONSULTING LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ISHOLA, Taofiq Kolawole",
+      "officer_role": "director",
+      "appointed_on": "2011-06-28",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business/Data Analyst",
+      "address": {
+        "address_line_1": "Greatacre",
+        "country": "England",
+        "locality": "Chesham",
+        "postal_code": "HP5 3BA",
+        "premises": "7"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/07685378/appointments/PTHpcfEKeLaOjVfGMpQtcl50E88",
+        "officer": {
+          "appointments": "/officers/JzKSlvrTDJ6ZADBSgiCcFaSs12o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

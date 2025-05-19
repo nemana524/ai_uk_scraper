@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-02",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2024-12-02"
+    },
+    "next_due": "2026-09-02",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FACILITIES LIMITED",
+  "company_number": "16112346",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-12-15",
+    "next_made_up_to": "2025-12-01",
+    "overdue": false
+  },
+  "date_of_creation": "2024-12-02",
+  "etag": "74e3af71c06f12fde998871323d2f2d0c10ce9a7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16112346/persons-with-significant-control",
+    "self": "/company/16112346",
+    "filing_history": "/company/16112346/filing-history",
+    "officers": "/company/16112346/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "23 St. Joan's Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N9 9PH"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62030",
+    "62090",
+    "81100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

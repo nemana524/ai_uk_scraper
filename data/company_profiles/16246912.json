@@ -1,0 +1,39 @@
+{
+  "company_number": "16246912",
+  "company_name": "TECH HOUSE CONSULTING LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-02-12",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "70229"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "1 Bridge Cottage",
+    "address_line_2": "Sandridgebury Lane",
+    "country": "United Kingdom",
+    "locality": "St. Albans",
+    "postal_code": "AL3 6JE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2026-11-12",
+      "overdue": false,
+      "period_end_on": "2026-02-28",
+      "period_start_on": "2025-02-12"
+    },
+    "next_due": "2026-11-12",
+    "next_made_up_to": "2026-02-28",
+    "overdue": false
+  },
+  "etag": "52a18497ee5fb7d01bbb23d34ce76209b30ca28a"
+}

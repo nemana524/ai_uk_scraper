@@ -1,0 +1,53 @@
+[
+  {
+    "address": {
+      "address_line_1": "Lexham Gardens",
+      "address_line_2": "London",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "W8 6JJ",
+      "premises": "57-67",
+      "region": "Uk"
+    },
+    "appointed_on": "2024-03-09",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15549969/appointments/_m7pZ-DGgncDtfd2-rB7Ctk4n4M",
+      "officer": {
+        "appointments": "/officers/FBXtmC4DDleQxsNezu4TTQEm82k/appointments"
+      }
+    },
+    "name": "SHEVCHUK, Bogdan",
+    "officer_role": "secretary",
+    "person_number": "320318340001"
+  },
+  {
+    "address": {
+      "address_line_1": "Lexham Gardens",
+      "address_line_2": "London",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "W8 6JJ",
+      "premises": "57-67",
+      "region": "Uk"
+    },
+    "appointed_on": "2024-03-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1970
+    },
+    "links": {
+      "self": "/company/15549969/appointments/E5iiXIDAElhs6Ly24gE2HsyJjg0",
+      "officer": {
+        "appointments": "/officers/cme_AmAB6mrXZyVjPY8qihtqzG0/appointments"
+      }
+    },
+    "name": "SHEVCHUK, Bogdan",
+    "nationality": "Ukrainian",
+    "occupation": "Coo",
+    "officer_role": "director",
+    "person_number": "317146810002"
+  }
+]

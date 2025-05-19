@@ -1,0 +1,1089 @@
+[
+  {
+    "transaction_id": "MzQ0MzU1MTgzMWFkaXF6a2N4",
+    "barcode": "XDFXBUBS",
+    "type": "PSC04",
+    "date": "2024-11-15",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-09-30",
+      "psc_name": "Mr Anthony James Shelton Agar"
+    },
+    "pages": 2,
+    "action_date": "2024-09-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQ0MzU1MTgzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/O9_-7ZMqTOhzTaXqiz-GZe6YixJMp_aqkE1PfB_SXeA"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzU1MTM5N2FkaXF6a2N4",
+    "barcode": "XDFXBS8B",
+    "type": "CS01",
+    "date": "2024-11-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-09-30"
+    },
+    "pages": 5,
+    "action_date": "2024-09-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQ0MzU1MTM5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ohIxYTBfRhzSrEfK4s_AeqE3d_o6axExwugbg_A1m7k"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzU1MTI4M2FkaXF6a2N4",
+    "barcode": "XDFXBRRL",
+    "type": "PSC07",
+    "date": "2024-11-15",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Csf Ventures Limited",
+      "cessation_date": "2024-09-30"
+    },
+    "pages": 1,
+    "action_date": "2024-09-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQ0MzU1MTI4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Uh_0Q5wk6JF-gKqgaXPrrnAqIb1bIbppFQ1aqTqk6jU"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjQ1MjIxMWFkaXF6a2N4",
+    "barcode": "XDFH1AKG",
+    "type": "AA",
+    "date": "2024-11-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-04-30"
+    },
+    "pages": 7,
+    "action_date": "2024-04-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQ0MjQ1MjIxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T-l5ljnG4EDgmKHnuNl7yhkxK2ZHPemkoAWr1x2olHU"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTA2NDg0NWFkaXF6a2N4",
+    "barcode": "XDDG2MUB",
+    "type": "AP01",
+    "date": "2024-10-10",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Christopher Waite",
+      "appointment_date": "2024-09-30"
+    },
+    "pages": 2,
+    "action_date": "2024-09-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQzOTA2NDg0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xVvzFAVo8JmQcbj_Lpov9ku8gXv3nenl7wiDkOWU8AA"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTA2NDc2M2FkaXF6a2N4",
+    "barcode": "XDDG2MOO",
+    "type": "TM01",
+    "date": "2024-10-10",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Richard Martin Hamilton Croft-Sharland",
+      "termination_date": "2024-09-30"
+    },
+    "pages": 1,
+    "action_date": "2024-09-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQzOTA2NDc2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tpUUW385EcBaP0epV8eUiWxdO2raB7ctiAs1G0DvAEo"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg2NTA1N2FkaXF6a2N4",
+    "barcode": "XD5KQRK2",
+    "type": "CS01",
+    "date": "2024-06-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-06-15"
+    },
+    "pages": 5,
+    "action_date": "2024-06-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQyNTg2NTA1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pBKDBE6NqTyttjBwd7caUOLLbd8s9L15apY_LU_8tWQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTMxNDI2NGFkaXF6a2N4",
+    "barcode": "XCVTG1F4",
+    "type": "AA",
+    "date": "2024-01-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-04-30"
+    },
+    "pages": 7,
+    "action_date": "2023-04-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzQwOTMxNDI2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xjZhJEMPpfoj1ev92X5rE7V37eMlwGl42OgsuZq6CAY"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDMxNTI0MWFkaXF6a2N4",
+    "barcode": "XC6L2VI2",
+    "type": "CS01",
+    "date": "2023-06-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-06-15"
+    },
+    "pages": 5,
+    "action_date": "2023-06-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM4NDMxNTI0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ja4tKALwMFGD9Vs9MbP_VROgxmaoi74W176kEJ49adg"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDI3ODc3OWFkaXF6a2N4",
+    "barcode": "XC3WP9Y1",
+    "type": "PSC04",
+    "date": "2023-05-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-05-20",
+      "psc_name": "Mr Anthony James Shelton Agar"
+    },
+    "pages": 2,
+    "action_date": "2023-05-20",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM4MDI3ODc3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SMLx_7nmmBEFoWAXoJjfnzfvbf-8Z2El6QhnWBXC274"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDI3ODc3MWFkaXF6a2N4",
+    "barcode": "XC3WP9QA",
+    "type": "CH01",
+    "date": "2023-05-20",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-20",
+      "officer_name": "Mr Richard Martin Hamilton Croft-Sharland"
+    },
+    "pages": 2,
+    "action_date": "2023-05-20",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM4MDI3ODc3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ovlGPEL-JXaF1yvKJuz9zwsFzf0hURokeW-nG43jEmY"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTIwNTc2MWFkaXF6a2N4",
+    "barcode": "XBH88IEI",
+    "type": "AA",
+    "date": "2022-11-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-04-30"
+    },
+    "pages": 7,
+    "action_date": "2022-04-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM1OTIwNTc2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lE6BU5BLEnoDpgfPYS4bzcpzL0jk9mBzzVqXZb9E3LA"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjMzNDYwMWFkaXF6a2N4",
+    "barcode": "XB8QOG1C",
+    "type": "CS01",
+    "date": "2022-07-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-06-15"
+    },
+    "pages": 5,
+    "action_date": "2022-06-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM0NjMzNDYwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BSBoKUVcIgWRFAie841scF7ytY4RAzPXxhiVC41eXXg"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjIyNTQzOWFkaXF6a2N4",
+    "barcode": "XB8O3MKQ",
+    "type": "CH01",
+    "date": "2022-07-20",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-07-20",
+      "officer_name": "Mr Anthony James Shelton Agar"
+    },
+    "pages": 2,
+    "action_date": "2022-07-20",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM0NjIyNTQzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TUG8chREuuyTm51O3azH8atOlDADQFZY-JIkwcYWf-U"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTkxOTE1NWFkaXF6a2N4",
+    "barcode": "XB8IJ54R",
+    "type": "CH01",
+    "date": "2022-07-18",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-07-18",
+      "officer_name": "Mr Anthony James Shelton Agar"
+    },
+    "pages": 2,
+    "action_date": "2022-07-18",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM0NTkxOTE1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KVJxQjIamFqU93ZQ2GjYeyyAsRE_6gcJ3QT8ue96Yp8"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTUzODE5NGFkaXF6a2N4",
+    "barcode": "XB5LNKDK",
+    "type": "SH01",
+    "date": "2022-06-06",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2021-12-14",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "410"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2021-12-14",
+    "links": {
+      "self": "/company/11366356/filing-history/MzM0MTUzODE5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pq62g8PEe2IwzyHOAF8kZ5OyoWYo2FOXGwCE2kIzMZc"
+    }
+  },
+  {
+    "transaction_id": "MzMyNDMxNTU3OGFkaXF6a2N4",
+    "barcode": "XAJSMKBV",
+    "type": "CH01",
+    "date": "2021-12-21",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-12-21",
+      "officer_name": "Mr Anthony James Shelton Agar"
+    },
+    "pages": 2,
+    "action_date": "2021-12-21",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMyNDMxNTU3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W3AFxqWAKhG3USIGjYzu8s4vgYhEybU8KXImlcBGHAI"
+    }
+  },
+  {
+    "transaction_id": "MzMyNDMxNTU3MGFkaXF6a2N4",
+    "barcode": "XAJSMK54",
+    "type": "CH01",
+    "date": "2021-12-21",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-12-21",
+      "officer_name": "Mr Richard Martin Hamilton Croft-Sharland"
+    },
+    "pages": 2,
+    "action_date": "2021-12-21",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMyNDMxNTU3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/odontHpuQCN3PFtpQRUMsq5IiYpgtRiT0asguxm1UXw"
+    }
+  },
+  {
+    "transaction_id": "MzMyNDMxNTI4N2FkaXF6a2N4",
+    "barcode": "XAJSMJOI",
+    "type": "AD01",
+    "date": "2021-12-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-12-21",
+      "old_address": "Suffolk House, 7 Hydra Orion Court, Addison Way Great Blakenham Ipswich Suffolk IP6 0LW United Kingdom",
+      "new_address": "80 Compair Crescent Ipswich Suffolk IP2 0EH"
+    },
+    "pages": 1,
+    "action_date": "2021-12-21",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMyNDMxNTI4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q0EdMsvZ61i4bJ22S24TKeVnFGivlNs-_Q0Witm2O14"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzg1Njc1NWFkaXF6a2N4",
+    "barcode": "XAJHKGHK",
+    "type": "PSC02",
+    "date": "2021-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Csf Ventures Limited",
+      "notification_date": "2020-04-23"
+    },
+    "pages": 2,
+    "action_date": "2020-04-23",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMyMzg1Njc1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qPAg1i8fo3LhegP3IHfr_BgJa03ZWwpWJNDma4w7M2E"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDMzMTM2NWFkaXF6a2N4",
+    "barcode": "AAHAXKW3",
+    "type": "SH01",
+    "date": "2021-11-22",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2021-05-15",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "408"
+        }
+      ]
+    },
+    "pages": 4,
+    "action_date": "2021-05-15",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11366356/filing-history/MzMyMDMzMTM2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mKSRh-PM2k8_euyKeqUHaUjNTSeNK2kMFFK6VNJlmhk"
+    }
+  },
+  {
+    "transaction_id": "QUFHRFlCVUFhZGlxemtjeA",
+    "type": "RESOLUTIONS",
+    "date": "2021-11-10",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "capital",
+        "description": "resolution-varying-share-rights",
+        "type": "RES12",
+        "subcategory": "resolution"
+      },
+      {
+        "category": "capital",
+        "description": "resolution-removal-pre-emption",
+        "type": "RES11",
+        "subcategory": "resolution"
+      },
+      {
+        "category": "capital",
+        "description": "resolution-securities",
+        "type": "RES10",
+        "subcategory": "resolution"
+      },
+      {
+        "category": "incorporation",
+        "description": "resolution-adopt-articles",
+        "type": "RES01",
+        "subcategory": "resolution",
+        "description_values": {
+          "res_type": "ADOPT ARTICLES"
+        }
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11366356/filing-history/QUFHRFlCVUFhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NP0Uv8H68-inWnPO2430ZZwl-GwvI6O8YYxEHSDrSe8"
+    }
+  },
+  {
+    "transaction_id": "MzMxODk0NTUxOWFkaXF6a2N4",
+    "barcode": "AAGDYBVE",
+    "type": "MA",
+    "date": "2021-11-10",
+    "category": "incorporation",
+    "description": "memorandum-articles",
+    "pages": 31,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11366356/filing-history/MzMxODk0NTUxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SBTK-ldLLnPAA5AmALYHXDxXLF9Vks5OnY7Da9Vzum0"
+    }
+  },
+  {
+    "transaction_id": "MzMxODk0NTUyMWFkaXF6a2N4",
+    "barcode": "AAGDYBUY",
+    "type": "SH08",
+    "date": "2021-11-10",
+    "category": "capital",
+    "description": "capital-name-of-class-of-shares",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11366356/filing-history/MzMxODk0NTUyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hbd7cnRrzsaI-UDuRQnJtJoUs1p4D5OBygGmp9NbLLU"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjQ4MTgxMWFkaXF6a2N4",
+    "barcode": "XAC3ZK57",
+    "type": "AA",
+    "date": "2021-09-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-04-30"
+    },
+    "pages": 7,
+    "action_date": "2021-04-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMxMjQ4MTgxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/L_d7LMwLXIzE42rxGAuQFvXusWfBGxF_eWkrwHgvK0g"
+    }
+  },
+  {
+    "transaction_id": "MzMwOTg5NDI1N2FkaXF6a2N4",
+    "barcode": "XAA9I8U9",
+    "type": "PSC05",
+    "date": "2021-08-06",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control-without-name-date",
+    "pages": 2,
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwOTg5NDI1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5nSmzlerqi6zieg99M51Keyw-B_0I-KpSsX5GImLctU"
+    }
+  },
+  {
+    "transaction_id": "MzMwODMxNjMyM2FkaXF6a2N4",
+    "barcode": "XA9800SB",
+    "type": "PSC07",
+    "date": "2021-07-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Jonathan Paul Hutton",
+      "cessation_date": "2020-04-23"
+    },
+    "pages": 1,
+    "action_date": "2020-04-23",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwODMxNjMyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pbIEvrNqtW2SrZUvlkL8MuGxRYQ25F108P54T39_FLg"
+    }
+  },
+  {
+    "transaction_id": "MzMwODMxNjAyMmFkaXF6a2N4",
+    "barcode": "XA98005K",
+    "type": "PSC05",
+    "date": "2021-07-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control-without-name-date",
+    "pages": 2,
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwODMxNjAyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vC2TZHe-TfRL0Z7Us2Z1p3fAPZF--UUjGMDxB0N8GME"
+    }
+  },
+  {
+    "transaction_id": "MzMwODMxNjMxNGFkaXF6a2N4",
+    "barcode": "XA9800PF",
+    "type": "PSC07",
+    "date": "2021-07-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "David Robert Dunhill",
+      "cessation_date": "2019-06-25"
+    },
+    "pages": 1,
+    "action_date": "2019-06-25",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwODMxNjMxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X_KlZ5JjLyi1kMSOf3wF9WJfpCKMgCHfHtSuiGCSTMo"
+    }
+  },
+  {
+    "transaction_id": "MzMwODMxNjI1MmFkaXF6a2N4",
+    "barcode": "XA98011T",
+    "type": "PSC01",
+    "date": "2021-07-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Anthony James Shelton Agar",
+      "notification_date": "2019-06-25"
+    },
+    "pages": 2,
+    "action_date": "2019-06-25",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwODMxNjI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HCys3figuMZkNcI43QO_rbjQus_XdnTVLiDRBKWWdIY"
+    }
+  },
+  {
+    "transaction_id": "MzMwNzQwMjU5OWFkaXF6a2N4",
+    "barcode": "XA8K0JE3",
+    "type": "CS01",
+    "date": "2021-07-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-06-15"
+    },
+    "pages": 5,
+    "action_date": "2021-06-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwNzQwMjU5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SOVkDmwB11PYqS8XNEjdXuDyplcFR2JioiMINWNDb5U"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjg0NDM3NWFkaXF6a2N4",
+    "barcode": "XA86U5M0",
+    "type": "PSC05",
+    "date": "2021-07-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control-without-name-date",
+    "pages": 2,
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwNjg0NDM3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0JQIaAC4aF_NHI791p2Vs767x2kfNbgZqTBamzjl4vk"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjg0NDM3M2FkaXF6a2N4",
+    "barcode": "XA86U5NV",
+    "type": "SH01",
+    "date": "2021-07-06",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2021-05-15",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "408"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2021-05-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwNjg0NDM3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iFZQOqOmpdq3UdLZgT9Db6HpQ2IiQbw6aNlDGR0I-2M"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjg0NDM2NmFkaXF6a2N4",
+    "barcode": "XA86U5LS",
+    "type": "AP01",
+    "date": "2021-07-06",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Richard Martin Hamilton Croft-Sharland",
+      "appointment_date": "2021-05-15"
+    },
+    "pages": 2,
+    "action_date": "2021-05-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzMwNjg0NDM2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UTR3CYlkZpTBi06coKD_OkhT3BwbDAs9qjq-UVIPyGk"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDc4MjIyMGFkaXF6a2N4",
+    "barcode": "X9FT3WY3",
+    "type": "AA",
+    "date": "2020-10-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-04-30"
+    },
+    "pages": 8,
+    "action_date": "2020-04-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI4MDc4MjIyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XAcZ603kwp0H-xKViHX16ssAbcr9rYXh6zkmRHHyKLw"
+    }
+  },
+  {
+    "transaction_id": "MzI2NzMzMjY0OGFkaXF6a2N4",
+    "barcode": "X9799AG0",
+    "type": "CS01",
+    "date": "2020-06-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-06-15"
+    },
+    "pages": 5,
+    "action_date": "2020-06-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI2NzMzMjY0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TLolwOfSBy-eecqa-uql0kqTw7itAJwmy3C4lG9kDSo"
+    }
+  },
+  {
+    "transaction_id": "MzI2NjAwMzMyM2FkaXF6a2N4",
+    "barcode": "X9607OKH",
+    "type": "CS01",
+    "date": "2020-05-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-05-15"
+    },
+    "pages": 6,
+    "action_date": "2020-05-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI2NjAwMzMyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NtijPh_tlLD9X0_Z_DA8--KAOY_1GbNNrqKe8ka57Wg"
+    }
+  },
+  {
+    "transaction_id": "MzI2NDg2NTc0OWFkaXF6a2N4",
+    "barcode": "X954A8AO",
+    "type": "AA01",
+    "date": "2020-05-15",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-extended",
+    "description_values": {
+      "made_up_date": "2020-03-31",
+      "new_date": "2020-04-30"
+    },
+    "pages": 1,
+    "action_date": "2020-04-30",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI2NDg2NTc0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/r9Pp-Mk8ygdPGhCkY7F3kMHWqeBjQ6k6ZP5QJ1EIId4"
+    }
+  },
+  {
+    "transaction_id": "MzI2NDg2NTIzNmFkaXF6a2N4",
+    "barcode": "X954A6OO",
+    "type": "CH01",
+    "date": "2020-05-15",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2020-05-15",
+      "officer_name": "Mr Anthony James Shelton Agar"
+    },
+    "pages": 2,
+    "action_date": "2020-05-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI2NDg2NTIzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xt69NvQlAAwMNmKYxZK8-eYcc4ez2NFY6UwTSaFcYE8"
+    }
+  },
+  {
+    "transaction_id": "MzI2NDg2NTAyMmFkaXF6a2N4",
+    "barcode": "X954A5GE",
+    "type": "AD01",
+    "date": "2020-05-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-05-15",
+      "old_address": "61 Station Road Sudbury Suffolk CO10 2SP England",
+      "new_address": "Suffolk House, 7 Hydra Orion Court, Addison Way Great Blakenham Ipswich Suffolk IP6 0LW"
+    },
+    "pages": 1,
+    "action_date": "2020-05-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI2NDg2NTAyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BKCl1yjkTb3samDuqSrGYwv8MVi6bWz20_rPRZuonPQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODAyNDIxOGFkaXF6a2N4",
+    "barcode": "X8ZGH4QG",
+    "type": "TM01",
+    "date": "2020-02-24",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Jonathan Paul Hutton",
+      "termination_date": "2020-02-18"
+    },
+    "pages": 1,
+    "action_date": "2020-02-18",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI1ODAyNDIxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WD8wTN5DwRwMuyC_OyotaD3HcsH0uXezvUoDAWc7Gjk"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODAyNDEyNWFkaXF6a2N4",
+    "barcode": "X8ZGH46X",
+    "type": "TM01",
+    "date": "2020-02-24",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "David Robert Dunhill",
+      "termination_date": "2020-02-18"
+    },
+    "pages": 1,
+    "action_date": "2020-02-18",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI1ODAyNDEyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KxBo1MVS2_7UEtvq-Pu4SJRvbR5LvFd5KFz-xOaAKdQ"
+    }
+  },
+  {
+    "transaction_id": "MzI0OTgwNDg3MWFkaXF6a2N4",
+    "barcode": "X8IMHTXU",
+    "type": "AA",
+    "date": "2019-11-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 8,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI0OTgwNDg3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-eJAR4lOG03qEloWblVb8rKEGhRRlfZLlkHS9naGb80"
+    }
+  },
+  {
+    "transaction_id": "MzI0MTYzNjg1MWFkaXF6a2N4",
+    "barcode": "X8BS4Q1M",
+    "type": "AA01",
+    "date": "2019-08-13",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2019-05-31",
+      "new_date": "2019-03-31"
+    },
+    "pages": 1,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/11366356/filing-history/MzI0MTYzNjg1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VDuX03NtVYIPG_iCsRCTsvcN25x__ExznjL7C42kAic"
+    }
+  },
+  {
+    "transaction_id": "MzIzNzk5NTc4MGFkaXF6a2N4",
+    "barcode": "X88H4YUI",
+    "type": "AP01",
+    "date": "2019-06-27",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Anthony James Shelton Agar",
+      "appointment_date": "2019-06-25"
+    },
+    "pages": 2,
+    "action_date": "2019-06-25",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIzNzk5NTc4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FkiQ9rqHh2XmeQ3GsDKfRqNe8SvqLWKg_Gr_UVJ1DFM"
+    }
+  },
+  {
+    "transaction_id": "MzIzNzk5MDg3MWFkaXF6a2N4",
+    "barcode": "X88H4FLT",
+    "type": "SH01",
+    "date": "2019-06-27",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2019-06-25",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "304"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2019-06-25",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIzNzk5MDg3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ezFQl0bLsxgOUm8gxcW0S9coOUL--aMz-7g8TQC5UZA"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjgwNDg4MWFkaXF6a2N4",
+    "barcode": "X87IOC4P",
+    "type": "CS01",
+    "date": "2019-06-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-05-15"
+    },
+    "pages": 4,
+    "action_date": "2019-05-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIzNjgwNDg4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D6v_LoyelqkSpcFrxOL36PcV2O-qC_ZKXROhHIqZjT8"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjgwNDEzNGFkaXF6a2N4",
+    "barcode": "X87IO8V4",
+    "type": "PSC01",
+    "date": "2019-06-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Jonathan Paul Hutton",
+      "notification_date": "2019-01-15"
+    },
+    "pages": 2,
+    "action_date": "2019-01-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIzNjgwNDEzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JafTX_fi_h2NcW-HyezdEL6Tbo5n8Wx4Fn3elw4rmWw"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjgwMzc5NWFkaXF6a2N4",
+    "barcode": "X87IO7QB",
+    "type": "PSC04",
+    "date": "2019-06-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2019-05-15",
+      "psc_name": "Mr David Robert Dunhill"
+    },
+    "pages": 2,
+    "action_date": "2019-05-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIzNjgwMzc5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-FULv1QMY_BG99C2Bh7UaAIXabGHfizFvs6iQLDGyqY"
+    }
+  },
+  {
+    "transaction_id": "QTdYQVJUVFRhZGlxemtjeA",
+    "type": "RESOLUTIONS",
+    "date": "2019-01-23",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "capital",
+        "description": "resolution-varying-share-rights",
+        "type": "RES12",
+        "subcategory": "resolution"
+      },
+      {
+        "category": "capital",
+        "description": "resolution",
+        "type": "RES13",
+        "subcategory": "resolution",
+        "description_values": {
+          "description": "Acquisition of shares approved 15/01/2019"
+        }
+      },
+      {
+        "category": "capital",
+        "description": "resolution-securities",
+        "type": "RES10",
+        "subcategory": "resolution"
+      },
+      {
+        "category": "incorporation",
+        "description": "resolution-adopt-articles",
+        "type": "RES01",
+        "subcategory": "resolution",
+        "description_values": {
+          "res_type": "ADOPT ARTICLES"
+        }
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 31,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11366356/filing-history/QTdYQVJUVFRhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fQZjh8PQaj4pnGK1kBnakhPLaeNyyptoS_eOEaNdKqw"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDc3ODU4NGFkaXF6a2N4",
+    "barcode": "A7XARTTL",
+    "type": "SH08",
+    "date": "2019-01-22",
+    "category": "capital",
+    "description": "capital-name-of-class-of-shares",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11366356/filing-history/MzIyNDc3ODU4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AmwJfZMXVGHJ7c3cJT2w2HJqVu0dFDk1lTzF-0l4_-Q"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDc3ODU4NWFkaXF6a2N4",
+    "barcode": "A7XARTTD",
+    "type": "SH10",
+    "date": "2019-01-22",
+    "category": "capital",
+    "description": "capital-variation-of-rights-attached-to-shares",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11366356/filing-history/MzIyNDc3ODU4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/frkTzfwS-W5slN1F-FwP_qzb7zFm4QhGwaphJdfKB0M"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDU3NjA1MWFkaXF6a2N4",
+    "barcode": "X7XA4CDU",
+    "type": "SH01",
+    "date": "2019-01-16",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2019-01-15",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "202"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2019-01-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIyNDU3NjA1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BsAOYHAyq0j_9NrnpcaV3OjHbcI85Jw64KCDebujg0g"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDU3NTI3NmFkaXF6a2N4",
+    "barcode": "X7XA499M",
+    "type": "AP01",
+    "date": "2019-01-16",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Jonathan Paul Hutton",
+      "appointment_date": "2019-01-15"
+    },
+    "pages": 2,
+    "action_date": "2019-01-15",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIyNDU3NTI3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AcAjJRW9iECd237GClT1O7HH9oWVOpCo_PyYXuy5Mao"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzk5ODI5NmFkaXF6a2N4",
+    "barcode": "X7WP44W9",
+    "type": "AD01",
+    "date": "2019-01-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-01-08",
+      "old_address": "15 Whiting Street Bury St Edmunds IP33 1NX England",
+      "new_address": "61 Station Road Sudbury Suffolk CO10 2SP"
+    },
+    "pages": 1,
+    "action_date": "2019-01-08",
+    "links": {
+      "self": "/company/11366356/filing-history/MzIyMzk5ODI5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OHAhxmD0IO21-sMN-vKo7zJke4y9QtFzQe8IFGrpKHc"
+    }
+  },
+  {
+    "transaction_id": "MzIwNTAwNzI2N2FkaXF6a2N4",
+    "barcode": "X7607M5N",
+    "type": "NEWINC",
+    "date": "2018-05-16",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2018-05-16",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-05-16",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-05-16"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 27,
+    "links": {
+      "self": "/company/11366356/filing-history/MzIwNTAwNzI2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P459e5Wm-OOIUskp_zy3juRsbUVZxN7Z06C7NuZ9kOg"
+    }
+  }
+]

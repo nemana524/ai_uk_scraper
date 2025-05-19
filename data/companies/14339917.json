@@ -1,0 +1,46 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH FRANKLIN LTD",
+  "company_number": "14339917",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-09-05"
+  },
+  "date_of_cessation": "2024-10-29",
+  "date_of_creation": "2022-09-06",
+  "etag": "1f3371b6c7cac5d4f2882e2c6f177db80743b58f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14339917/persons-with-significant-control",
+    "self": "/company/14339917",
+    "filing_history": "/company/14339917/filing-history",
+    "officers": "/company/14339917/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Suite 2a Blackthorn House",
+    "address_line_2": "St Pauls Square",
+    "country": "United Kingdom",
+    "locality": "Birmingham",
+    "postal_code": "B3 1RL"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

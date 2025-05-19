@@ -1,0 +1,23 @@
+[
+  {
+    "transaction_id": "MzQ2NTY1MDg0MWFkaXF6a2N4",
+    "barcode": "XE26M9C0",
+    "type": "NEWINC",
+    "date": "2025-05-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2025-05-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/16442944/filing-history/MzQ2NTY1MDg0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6ejCm1yyHN2jApe6ROk0i3ut5H-r2o9LqpG-TghzZ14"
+    }
+  }
+]

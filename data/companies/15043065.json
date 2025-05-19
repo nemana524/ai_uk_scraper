@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2025-05-01",
+      "overdue": true,
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-08-01"
+    },
+    "next_due": "2025-05-01",
+    "next_made_up_to": "2024-08-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH CONTRACTORS LONDON LTD",
+  "company_number": "15043065",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-31",
+    "next_due": "2025-08-14",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "date_of_creation": "2023-08-01",
+  "etag": "e56a74663adf4c3ea4cf54d3d1e4e974d2aa26ce",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15043065/persons-with-significant-control",
+    "self": "/company/15043065",
+    "filing_history": "/company/15043065/filing-history",
+    "officers": "/company/15043065/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "25 Canada Square",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E14 5LB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "41201"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

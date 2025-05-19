@@ -1,0 +1,40 @@
+{
+  "company_number": "15131309",
+  "company_name": "TECH INVENT LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-09-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090",
+    "74100",
+    "77400"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "180 Melton Road",
+    "country": "England",
+    "locality": "Leicester",
+    "postal_code": "LE4 5EE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-11",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-11"
+    },
+    "next_due": "2025-06-11",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "f87a4d383c2f97af4439d2bc8b8b7bfecfcc79f7"
+}

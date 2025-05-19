@@ -1,0 +1,63 @@
+{
+  "company_number": "13880545",
+  "company_name": "TECH GLARY CONSULTING LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "RAJA, Suganya",
+      "officer_role": "director",
+      "appointed_on": "2022-04-04",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Whitehouse",
+        "country": "England",
+        "locality": "Milton Keynes",
+        "postal_code": "MK8 1FS",
+        "premises": "11, Shropshire Gardens"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/13880545/appointments/GiZtJN-LNfB_vqWJelgNJrn_I3o",
+        "officer": {
+          "appointments": "/officers/Qnl1PddQe2r8-IniBaaYrYRztsA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "VIVEKANANDAN, Aravindan",
+      "officer_role": "director",
+      "appointed_on": "2022-01-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Whitehouse",
+        "country": "England",
+        "locality": "Milton Keynes",
+        "postal_code": "MK8 1FS",
+        "premises": "11, Shropshire Gardens"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/13880545/appointments/X8iebddo8-D9xGbNJo_mataMhFU",
+        "officer": {
+          "appointments": "/officers/fBcIp2QJRQT4IdBwr4fagQNmflQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

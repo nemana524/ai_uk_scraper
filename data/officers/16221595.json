@@ -1,0 +1,84 @@
+[
+  {
+    "address": {
+      "address_line_1": "Melrose Avenue",
+      "address_line_2": "Yate",
+      "country": "England",
+      "locality": "Bristol",
+      "postal_code": "BS37 7AN",
+      "premises": "72"
+    },
+    "appointed_on": "2025-01-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1991
+    },
+    "links": {
+      "self": "/company/16221595/appointments/4ZphGbkg_UTnKFNYRYErfTlDiLo",
+      "officer": {
+        "appointments": "/officers/5TwYdqaVo5MeRnqGG_qvBxeudk4/appointments"
+      }
+    },
+    "name": "DEVONISH, Ricardo Junior",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "270853470001"
+  },
+  {
+    "address": {
+      "address_line_1": "Coxley Drive",
+      "country": "England",
+      "locality": "Bath",
+      "postal_code": "BA1 6PD",
+      "premises": "39"
+    },
+    "appointed_on": "2025-01-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1987
+    },
+    "links": {
+      "self": "/company/16221595/appointments/sz1kIB_F7eKpJp30Qi34wz_cOkE",
+      "officer": {
+        "appointments": "/officers/k8wZm8f6kZjkt2EEoH1XHAPHYk4/appointments"
+      }
+    },
+    "name": "DEVONISH, Simon Ricardo",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "257546300001"
+  },
+  {
+    "address": {
+      "address_line_1": "Coxley Drive",
+      "country": "England",
+      "locality": "Bath",
+      "postal_code": "BA1 6PD",
+      "premises": "39"
+    },
+    "appointed_on": "2025-01-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/16221595/appointments/AhFWn4Zjd6tkMzr-laQ-Fo8258Y",
+      "officer": {
+        "appointments": "/officers/yGU-hDN5ZKtSZ_uMHtLShgM05gw/appointments"
+      }
+    },
+    "name": "PEARSON, Lisa Joanne",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "282047490001"
+  }
+]

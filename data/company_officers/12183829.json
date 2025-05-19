@@ -1,0 +1,37 @@
+{
+  "company_number": "12183829",
+  "company_name": "TECH BUSINESS CONNECTED LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ESSERY, Paul Hamilton Luke",
+      "officer_role": "director",
+      "appointed_on": "2019-09-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Field Court",
+        "address_line_2": "Duns Tew",
+        "country": "England",
+        "locality": "Bicester",
+        "postal_code": "OX25 6LD",
+        "premises": "7 Field Court",
+        "region": "Oxfordshire"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1963
+      },
+      "links": {
+        "self": "/company/12183829/appointments/Qy1KhaaXJZNiV2Mx_vsIZn7Peso",
+        "officer": {
+          "appointments": "/officers/PXuseJbvZKc2AD09BUNFvfYgrfw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

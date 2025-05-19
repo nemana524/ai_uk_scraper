@@ -1,0 +1,45 @@
+{
+  "company_number": "12049781",
+  "company_name": "TECH COMMUNICATIONS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2019-06-13",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46510",
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 3 Castle Walk",
+    "country": "England",
+    "locality": "Newcastle",
+    "postal_code": "ST5 1AN"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-06-30",
+      "period_end_on": "2021-06-30",
+      "period_start_on": "2020-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-03-31",
+      "overdue": true,
+      "period_end_on": "2022-06-30",
+      "period_start_on": "2021-07-01"
+    },
+    "next_due": "2023-03-31",
+    "next_made_up_to": "2022-06-30",
+    "overdue": true
+  },
+  "etag": "840bbc7df1444df92460eb54e05c32b16c43b1c1"
+}

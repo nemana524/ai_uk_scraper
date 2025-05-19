@@ -1,0 +1,575 @@
+[
+  {
+    "transaction_id": "MzQ1NDE4MTYwN2FkaXF6a2N4",
+    "barcode": "XDVZGRDL",
+    "type": "CS01",
+    "date": "2025-02-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-08"
+    },
+    "pages": 3,
+    "action_date": "2025-02-08",
+    "links": {
+      "self": "/company/11246500/filing-history/MzQ1NDE4MTYwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GQlpN8G3hCTxigG2_66-q9deBdx5JxezfVleAbtgXEA"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTE0MDI5MWFkaXF6a2N4",
+    "barcode": "XDEPQQJG",
+    "type": "PSC04",
+    "date": "2024-10-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-10-22",
+      "psc_name": "Mr Arif Sharif Mohammed"
+    },
+    "pages": 2,
+    "action_date": "2024-10-22",
+    "links": {
+      "self": "/company/11246500/filing-history/MzQ0MTE0MDI5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RaN2a1DCD7c6xebULX-ngp7_N4e8gFjSDwVaIUu9l2A"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTE0MDU5OWFkaXF6a2N4",
+    "barcode": "XDEPQRQY",
+    "type": "CH01",
+    "date": "2024-10-28",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-10-22",
+      "officer_name": "Mr Arif Sharif Mohammed"
+    },
+    "pages": 2,
+    "action_date": "2024-10-22",
+    "links": {
+      "self": "/company/11246500/filing-history/MzQ0MTE0MDU5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZhDmoO8odt78tmuTEu_ywSMq_FiLVYqtWXAaRdMbKM0"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTEzOTYyMmFkaXF6a2N4",
+    "barcode": "XDEPQNG3",
+    "type": "AD01",
+    "date": "2024-10-28",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-10-28",
+      "old_address": "Ilford Business Hub Forest House 3rd Floor 16-20 Clements Road Ilford IG1 1BA England",
+      "new_address": "The Basement, Goodmayes House 45-49 Goodmayes Road Ilford IG3 9UF"
+    },
+    "pages": 1,
+    "action_date": "2024-10-28",
+    "links": {
+      "self": "/company/11246500/filing-history/MzQ0MTEzOTYyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Mi8xdWhAT_DidbwDLrukQtrcVCjOma6yuTWFUG76V9g"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDk4MjU0NWFkaXF6a2N4",
+    "barcode": "XDEHVID5",
+    "type": "AA",
+    "date": "2024-10-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 6,
+    "links": {
+      "self": "/company/11246500/filing-history/MzQ0MDk4MjU0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/12WdSkfPIFGxMw3q1YA7vLGbS_Z1LZaGr_kKUfc6I5I"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzgxNTg0M2FkaXF6a2N4",
+    "barcode": "XCYG75MA",
+    "type": "CS01",
+    "date": "2024-03-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-08"
+    },
+    "pages": 3,
+    "action_date": "2024-03-08",
+    "links": {
+      "self": "/company/11246500/filing-history/MzQxMzgxNTg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6CuT84MD9t1dr00y_6p_nDHV_FLQ3V2eV-cK3_XRkvk"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTMzODA5MWFkaXF6a2N4",
+    "barcode": "XC9NSL0Z",
+    "type": "AD01",
+    "date": "2023-08-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-11",
+      "old_address": "Office 255F, 321-323 High Road Romford RM6 6AX England",
+      "new_address": "Ilford Business Hub Forest House 3rd Floor 16-20 Clements Road Ilford IG1 1BA"
+    },
+    "pages": 1,
+    "action_date": "2023-08-11",
+    "links": {
+      "self": "/company/11246500/filing-history/MzM4OTMzODA5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NY49-7O2SkcBBNU226rf-NUrz2Cjf1FyEGGS6qKELbE"
+    }
+  },
+  {
+    "transaction_id": "MzM4Mjg1Mzg1OWFkaXF6a2N4",
+    "barcode": "XC5OW549",
+    "type": "AD01",
+    "date": "2023-06-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-06-14",
+      "old_address": "33 Breamore Court Breamore Road Ilford IG3 9NP England",
+      "new_address": "Office 255F, 321-323 High Road Romford RM6 6AX"
+    },
+    "pages": 1,
+    "action_date": "2023-06-14",
+    "links": {
+      "self": "/company/11246500/filing-history/MzM4Mjg1Mzg1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UCSxs-GYCpj2Y5h7V5H56FMd8nvx3-z7dbqpp-eo01I"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTE3ODY0MWFkaXF6a2N4",
+    "barcode": "XC38J8BD",
+    "type": "AA",
+    "date": "2023-05-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 6,
+    "links": {
+      "self": "/company/11246500/filing-history/MzM3OTE3ODY0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gX-kbF0QIguCrolEZwgU4WYRFzGFC4NLccsAzGF1lW8"
+    }
+  },
+  {
+    "transaction_id": "MzM3NTczODY2NGFkaXF6a2N4",
+    "barcode": "XC17WBJV",
+    "type": "CS01",
+    "date": "2023-04-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-09"
+    },
+    "pages": 3,
+    "action_date": "2023-03-09",
+    "links": {
+      "self": "/company/11246500/filing-history/MzM3NTczODY2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F3VDr4BXY6c0FHDEAj23rooyRLrWhh2rdKylEnF13DQ"
+    }
+  },
+  {
+    "transaction_id": "MzM0MDAxODQwMWFkaXF6a2N4",
+    "barcode": "XB4HOX6O",
+    "type": "AA",
+    "date": "2022-05-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 3,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/11246500/filing-history/MzM0MDAxODQwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DO-lBbb4QJ_-DniWt3eE0KhzsPmmOMvy_sWQnJ0iUIg"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzc5MjQ2NWFkaXF6a2N4",
+    "barcode": "XB0DYNWW",
+    "type": "CS01",
+    "date": "2022-03-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-03-09"
+    },
+    "pages": 3,
+    "action_date": "2022-03-09",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMzMzc5MjQ2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9CX7vigNGxpXzWGMF7v8u_M8TC8mdd_DB0NF2Y5dlkM"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjQyODM1M2FkaXF6a2N4",
+    "barcode": "XAVJFJSG",
+    "type": "AD01",
+    "date": "2022-01-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-01-12",
+      "old_address": "54 Nigel Road Forest Gate London E7 8AN England",
+      "new_address": "33 Breamore Court Breamore Road Ilford IG3 9NP"
+    },
+    "pages": 1,
+    "action_date": "2022-01-12",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMyNjQyODM1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZqfF15Qnvzjft1nMpJL3ggj2Ue_G-dRiPOwioWWqKCc"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjA5NzMzNGFkaXF6a2N4",
+    "barcode": "XAV8VCND",
+    "type": "PSC01",
+    "date": "2022-01-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Arif Sharif Mohammed",
+      "notification_date": "2022-01-03"
+    },
+    "pages": 2,
+    "action_date": "2022-01-03",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMyNjA5NzMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bGlpQqjOcOU61mtozi95LnE3I9HiXWcENP_NR-e49-c"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjA5Njk3NGFkaXF6a2N4",
+    "barcode": "XAV8VB4Y",
+    "type": "TM01",
+    "date": "2022-01-08",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Moizuddin Imran Mohammed",
+      "termination_date": "2022-01-03"
+    },
+    "pages": 1,
+    "action_date": "2022-01-03",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMyNjA5Njk3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ar0twdKXYydABusUsu45Vbg83qvAbXLECKZ2xIXNq0M"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjA5NjkyM2FkaXF6a2N4",
+    "barcode": "XAV8VAQ8",
+    "type": "AP01",
+    "date": "2022-01-08",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Arif Sharif Mohammed",
+      "appointment_date": "2022-01-03"
+    },
+    "pages": 2,
+    "action_date": "2022-01-03",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMyNjA5NjkyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P1XfSCaCIcHPjcuCQYx5jZ29CvFLOBQUUDWU2ME1PNM"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjA5Njc1NWFkaXF6a2N4",
+    "barcode": "XAV8VA1K",
+    "type": "CH01",
+    "date": "2022-01-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-01-08",
+      "officer_name": "Mr Arif Sharif Mohammed"
+    },
+    "pages": 2,
+    "action_date": "2022-01-08",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMyNjA5Njc1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uqdQFyF6D-KR1i9wOMgSaNGptnnrvJS2dmW_Kv_50Ls"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjA5NjU3OWFkaXF6a2N4",
+    "barcode": "XAV8V968",
+    "type": "CH01",
+    "date": "2022-01-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-01-08",
+      "officer_name": "Mr Moizuddin Imran Mohammed"
+    },
+    "pages": 2,
+    "action_date": "2022-01-08",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMyNjA5NjU3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SmLP4K3R7bHevt5_L15V56lE8fDLbEltCquJ51mFyGw"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTg5MjcxMWFkaXF6a2N4",
+    "barcode": "XAE9VZ28",
+    "type": "PSC07",
+    "date": "2021-10-02",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Arif Sharif Mohammed",
+      "cessation_date": "2021-07-27"
+    },
+    "pages": 1,
+    "action_date": "2021-07-27",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMxNTg5MjcxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FAM3jN5SwS2fQpsHZk0fPH7PU_DJHtHANVLKiAamREg"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTg5MTU1NmFkaXF6a2N4",
+    "barcode": "XAE9VU0N",
+    "type": "TM01",
+    "date": "2021-10-02",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Arif Sharif Mohammed",
+      "termination_date": "2021-07-27"
+    },
+    "pages": 1,
+    "action_date": "2021-07-27",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMxNTg5MTU1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/54la5Lza1WeITdy8ETP5FcHypfWNm_g0re3verDJcmo"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTg4ODgyMGFkaXF6a2N4",
+    "barcode": "XAE9VJ6Y",
+    "type": "AP01",
+    "date": "2021-10-02",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Moizuddin Imran Mohammed",
+      "appointment_date": "2021-07-27"
+    },
+    "pages": 2,
+    "action_date": "2021-07-27",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMxNTg4ODgyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HXZuU4fOq4k1NfHlKMvXOR4nyxf-WsdH8LFgRbR13Ww"
+    }
+  },
+  {
+    "transaction_id": "MzMwOTIyNTE1NWFkaXF6a2N4",
+    "barcode": "XA9TH716",
+    "type": "AA",
+    "date": "2021-07-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 3,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/11246500/filing-history/MzMwOTIyNTE1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q6Z_bYuJpFN4-EyILnNj1L9qTeeZzgNLbbsOPNDzKSY"
+    }
+  },
+  {
+    "transaction_id": "MzI5NTEwNzkzN2FkaXF6a2N4",
+    "barcode": "XA0UBMP7",
+    "type": "CS01",
+    "date": "2021-03-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-03-09"
+    },
+    "pages": 3,
+    "action_date": "2021-03-09",
+    "links": {
+      "self": "/company/11246500/filing-history/MzI5NTEwNzkzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/d4ve3NCxYTCdW1UMWzpAAKr6bUFRTHCDq4r8GJCaIzM"
+    }
+  },
+  {
+    "transaction_id": "MzI5NTA5MjczNmFkaXF6a2N4",
+    "barcode": "XA0U9WDL",
+    "type": "PSC04",
+    "date": "2021-03-22",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-03-22",
+      "psc_name": "Mr Arif Sharif Mohammed"
+    },
+    "pages": 2,
+    "action_date": "2021-03-22",
+    "links": {
+      "self": "/company/11246500/filing-history/MzI5NTA5MjczNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/G8caN1HCLx4h4-AP_t_MWI7-jg8KtlZ6DjTFLmSsnj8"
+    }
+  },
+  {
+    "transaction_id": "MzI5NTA4ODE5N2FkaXF6a2N4",
+    "barcode": "XA0U9D8I",
+    "type": "CH01",
+    "date": "2021-03-22",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-03-22",
+      "officer_name": "Mr Arif Sharif Mohammed"
+    },
+    "pages": 2,
+    "action_date": "2021-03-22",
+    "links": {
+      "self": "/company/11246500/filing-history/MzI5NTA4ODE5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a77kymro8_Y7uVHlQtxxJd5kQE-OIvnsCpk7JLKzSaM"
+    }
+  },
+  {
+    "transaction_id": "MzI5MTMzMTI4M2FkaXF6a2N4",
+    "barcode": "X9Y5YEC8",
+    "type": "AA",
+    "date": "2021-02-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 3,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/11246500/filing-history/MzI5MTMzMTI4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0PjRF7Jg3mscXFuA0vqi3GTRxg_dh6kxJx0JX_nR0pA"
+    }
+  },
+  {
+    "transaction_id": "MzI3MTk3MDkyNWFkaXF6a2N4",
+    "barcode": "X98AL7Z4",
+    "type": "CS01",
+    "date": "2020-06-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-03-09"
+    },
+    "pages": 5,
+    "action_date": "2020-03-09",
+    "links": {
+      "self": "/company/11246500/filing-history/MzI3MTk3MDkyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7FBT4SGUXNya7TSoWFp-BgJiIgZ-kkZ9Z--4NmY7lyc"
+    }
+  },
+  {
+    "transaction_id": "MzI1MjAyMTI1N2FkaXF6a2N4",
+    "barcode": "X8K6IEHD",
+    "type": "AA",
+    "date": "2019-12-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 2,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/11246500/filing-history/MzI1MjAyMTI1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gUCTZa_VGZmMoaMqRpeDEFcdwyMXIrcPDwarUSrDVRY"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTY1NjExNmFkaXF6a2N4",
+    "barcode": "X831GIJ7",
+    "type": "CS01",
+    "date": "2019-04-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-03-09"
+    },
+    "pages": 3,
+    "action_date": "2019-03-09",
+    "links": {
+      "self": "/company/11246500/filing-history/MzIzMTY1NjExNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6i-EStudqFnvNbO6BWD96RPgdJRl1RS9WgT8VyT3o0c"
+    }
+  },
+  {
+    "transaction_id": "MzIxMDk1NTgzOGFkaXF6a2N4",
+    "barcode": "X7BBIIJU",
+    "type": "AD01",
+    "date": "2018-07-31",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-07-31",
+      "old_address": "120 B First Floor Flat Seventh Avenue London E12 5JH England",
+      "new_address": "54 Nigel Road Forest Gate London E7 8AN"
+    },
+    "pages": 1,
+    "action_date": "2018-07-31",
+    "links": {
+      "self": "/company/11246500/filing-history/MzIxMDk1NTgzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aYRF91n1rzRh_EwV08gObe3ALLFRLC6blIzmjCCsOFQ"
+    }
+  },
+  {
+    "transaction_id": "MzE5OTU5NDE0OWFkaXF6a2N4",
+    "barcode": "X719JWBS",
+    "type": "NEWINC",
+    "date": "2018-03-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2018-03-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-03-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-03-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 27,
+    "links": {
+      "self": "/company/11246500/filing-history/MzE5OTU5NDE0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a7ZK3U_EwZQPOjpBiXMdX5dPGHvCmQjjSHjWSl8CXQA"
+    }
+  }
+]

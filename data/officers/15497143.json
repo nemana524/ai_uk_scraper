@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Gorton Road",
+      "country": "England",
+      "locality": "Stockport",
+      "postal_code": "SK5 6AE",
+      "premises": "Flat 1-3 42-44"
+    },
+    "appointed_on": "2024-02-17",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/15497143/appointments/3wunl9JSwJaQmsnV9EAq_5FlBVo",
+      "officer": {
+        "appointments": "/officers/dGPJzinDLWIIsN61smgvDh43rmY/appointments"
+      }
+    },
+    "name": "AFZAAL, Samra",
+    "nationality": "Pakistani",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "319463040001"
+  }
+]

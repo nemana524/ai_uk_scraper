@@ -1,0 +1,40 @@
+{
+  "company_number": "15407972",
+  "company_name": "TECH BRIDGE CONSULTANCY LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-01-12",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "9 The Copse",
+    "address_line_2": "Bushby",
+    "country": "United Kingdom",
+    "locality": "Leicester",
+    "postal_code": "LE7 9RW",
+    "region": "Leicestershire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-12",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-01-12"
+    },
+    "next_due": "2025-10-12",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "etag": "0b3dafb0b15762017b24fef3d08f0a2118cad78e"
+}

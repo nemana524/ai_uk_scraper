@@ -1,0 +1,35 @@
+{
+  "company_number": "15896450",
+  "company_name": "TECH FORMATION LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "FARUQ, Omar",
+      "officer_role": "director",
+      "appointed_on": "2024-08-14",
+      "resigned_on": null,
+      "nationality": "British Virgin Islander",
+      "country_of_residence": "England",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Roman Road",
+        "country": "England",
+        "locality": "Taunton",
+        "postal_code": "TA1 2BG",
+        "premises": "43"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/15896450/appointments/PBacvcjzvwAbnW38Z31al8zXkgE",
+        "officer": {
+          "appointments": "/officers/K3lihPqi5vzp4yO-KJWvdpZlLTM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

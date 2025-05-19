@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-29",
+      "period_end_on": "2024-02-29",
+      "period_start_on": "2023-03-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-03-01"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INFUSION LIMITED",
+  "company_number": "13887674",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-01",
+    "next_due": "2026-02-15",
+    "next_made_up_to": "2026-02-01",
+    "overdue": false
+  },
+  "date_of_creation": "2022-02-02",
+  "etag": "d5922f422fb321a260204ef8d5f4dc557afc2098",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13887674/persons-with-significant-control",
+    "self": "/company/13887674",
+    "filing_history": "/company/13887674/filing-history",
+    "officers": "/company/13887674/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "7 Hampden Place",
+    "country": "England",
+    "locality": "Halifax",
+    "postal_code": "HX1 5LT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62030"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

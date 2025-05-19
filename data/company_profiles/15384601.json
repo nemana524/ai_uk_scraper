@@ -1,0 +1,39 @@
+{
+  "company_number": "15384601",
+  "company_name": "TECH CATALYST LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-01-03",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 36 Silk Mill Industrial Estate",
+    "address_line_2": "Brook Street",
+    "country": "United Kingdom",
+    "locality": "Tring",
+    "postal_code": "HP23 5EF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "08",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-03",
+      "overdue": false,
+      "period_end_on": "2025-04-08",
+      "period_start_on": "2024-01-03"
+    },
+    "next_due": "2025-10-03",
+    "next_made_up_to": "2025-04-08",
+    "overdue": false
+  },
+  "etag": "d9f393fa2654e12f77dfef3c9d1fbe3d0511b64e"
+}

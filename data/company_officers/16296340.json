@@ -1,0 +1,35 @@
+{
+  "company_number": "16296340",
+  "company_name": "TECH GENIE ONE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MOHAMMAD, Zubair Khan",
+      "officer_role": "director",
+      "appointed_on": "2025-03-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Entrepreneur",
+      "address": {
+        "address_line_1": "Bordesley Green",
+        "country": "England",
+        "locality": "Birmingham",
+        "postal_code": "B9 5RA",
+        "premises": "443"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/16296340/appointments/SIpbY9hq_UaWbVa3lnIyUOvxiUk",
+        "officer": {
+          "appointments": "/officers/0lEbKAcd3FAv7sm1K_nGrLvbc4w/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

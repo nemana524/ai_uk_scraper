@@ -1,0 +1,394 @@
+[
+  {
+    "transaction_id": "MzQ1MTg0NzU5M2FkaXF6a2N4",
+    "barcode": "XDUMGSC1",
+    "type": "CS01",
+    "date": "2025-01-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-04"
+    },
+    "pages": 3,
+    "action_date": "2025-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzQ1MTg0NzU5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JyNnI5XdW-mZkXanoqDz7mm4VKk6A8GSB-k0beD6OL0"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTE4MjgxNWFkaXF6a2N4",
+    "barcode": "XD1LRYPN",
+    "type": "AA",
+    "date": "2024-04-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 8,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/10552045/filing-history/MzQxOTE4MjgxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tYr611ZH3QeFyGkwQAUOzTtlWVUQVKTetOSDP89gdAg"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjYyMzExMGFkaXF6a2N4",
+    "barcode": "XCU3NBCY",
+    "type": "CS01",
+    "date": "2024-01-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-01-04"
+    },
+    "pages": 3,
+    "action_date": "2024-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzQwNjYyMzExMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Mjn3J8d0UZD6-YmSEv6YpGorLHTaKFJ00c-iQaTaasA"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjYwNDY3N2FkaXF6a2N4",
+    "barcode": "XCBVLJM3",
+    "type": "AA",
+    "date": "2023-09-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 5,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/10552045/filing-history/MzM5MjYwNDY3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/A-l5uVvCZUnMMLT0iE1s9G20WaIW0wymrv11rGWuxGk"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTAwODg3N2FkaXF6a2N4",
+    "barcode": "XBUUR2RL",
+    "type": "CS01",
+    "date": "2023-01-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-01-04"
+    },
+    "pages": 3,
+    "action_date": "2023-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzM2NTAwODg3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RWGuAR9WsQvpMZY47CGMSM3aOpue-IWU_T7dbYd_Grc"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjQwMTMzN2FkaXF6a2N4",
+    "barcode": "XBD1CU69",
+    "type": "AA",
+    "date": "2022-09-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-01-31"
+    },
+    "pages": 5,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/10552045/filing-history/MzM1MjQwMTMzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/loJBBlu8BpFGkIUNefOlDZGufVWiphn4GikzKDw8T70"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjQzNzI2MWFkaXF6a2N4",
+    "barcode": "XAVJGHJU",
+    "type": "CS01",
+    "date": "2022-01-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-01-04"
+    },
+    "pages": 3,
+    "action_date": "2022-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzMyNjQzNzI2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CxDTptShKxpoerFQe2izEaeY1uD4vS6SqumlswXV6gM"
+    }
+  },
+  {
+    "transaction_id": "MzMwNzUyODc4N2FkaXF6a2N4",
+    "barcode": "XA8MTENC",
+    "type": "AA",
+    "date": "2021-07-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-01-31"
+    },
+    "pages": 7,
+    "action_date": "2021-01-31",
+    "links": {
+      "self": "/company/10552045/filing-history/MzMwNzUyODc4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5t9z3wpD3PglntSJydslx-7quG-Wevat3dsnQfd5V0E"
+    }
+  },
+  {
+    "transaction_id": "MzI4NzcxOTg0OGFkaXF6a2N4",
+    "barcode": "X9VMS59E",
+    "type": "CS01",
+    "date": "2021-01-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-01-04"
+    },
+    "pages": 3,
+    "action_date": "2021-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzI4NzcxOTg0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/33YIzCCxT6GPQxGTOjr_eP7m5lXblM2jHyX_Bm-nQ9c"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjUwODk2MmFkaXF6a2N4",
+    "barcode": "X9KC0BWX",
+    "type": "PSC04",
+    "date": "2020-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-11-30",
+      "psc_name": "Mr Simon Mccarthy"
+    },
+    "pages": 2,
+    "action_date": "2020-11-30",
+    "links": {
+      "self": "/company/10552045/filing-history/MzI4NjUwODk2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HERICgGGiCDlZvM7edkBaxfZiIIiDMkjthMzSvvpT5Y"
+    }
+  },
+  {
+    "transaction_id": "MzI4NDY5NjAxMmFkaXF6a2N4",
+    "barcode": "X9IWZ8EI",
+    "type": "PSC04",
+    "date": "2020-11-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-11-30",
+      "psc_name": "Mr Simon Mccarthy"
+    },
+    "pages": 2,
+    "action_date": "2020-11-30",
+    "links": {
+      "self": "/company/10552045/filing-history/MzI4NDY5NjAxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rcoV2lZuZ5Kh_NhsaM59FxE_epLij_kxB0ylXZ4Nmzg"
+    }
+  },
+  {
+    "transaction_id": "MzI4NDY5NTYxM2FkaXF6a2N4",
+    "barcode": "X9IWZ6U2",
+    "type": "CH01",
+    "date": "2020-11-30",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2020-11-30",
+      "officer_name": "Mr Simon Mccarthy"
+    },
+    "pages": 2,
+    "action_date": "2020-11-30",
+    "links": {
+      "self": "/company/10552045/filing-history/MzI4NDY5NTYxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eX1Eu7t7xAAUvkYS-HHpjKMz4sS-9ExETvomnNbHzYA"
+    }
+  },
+  {
+    "transaction_id": "MzI3NjkzMjU2M2FkaXF6a2N4",
+    "barcode": "A9CQLQ0O",
+    "type": "AA",
+    "date": "2020-09-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2020-01-31"
+    },
+    "pages": 10,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10552045/filing-history/MzI3NjkzMjU2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Iw4fq1EsRVV3zO0YfycwfFTCMS2pRQ6f118LXIJ3eUc"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDk2NTY5OWFkaXF6a2N4",
+    "barcode": "X8X3G0L7",
+    "type": "CS01",
+    "date": "2020-01-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-01-04"
+    },
+    "pages": 3,
+    "action_date": "2020-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzI1NDk2NTY5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KNBxQvZJygR0JewUb2SH0lDuSlnvAfUAcCHedYucXvs"
+    }
+  },
+  {
+    "transaction_id": "MzI1MjczMzQyMGFkaXF6a2N4",
+    "barcode": "X8KPK3IN",
+    "type": "AD01",
+    "date": "2019-12-20",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-12-20",
+      "old_address": "10 Ladds Lane Chippenham Wiltshire SN15 3JR England",
+      "new_address": "8 Westinghouse Park Chippenham Wiltshire SN14 0FQ"
+    },
+    "pages": 1,
+    "action_date": "2019-12-20",
+    "links": {
+      "self": "/company/10552045/filing-history/MzI1MjczMzQyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/h8-LN5N-4TxpeiO_rBhzkNXOvpqalZ5klkNkx9qr-Bk"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDY1MDMzNGFkaXF6a2N4",
+    "barcode": "A82C9T5T",
+    "type": "RPCH01",
+    "date": "2019-05-17",
+    "category": "miscellaneous",
+    "description": "legacy",
+    "description_values": {
+      "description": "Correction of a Director's date of birth incorrectly stated on incorporation / mr simon mccarthy"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10552045/filing-history/MzIzNDY1MDMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Um0yoIWavcTLyuEkwln73P9D78ALPpWzCmZXxoJai9w"
+    }
+  },
+  {
+    "transaction_id": "MzIzMzQxNzYzOGFkaXF6a2N4",
+    "barcode": "A846KY41",
+    "type": "AA",
+    "date": "2019-05-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2019-01-31"
+    },
+    "pages": 8,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10552045/filing-history/MzIzMzQxNzYzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FcT3nWrXq0N3Dg_Vn27skbwkqAvpcV85OEILWEcf2GY"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDU2MjAyMmFkaXF6a2N4",
+    "barcode": "X7XA31PE",
+    "type": "CS01",
+    "date": "2019-01-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-01-04"
+    },
+    "pages": 3,
+    "action_date": "2019-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzIyNDU2MjAyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/k7AStUUeGi4Ktx2ASQXaBuk7cEiWy5Sq82LuJIP59Co"
+    }
+  },
+  {
+    "transaction_id": "MzIxNDEwNzc2M2FkaXF6a2N4",
+    "barcode": "X7E7Z509",
+    "type": "AA",
+    "date": "2018-09-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-01-31"
+    },
+    "pages": 2,
+    "action_date": "2018-01-31",
+    "links": {
+      "self": "/company/10552045/filing-history/MzIxNDEwNzc2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7sA7BhOFg0rnu7GFyA9sFaLjfc8o5vLjMLVdtuXE8ds"
+    }
+  },
+  {
+    "transaction_id": "MzE5NTc4NjE0NmFkaXF6a2N4",
+    "barcode": "X6Y4BKCR",
+    "type": "CS01",
+    "date": "2018-01-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-01-04"
+    },
+    "pages": 3,
+    "action_date": "2018-01-04",
+    "links": {
+      "self": "/company/10552045/filing-history/MzE5NTc4NjE0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9OPimNOg1bbK3espPrcfCGk-RA0tRf7PC9WrpIhyPzM"
+    }
+  },
+  {
+    "transaction_id": "MzE2NjAzODE1M2FkaXF6a2N4",
+    "barcode": "X5XIIZEQ",
+    "type": "NEWINC",
+    "date": "2017-01-09",
+    "category": "incorporation",
+    "annotations": [
+      {
+        "annotation": "Part Rectified Directors date of birth on the IN01 was removed from the public register on 17/05/2019 as it was factually inaccurate or was derived from something factually inaccurate",
+        "date": "2019-05-17",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Rectified Directors date of birth on the IN01 was removed from the public register on 17/05/2019 as it was factually inaccurate or was derived from something factually inaccurate"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2017-01-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-01-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2017-01-09"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 30,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10552045/filing-history/MzE2NjAzODE1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0vr7qt6dFo9fBH6paH9Zbd7XHnUBrkq14WzGIkbG04U"
+    }
+  }
+]

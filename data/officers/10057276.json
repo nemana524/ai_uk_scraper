@@ -1,0 +1,50 @@
+[
+  {
+    "address": {
+      "address_line_1": "Agricola Way",
+      "country": "United Kingdom",
+      "locality": "Thatcham",
+      "postal_code": "RG19 4GB",
+      "premises": "9",
+      "region": "Berkshire"
+    },
+    "appointed_on": "2016-03-11",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/10057276/appointments/cZiNuQk4j9sO8fZYwexIaZH0kRA",
+      "officer": {
+        "appointments": "/officers/Z412RqO5e5MAJ3zbLehiCmYij-g/appointments"
+      }
+    },
+    "name": "BATES, Stephen Charles",
+    "officer_role": "secretary",
+    "person_number": "206008550001"
+  },
+  {
+    "address": {
+      "address_line_1": "The Waverleys",
+      "country": "England",
+      "locality": "Thatcham",
+      "postal_code": "RG18 3EZ",
+      "premises": "2"
+    },
+    "appointed_on": "2016-03-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1972
+    },
+    "links": {
+      "self": "/company/10057276/appointments/4N6oIHub60zTX2VFWCP0jjfn6NQ",
+      "officer": {
+        "appointments": "/officers/N4aMhN9d3oRVITScGNpac-W92OQ/appointments"
+      }
+    },
+    "name": "WARD, Thomas Benjamin",
+    "nationality": "British",
+    "occupation": "Educationalist",
+    "officer_role": "director",
+    "person_number": "206008540002"
+  }
+]

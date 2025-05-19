@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2022-03-26",
+      "overdue": true,
+      "period_end_on": "2021-06-30",
+      "period_start_on": "2020-06-26"
+    },
+    "next_due": "2022-03-26",
+    "next_made_up_to": "2021-06-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH IMPERIUM LIMITED",
+  "company_number": "12699754",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2021-06-25",
+    "next_due": "2022-07-09",
+    "next_made_up_to": "2022-06-25",
+    "overdue": true
+  },
+  "date_of_creation": "2020-06-26",
+  "etag": "de07e6000a1510f6b1e9f76c595fc297bb84656e",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12699754/persons-with-significant-control",
+    "self": "/company/12699754",
+    "filing_history": "/company/12699754/filing-history",
+    "officers": "/company/12699754/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "194 Barton Hill Road",
+    "country": "England",
+    "locality": "Torquay",
+    "postal_code": "TQ2 8HN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47650"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

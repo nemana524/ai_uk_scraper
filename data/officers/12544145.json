@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "The Broadway",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "W5 2NP",
+      "premises": "28-29"
+    },
+    "appointed_on": "2020-04-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/12544145/appointments/d-7o8QryDFSHlQiN26zaaNYSkwg",
+      "officer": {
+        "appointments": "/officers/NG3fSU89BL3dc7nIKxsz9kkDbC0/appointments"
+      }
+    },
+    "name": "CEDRO, Grzegorz",
+    "nationality": "Polish",
+    "occupation": "Manager",
+    "officer_role": "director",
+    "person_number": "206662380001"
+  }
+]

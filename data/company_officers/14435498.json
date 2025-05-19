@@ -1,0 +1,65 @@
+{
+  "company_number": "14435498",
+  "company_name": "TECH FIX BRISTOL LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MOREY, Luke James Peter",
+      "officer_role": "director",
+      "appointed_on": "2022-10-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Telephone Engineer",
+      "address": {
+        "address_line_1": "Regent Street",
+        "address_line_2": "Clifton",
+        "country": "England",
+        "locality": "Bristol",
+        "postal_code": "BS8 4HR",
+        "premises": "33"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/14435498/appointments/R4F2Tk0N4w3x2PhMVieYNwukh5Q",
+        "officer": {
+          "appointments": "/officers/rNmwb6WpP6LuYFmJ03yVVPpsK7M/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SINGH, Bishen Alexander",
+      "officer_role": "director",
+      "appointed_on": "2022-10-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Software Engineer",
+      "address": {
+        "address_line_1": "Regent Street",
+        "address_line_2": "Clifton",
+        "country": "England",
+        "locality": "Bristol",
+        "postal_code": "BS8 4HR",
+        "premises": "33"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/14435498/appointments/Y1nr7RfpQq5ASdYq0hZLrB2uBsA",
+        "officer": {
+          "appointments": "/officers/rQTv3mFMhQSuGG8ZpO4Iq2atEF4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

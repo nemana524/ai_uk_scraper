@@ -1,0 +1,385 @@
+[
+  {
+    "transaction_id": "MzQ1MzQ2OTgyMWFkaXF6a2N4",
+    "barcode": "XDVLU7F4",
+    "type": "CS01",
+    "date": "2025-02-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-09"
+    },
+    "pages": 3,
+    "action_date": "2025-01-09",
+    "links": {
+      "self": "/company/11143883/filing-history/MzQ1MzQ2OTgyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TTYCrkXw-5vXj2wewHv_akEGHhsWgwww0SokqSChft4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDg0Mjg2MGFkaXF6a2N4",
+    "barcode": "XDEF3U2A",
+    "type": "AA",
+    "date": "2024-10-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 5,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/11143883/filing-history/MzQ0MDg0Mjg2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-dVo47nNLLTfWsXnjQO_GVHJvjXYHlUr-F2F-nfeYHE"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzYyODU0MWFkaXF6a2N4",
+    "barcode": "XCUUDHU1",
+    "type": "CS01",
+    "date": "2024-01-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-01-09"
+    },
+    "pages": 3,
+    "action_date": "2024-01-09",
+    "links": {
+      "self": "/company/11143883/filing-history/MzQwNzYyODU0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Oc4sTritiWoKmA3EZHnV1IbWF1F1Gwr8Li2dUUDylMg"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDYzNzUyNGFkaXF6a2N4",
+    "barcode": "XCCXHGDL",
+    "type": "AA",
+    "date": "2023-09-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 5,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/11143883/filing-history/MzM5NDYzNzUyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LoiJX3e3UnbN3RrRck2AfXoArLBUkReG9hLDpB_geJM"
+    }
+  },
+  {
+    "transaction_id": "MzM2NzM3NjE4MWFkaXF6a2N4",
+    "barcode": "XBW23LCO",
+    "type": "CS01",
+    "date": "2023-01-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-01-09"
+    },
+    "pages": 5,
+    "action_date": "2023-01-09",
+    "links": {
+      "self": "/company/11143883/filing-history/MzM2NzM3NjE4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4fc9eoMS4mYgX66HTnsWi0M1aAG017jht9eQ3t2vgoo"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzQxNzY3OGFkaXF6a2N4",
+    "barcode": "XB08EHQH",
+    "type": "AA",
+    "date": "2022-03-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-01-31"
+    },
+    "pages": 3,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/11143883/filing-history/MzMzMzQxNzY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kvmPIaPdEjMtz8H5WhnsXVJBpH0lhXpVxcag9EdbNeU"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjczNzYzNWFkaXF6a2N4",
+    "barcode": "XAZSBADE",
+    "type": "TM01",
+    "date": "2022-03-14",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Linda Okell",
+      "termination_date": "2022-03-14"
+    },
+    "pages": 1,
+    "action_date": "2022-03-14",
+    "links": {
+      "self": "/company/11143883/filing-history/MzMzMjczNzYzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ph5j_HcdVe-COduUGGGBmZT4-CsDvcdsT32cgin1nbQ"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzQ0ODc4OGFkaXF6a2N4",
+    "barcode": "XAW51SQ0",
+    "type": "CS01",
+    "date": "2022-01-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-01-09"
+    },
+    "pages": 3,
+    "action_date": "2022-01-09",
+    "links": {
+      "self": "/company/11143883/filing-history/MzMyNzQ0ODc4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gVr7CgIo7KPVfWaGOgluwdt1esPd07KnJI6MC-rRGPE"
+    }
+  },
+  {
+    "transaction_id": "MzMxODUwMTc3NmFkaXF6a2N4",
+    "barcode": "XAG26K9K",
+    "type": "AA",
+    "date": "2021-10-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-01-31"
+    },
+    "pages": 3,
+    "action_date": "2021-01-31",
+    "links": {
+      "self": "/company/11143883/filing-history/MzMxODUwMTc3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SoSeTBHrjMjQOIOqFC07DKY_vWds7iYlLVUuwx0O9O4"
+    }
+  },
+  {
+    "transaction_id": "MzI4OTE3NjEwMGFkaXF6a2N4",
+    "barcode": "X9WLFFP7",
+    "type": "CS01",
+    "date": "2021-01-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-01-09"
+    },
+    "pages": 3,
+    "action_date": "2021-01-09",
+    "links": {
+      "self": "/company/11143883/filing-history/MzI4OTE3NjEwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5hpbnmuCVa1NfI7OEKMovLhHsJ5l1-j3bQ9UmIFhzGc"
+    }
+  },
+  {
+    "transaction_id": "MzI4MTYzNzk0M2FkaXF6a2N4",
+    "barcode": "X9GH1ENK",
+    "type": "AA",
+    "date": "2020-10-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-01-31"
+    },
+    "pages": 3,
+    "action_date": "2020-01-31",
+    "links": {
+      "self": "/company/11143883/filing-history/MzI4MTYzNzk0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/182EX2q26K_3R7gLPVhd3Xs-4GIDdiqOtDkBgHHrLk8"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDIwNjY5OWFkaXF6a2N4",
+    "barcode": "X8WAJXT6",
+    "type": "CS01",
+    "date": "2020-01-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-01-09"
+    },
+    "pages": 3,
+    "action_date": "2020-01-09",
+    "links": {
+      "self": "/company/11143883/filing-history/MzI1NDIwNjY5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EuK75YJvxBE5Z1Qe-JziI9sMB_NfONSdPqt-giL1sCc"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTcxMzc1NWFkaXF6a2N4",
+    "barcode": "X8F5ZZQX",
+    "type": "AA",
+    "date": "2019-10-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-01-31"
+    },
+    "pages": 2,
+    "action_date": "2019-01-31",
+    "links": {
+      "self": "/company/11143883/filing-history/MzI0NTcxMzc1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D2PrOpj1GYbRVEj46Kr9dKlvSFTDC9aDYEv5nOrqE7A"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjUyNTE5OGFkaXF6a2N4",
+    "barcode": "X87AQWHV",
+    "type": "AD01",
+    "date": "2019-06-10",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-06-10",
+      "old_address": "Unit 18 Lea Green Business Park Eurolink St. Helens Merseyside WA9 4TR England",
+      "new_address": "Rainford Parish Council Church Road Rainford St. Helens WA11 8HB"
+    },
+    "pages": 1,
+    "action_date": "2019-06-10",
+    "links": {
+      "self": "/company/11143883/filing-history/MzIzNjUyNTE5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-tI1I4fT79a5uCAebIosTDRm60BLZC24EIUpQ3JW7io"
+    }
+  },
+  {
+    "transaction_id": "MzIzNTI0ODgxN2FkaXF6a2N4",
+    "barcode": "X864GSDL",
+    "type": "RESOLUTIONS",
+    "date": "2019-05-24",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2019-05-20"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2019-05-24",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/11143883/filing-history/MzIzNTI0ODgxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fV1FRajNpdgvzF6noUiKtONzg0JQn92dYl5O4oCXNSo"
+    }
+  },
+  {
+    "transaction_id": "MzIyNTE5MzQ0MGFkaXF6a2N4",
+    "barcode": "X7XQ0BS3",
+    "type": "CS01",
+    "date": "2019-01-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-01-09"
+    },
+    "pages": 3,
+    "action_date": "2019-01-09",
+    "links": {
+      "self": "/company/11143883/filing-history/MzIyNTE5MzQ0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ipmWwGBDWmWSFyuKxdNfwAm5LBnk3Ea3bC3rFxTDPGo"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDc5MTcyOWFkaXF6a2N4",
+    "barcode": "X7XFGFWR",
+    "type": "AD01",
+    "date": "2019-01-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-01-18",
+      "old_address": "6 Wells Avenue Wigan WN5 7NN United Kingdom",
+      "new_address": "Unit 18 Lea Green Business Park Eurolink St. Helens Merseyside WA9 4TR"
+    },
+    "pages": 1,
+    "action_date": "2019-01-18",
+    "links": {
+      "self": "/company/11143883/filing-history/MzIyNDc5MTcyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aG_YHbgWCwcORNj2sl6riTcNRk5OPpl3RHqx1tM6P_U"
+    }
+  },
+  {
+    "transaction_id": "MzE5NjM2NTQ3MWFkaXF6a2N4",
+    "barcode": "X6YNT1VV",
+    "type": "AP01",
+    "date": "2018-01-29",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Linda Okell",
+      "appointment_date": "2018-01-26"
+    },
+    "pages": 2,
+    "action_date": "2018-01-26",
+    "links": {
+      "self": "/company/11143883/filing-history/MzE5NjM2NTQ3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K6Y1FkuJu7p7pWmpYenSzKj7iaJ2pGePice6VGG07gQ"
+    }
+  },
+  {
+    "transaction_id": "MzE5NjA4NjE0M2FkaXF6a2N4",
+    "barcode": "X6YBOH09",
+    "type": "TM01",
+    "date": "2018-01-24",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Linda Okell",
+      "termination_date": "2018-01-23"
+    },
+    "pages": 1,
+    "action_date": "2018-01-23",
+    "links": {
+      "self": "/company/11143883/filing-history/MzE5NjA4NjE0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mmase8_4eBUCWiMa21lHbjd7ym-ycLnen-H7zqX33z8"
+    }
+  },
+  {
+    "transaction_id": "MzE5NDk3MjY2NGFkaXF6a2N4",
+    "barcode": "X6XBCTJE",
+    "type": "NEWINC",
+    "date": "2018-01-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2018-01-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-01-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2018-01-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 32,
+    "links": {
+      "self": "/company/11143883/filing-history/MzE5NDk3MjY2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YKARMuoLQ0rXdD_giXUNvhvuKyBx8yHKp7-v3B9AkHA"
+    }
+  }
+]

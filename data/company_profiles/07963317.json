@@ -1,0 +1,44 @@
+{
+  "company_number": "07963317",
+  "company_name": "TECH HEALTH EUROPE LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2012-02-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 3, 116 Broughton Lane",
+    "country": "England",
+    "locality": "Salford",
+    "postal_code": "M7 1UF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-02-28",
+      "period_end_on": "2023-02-28",
+      "period_start_on": "2022-03-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-11-30",
+      "overdue": true,
+      "period_end_on": "2024-02-29",
+      "period_start_on": "2023-03-01"
+    },
+    "next_due": "2024-11-30",
+    "next_made_up_to": "2024-02-29",
+    "overdue": true
+  },
+  "etag": "a5aca2bd68583167a1b4468d60dd21af666cf510"
+}

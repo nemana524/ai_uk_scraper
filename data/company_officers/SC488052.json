@@ -1,0 +1,35 @@
+{
+  "company_number": "SC488052",
+  "company_name": "TECH KEY SOLUTIONS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AHMAD, Muhammad Rifaquat",
+      "officer_role": "director",
+      "appointed_on": "2014-10-02",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Scotland",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Centre Park",
+        "country": "England",
+        "locality": "Warrington",
+        "postal_code": "WA1 1RL",
+        "premises": "840 Ibis Court"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/SC488052/appointments/TLL1u_eubJzORU_z8LHVXJN5wyw",
+        "officer": {
+          "appointments": "/officers/-YLs5FU3-bRpghLrvu25D8A2kQg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

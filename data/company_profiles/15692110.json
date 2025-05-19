@@ -1,0 +1,39 @@
+{
+  "company_number": "15692110",
+  "company_name": "TECH AFFINITY CIC",
+  "company_status": "active",
+  "date_of_creation": "2024-04-29",
+  "type": "private-limited-guarant-nsc",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "85600"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit A",
+    "address_line_2": "82 James Carter Road",
+    "country": "United Kingdom",
+    "locality": "Mildenhall",
+    "postal_code": "IP28 7DE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-29",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-29"
+    },
+    "next_due": "2026-01-29",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "06f8fc6847528a9fddf4ea2d7555a0b582d29fda"
+}

@@ -1,0 +1,39 @@
+{
+  "company_number": "16017628",
+  "company_name": "TECH EVENTS AI LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-10-14",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "58190"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "6 Roundwood Lane",
+    "country": "United Kingdom",
+    "locality": "Harpenden",
+    "postal_code": "AL5 3BZ",
+    "region": "Hertfordshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-14",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-10-14"
+    },
+    "next_due": "2026-07-14",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "etag": "4665a7b51cbdeb72585ffb3235cc0fa5c88badcf"
+}

@@ -1,0 +1,44 @@
+{
+  "company_number": "11318620",
+  "company_name": "TECH FIX QUICK LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2018-04-19",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "95120"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "12a The Mall",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W5 2PJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-04-30",
+      "period_end_on": "2022-04-30",
+      "period_start_on": "2021-05-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2024-01-31",
+      "overdue": true,
+      "period_end_on": "2023-04-30",
+      "period_start_on": "2022-05-01"
+    },
+    "next_due": "2024-01-31",
+    "next_made_up_to": "2023-04-30",
+    "overdue": true
+  },
+  "etag": "0f3dc23680a4ecbedc2018dcdf3f023515d1e78a"
+}

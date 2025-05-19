@@ -1,0 +1,38 @@
+{
+  "company_number": "11861058",
+  "company_name": "TECH INN LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2019-03-05",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "27 Park Place",
+    "country": "England",
+    "locality": "Wembley",
+    "postal_code": "HA9 8DB"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2021-03-05",
+      "overdue": true,
+      "period_end_on": "2020-03-31",
+      "period_start_on": "2019-03-05"
+    },
+    "next_due": "2021-03-05",
+    "next_made_up_to": "2020-03-31",
+    "overdue": true
+  },
+  "etag": "1d0e55ff95ad788616109f7602ec21986a63aacc"
+}

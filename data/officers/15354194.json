@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "1 Lewis Road",
+      "country": "England",
+      "locality": "Mitcham",
+      "postal_code": "CR4 3LS",
+      "premises": "Flat 12 Lime Court"
+    },
+    "appointed_on": "2023-12-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1974
+    },
+    "links": {
+      "self": "/company/15354194/appointments/ZIKhGyn1IwZ4UZWXfIJpQLfu8Qs",
+      "officer": {
+        "appointments": "/officers/hZuEPWpmb9a3Y9nwCZRISuAtXaY/appointments"
+      }
+    },
+    "name": "RAZA, Shan E",
+    "nationality": "British",
+    "occupation": "Manager",
+    "officer_role": "director",
+    "person_number": "317140060001"
+  }
+]

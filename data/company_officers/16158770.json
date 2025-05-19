@@ -1,0 +1,35 @@
+{
+  "company_number": "16158770",
+  "company_name": "TECH INCLUSIVE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "CHATER GOODING, Macy Maya",
+      "officer_role": "director",
+      "appointed_on": "2025-01-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Community Worker",
+      "address": {
+        "address_line_1": "Glenwood Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N15 3JU",
+        "premises": "40"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 2001
+      },
+      "links": {
+        "self": "/company/16158770/appointments/WcUpb7L7loqhpZq10haUUaOVR_A",
+        "officer": {
+          "appointments": "/officers/RgIW_5sq6nh3dFLpVKZxVc0p9RQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

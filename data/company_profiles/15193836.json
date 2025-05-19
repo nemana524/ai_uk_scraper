@@ -1,0 +1,41 @@
+{
+  "company_number": "15193836",
+  "company_name": "TECH 4 SALE LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-10-06",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47190",
+    "47910",
+    "47990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit E4",
+    "address_line_2": "Rosslyn Crescent",
+    "country": "England",
+    "locality": "Harrow",
+    "postal_code": "HA1 2SP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-06",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-06"
+    },
+    "next_due": "2025-07-06",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "etag": "1b43fe3e6ab2ddc52b0da0abc765a6d25fd6175b"
+}

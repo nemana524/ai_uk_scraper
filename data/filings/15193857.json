@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "MzQzODUxNzQxM2FkaXF6a2N4",
+    "barcode": "XDD57BWB",
+    "type": "CS01",
+    "date": "2024-10-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-05"
+    },
+    "pages": 3,
+    "action_date": "2024-10-05",
+    "links": {
+      "self": "/company/15193857/filing-history/MzQzODUxNzQxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VZ95p1b7XqSvymqdr5EVDaKNs60LR1qVkiimpjm1HNE"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzU5ODMxNmFkaXF6a2N4",
+    "barcode": "XCI6DAUH",
+    "type": "CERTNM",
+    "date": "2023-12-12",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2023-10-06"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2023-12-12",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed interaxic management services LTD\\certificate issued on 12/12/23"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/15193857/filing-history/MzQwMzU5ODMxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/A-OywDdrsGv6N52ULghF6uRXUCW9v6N6fm2wfNTbSG8"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTU0MDkwNWFkaXF6a2N4",
+    "barcode": "XCDJG54Q",
+    "type": "NEWINC",
+    "date": "2023-10-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-10-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-10-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-10-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/15193857/filing-history/MzM5NTU0MDkwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BJCHzBBf-jbDtN6uzIyUYC_jwN0OALfp8HnEkYyB98E"
+    }
+  }
+]

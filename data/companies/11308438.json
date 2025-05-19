@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ENVIRONMENT UK LTD",
+  "company_number": "11308438",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-29",
+    "next_due": "2026-02-12",
+    "next_made_up_to": "2026-01-29",
+    "overdue": false
+  },
+  "date_of_creation": "2018-04-13",
+  "etag": "a76ce4c9d503ff7f2e1cc5255131adbf50209af1",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11308438/persons-with-significant-control",
+    "self": "/company/11308438",
+    "filing_history": "/company/11308438/filing-history",
+    "officers": "/company/11308438/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "1 Oak Court",
+    "address_line_2": "67 - 72 Bethel Road",
+    "country": "England",
+    "locality": "Sevenoaks",
+    "postal_code": "TN13 3UE",
+    "region": "Kent"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "42910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

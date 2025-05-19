@@ -1,0 +1,48 @@
+{
+  "company_number": "12558264",
+  "company_name": "TECH HIGH STREET LTD",
+  "company_status": "active",
+  "date_of_creation": "2020-04-16",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47910",
+    "62020",
+    "73110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "C/O Aspreys Accountants Ltd No. 5 The Heights",
+    "address_line_2": "Brooklands",
+    "country": "United Kingdom",
+    "locality": "Weybridge",
+    "postal_code": "KT13 0NY",
+    "region": "Surrey"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "ee58f2c55fd1da89692d960fa7e91757432e800a"
+}

@@ -1,0 +1,44 @@
+{
+  "company_number": "NI684411",
+  "company_name": "TECH FONE LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-12-13",
+  "type": "ltd",
+  "jurisdiction": "northern-ireland",
+  "sic_codes": [
+    "47190"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "4 Castle Street",
+    "country": "Northern Ireland",
+    "locality": "Bangor",
+    "postal_code": "BT20 4ST"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "etag": "a61415a408ed4eb2a604e47e30bdb57ad307a63f"
+}

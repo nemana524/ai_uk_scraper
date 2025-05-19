@@ -1,0 +1,65 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-01-31",
+      "period_end_on": "2024-01-31",
+      "period_start_on": "2023-02-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-31",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-02-01"
+    },
+    "next_due": "2025-10-31",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GUYS 360 LTD",
+  "company_number": "11143883",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-09",
+    "next_due": "2026-01-23",
+    "next_made_up_to": "2026-01-09",
+    "overdue": false
+  },
+  "date_of_creation": "2018-01-10",
+  "etag": "29063c4d4aa801b696e72c23be7c01028c1871b8",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11143883/persons-with-significant-control",
+    "self": "/company/11143883",
+    "filing_history": "/company/11143883/filing-history",
+    "officers": "/company/11143883/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2019-05-24",
+      "effective_from": "2018-01-10",
+      "name": "TECH GUYS NORTHWEST LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Rainford Parish Council Church Road",
+    "address_line_2": "Rainford",
+    "country": "England",
+    "locality": "St. Helens",
+    "postal_code": "WA11 8HB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "63990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

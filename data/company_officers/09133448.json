@@ -1,0 +1,88 @@
+{
+  "company_number": "09133448",
+  "company_name": "TECH APPOINT LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "AHMED, Mohammed",
+      "officer_role": "director",
+      "appointed_on": "2020-06-24",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Hartfield Avenue",
+        "country": "England",
+        "locality": "Northolt",
+        "postal_code": "UB5 6NL",
+        "premises": "9"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/09133448/appointments/lv4DGFQlgD1EwtlZ5Hw-6IP0G38",
+        "officer": {
+          "appointments": "/officers/7XiwugmPZL7YPYjT2WwHK0zZAHI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ADAN, Zaynab",
+      "officer_role": "secretary",
+      "appointed_on": "2014-07-16",
+      "resigned_on": "2020-06-24",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Old Gloucester Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "WC1N 3AX",
+        "premises": "27"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/09133448/appointments/qZO_eWP4G-xlfLpVhxej_reHzM0",
+        "officer": {
+          "appointments": "/officers/XTJte3OYRky7V4quJkzfHZ11soc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "AHMED, Mustafa",
+      "officer_role": "director",
+      "appointed_on": "2014-07-16",
+      "resigned_on": "2022-06-10",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Old Gloucester Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "WC1N 3AX",
+        "premises": "27"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/09133448/appointments/2v7uaYKviYKGC9-IiUrN_cPs5o8",
+        "officer": {
+          "appointments": "/officers/wh-yYrHtVp_7CG1lt--IFwhA9iQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

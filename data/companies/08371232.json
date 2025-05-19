@@ -1,0 +1,45 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-01-31",
+      "period_end_on": "2023-01-31",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH ANIM LTD",
+  "company_number": "08371232",
+  "company_status": "dissolved",
+  "status": "active",
+  "date_of_cessation": "2024-07-02",
+  "date_of_creation": "2013-01-23",
+  "etag": "db6924e0ab92372b3f282ddc0126bd59ff0921f9",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-01-23",
+  "links": {
+    "persons_with_significant_control": "/company/08371232/persons-with-significant-control",
+    "self": "/company/08371232",
+    "filing_history": "/company/08371232/filing-history",
+    "officers": "/company/08371232/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Flat 604 Wimhurst Court 168 Upper North Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E14 6TX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "82990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

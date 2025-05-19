@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-06-19"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ALUMINIUM (HOLDINGS) LIMITED",
+  "company_number": "14946247",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-18",
+    "next_due": "2025-07-02",
+    "next_made_up_to": "2025-06-18",
+    "overdue": false
+  },
+  "date_of_creation": "2023-06-19",
+  "etag": "206103f787ce7d69f15bf4abbc535b4ec988e1c3",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14946247/persons-with-significant-control",
+    "self": "/company/14946247",
+    "filing_history": "/company/14946247/filing-history",
+    "officers": "/company/14946247/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Unit 52 Rumer Hill Business Estate",
+    "address_line_2": "Rumer Hill Road",
+    "country": "United Kingdom",
+    "locality": "Cannock",
+    "postal_code": "WS11 0ET",
+    "region": "Staffordshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "25120"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

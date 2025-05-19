@@ -1,0 +1,59 @@
+[
+  {
+    "address": {
+      "address_line_1": "Divine Way",
+      "country": "England",
+      "locality": "Hayes",
+      "postal_code": "UB3 2FE",
+      "premises": "9",
+      "region": "Middlesex"
+    },
+    "appointed_on": "2013-02-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1976
+    },
+    "links": {
+      "self": "/company/08394286/appointments/WzlmA3FhSzeBYd6PP4XWsB3NFSY",
+      "officer": {
+        "appointments": "/officers/wtLSb-HcAS0u2e59z2xSLBvroY4/appointments"
+      }
+    },
+    "name": "WANGENDO, Joe",
+    "nationality": "Kenyan",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "175714490003"
+  },
+  {
+    "address": {
+      "address_line_1": "2 Woodberry Grove",
+      "country": "United Kingdom",
+      "locality": "North Finchley",
+      "postal_code": "N12 0DR",
+      "premises": "Winnington House",
+      "region": "London"
+    },
+    "appointed_on": "2013-02-07",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1931
+    },
+    "links": {
+      "self": "/company/08394286/appointments/Lm1B3y2Uq4azYZX7WB4GFpO-QyU",
+      "officer": {
+        "appointments": "/officers/aqWJlHS4_rJSJ7rLgTK49iO4gAg/appointments"
+      }
+    },
+    "name": "KAHAN, Barbara",
+    "nationality": "British",
+    "occupation": "Consultant",
+    "officer_role": "director",
+    "resigned_on": "2013-02-11",
+    "person_number": "78286720001"
+  }
+]

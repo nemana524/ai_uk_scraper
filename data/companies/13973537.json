@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DISPOSAL LIMITED",
+  "company_number": "13973537",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-13",
+    "next_due": "2026-03-27",
+    "next_made_up_to": "2026-03-13",
+    "overdue": false
+  },
+  "date_of_creation": "2022-03-14",
+  "etag": "cd1cb0a49984a5425c44eaf78f3aa15e827141aa",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13973537/persons-with-significant-control",
+    "self": "/company/13973537",
+    "filing_history": "/company/13973537/filing-history",
+    "officers": "/company/13973537/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "350 Barkerhouse Road",
+    "country": "England",
+    "locality": "Nelson",
+    "postal_code": "BB9 9LS"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

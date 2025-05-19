@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ARCH SOLUTIONS LTD",
+  "company_number": "08958090",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-25",
+    "next_due": "2026-04-08",
+    "next_made_up_to": "2026-03-25",
+    "overdue": false
+  },
+  "date_of_creation": "2014-03-25",
+  "etag": "39724c2e6d91a791cb2b6b47b9a93d9c9ef7f3f7",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-03-25",
+  "links": {
+    "persons_with_significant_control": "/company/08958090/persons-with-significant-control",
+    "self": "/company/08958090",
+    "filing_history": "/company/08958090/filing-history",
+    "officers": "/company/08958090/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "6 Coombe Close",
+    "locality": "Stoke Mandeville",
+    "postal_code": "HP22 5UD"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62030"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-01",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-11-01"
+    },
+    "next_due": "2025-08-01",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CONNECTORS LTD",
+  "company_number": "15253328",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-31",
+    "next_due": "2025-11-14",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "date_of_creation": "2023-11-01",
+  "etag": "2fdbf3a84ba7616053993d3969c0fe7b913c416d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15253328/persons-with-significant-control",
+    "self": "/company/15253328",
+    "filing_history": "/company/15253328/filing-history",
+    "officers": "/company/15253328/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "58c Mullion Place",
+    "address_line_2": "Fishermead",
+    "country": "England",
+    "locality": "Milton Keynes",
+    "postal_code": "MK6 2DY"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421",
+    "47890",
+    "47910",
+    "47990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

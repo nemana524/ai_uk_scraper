@@ -1,0 +1,59 @@
+[
+  {
+    "address": {
+      "address_line_1": "Old Kent Road",
+      "address_line_2": "Unit 1",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SE1 5LU",
+      "premises": "255"
+    },
+    "appointed_on": "2019-10-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1967
+    },
+    "links": {
+      "self": "/company/10484554/appointments/OFvWqkRpwkEn7tBILyAYoChMTbc",
+      "officer": {
+        "appointments": "/officers/OsvlC_38lJ6L_f1DvWXfmIo0kmE/appointments"
+      }
+    },
+    "name": "HASSAN, Jama Hussein",
+    "nationality": "British",
+    "occupation": "Self Employed",
+    "officer_role": "director",
+    "person_number": "201638770001"
+  },
+  {
+    "address": {
+      "address_line_1": "Old Kent Road",
+      "address_line_2": "Unit 1",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SE1 5LU",
+      "premises": "255"
+    },
+    "appointed_on": "2016-11-17",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1967
+    },
+    "links": {
+      "self": "/company/10484554/appointments/gMwj_sIJr6qUiQv0NV5vPRTpFug",
+      "officer": {
+        "appointments": "/officers/u7gyHOesrMnKmqLxjg6AacgtbkU/appointments"
+      }
+    },
+    "name": "HASSAN, Jama Hussein",
+    "nationality": "British",
+    "occupation": "It Engineer",
+    "officer_role": "director",
+    "resigned_on": "2019-10-10",
+    "person_number": "218738310001"
+  }
+]

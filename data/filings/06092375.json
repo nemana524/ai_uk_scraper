@@ -1,0 +1,973 @@
+[
+  {
+    "transaction_id": "MzQ1OTc1NTY4NWFkaXF6a2N4",
+    "barcode": "XDYXBLPF",
+    "type": "CS01",
+    "date": "2025-03-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-09"
+    },
+    "pages": 3,
+    "action_date": "2025-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzQ1OTc1NTY4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hB6zxNzrCB4pJqIvmBxYTQADog2q51MTjHI3Xf0vjf8"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTY0MjU5NGFkaXF6a2N4",
+    "barcode": "XDGZBELN",
+    "type": "AA",
+    "date": "2024-11-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-02-29"
+    },
+    "pages": 8,
+    "action_date": "2024-02-29",
+    "links": {
+      "self": "/company/06092375/filing-history/MzQ0NTY0MjU5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DXAr7nInSBuyY-wU6UV1MPJc-uo7h45FK-kRO8lEstk"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzMzMDM2NWFkaXF6a2N4",
+    "barcode": "XCY5HKMI",
+    "type": "CS01",
+    "date": "2024-03-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-02-09"
+    },
+    "pages": 3,
+    "action_date": "2024-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzQxMzMzMDM2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yBswwBk6tGCvNs_xVbg6tylMMwo8-ULKpNMfOS9ZDjY"
+    }
+  },
+  {
+    "transaction_id": "MzQwMDg3NDYxOGFkaXF6a2N4",
+    "barcode": "XCGOEGGX",
+    "type": "AA",
+    "date": "2023-11-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-02-28"
+    },
+    "pages": 8,
+    "action_date": "2023-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzQwMDg3NDYxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4oBD69yZqoWxBM97DYcAEzsAikaEBaq4ZpMJ-LqiOUo"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODQ4MzcwNWFkaXF6a2N4",
+    "barcode": "XCFBZ5BT",
+    "type": "TM01",
+    "date": "2023-10-31",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Syed Zahir Wasti",
+      "termination_date": "2023-10-31"
+    },
+    "pages": 1,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/06092375/filing-history/MzM5ODQ4MzcwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vOKYkROa14jsQuZ5WXo_2j2MIBBmxwBKvrJVU4zxGpY"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODQ4MzYyOWFkaXF6a2N4",
+    "barcode": "XCFBZ4OG",
+    "type": "AP01",
+    "date": "2023-10-31",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Syed Furqan Hussain Wasti",
+      "appointment_date": "2023-10-31"
+    },
+    "pages": 2,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/06092375/filing-history/MzM5ODQ4MzYyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/k2tpJkQqB2GfViY5TVzLPjwz29m0-b-ZLgFVaURxGpY"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODQ4MzM0OGFkaXF6a2N4",
+    "barcode": "XCFBZ3AR",
+    "type": "AD01",
+    "date": "2023-10-31",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-10-31",
+      "old_address": "Unit 4 46 Ilford Lane Ilford Essex IG1 2JY",
+      "new_address": "Unit 2 133B Ilford Lane Ilford IG1 2RP"
+    },
+    "pages": 1,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/06092375/filing-history/MzM5ODQ4MzM0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Fr4J1ydwD6nwse2nD_WRVM6eongcxRbKIwHciOkygOg"
+    }
+  },
+  {
+    "transaction_id": "MzM3MzIxODgxMGFkaXF6a2N4",
+    "barcode": "XBZN54HV",
+    "type": "CS01",
+    "date": "2023-03-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-02-09"
+    },
+    "pages": 3,
+    "action_date": "2023-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzM3MzIxODgxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ADvSiB4PPUoVMOkFBeFAELxnLjbumPwkI4iEen3Mug8"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDcyODU3OWFkaXF6a2N4",
+    "barcode": "XBBUU9MJ",
+    "type": "AA",
+    "date": "2022-09-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-02-28"
+    },
+    "pages": 3,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzM1MDcyODU3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qpjyJK8V_qsFmIJWKZxaI3FxnaJgNDS_Qs-5mYpMd7s"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzMyMzI1MmFkaXF6a2N4",
+    "barcode": "XB00TG6J",
+    "type": "CS01",
+    "date": "2022-03-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-02-09"
+    },
+    "pages": 3,
+    "action_date": "2022-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzMzMzMyMzI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f1s9BVJ8f1OouybfJU6NCSQiPkkvk0fRrbteKf4VlVE"
+    }
+  },
+  {
+    "transaction_id": "MzMyMTczOTcyNGFkaXF6a2N4",
+    "barcode": "XAIAG4OI",
+    "type": "AA",
+    "date": "2021-11-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-02-28"
+    },
+    "pages": 8,
+    "action_date": "2021-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzMyMTczOTcyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rxpkErb8U5aPIVeuWJyf0zZo5Qsqf4SLd_lI6Vy2sac"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjc5OTY4MWFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2021-06-02",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MzMwMjc5OTY4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p15H-QQ0wA4zQuYMmunP8fgVZYNzeUdR5Mx6Bgd1gg8"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTQ1NDkzNmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2021-06-01",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MzMwMTQ1NDkzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4crIcjkQhJxU8ynNTmS83lEmWxOu3AcWf8QC3b8hgXQ"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjc5OTY2M2FkaXF6a2N4",
+    "barcode": "XA5I6RD7",
+    "type": "CS01",
+    "date": "2021-05-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-02-09"
+    },
+    "pages": 3,
+    "action_date": "2021-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzMwMjc5OTY2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q5VzXwhymoae_E3TQSL3i9TOZEJ6JN9MaD4mx9D1oII"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDU0MTQyNmFkaXF6a2N4",
+    "barcode": "X9FNMU34",
+    "type": "AA",
+    "date": "2020-10-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-02-29"
+    },
+    "pages": 3,
+    "action_date": "2020-02-29",
+    "links": {
+      "self": "/company/06092375/filing-history/MzI4MDU0MTQyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o2GNyZUVwWW-epGk25McMvjfrE9Cd4GFQs5RfGya_C8"
+    }
+  },
+  {
+    "transaction_id": "MzI1OTAwNzY3OGFkaXF6a2N4",
+    "barcode": "X904RBGR",
+    "type": "CS01",
+    "date": "2020-03-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-02-09"
+    },
+    "pages": 3,
+    "action_date": "2020-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzI1OTAwNzY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iqplF-GLFqfMMpSh95mJhCLOSXmExuz6GnMb3okpn74"
+    }
+  },
+  {
+    "transaction_id": "MzI1MDUxNjQ1NmFkaXF6a2N4",
+    "barcode": "X8J54R2B",
+    "type": "AA",
+    "date": "2019-11-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-02-28"
+    },
+    "pages": 7,
+    "action_date": "2019-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzI1MDUxNjQ1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WhAxazWMYFAlRRly8aW3_w6uOq49coBVxx3xZFtspkU"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTY1NjA3NmFkaXF6a2N4",
+    "barcode": "X831GK8I",
+    "type": "CS01",
+    "date": "2019-04-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-02-09"
+    },
+    "pages": 3,
+    "action_date": "2019-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzIzMTY1NjA3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2r_GVf52YSaT8stcZ2MlqZaoeDj8TpzSUYw3LRR7ps0"
+    }
+  },
+  {
+    "transaction_id": "MzIxODkzOTgzMmFkaXF6a2N4",
+    "barcode": "X7I7YNTN",
+    "type": "AA",
+    "date": "2018-11-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-02-28"
+    },
+    "pages": 2,
+    "action_date": "2018-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzIxODkzOTgzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fq7ke_0AiiCAibhcJTYtsdDuX-KID7VztyBqW0crOjA"
+    }
+  },
+  {
+    "transaction_id": "MzIwMjY0MzI1M2FkaXF6a2N4",
+    "barcode": "X73YVLRF",
+    "type": "CS01",
+    "date": "2018-04-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-02-09"
+    },
+    "pages": 3,
+    "action_date": "2018-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzIwMjY0MzI1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6r6lLb44BOmPHp904rtdpdvhJSbRG2nq8V9cniVrsP0"
+    }
+  },
+  {
+    "transaction_id": "MzE5MDcwMjk3NGFkaXF6a2N4",
+    "barcode": "X6JPDR7T",
+    "type": "AA",
+    "date": "2017-11-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2017-02-28"
+    },
+    "pages": 7,
+    "links": {
+      "self": "/company/06092375/filing-history/MzE5MDcwMjk3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cVbablmGveb5Avlha7ATr1C7zNgl771jw8h5FxWL-tE"
+    }
+  },
+  {
+    "transaction_id": "MzE3MTcwMDIxNmFkaXF6a2N4",
+    "barcode": "X62RHRBK",
+    "type": "TM01",
+    "date": "2017-03-22",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Syed Furqan Wasti",
+      "termination_date": "2017-03-18"
+    },
+    "pages": 1,
+    "action_date": "2017-03-18",
+    "links": {
+      "self": "/company/06092375/filing-history/MzE3MTcwMDIxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xSVcowu6yuxMcZIRHSrpiWFYmlItY1ccJktaX_yAYMs"
+    }
+  },
+  {
+    "transaction_id": "MzE3MTcwMDEwOGFkaXF6a2N4",
+    "barcode": "X62RHR0X",
+    "type": "AP01",
+    "date": "2017-03-22",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Syed Wasti",
+      "appointment_date": "2017-03-18"
+    },
+    "pages": 2,
+    "action_date": "2017-03-18",
+    "links": {
+      "self": "/company/06092375/filing-history/MzE3MTcwMDEwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kv7OfLtMM9TzQjFYT9Mu03dvvafCPELzUZiKym4rkEU"
+    }
+  },
+  {
+    "transaction_id": "MzE2OTAzMzMyMmFkaXF6a2N4",
+    "barcode": "X60A7XPK",
+    "type": "CS01",
+    "date": "2017-02-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-02-09"
+    },
+    "pages": 5,
+    "action_date": "2017-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzE2OTAzMzMyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F-s6atoZSalgn7b5MXUs-kEvvnLobZzoEPXJgiqTXMg"
+    }
+  },
+  {
+    "transaction_id": "MzE2OTAyNTU1MWFkaXF6a2N4",
+    "barcode": "X60A7UJS",
+    "type": "TM01",
+    "date": "2017-02-15",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Zahir Wasti",
+      "termination_date": "2017-02-15"
+    },
+    "pages": 1,
+    "action_date": "2017-02-15",
+    "links": {
+      "self": "/company/06092375/filing-history/MzE2OTAyNTU1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8e_PY0o1yIwsbkzP-UXt0oWfb0MDCd1iYsdoZftf_sk"
+    }
+  },
+  {
+    "transaction_id": "MzE2MDU4OTU1M2FkaXF6a2N4",
+    "barcode": "X5IHWLH5",
+    "type": "AA",
+    "date": "2016-10-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2016-02-29"
+    },
+    "pages": 7,
+    "action_date": "2016-02-29",
+    "links": {
+      "self": "/company/06092375/filing-history/MzE2MDU4OTU1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FDqqoxTcbAI0TQ82cSMlb-GNhWoJU7qFDBA8LEMyAgc"
+    }
+  },
+  {
+    "transaction_id": "MzE1NjQxNzgwNmFkaXF6a2N4",
+    "barcode": "X5EKMBAX",
+    "type": "AP01",
+    "date": "2016-09-01",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Zahir Wasti",
+      "appointment_date": "2016-09-01"
+    },
+    "pages": 2,
+    "action_date": "2016-09-01",
+    "links": {
+      "self": "/company/06092375/filing-history/MzE1NjQxNzgwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EoGkYLQuQXBJ8aZoQphKnx-mYvXV0zNxm3wwhNg7zac"
+    }
+  },
+  {
+    "transaction_id": "MzE0NjQ2NTk3OWFkaXF6a2N4",
+    "barcode": "X54Z0P02",
+    "type": "AR01",
+    "date": "2016-04-15",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-04-15",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-04-15",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "20"
+            }
+          ]
+        },
+        "action_date": "2016-04-15"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2016-02-09"
+    },
+    "pages": 3,
+    "action_date": "2016-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzE0NjQ2NTk3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iH_GL9-5touOpl7bgH1tOFfnCbBEwKd9Ri0__xEfrXg"
+    }
+  },
+  {
+    "transaction_id": "MzEyNjc5NDg3OGFkaXF6a2N4",
+    "barcode": "X4B918QA",
+    "type": "AA",
+    "date": "2015-07-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2015-02-28"
+    },
+    "pages": 3,
+    "action_date": "2015-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzEyNjc5NDg3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4il9znqb22pRFpQjCAMOHT-6eAY8i3t_2X_N9-iMYVo"
+    }
+  },
+  {
+    "transaction_id": "MzExNzY3NTgxMWFkaXF6a2N4",
+    "barcode": "X41JK7C3",
+    "type": "AR01",
+    "date": "2015-02-19",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-02-19",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-02-19",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "20"
+            }
+          ]
+        },
+        "action_date": "2015-02-19"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2015-02-09"
+    },
+    "pages": 3,
+    "action_date": "2015-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzExNzY3NTgxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/d4V8g8QQD4uOFyWqotk1tXzgd4XzZDabijiAYNCJUDo"
+    }
+  },
+  {
+    "transaction_id": "MzExMjQzMDc1M2FkaXF6a2N4",
+    "barcode": "X3LPFKFK",
+    "type": "AA",
+    "date": "2014-11-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2014-02-28"
+    },
+    "pages": 3,
+    "action_date": "2014-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzExMjQzMDc1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BebQak592ieF3vZ6mWq1pXrSvhGCPgdKzaXOiGNf6Hc"
+    }
+  },
+  {
+    "transaction_id": "MzA5ODc1MTgyNmFkaXF6a2N4",
+    "barcode": "X36HF0C2",
+    "type": "AR01",
+    "date": "2014-04-24",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2014-04-24",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2014-04-24",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "20"
+            }
+          ]
+        },
+        "action_date": "2014-04-24"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2014-02-09"
+    },
+    "pages": 3,
+    "action_date": "2014-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA5ODc1MTgyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Q2e6JDB2oUJv4bngYOjEKZRY5yCjjXbQCIboaon589A"
+    }
+  },
+  {
+    "transaction_id": "MzA4OTY3NzU4NWFkaXF6a2N4",
+    "barcode": "X2M49U5V",
+    "type": "AA",
+    "date": "2013-11-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2013-02-28"
+    },
+    "pages": 3,
+    "action_date": "2013-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA4OTY3NzU4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_GyneyJ5qIjzlsNLjhK8ibwEJfiNwqsKo6MRhfDT5uo"
+    }
+  },
+  {
+    "transaction_id": "MzA4NTUxNzcxNGFkaXF6a2N4",
+    "barcode": "X2HD6JKY",
+    "type": "CH03",
+    "date": "2013-09-21",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-secretary-company-with-change-date",
+    "description_values": {
+      "change_date": "2013-04-06",
+      "officer_name": "Syed Wasti"
+    },
+    "pages": 1,
+    "action_date": "2013-04-06",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA4NTUxNzcxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yWFA6SJJ9iQVUzbDRKSyWkHrsBBfvEJ6Y9IM5z9996A"
+    }
+  },
+  {
+    "transaction_id": "MzA4NTUxNzY3MGFkaXF6a2N4",
+    "barcode": "X2HD6JCB",
+    "type": "TM01",
+    "date": "2013-09-21",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name",
+    "description_values": {
+      "officer_name": "Syed Gillani"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/06092375/filing-history/MzA4NTUxNzY3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/d6N6RMWqJlrMIqWsOMq01MYLRtBvnpIHan_MqWSTipk"
+    }
+  },
+  {
+    "transaction_id": "MzA4NTMwNzM1OGFkaXF6a2N4",
+    "barcode": "X2H5F41E",
+    "type": "AD01",
+    "date": "2013-09-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address",
+    "description_values": {
+      "change_date": "2013-09-18",
+      "old_address": " 46 Unit 4 Ilford Lane Ilford Essex IG1 2JY England"
+    },
+    "pages": 1,
+    "action_date": "2013-09-18",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA4NTMwNzM1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ojW2LS9sgqvsiT1KDWZDOSWFZDZyR_NtqBiz_nw3mf0"
+    }
+  },
+  {
+    "transaction_id": "MzA4NDYzMzgyNGFkaXF6a2N4",
+    "barcode": "X2GKJ1M2",
+    "type": "AD01",
+    "date": "2013-09-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address",
+    "description_values": {
+      "change_date": "2013-09-09",
+      "old_address": " 36 Agnes Avenue Ilford Essex IG1 2EE"
+    },
+    "pages": 1,
+    "action_date": "2013-09-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA4NDYzMzgyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Zo7meiLaTTQebGzIUfLxS4r7ZvK2HpfRc4-o45WMrX4"
+    }
+  },
+  {
+    "transaction_id": "MzA3NjQ2OTY3OGFkaXF6a2N4",
+    "barcode": "X26L8R9L",
+    "type": "AR01",
+    "date": "2013-04-18",
+    "category": "annual-return",
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2013-02-09"
+    },
+    "pages": 4,
+    "action_date": "2013-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA3NjQ2OTY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-bSxgU59X_lzVNlAochzkJhz6rMehJCckK6vPqU18Pg"
+    }
+  },
+  {
+    "transaction_id": "MzA3NjQ2OTUyN2FkaXF6a2N4",
+    "barcode": "X26L8R9D",
+    "type": "AP01",
+    "date": "2013-04-18",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name",
+    "description_values": {
+      "officer_name": "Mr Syed Furqan Wasti"
+    },
+    "pages": 2,
+    "links": {
+      "self": "/company/06092375/filing-history/MzA3NjQ2OTUyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MwXczn_EVf1JoQMiyMjmCktI84X0cnyors3xCwqaX88"
+    }
+  },
+  {
+    "transaction_id": "MzA3NjQ2Nzc3MWFkaXF6a2N4",
+    "barcode": "X26L8M3M",
+    "type": "SH01",
+    "date": "2013-04-18",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2012-05-01",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "20"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2012-05-01",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA3NjQ2Nzc3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jo8kL63qk9jCHGT1QmW9ZgxnOoCjrNhlevypZCC_C-w"
+    }
+  },
+  {
+    "transaction_id": "MzA2NjE4MDEzM2FkaXF6a2N4",
+    "barcode": "X1K1J6UW",
+    "type": "AA",
+    "date": "2012-10-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2012-02-29"
+    },
+    "pages": 2,
+    "action_date": "2012-02-29",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA2NjE4MDEzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JQTuM6SbC0_gi4baQn73Y007p6GhC45nelFKmw3BZEc"
+    }
+  },
+  {
+    "transaction_id": "MzA1NDEzMDgwN2FkaXF6a2N4",
+    "barcode": "X14NFY2X",
+    "type": "AR01",
+    "date": "2012-03-14",
+    "category": "annual-return",
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2012-02-09"
+    },
+    "pages": 3,
+    "action_date": "2012-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA1NDEzMDgwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nTLyCG5DCMeRAGedGMh7bUyudP-B_Wlo-E9DkEmJsf4"
+    }
+  },
+  {
+    "transaction_id": "MzA0NjkxMDM0NmFkaXF6a2N4",
+    "barcode": "XALJ8Z3L",
+    "type": "AA",
+    "date": "2011-11-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2011-02-28"
+    },
+    "pages": 2,
+    "action_date": "2011-02-28",
+    "links": {
+      "self": "/company/06092375/filing-history/MzA0NjkxMDM0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pf27fROShlqiJnLvX-Ebf9kvNa6w0c58Bq7Zy03o6ME"
+    }
+  },
+  {
+    "transaction_id": "MzAzMjAxOTk5NmFkaXF6a2N4",
+    "barcode": "ABD81RJH",
+    "type": "AA",
+    "date": "2011-02-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2010-02-28"
+    },
+    "pages": 3,
+    "action_date": "2010-02-28",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MzAzMjAxOTk5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/acR5X78Ss2T1HTpS1TH24ydfWhQl0WkAT661-KtgZ1s"
+    }
+  },
+  {
+    "transaction_id": "MzAzMTk1MTc5N2FkaXF6a2N4",
+    "barcode": "XQ0P9RIU",
+    "type": "AR01",
+    "date": "2011-02-09",
+    "category": "annual-return",
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2011-02-09"
+    },
+    "pages": 3,
+    "action_date": "2011-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzAzMTk1MTc5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p3CR8lK1CGBXJ6D5llXWX1n2iO0OpaTUJfH6IprHJEA"
+    }
+  },
+  {
+    "transaction_id": "MzAxMzI4NTU3NGFkaXF6a2N4",
+    "barcode": "XFMACJ36",
+    "type": "AR01",
+    "date": "2010-04-12",
+    "category": "annual-return",
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2010-02-09"
+    },
+    "pages": 4,
+    "action_date": "2010-02-09",
+    "links": {
+      "self": "/company/06092375/filing-history/MzAxMzI4NTU3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XsTdDY9LzMOnGH1op7SWpZJdnO0rvrug15DcphQih7s"
+    }
+  },
+  {
+    "transaction_id": "MzAxMzI4NTIyNGFkaXF6a2N4",
+    "barcode": "XFMABJ35",
+    "type": "CH01",
+    "date": "2010-04-12",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2010-01-01",
+      "officer_name": "Syed Gillani"
+    },
+    "pages": 2,
+    "action_date": "2010-01-01",
+    "links": {
+      "self": "/company/06092375/filing-history/MzAxMzI4NTIyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fQ8bOVrIld2e3fFc2HdF8uyfBai6n3Is3m4NI0SBCxg"
+    }
+  },
+  {
+    "transaction_id": "MzAwNDcyMzkyOWFkaXF6a2N4",
+    "barcode": "A1NHBFHM",
+    "type": "AA",
+    "date": "2009-12-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2009-02-28"
+    },
+    "pages": 1,
+    "action_date": "2009-02-28",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MzAwNDcyMzkyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cGHCvCujI1wtzUw9TAA1RUKC53qUkKIbV9gOhDPzMjk"
+    }
+  },
+  {
+    "transaction_id": "MjAyODczMjM1NGFkaXF6a2N4",
+    "barcode": "AI8OF88J",
+    "type": "363a",
+    "date": "2009-03-23",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Return made up to 09/02/09; full list of members"
+    },
+    "pages": 10,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MjAyODczMjM1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s76dnhxISYnC2s4v-OGerhXOLVM-BvyV7lKL1RHcmA8"
+    }
+  },
+  {
+    "transaction_id": "MjAxOTQxMTg1OWFkaXF6a2N4",
+    "barcode": "A65JS5DE",
+    "type": "AA",
+    "date": "2008-12-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2008-02-29"
+    },
+    "pages": 1,
+    "action_date": "2008-02-29",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MjAxOTQxMTg1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/86DZtvn1Omrd79lqEzN1CePe-YGS3bgSsThvdNL8Bc4"
+    }
+  },
+  {
+    "transaction_id": "MjAxNDYxNTIzNWFkaXF6a2N4",
+    "barcode": "A8TD23KD",
+    "type": "288b",
+    "date": "2008-10-02",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Appointment terminated director shagufta shahzad"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MjAxNDYxNTIzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/N1_vWWHLK0-QhE_WSU9TufY5hEUTpSDDulUdQrIkqVI"
+    }
+  },
+  {
+    "transaction_id": "MjAxMjA2Mjk5OWFkaXF6a2N4",
+    "barcode": "AORCT2NJ",
+    "type": "287",
+    "date": "2008-08-28",
+    "category": "address",
+    "description": "legacy",
+    "description_values": {
+      "description": "Registered office changed on 28/08/2008 from suite 1, ROOM3 12 chaple road ilford essex IG1 2AG"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MjAxMjA2Mjk5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JApoilu1hbzDpD0qBWeVCmFBHPQkKs8LDyDCLoq0WEA"
+    }
+  },
+  {
+    "transaction_id": "MTc1OTM0NTExYWRpcXprY3g",
+    "type": "NEWINC",
+    "date": "2007-02-09",
+    "category": "incorporation",
+    "description": "incorporation-company",
+    "pages": 12,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/06092375/filing-history/MTc1OTM0NTExYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PeN7WZQ2JzcK0Gwqbpa8GLXRTNmFFPzj7_6mCARLHlQ"
+    }
+  }
+]

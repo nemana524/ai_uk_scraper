@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Talygarn Court",
+      "address_line_2": "Talygarn",
+      "country": "United Kingdom",
+      "locality": "Pontyclun",
+      "postal_code": "CF72 9UH",
+      "premises": "5"
+    },
+    "appointed_on": "2025-03-05",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/16293551/appointments/a28mqB_pEmWTnqYzz_0HjSoelwM",
+      "officer": {
+        "appointments": "/officers/xZC7OBoQoJodN0NAt_W_Juh5WVA/appointments"
+      }
+    },
+    "name": "BATEMAN, Michael Dean",
+    "nationality": "British",
+    "occupation": "British",
+    "officer_role": "director",
+    "person_number": "333054670001"
+  }
+]

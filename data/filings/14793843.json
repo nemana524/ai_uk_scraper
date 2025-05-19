@@ -1,0 +1,154 @@
+[
+  {
+    "transaction_id": "MzQzNTE1MTA1MWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-09-17",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14793843/filing-history/MzQzNTE1MTA1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w0FcgtQN3oR9Ab-jvOFLlLfIjVUKegZu-aV3qsf6Qc8"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjE0NjI3MGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-07-02",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14793843/filing-history/MzQyNjE0NjI3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hfYvYgYevhf_DcZGrCx03nRFgklxZ49X9eAC7rfmxgg"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTE4MDQ1MWFkaXF6a2N4",
+    "barcode": "XD2QU6T5",
+    "type": "PSC04",
+    "date": "2024-05-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-05-09",
+      "psc_name": "Mr Benmessaoud Aymen"
+    },
+    "pages": 2,
+    "action_date": "2024-05-09",
+    "links": {
+      "self": "/company/14793843/filing-history/MzQyMTE4MDQ1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Fy5Xo8I9okBDBfAhz1EqaYLO8QrsZ0D-oEJI-pYVxUg"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTE4MDQ0OGFkaXF6a2N4",
+    "barcode": "XD2QU6R5",
+    "type": "CH03",
+    "date": "2024-05-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-secretary-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-05-09",
+      "officer_name": "Mr Benmessaoud Aymen"
+    },
+    "pages": 1,
+    "action_date": "2024-05-09",
+    "links": {
+      "self": "/company/14793843/filing-history/MzQyMTE4MDQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FBrfGw_-nZ1mkMmd2FIrtjZYyxAEG3y6SaT6dyk79rA"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTE4MDQ0NmFkaXF6a2N4",
+    "barcode": "XD2QU6SP",
+    "type": "CH01",
+    "date": "2024-05-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-05-09",
+      "officer_name": "Mr Benmessaoud Aymen"
+    },
+    "pages": 2,
+    "action_date": "2024-05-09",
+    "links": {
+      "self": "/company/14793843/filing-history/MzQyMTE4MDQ0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gtTDc3iZfE4SyWVyeXACm8voQxWwiMw6Vctqmp4mAQM"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTQ0MTQ5MWFkaXF6a2N4",
+    "barcode": "XCZ9XWSO",
+    "type": "TM02",
+    "date": "2024-03-20",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "1St Secretaries Limited",
+      "termination_date": "2024-03-01"
+    },
+    "pages": 1,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/14793843/filing-history/MzQxNTQ0MTQ5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3VdFhRB_d43Zc7ZQSLZZzNwvAHRbOaKl1wvKvdSA3MI"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzcyNjQ0MWFkaXF6a2N4",
+    "barcode": "XC2C9ILT",
+    "type": "AP04",
+    "date": "2023-04-27",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-corporate-secretary-company-with-name-date",
+    "description_values": {
+      "officer_name": "1St Secretaries Limited",
+      "appointment_date": "2023-04-25"
+    },
+    "pages": 2,
+    "action_date": "2023-04-25",
+    "links": {
+      "self": "/company/14793843/filing-history/MzM3NzcyNjQ0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_NCkFCUDuR1I4UiXzzuDjB5VL8kwoeYdSyzdNNn0z6M"
+    }
+  },
+  {
+    "transaction_id": "MzM3NTQ4NDIzMGFkaXF6a2N4",
+    "barcode": "XC0V45LS",
+    "type": "NEWINC",
+    "date": "2023-04-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-04-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-04-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-04-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/14793843/filing-history/MzM3NTQ4NDIzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uK1ZVSSTuRtipmpej7ggUD4StFxumyq2KRDe_pj5WCU"
+    }
+  }
+]

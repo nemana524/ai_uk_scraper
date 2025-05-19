@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "Dane Road",
+      "country": "England",
+      "locality": "Southall",
+      "postal_code": "UB1 2EE",
+      "premises": "123 A"
+    },
+    "appointed_on": "2020-08-03",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1965
+    },
+    "links": {
+      "self": "/company/11810844/appointments/bGNssGIxN9--QJmTxWnc6V1lpIE",
+      "officer": {
+        "appointments": "/officers/RGd_Ur4VAmRZLf1SjsegclmvTgk/appointments"
+      }
+    },
+    "name": "CHAUDHRY, Muhammad Ahmed",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "170825260001"
+  },
+  {
+    "address": {
+      "address_line_1": "Alum Roack Road",
+      "address_line_2": "West Midlands",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B8 1LL",
+      "premises": "Unit 2, 15"
+    },
+    "appointed_on": "2019-02-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/11810844/appointments/E604OMUtkgDOp7K3fhaFfi8nXGo",
+      "officer": {
+        "appointments": "/officers/9Bhxo7LBZ8GMjOG77za1kr5btfw/appointments"
+      }
+    },
+    "name": "SENKHIL, Aizatullah Taskin",
+    "nationality": "Afghan",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2020-08-03",
+    "person_number": "255056030001"
+  }
+]

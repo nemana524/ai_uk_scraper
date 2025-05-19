@@ -1,0 +1,137 @@
+[
+  {
+    "address": {
+      "address_line_1": "Parkstone Road",
+      "country": "England",
+      "locality": "Poole",
+      "postal_code": "BH15 2PW",
+      "premises": "Towngate House 2-8"
+    },
+    "appointed_on": "2023-08-13",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1952
+    },
+    "links": {
+      "self": "/company/15066843/appointments/RCqD-4-EP6y1_0hAylc5xt0CrnQ",
+      "officer": {
+        "appointments": "/officers/4qg10RnTqyyygGwokF6gmnFRPVY/appointments"
+      }
+    },
+    "name": "KILPATRICK, Ian",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "237281750001"
+  },
+  {
+    "address": {
+      "address_line_1": "Parkstone Road",
+      "country": "England",
+      "locality": "Poole",
+      "postal_code": "BH15 2PW",
+      "premises": "Towngate House 2-8"
+    },
+    "appointed_on": "2023-10-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/15066843/appointments/5SApL_EohTjUlzXPhEKdsY2ZOfQ",
+      "officer": {
+        "appointments": "/officers/mUbZx8Xf97enE52xSOHgBhBmZh4/appointments"
+      }
+    },
+    "name": "MONK, Rebecca Louise",
+    "nationality": "British",
+    "occupation": "Chief People Officer",
+    "officer_role": "director",
+    "person_number": "310888220001"
+  },
+  {
+    "address": {
+      "address_line_1": "Parkstone Road",
+      "country": "England",
+      "locality": "Poole",
+      "postal_code": "BH15 2PW",
+      "premises": "Towngate House 2-8"
+    },
+    "appointed_on": "2023-10-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/15066843/appointments/FGHsHTtH2sLDKQJZv_xVr4lHecg",
+      "officer": {
+        "appointments": "/officers/WGzZYtSTExYOwIVYamTHjulpcYg/appointments"
+      }
+    },
+    "name": "MOONEY, Hayley",
+    "nationality": "British",
+    "occupation": "General Manager",
+    "officer_role": "director",
+    "person_number": "315284620001"
+  },
+  {
+    "address": {
+      "address_line_1": "Parkstone Road",
+      "country": "England",
+      "locality": "Poole",
+      "postal_code": "BH15 2PW",
+      "premises": "Towngate House 2-8"
+    },
+    "appointed_on": "2023-10-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1975
+    },
+    "links": {
+      "self": "/company/15066843/appointments/9xiEskRaubyt_ieFKKkJY9d1wXI",
+      "officer": {
+        "appointments": "/officers/FXnzFEwVmtzrkXL5Nl3m1x784UI/appointments"
+      }
+    },
+    "name": "ROBERTS, Hayley",
+    "nationality": "British",
+    "occupation": "Ceo",
+    "officer_role": "director",
+    "person_number": "315285040001"
+  },
+  {
+    "address": {
+      "address_line_1": "Parkstone Road",
+      "country": "England",
+      "locality": "Poole",
+      "postal_code": "BH15 2PW",
+      "premises": "Towngate House 2-8"
+    },
+    "appointed_on": "2023-10-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1973
+    },
+    "links": {
+      "self": "/company/15066843/appointments/xD53GqEboRnNdHrERwNCsnOsnuk",
+      "officer": {
+        "appointments": "/officers/UldXRP-jnYUMpKblxU5C6mngqak/appointments"
+      }
+    },
+    "name": "SHORE, Wendy",
+    "nationality": "British",
+    "occupation": "Business Manager",
+    "officer_role": "director",
+    "person_number": "315283980001"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "transaction_id": "MzQ0ODY3MTM3OGFkaXF6a2N4",
+    "barcode": "XDIFD9P7",
+    "type": "CS01",
+    "date": "2024-12-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-05"
+    },
+    "pages": 3,
+    "action_date": "2024-12-05",
+    "links": {
+      "self": "/company/13782879/filing-history/MzQ0ODY3MTM3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2mhHywC1tqCbIfQJaAI8bfyea5P8wh0GKn75dE9dBfc"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzcwMTQyMGFkaXF6a2N4",
+    "barcode": "XDCRBG4W",
+    "type": "AA",
+    "date": "2024-09-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 8,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/13782879/filing-history/MzQzNzcwMTQyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6LMAvLLGpj23hgttFSHFCis6asjgqq3B2qOQQ36y5Tg"
+    }
+  },
+  {
+    "transaction_id": "MzQwODMyODQ1MmFkaXF6a2N4",
+    "barcode": "XCV7RVKL",
+    "type": "CS01",
+    "date": "2024-01-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-05"
+    },
+    "pages": 3,
+    "action_date": "2023-12-05",
+    "links": {
+      "self": "/company/13782879/filing-history/MzQwODMyODQ1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6Ig_hT5k1O0kN-YpPGfWZqL1b_P1BBuuci9luhMdHYg"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjEwMzA1NmFkaXF6a2N4",
+    "barcode": "XCBIE7W0",
+    "type": "AA",
+    "date": "2023-09-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 3,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/13782879/filing-history/MzM5MjEwMzA1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a2AjIrSY-0eUK_Vt-HO94lsG8FTR5_EXhJGJKX0DvVg"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTIxOTg3MWFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-03-02",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13782879/filing-history/MzM3MTIxOTg3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pjYFdLa16YyfK_MIbRiwdeSBegyrGBeadoMlmjMc3-I"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTIxOTg1M2FkaXF6a2N4",
+    "barcode": "XBYDLVCR",
+    "type": "CS01",
+    "date": "2023-03-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-12-05"
+    },
+    "pages": 3,
+    "action_date": "2022-12-05",
+    "links": {
+      "self": "/company/13782879/filing-history/MzM3MTIxOTg1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fb3YbONxd_2S3IqHEZG5RgdoHlUJL5zYYeo_RYCf5qQ"
+    }
+  },
+  {
+    "transaction_id": "MzM2OTU0MTQ1OWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-02-28",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13782879/filing-history/MzM2OTU0MTQ1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1QQLuUrAb6PSsIS58q6Mc41MXH476rPXvt7Ua1MI9_8"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjExMTY2NWFkaXF6a2N4",
+    "barcode": "XBVDU7XK",
+    "type": "AD01",
+    "date": "2023-01-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-01-17",
+      "old_address": "1 Lynne Close Selsdon South Croydon London CR2 8QA England",
+      "new_address": "61 Bridge Street Kington HR5 3DJ"
+    },
+    "pages": 1,
+    "action_date": "2023-01-17",
+    "links": {
+      "self": "/company/13782879/filing-history/MzM2NjExMTY2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZcfzycxDH0FgXGchvLjySYYkaaIkr8C15xu-HppfW9o"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTc5NTkyNWFkaXF6a2N4",
+    "barcode": "XBHJ0I81",
+    "type": "AD01",
+    "date": "2022-11-25",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-11-25",
+      "old_address": "20-22 Wenlock Road London N1 7GU England",
+      "new_address": "1 Lynne Close Selsdon South Croydon London CR2 8QA"
+    },
+    "pages": 1,
+    "action_date": "2022-11-25",
+    "links": {
+      "self": "/company/13782879/filing-history/MzM1OTc5NTkyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NVkYOGOi2mLqWfXzNw_obtcr1njb1KM83sWlTjvT2qU"
+    }
+  },
+  {
+    "transaction_id": "MzMyMjM5MzkxMGFkaXF6a2N4",
+    "barcode": "XAILA7KZ",
+    "type": "NEWINC",
+    "date": "2021-12-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-12-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-12-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-12-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-12-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13782879/filing-history/MzMyMjM5MzkxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JTZ0ik5myvDm7vQc3F4i-Pi8rpQ5qHndG3KXlHocSgo"
+    }
+  }
+]

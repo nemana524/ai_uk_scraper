@@ -1,0 +1,36 @@
+{
+  "company_number": "15038677",
+  "company_name": "TECH HUNTERS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHAH, Syed Kaleem Hussain",
+      "officer_role": "director",
+      "appointed_on": "2023-07-31",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Sandhill Close",
+        "country": "United Kingdom",
+        "locality": "Bolton",
+        "postal_code": "BL3 2UB",
+        "premises": "50",
+        "region": "Greater Manchester"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15038677/appointments/kzfJcVfikiPRImImXKNW6AwrD0w",
+        "officer": {
+          "appointments": "/officers/k-VlRPzw7feqN3yJR600RlXghpw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

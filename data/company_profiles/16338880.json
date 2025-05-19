@@ -1,0 +1,40 @@
+{
+  "company_number": "16338880",
+  "company_name": "TECH & MEND LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2025-03-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47421",
+    "95120"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "4 Tickhill Road",
+    "address_line_2": "Maltby",
+    "country": "England",
+    "locality": "Rotherham",
+    "postal_code": "S66 7BP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-24",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-03-24"
+    },
+    "next_due": "2026-12-24",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "etag": "4676e0075886c11bdeeff73f3a27c161e9fe8439"
+}

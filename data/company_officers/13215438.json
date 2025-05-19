@@ -1,0 +1,36 @@
+{
+  "company_number": "13215438",
+  "company_name": "TECH BALANCE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BELL, Ryan Benjamin",
+      "officer_role": "director",
+      "appointed_on": "2021-02-22",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Engineer",
+      "address": {
+        "address_line_1": "Church Lane",
+        "address_line_2": "Wyatts Green",
+        "country": "England",
+        "locality": "Brentwood",
+        "postal_code": "CM15 0PL",
+        "premises": "Copperfield"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/13215438/appointments/1rWJd8V3Bbpg3e_0KeB1oeeugF4",
+        "officer": {
+          "appointments": "/officers/gItYDagcc41ZVyfleFq1w0deQyM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

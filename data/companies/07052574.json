@@ -1,0 +1,48 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-10-31",
+      "period_end_on": "2023-10-31",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH 88 LIMITED",
+  "company_number": "07052574",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-10-21"
+  },
+  "date_of_cessation": "2024-10-15",
+  "date_of_creation": "2009-10-21",
+  "etag": "f025eba3563b2103199003d6a628c2535a26040a",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-10-21",
+  "links": {
+    "persons_with_significant_control": "/company/07052574/persons-with-significant-control",
+    "self": "/company/07052574",
+    "filing_history": "/company/07052574/filing-history",
+    "officers": "/company/07052574/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "The Bungalow Kirkroyds Lane",
+    "address_line_2": "New Mill",
+    "locality": "Holmfirth",
+    "postal_code": "HD9 1LS",
+    "region": "West Yorkshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

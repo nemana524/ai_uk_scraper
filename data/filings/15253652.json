@@ -1,0 +1,110 @@
+[
+  {
+    "transaction_id": "MzQ1NTUyNTU0OWFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2025-02-25",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15253652/filing-history/MzQ1NTUyNTU0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/L6luHkauxU6l8ecSGc9TDkR95DyMG2yAQ5gY6TP5mvw"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTY1MDU5M2FkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-12-10",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15253652/filing-history/MzQ0NTY1MDU5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S4r-ITDXjRa5JX3Sg7sy-JVMnWD9d63pvJQBgWEsTi8"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTY1MDUwOWFkaXF6a2N4",
+    "barcode": "XDH1TV1E",
+    "type": "DS01",
+    "date": "2024-12-01",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/15253652/filing-history/MzQ0NTY1MDUwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QhRyVXSaTTyLyVR_pE6UF7dMk96Hx9bGbWMjZ11GAcE"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODY2NjMyMGFkaXF6a2N4",
+    "barcode": "XCFEPTLV",
+    "type": "CH01",
+    "date": "2023-11-01",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-11-01",
+      "officer_name": "Mr Md Razu Ahmaed"
+    },
+    "pages": 2,
+    "action_date": "2023-11-01",
+    "links": {
+      "self": "/company/15253652/filing-history/MzM5ODY2NjMyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gf5PZ7Xr4QG-Spi3dCLAWfJ5V88dLcgb-_2MJaMuYQY"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODY2NjMxOWFkaXF6a2N4",
+    "barcode": "XCFEPTJC",
+    "type": "PSC04",
+    "date": "2023-11-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-11-01",
+      "psc_name": "Mr Md Razu Ahmaed"
+    },
+    "pages": 2,
+    "action_date": "2023-11-01",
+    "links": {
+      "self": "/company/15253652/filing-history/MzM5ODY2NjMxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GA8qJNCbuF4qJPMNFfx4vPvJFoeDxuJrKM14uYD0HNg"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODY0NDA3NGFkaXF6a2N4",
+    "barcode": "XCFEN2X5",
+    "type": "NEWINC",
+    "date": "2023-11-01",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-11-01",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-11-01",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-11-01"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/15253652/filing-history/MzM5ODY0NDA3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YpE_ajZS2KaP75bDastOJ746LURZD22bmBxPBIWbnNo"
+    }
+  }
+]

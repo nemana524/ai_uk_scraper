@@ -1,0 +1,47 @@
+{
+  "company_number": "15214480",
+  "company_name": "TECH INSULATION SERVICES LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-10-16",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "43310",
+    "43320",
+    "43390",
+    "69201"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "18 Pine Walk",
+    "country": "United Kingdom",
+    "locality": "Cleethorpes",
+    "postal_code": "DN35 8BP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-10-31",
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-16",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-31",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-11-01"
+    },
+    "next_due": "2026-07-31",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "etag": "f0e0fd4bd50bdabdae68de11fa03b4e2c2b84c9f"
+}

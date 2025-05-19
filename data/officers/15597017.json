@@ -1,0 +1,51 @@
+[
+  {
+    "address": {
+      "address_line_1": "Heol Glaslyn",
+      "country": "United Kingdom",
+      "locality": "Caldicot",
+      "postal_code": "NP26 4PG",
+      "premises": "5",
+      "region": "Gwent"
+    },
+    "appointed_on": "2024-03-27",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15597017/appointments/AhNGQlPIzT3B5r-CHrexopzvUZM",
+      "officer": {
+        "appointments": "/officers/lhcTbJ_B0z3i7S3yLgYkKn0hWYo/appointments"
+      }
+    },
+    "name": "MORGAN, Toni",
+    "officer_role": "secretary",
+    "person_number": "321064720001"
+  },
+  {
+    "address": {
+      "address_line_1": "Heol Glaslyn",
+      "country": "United Kingdom",
+      "locality": "Caldicot",
+      "postal_code": "NP26 4PG",
+      "premises": "5",
+      "region": "Gwent"
+    },
+    "appointed_on": "2024-03-27",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1968
+    },
+    "links": {
+      "self": "/company/15597017/appointments/7B4yDEV9j89sBDuOsLyCkof_N6o",
+      "officer": {
+        "appointments": "/officers/wf3I9is3vpqk0Kww0bfRoNeyOxU/appointments"
+      }
+    },
+    "name": "RADLEY, Neil",
+    "nationality": "British",
+    "occupation": "Computer Consultant",
+    "officer_role": "director",
+    "person_number": "321064710001"
+  }
+]

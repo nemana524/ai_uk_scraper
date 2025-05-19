@@ -1,0 +1,63 @@
+{
+  "company_number": "13837955",
+  "company_name": "TECH HYDRAULICS LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SILBERSTEIN, Simche",
+      "officer_role": "director",
+      "appointed_on": "2024-03-10",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Wargrave Avenue",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N15 6UH",
+        "premises": "37"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 2007
+      },
+      "links": {
+        "self": "/company/13837955/appointments/q43Jc2Q4YIBxa_JEmqZq9wGxSEA",
+        "officer": {
+          "appointments": "/officers/LMItg7oy3xFXOiAIU6P5MCJXxks/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SILBERSTEIN, Yehudah Yonah",
+      "officer_role": "director",
+      "appointed_on": "2022-01-10",
+      "resigned_on": "2024-03-10",
+      "nationality": "American",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Wargrave Avenue",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N15 6UH",
+        "premises": "37"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/13837955/appointments/Q8F9VnwKSa9vrLOVgt8Tm0T8c5I",
+        "officer": {
+          "appointments": "/officers/xBk4ZaEeDzO-rBbZL5K1oAVjZmo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

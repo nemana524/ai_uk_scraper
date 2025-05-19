@@ -1,0 +1,49 @@
+[
+  {
+    "address": {
+      "address_line_1": "Lyndhurst Road, Landford",
+      "country": "England",
+      "locality": "Salisbury",
+      "postal_code": "SP5 2AS",
+      "premises": "Cobb Cottage"
+    },
+    "appointed_on": "2014-02-13",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/08893227/appointments/yBWdeV0yPGJESmqX92UHDrqxuWM",
+      "officer": {
+        "appointments": "/officers/5Rgg8cm8JM43ox_-EHoo8nil8wo/appointments"
+      }
+    },
+    "name": "DIBDEN, Ian",
+    "officer_role": "secretary",
+    "person_number": "185090510001"
+  },
+  {
+    "address": {
+      "address_line_1": "Lyndhurst Road, Landford",
+      "country": "England",
+      "locality": "Salisbury",
+      "postal_code": "SP5 2AS",
+      "premises": "Cobb Cottage"
+    },
+    "appointed_on": "2014-02-13",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1967
+    },
+    "links": {
+      "self": "/company/08893227/appointments/VQH3EBdlnoCl3yCvqt_-CNPObdA",
+      "officer": {
+        "appointments": "/officers/SsKNzvGOk9qQJWZHH5kWp93H3HA/appointments"
+      }
+    },
+    "name": "DIBDEN, Ian David",
+    "nationality": "British",
+    "occupation": "Engineer",
+    "officer_role": "director",
+    "person_number": "133911200002"
+  }
+]

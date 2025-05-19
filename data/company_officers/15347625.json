@@ -1,0 +1,35 @@
+{
+  "company_number": "15347625",
+  "company_name": "TECH INSIGHT CONSULTING LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AMOSU, Seide Abiodun",
+      "officer_role": "director",
+      "appointed_on": "2023-12-13",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Regal Walk",
+        "country": "United Kingdom",
+        "locality": "Bexleyheath",
+        "postal_code": "DA6 7BF",
+        "premises": "44, 5, Craft Court"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/15347625/appointments/iRcFKLZeWe8fuUWEuN9qOJqd0uU",
+        "officer": {
+          "appointments": "/officers/ikRR5BkjlRlTM7auY2s_DiDLY0E/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

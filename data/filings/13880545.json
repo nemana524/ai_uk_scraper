@@ -1,0 +1,352 @@
+[
+  {
+    "transaction_id": "MzQ0MTQ1NzAzMGFkaXF6a2N4",
+    "barcode": "XDESRFU3",
+    "type": "AA",
+    "date": "2024-10-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 2,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/13880545/filing-history/MzQ0MTQ1NzAzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m9n2kkLtthxyNZs_Dkf2hW6QtzEBs1oABTR8BjTqLb4"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjM4NjM0MWFkaXF6a2N4",
+    "barcode": "XD3JTW9T",
+    "type": "CS01",
+    "date": "2024-05-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-12"
+    },
+    "pages": 3,
+    "action_date": "2024-05-12",
+    "links": {
+      "self": "/company/13880545/filing-history/MzQyMjM4NjM0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2R5zsVP6JP6ftZj0Ol4vn9ZpHJ-icVUTJiNsAapd4cc"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzExMTM0MmFkaXF6a2N4",
+    "barcode": "XCEI0N9F",
+    "type": "AA",
+    "date": "2023-10-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 2,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM5NzExMTM0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bFOyID9EF2doFpXIF9wtnzSKXF2_jrHDWTIRc4uG8qw"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzExNjA3MGFkaXF6a2N4",
+    "barcode": "XC5RLB40",
+    "type": "CS01",
+    "date": "2023-06-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-05-12"
+    },
+    "pages": 4,
+    "action_date": "2023-05-12",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM4MzExNjA3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F3nfJH4UHZZIJFACUsXI4pHN__lkeN7lC5G_ygzjU0E"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDUwNzk1OWFkaXF6a2N4",
+    "barcode": "XC44O5JS",
+    "type": "CH01",
+    "date": "2023-05-23",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-06-11",
+      "officer_name": "Mr Aravindan Vivekanandan"
+    },
+    "pages": 2,
+    "action_date": "2022-06-11",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM4MDUwNzk1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3a9tv2AH_blSEszocGgN0IB97jLrsKxPQxEf_YxbIo8"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDA1NjQ3N2FkaXF6a2N4",
+    "barcode": "XC3RCDV5",
+    "type": "CH01",
+    "date": "2023-05-18",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-18",
+      "officer_name": "Mr Aravindan Vivekanandan"
+    },
+    "pages": 2,
+    "action_date": "2023-05-18",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM4MDA1NjQ3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F4LUIiFgx74Epz8wsYKvuHvhaPBu4bXy2GK9nAkYVcc"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDA1NjI2MWFkaXF6a2N4",
+    "barcode": "XC3RCCZE",
+    "type": "CH01",
+    "date": "2023-05-18",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-18",
+      "officer_name": "Ms Suganya Raja"
+    },
+    "pages": 2,
+    "action_date": "2023-05-18",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM4MDA1NjI2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fOQgzChwlUwsEry4cmtlHUo87BCRV0YWS2Bk6O63oNk"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDA1NjA1OGFkaXF6a2N4",
+    "barcode": "XC3RCC1N",
+    "type": "PSC04",
+    "date": "2023-05-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-05-18",
+      "psc_name": "Ms Suganya Raja"
+    },
+    "pages": 2,
+    "action_date": "2023-05-18",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM4MDA1NjA1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nDzkKnWdYt-VD5XctSuSoKlhnRmzIBZxXr1eZEz4Lf8"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDA1NDI3OGFkaXF6a2N4",
+    "barcode": "XC3RC423",
+    "type": "AD01",
+    "date": "2023-05-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-18",
+      "old_address": "4 Portland Avenue Whitehouse Milton Keynes MK8 1BL United Kingdom",
+      "new_address": "11, Shropshire Gardens Whitehouse Milton Keynes MK8 1FS"
+    },
+    "pages": 1,
+    "action_date": "2023-05-18",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM4MDA1NDI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PHfUlPH5T5TtuTqfm6ARzuoAqFtEvG3-ksiIzmT0oY8"
+    }
+  },
+  {
+    "transaction_id": "MzM1NzI4OTk0MWFkaXF6a2N4",
+    "barcode": "XBFYLKQZ",
+    "type": "CH01",
+    "date": "2022-11-02",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-10-29",
+      "officer_name": "Mr Aravindan Vivekanandan"
+    },
+    "pages": 2,
+    "action_date": "2022-10-29",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM1NzI4OTk0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IwG4ZLP_NwCpIzRC06HwWNwL8ppckaSO8DXMDQk9r3I"
+    }
+  },
+  {
+    "transaction_id": "MzM1NzI4OTkzN2FkaXF6a2N4",
+    "barcode": "XBFYLKOO",
+    "type": "CH01",
+    "date": "2022-11-02",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-10-29",
+      "officer_name": "Ms Suganya Raja"
+    },
+    "pages": 2,
+    "action_date": "2022-10-29",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM1NzI4OTkzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/29-FGruqMTnBkocKUiT3PVvNMHEkv9GuI_5buFwJmSY"
+    }
+  },
+  {
+    "transaction_id": "MzM1NzI4OTkzM2FkaXF6a2N4",
+    "barcode": "XBFYLKOG",
+    "type": "PSC04",
+    "date": "2022-11-02",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-10-29",
+      "psc_name": "Ms Suganya Raja"
+    },
+    "pages": 2,
+    "action_date": "2022-10-29",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM1NzI4OTkzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uTwqT2KblqiaYnqmr9i1d3-7oMpJOuxYZNUc1UD4Mq0"
+    }
+  },
+  {
+    "transaction_id": "MzM1NzI4OTkyM2FkaXF6a2N4",
+    "barcode": "XBFYLKIG",
+    "type": "AD01",
+    "date": "2022-11-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-11-02",
+      "old_address": "34 Tawny Close Feltham TW13 7LH England",
+      "new_address": "4 Portland Avenue Whitehouse Milton Keynes MK8 1BL"
+    },
+    "pages": 1,
+    "action_date": "2022-11-02",
+    "links": {
+      "self": "/company/13880545/filing-history/MzM1NzI4OTkyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vaesabX8jGNS87ViZvgGKYuzEZQrBhJRtkz5gAqv7BE"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTA5NTg4NWFkaXF6a2N4",
+    "barcode": "XB3W4DYZ",
+    "type": "CS01",
+    "date": "2022-05-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-05-12"
+    },
+    "pages": 4,
+    "action_date": "2022-05-12",
+    "links": {
+      "self": "/company/13880545/filing-history/MzMzOTA5NTg4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/e3h5mJWRtjIMS-ijvkP54y6Ns_MAhydRbmacjPYJrms"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTA5MzAxMGFkaXF6a2N4",
+    "barcode": "XB3W4BHN",
+    "type": "PSC07",
+    "date": "2022-05-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Aravindan Vivekanandan",
+      "cessation_date": "2022-04-04"
+    },
+    "pages": 1,
+    "action_date": "2022-04-04",
+    "links": {
+      "self": "/company/13880545/filing-history/MzMzOTA5MzAxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mV2DVmh5YkEtmzDakC5moXO0BXVxQzDjtyQPqFDjR14"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTA5Mjc3N2FkaXF6a2N4",
+    "barcode": "XB3W4ARF",
+    "type": "AP01",
+    "date": "2022-05-12",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Ms Suganya Raja",
+      "appointment_date": "2022-04-04"
+    },
+    "pages": 2,
+    "action_date": "2022-04-04",
+    "links": {
+      "self": "/company/13880545/filing-history/MzMzOTA5Mjc3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/g5yjfocAppzWw9tVOkE1VF8h4jMR6fumhRB5_qKcG-A"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTA5MjQ5NmFkaXF6a2N4",
+    "barcode": "XB3W49MP",
+    "type": "PSC01",
+    "date": "2022-05-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Suganya Raja",
+      "notification_date": "2022-04-04"
+    },
+    "pages": 2,
+    "action_date": "2022-04-04",
+    "links": {
+      "self": "/company/13880545/filing-history/MzMzOTA5MjQ5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XEOoLZ5eUtOsW4hPUDXcQ7ENJAMi2HN9Zop7CGJGZo8"
+    }
+  },
+  {
+    "transaction_id": "MzMyODI2MDU3NmFkaXF6a2N4",
+    "barcode": "XAWQDI4I",
+    "type": "NEWINC",
+    "date": "2022-01-29",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-01-29",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-29",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-01-29",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-01-29"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13880545/filing-history/MzMyODI2MDU3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jy_BK25c9w5qAAf0aNJ3Ow56AjbDrFO-uPVH5HokSIY"
+    }
+  }
+]

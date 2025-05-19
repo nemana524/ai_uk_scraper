@@ -1,0 +1,286 @@
+[
+  {
+    "transaction_id": "MzQ2MzA1ODg3MWFkaXF6a2N4",
+    "barcode": "XE0OF8PK",
+    "type": "CS01",
+    "date": "2025-04-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-04-15"
+    },
+    "pages": 4,
+    "action_date": "2025-04-15",
+    "links": {
+      "self": "/company/12558264/filing-history/MzQ2MzA1ODg3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9GHBM4dpBUJ_u-nx5GmLyyk43xZbPgFjzt3nIw9OWNg"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjE1NzY1OGFkaXF6a2N4",
+    "barcode": "XDHA57YZ",
+    "type": "AA",
+    "date": "2024-12-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/12558264/filing-history/MzQ0NjE1NzY1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/823r9KGZjzM_jssHdbjy4bbPYz-L8pLZfLBPus_m9Ek"
+    }
+  },
+  {
+    "transaction_id": "MzQxODc0MDkzOWFkaXF6a2N4",
+    "barcode": "XD18N2RF",
+    "type": "CS01",
+    "date": "2024-04-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-04-15"
+    },
+    "pages": 3,
+    "action_date": "2024-04-15",
+    "links": {
+      "self": "/company/12558264/filing-history/MzQxODc0MDkzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2Hw7PNNUrnrv7iUe7tWZkjayunSOYri_dU1jRCHKRZk"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTY1MjcyOWFkaXF6a2N4",
+    "barcode": "XCJ8IDJK",
+    "type": "AD01",
+    "date": "2023-12-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-12-27",
+      "old_address": "C/O Aspreys Accountants Ltd 1607 Wellington Way Brooklands Business Park Weybridge Surrey KT13 0TT England",
+      "new_address": "C/O Aspreys Accountants Ltd No. 5 the Heights Brooklands Weybridge Surrey KT13 0NY"
+    },
+    "pages": 1,
+    "action_date": "2023-12-27",
+    "links": {
+      "self": "/company/12558264/filing-history/MzQwNTY1MjcyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wxvs9LUTbF9tYbb9wYFLxYU5FEikJ0hxTNYu95bvOhw"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTM1MTA5MGFkaXF6a2N4",
+    "barcode": "XCGWL7BL",
+    "type": "AA",
+    "date": "2023-11-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 3,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/12558264/filing-history/MzQwMTM1MTA5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zq8X5VwHz0btguwR3huj9DMk6JbDCNRiZ7i_6ZEE4eI"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzI4OTk4M2FkaXF6a2N4",
+    "barcode": "XC241BB4",
+    "type": "CS01",
+    "date": "2023-04-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-04-15"
+    },
+    "pages": 3,
+    "action_date": "2023-04-15",
+    "links": {
+      "self": "/company/12558264/filing-history/MzM3NzI4OTk4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0VkdDkRxvwqj20b-VZhA6yY1-k-hqimNYd6JA-rD5Nw"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzYyMTU0NWFkaXF6a2N4",
+    "barcode": "XB6T4RGR",
+    "type": "AA",
+    "date": "2022-06-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 3,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/12558264/filing-history/MzM0MzYyMTU0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/L6PdcYIXBgHK0pu0EI9HLpVqOk_X5xf1PWqESwIKpFc"
+    }
+  },
+  {
+    "transaction_id": "MzMzNzIxMTM5OWFkaXF6a2N4",
+    "barcode": "XB2P38D6",
+    "type": "CS01",
+    "date": "2022-04-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-04-15"
+    },
+    "pages": 3,
+    "action_date": "2022-04-15",
+    "links": {
+      "self": "/company/12558264/filing-history/MzMzNzIxMTM5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9OqDNnQJVOJyGzZvwvUSQ7xxxJzCTFhJSdv3q-SG7Kg"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzg5NjA5OGFkaXF6a2N4",
+    "barcode": "XAJHP0YY",
+    "type": "AD01",
+    "date": "2021-12-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-12-16",
+      "old_address": "Suite 211 1607 Wellington Way Brooklands Business Park Weybridge Surrey KT13 0TT United Kingdom",
+      "new_address": "C/O Aspreys Accountants Ltd 1607 Wellington Way Brooklands Business Park Weybridge Surrey KT13 0TT"
+    },
+    "pages": 1,
+    "action_date": "2021-12-16",
+    "links": {
+      "self": "/company/12558264/filing-history/MzMyMzg5NjA5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vzg_rGxQ2lrzaZ-T_xmD0yIMZ6lIAESVydED3vrI9SM"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzg5NTY2M2FkaXF6a2N4",
+    "barcode": "XAJHOYU3",
+    "type": "AA01",
+    "date": "2021-12-16",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-shortened",
+    "description_values": {
+      "made_up_date": "2022-04-30",
+      "new_date": "2022-03-31"
+    },
+    "pages": 1,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/12558264/filing-history/MzMyMzg5NTY2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MempT-NY8UC2JCx0ipgESkTGKInSIKLbDhiKp88Upk4"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTQ2NjQ4N2FkaXF6a2N4",
+    "barcode": "XAE1N4WD",
+    "type": "AA",
+    "date": "2021-09-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-04-30"
+    },
+    "pages": 3,
+    "action_date": "2021-04-30",
+    "links": {
+      "self": "/company/12558264/filing-history/MzMxNTQ2NjQ4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ccvh79qzM5eracjzr0i7gG_leV11cJfG7E3dZttlFss"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODEyODY4NmFkaXF6a2N4",
+    "barcode": "XA2PW2QB",
+    "type": "CS01",
+    "date": "2021-04-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-04-15"
+    },
+    "pages": 3,
+    "action_date": "2021-04-15",
+    "links": {
+      "self": "/company/12558264/filing-history/MzI5ODEyODY4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7of9YDDbVK5b-2Q1HKmHW-uY5NPNbsn9WBWkG_coCmo"
+    }
+  },
+  {
+    "transaction_id": "MzI3NjI5MjU3NGFkaXF6a2N4",
+    "barcode": "X9CC1GKP",
+    "type": "AD01",
+    "date": "2020-08-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-08-27",
+      "old_address": "C/O Aspreys Accountants, Suite 211 1607 Wellington Way Brooklands Business Park Weybridge KT13 0TT England",
+      "new_address": "Suite 211 1607 Wellington Way Brooklands Business Park Weybridge Surrey KT13 0TT"
+    },
+    "pages": 1,
+    "action_date": "2020-08-27",
+    "links": {
+      "self": "/company/12558264/filing-history/MzI3NjI5MjU3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t0g5eVZrdd_OX60pDbh8-Mxe3hAUyJPP2s8TDmbyUpY"
+    }
+  },
+  {
+    "transaction_id": "MzI3MjY3MTIyNmFkaXF6a2N4",
+    "barcode": "X98TJE95",
+    "type": "AD01",
+    "date": "2020-07-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-07-08",
+      "old_address": "105 Miller House 47-49 Market Street Bolton BL4 7NS United Kingdom",
+      "new_address": "C/O Aspreys Accountants, Suite 211 1607 Wellington Way Brooklands Business Park Weybridge KT13 0TT"
+    },
+    "pages": 1,
+    "action_date": "2020-07-08",
+    "links": {
+      "self": "/company/12558264/filing-history/MzI3MjY3MTIyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I5hgHVxrGWjMm-ol8krP9A7Mj2qMn-hH5vmLcM48nSs"
+    }
+  },
+  {
+    "transaction_id": "MzI2MjQzMDA3NmFkaXF6a2N4",
+    "barcode": "X9325HU3",
+    "type": "NEWINC",
+    "date": "2020-04-16",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-04-16",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-04-16",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-04-16",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-04-16"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12558264/filing-history/MzI2MjQzMDA3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oyKRh7DKJfuyiUXd2_HLxBYp-_ja1xTg1mfu4rkuMzw"
+    }
+  }
+]

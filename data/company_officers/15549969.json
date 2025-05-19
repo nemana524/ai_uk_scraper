@@ -1,0 +1,64 @@
+{
+  "company_number": "15549969",
+  "company_name": "TECH AR NOVA LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SHEVCHUK, Bogdan",
+      "officer_role": "secretary",
+      "appointed_on": "2024-03-09",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Lexham Gardens",
+        "address_line_2": "London",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "W8 6JJ",
+        "premises": "57-67",
+        "region": "Uk"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15549969/appointments/_m7pZ-DGgncDtfd2-rB7Ctk4n4M",
+        "officer": {
+          "appointments": "/officers/FBXtmC4DDleQxsNezu4TTQEm82k/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHEVCHUK, Bogdan",
+      "officer_role": "director",
+      "appointed_on": "2024-03-09",
+      "resigned_on": null,
+      "nationality": "Ukrainian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Coo",
+      "address": {
+        "address_line_1": "Lexham Gardens",
+        "address_line_2": "London",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "W8 6JJ",
+        "premises": "57-67",
+        "region": "Uk"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/15549969/appointments/E5iiXIDAElhs6Ly24gE2HsyJjg0",
+        "officer": {
+          "appointments": "/officers/cme_AmAB6mrXZyVjPY8qihtqzG0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-27",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-08-27"
+    },
+    "next_due": "2026-05-27",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CHICKEN LIMITED",
+  "company_number": "15919340",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-09-09",
+    "next_made_up_to": "2025-08-26",
+    "overdue": false
+  },
+  "date_of_creation": "2024-08-27",
+  "etag": "ffa8c99bc246b83000e7a160e1bde0080377722f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15919340/persons-with-significant-control",
+    "self": "/company/15919340",
+    "filing_history": "/company/15919340/filing-history",
+    "officers": "/company/15919340/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "30 Hengist Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE12 9EE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "74909"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

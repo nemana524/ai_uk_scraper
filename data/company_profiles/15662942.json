@@ -1,0 +1,38 @@
+{
+  "company_number": "15662942",
+  "company_name": "TECH GUARDIANS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-04-20",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "99999"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Suite G04 1 Quality Court, Chancery Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2A 1HR"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-20",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-20"
+    },
+    "next_due": "2026-01-20",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "be74ada33aa6ebb23766ca8ef20e126ff8aa1405"
+}

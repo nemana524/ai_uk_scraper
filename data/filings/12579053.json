@@ -1,0 +1,650 @@
+[
+  {
+    "transaction_id": "MzQ2Mjc3MTE0NmFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-04-22",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzQ2Mjc3MTE0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/N5oB7MoIKwMNVhSvIwhthsvjObQZ7GSsdvN13rvQfto"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODM3OTkzMmFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2025-03-14",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzQ1ODM3OTkzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/n-WLz7A21UAfhY9Y534gGyL61CFKdfO77gbJWPgNX0Y"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MTU0NTA5OGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-02-04",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzQ1MTU0NTA5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UDYaVsxKPnb5-pD6QWcaoVMVzUWp6Q2EhdLpsmuBSOU"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDkyODE3MWFkaXF6a2N4",
+    "barcode": "XCWSMG8G",
+    "type": "AA",
+    "date": "2024-02-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-04-30"
+    },
+    "pages": 3,
+    "action_date": "2023-04-30",
+    "links": {
+      "self": "/company/12579053/filing-history/MzQxMDkyODE3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ts41FoBakz62jeEf4Y9ShUBx7wBikCMOFy-qlUgsYAU"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTY3MTM2M2FkaXF6a2N4",
+    "barcode": "XCJ8K989",
+    "type": "CS01",
+    "date": "2023-12-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-01"
+    },
+    "pages": 3,
+    "action_date": "2023-11-01",
+    "links": {
+      "self": "/company/12579053/filing-history/MzQwNTY3MTM2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ikXOtoSGt_HKkrRGofuULSMdQmqoKYwda9N_FzkYm8Q"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDg0MjMxMWFkaXF6a2N4",
+    "barcode": "XCIPKU9E",
+    "type": "CS01",
+    "date": "2023-12-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-11-01"
+    },
+    "pages": 3,
+    "action_date": "2022-11-01",
+    "links": {
+      "self": "/company/12579053/filing-history/MzQwNDg0MjMxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T8QpW7ZqZ5HhBONuLaOekgF5NGUkBM4mXYaKboJdrgI"
+    }
+  },
+  {
+    "transaction_id": "MzM3MzQ1MDA2MmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-03-22",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzM3MzQ1MDA2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Rc32EmxRO3vlM2haiE26Yr_BMZhJGpuKXsJ4omZE9co"
+    }
+  },
+  {
+    "transaction_id": "MzM3MzQ0OTM5OGFkaXF6a2N4",
+    "barcode": "XBZSNLHE",
+    "type": "AA",
+    "date": "2023-03-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-04-30"
+    },
+    "pages": 3,
+    "action_date": "2022-04-30",
+    "links": {
+      "self": "/company/12579053/filing-history/MzM3MzQ0OTM5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2whax36IRLYDl6PaG_pKdJIbJn16rMJ_wW7_qRyaOFY"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTM3MzA3N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-01-24",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzM2NTM3MzA3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pZhaj_Hdqxm5Q5J0JLMS365gsZ-xPbos25NIJPdXLqI"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjQzMDIxOGFkaXF6a2N4",
+    "barcode": "XB64O07U",
+    "type": "CH01",
+    "date": "2022-06-14",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-06-14",
+      "officer_name": "Ms. Rafaela Luiza Da Silva"
+    },
+    "pages": 2,
+    "action_date": "2022-06-14",
+    "links": {
+      "self": "/company/12579053/filing-history/MzM0MjQzMDIxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ExhoEZ6EITX0Wji2-YlH4LZzEpc2EC2knvyYnWI_2Bs"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjMyNDY4MWFkaXF6a2N4",
+    "barcode": "XB61W256",
+    "type": "AD01",
+    "date": "2022-06-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-06-13",
+      "old_address": "Kemp House 160 City Road London EC1V 2NX",
+      "new_address": "128 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "action_date": "2022-06-13",
+    "links": {
+      "self": "/company/12579053/filing-history/MzM0MjMyNDY4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qR9J75x1BfSDV_8JnBJA9ZqlSj5o8rajmp4pIRLWjGs"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjQ5OTg2MmFkaXF6a2N4",
+    "barcode": "XAZHX6OR",
+    "type": "AA",
+    "date": "2022-03-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-04-30"
+    },
+    "pages": 3,
+    "action_date": "2021-04-30",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMzMjQ5OTg2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xZKGC03oE_ejRB93OkQlXLOmgqP7iexUX1at1q_UljI"
+    }
+  },
+  {
+    "transaction_id": "MzMyODA0NjcwMmFkaXF6a2N4",
+    "barcode": "AAW3B6PM",
+    "type": "AD01",
+    "date": "2022-01-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-01-27",
+      "old_address": "PO Box 4385 12579053: Companies House Default Address Cardiff CF14 8LH",
+      "new_address": "Kemp House 160 City Road London EC1V 2NX"
+    },
+    "pages": 2,
+    "action_date": "2022-01-27",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMyODA0NjcwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fOwflYyeouG1p9ad-3GDYHLbNiJ7bpDFQ6czgcRniO0"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDM0MjE4OGFkaXF6a2N4",
+    "barcode": "XAHEA26Z",
+    "type": "TM01",
+    "date": "2021-11-16",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Philippe Abou Jaoude",
+      "termination_date": "2021-11-16"
+    },
+    "pages": 1,
+    "action_date": "2021-11-16",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMyMDM0MjE4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4a0eXKj-YEFgw9e9emfy1eVbFHoX5h8JNAlKhyC8ARc"
+    }
+  },
+  {
+    "transaction_id": "MzMxODk0MTA3NmFkaXF6a2N4",
+    "barcode": "XAGFHKGO",
+    "type": "CS01",
+    "date": "2021-11-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-11-01"
+    },
+    "pages": 3,
+    "action_date": "2021-11-01",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxODk0MTA3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/l1GIsNeWD50Cd3mllkJuPLLjyEkcbC0RTQJut4PC5WM"
+    }
+  },
+  {
+    "transaction_id": "MzMxODc3OTQ0NmFkaXF6a2N4",
+    "barcode": "XAGCQ8EZ",
+    "type": "AD02",
+    "date": "2021-11-02",
+    "category": "address",
+    "description": "change-sail-address-company-with-old-address-new-address",
+    "description_values": {
+      "old_address": "Kemp House 160 City Road London EC1V 2NX England",
+      "new_address": "Kemp House 160 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxODc3OTQ0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lOCXBhFEOmgbteUwgD-ZvKq-v2o_FR58FX4tZmABfJ8"
+    }
+  },
+  {
+    "transaction_id": "MzMxODc3Nzg5NmFkaXF6a2N4",
+    "barcode": "XAGCQ22J",
+    "type": "AD02",
+    "date": "2021-11-02",
+    "category": "address",
+    "description": "change-sail-address-company-with-old-address-new-address",
+    "description_values": {
+      "old_address": "Kemp House 160 City Road London EC1V 2NX England",
+      "new_address": "Kemp House 160 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxODc3Nzg5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PAGXjFWpHwHMlcIJCl-rHrz8IUzIoXJIIT5f6ki-Z8o"
+    }
+  },
+  {
+    "transaction_id": "MzMxODc3NjgwNGFkaXF6a2N4",
+    "barcode": "XAGCPXPD",
+    "type": "AD03",
+    "date": "2021-11-02",
+    "category": "address",
+    "description": "move-registers-to-sail-company-with-new-address",
+    "description_values": {
+      "new_address": "Kemp House 160 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxODc3NjgwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Lgcv0TnWJq_Nq73ef0rEbB8SLmGqAGCLa1IoRD2uq9E"
+    }
+  },
+  {
+    "transaction_id": "MzMxODc3NjgwMWFkaXF6a2N4",
+    "barcode": "XAGCPXN5",
+    "type": "AD02",
+    "date": "2021-11-02",
+    "category": "address",
+    "description": "change-sail-address-company-with-new-address",
+    "description_values": {
+      "new_address": "Kemp House 160 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxODc3NjgwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VYSRH9HYHOGyfW_A1RVaZ7bRxaWHqjEi1rVOg4HbUMo"
+    }
+  },
+  {
+    "transaction_id": "MzMxODYwMjE0OGFkaXF6a2N4",
+    "barcode": "XAG4VRH4",
+    "type": "CS01",
+    "date": "2021-10-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-10-29"
+    },
+    "pages": 4,
+    "action_date": "2021-10-29",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxODYwMjE0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t62Dzuso2uvEgAteMH83zIQBtL8g67UqdH9whBKaIfY"
+    }
+  },
+  {
+    "transaction_id": "MzMxODU4ODg1OGFkaXF6a2N4",
+    "barcode": "XAG4UBSH",
+    "type": "CERTNM",
+    "date": "2021-10-29",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2021-10-28"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2021-10-29",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed aj brothers LTD\\certificate issued on 29/10/21"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxODU4ODg1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pg36QO7R6jJYizOFsHYBglFDpEbFxTH_qApF6EBE-Yw"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzY4ODgxOWFkaXF6a2N4",
+    "barcode": "XAFLUHVL",
+    "type": "PSC04",
+    "date": "2021-10-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-10-20",
+      "psc_name": "Ms. Rafaela Luiza Da Silva"
+    },
+    "pages": 2,
+    "action_date": "2021-10-20",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNzY4ODgxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RqSw76XjZizIBG--09--cao0kMOdDD0ll-TVI3cG2aQ"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzY4NTg3N2FkaXF6a2N4",
+    "barcode": "XAFLUHUW",
+    "type": "PSC07",
+    "date": "2021-10-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Philippe Abou Jaoude",
+      "cessation_date": "2021-10-12"
+    },
+    "pages": 1,
+    "action_date": "2021-10-12",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNzY4NTg3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/juOJUtxXNEcOP9pkDENRTJZDhZbIxgLdOUiefz2zw98"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzY4NTM3OGFkaXF6a2N4",
+    "barcode": "XAFLUHRC",
+    "type": "PSC01",
+    "date": "2021-10-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Rafaela Luiza Da Silva",
+      "notification_date": "2021-10-12"
+    },
+    "pages": 2,
+    "action_date": "2021-10-12",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNzY4NTM3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S-gn93O8SBkWlWSxBI_XW5Gv1ZY4ftj7iIPVyFppd_w"
+    }
+  },
+  {
+    "transaction_id": "MzMxNjc2MzA2NWFkaXF6a2N4",
+    "barcode": "XAEXWJRF",
+    "type": "AP01",
+    "date": "2021-10-12",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Ms. Rafaela Luiza Da Silva",
+      "appointment_date": "2021-10-01"
+    },
+    "pages": 2,
+    "action_date": "2021-10-01",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNjc2MzA2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nh0QMEkL04MrLtSi9HC2dVL7tcJdmkqrE2MC2hnDs14"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTAxMTk4OWFkaXF6a2N4",
+    "barcode": "XADTC4SI",
+    "type": "CS01",
+    "date": "2021-09-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-09-26"
+    },
+    "pages": 4,
+    "action_date": "2021-09-26",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNTAxMTk4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RsR_BkA7AOaCV6Ya5BuR547LS6DWzuWae3ubWUYihmU"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTAxMTkyOWFkaXF6a2N4",
+    "barcode": "XADTC4B7",
+    "type": "TM01",
+    "date": "2021-09-26",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Rafaela Luiza Da Silva",
+      "termination_date": "2021-09-22"
+    },
+    "pages": 1,
+    "action_date": "2021-09-22",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNTAxMTkyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wMmDOtjcHaCKb2-gDGugPU0hT_pLR7-Yv2Ow7bBZN_8"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTAxMTkyNmFkaXF6a2N4",
+    "barcode": "XADTC47N",
+    "type": "PSC07",
+    "date": "2021-09-26",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Rafaela Luiza Da Silva",
+      "cessation_date": "2021-09-21"
+    },
+    "pages": 1,
+    "action_date": "2021-09-21",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNTAxMTkyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4hMTfPOhmPnNGu4u0g1pwdR_5CMu-G1lUTuqg_UY-iw"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDc0MzA3OWFkaXF6a2N4",
+    "barcode": "XADNVBSB",
+    "type": "PSC01",
+    "date": "2021-09-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Rafaela Luiza Da Silva",
+      "notification_date": "2021-09-20"
+    },
+    "pages": 2,
+    "action_date": "2021-09-20",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNDc0MzA3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cs0CSaqYS6MEgOoDhi7MOFroIEVgnTmR_Ya4od9p8Jo"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDc0MjI3N2FkaXF6a2N4",
+    "barcode": "XADNV9DN",
+    "type": "AP01",
+    "date": "2021-09-23",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Rafaela Luiza Da Silva",
+      "appointment_date": "2021-09-22"
+    },
+    "pages": 2,
+    "action_date": "2021-09-22",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNDc0MjI3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wPjDJh18iTVFmJQ6bKk7AK19L3RrJnYKNgfC6csEMeQ"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDM3NTAwOWFkaXF6a2N4",
+    "barcode": "XADIFI3D",
+    "type": "CS01",
+    "date": "2021-09-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-09-21"
+    },
+    "pages": 4,
+    "action_date": "2021-09-21",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxNDM3NTAwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oVEVLber0jOlaRiXlbEIXFD9hYfx9K0PfF8D8p1dnAQ"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzM0NjY4OWFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2021-09-10",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxMzM0NjY4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FCbs6aDoCV3F_9yhB2buYzBGojlmMEr8T-yglvyw3Xk"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzM0NjU5M2FkaXF6a2N4",
+    "barcode": "XACP5R4O",
+    "type": "CS01",
+    "date": "2021-09-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-04-28"
+    },
+    "pages": 3,
+    "action_date": "2021-04-28",
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxMzM0NjU5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JJLLZoZWed7Qii9oelSvfmsDOWn4Qyt7wY4RrAsZN7c"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDQwOTU2MmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2021-08-24",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxMDQwOTU2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/A31TTZAzsvxajkUKoIwaef49LDO5zMrFIvPPyr4L43I"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDQwODE2NWFkaXF6a2N4",
+    "barcode": "RAAMXI41",
+    "type": "RP05",
+    "date": "2021-08-11",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2021-08-11",
+      "default_address": "PO Box 4385, 12579053: Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2021-08-11",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12579053/filing-history/MzMxMDQwODE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TaUoCCpiFNko1dHfS6mzGkzESwGdCvCcdh332g3kmrE"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzUzNDA4NGFkaXF6a2N4",
+    "barcode": "X940JHMI",
+    "type": "NEWINC",
+    "date": "2020-04-29",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-04-29",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-04-29",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-04-29",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2020-04-29"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12579053/filing-history/MzI2MzUzNDA4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZOWW4Gxry7oJOkEKGWVktKADvGnyh3KJUgrjVub7RbM"
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "transaction_id": "MzQ2MTgyNTM5NGFkaXF6a2N4",
+    "barcode": "XE02PZIH",
+    "type": "CS01",
+    "date": "2025-04-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-28"
+    },
+    "pages": 3,
+    "action_date": "2025-03-28",
+    "links": {
+      "self": "/company/13634269/filing-history/MzQ2MTgyNTM5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bvKIs0nq7qXuacTUle9q4eHRF66V-spcMqHWKYBlZKo"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTE3NDU0NWFkaXF6a2N4",
+    "barcode": "XD57DBRD",
+    "type": "AA",
+    "date": "2024-06-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 16,
+    "action_date": "2023-09-30",
+    "links": {
+      "self": "/company/13634269/filing-history/MzQyNTE3NDU0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s_-dAJTF2bv0Ez-tB8mfzueVW-6onJVH62LYVwSuqLw"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjQ2Mzk5MmFkaXF6a2N4",
+    "barcode": "XCZTF61M",
+    "type": "CS01",
+    "date": "2024-03-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-28"
+    },
+    "pages": 3,
+    "action_date": "2024-03-28",
+    "links": {
+      "self": "/company/13634269/filing-history/MzQxNjQ2Mzk5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4CEHMxQUCY-hAjjDQujm1tW3CiYucHT-iSi0zstccx4"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjQ2MzA1NmFkaXF6a2N4",
+    "barcode": "XCZTF1I1",
+    "type": "AD01",
+    "date": "2024-03-28",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-03-28",
+      "old_address": "62 Sandhurst Road London SE6 1XE England",
+      "new_address": "484 Eastern Avenue Ilford IG2 6EQ"
+    },
+    "pages": 1,
+    "action_date": "2024-03-28",
+    "links": {
+      "self": "/company/13634269/filing-history/MzQxNjQ2MzA1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KEXfzbJLijTQQJpGNhIuk903VihJDzNLRivxsZeggmE"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzM5MjQyNWFkaXF6a2N4",
+    "barcode": "XC5ZO3C1",
+    "type": "AA",
+    "date": "2023-06-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-09-30"
+    },
+    "pages": 3,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/13634269/filing-history/MzM4MzM5MjQyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SZDuqUBfeTbP3pUp_tO3hfAFBWlxdG_GQ0tBQHeiqew"
+    }
+  },
+  {
+    "transaction_id": "MzM3Nzk1NTg5MmFkaXF6a2N4",
+    "barcode": "XC2F5MN5",
+    "type": "CS01",
+    "date": "2023-04-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-04-01"
+    },
+    "pages": 3,
+    "action_date": "2023-04-01",
+    "links": {
+      "self": "/company/13634269/filing-history/MzM3Nzk1NTg5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cRWFMDt9O9tTDP_pYOpnV9i9avep-eM6Vjyn44ADBw0"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTAzNDQ3MmFkaXF6a2N4",
+    "barcode": "XB107BQ9",
+    "type": "CS01",
+    "date": "2022-04-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-04-01"
+    },
+    "pages": 4,
+    "action_date": "2022-04-01",
+    "links": {
+      "self": "/company/13634269/filing-history/MzMzNTAzNDQ3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VYokQw8BLp_epATdqWBJPjZ9XIqmTxkYz2tU3GVLBQY"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTAzNDQzOGFkaXF6a2N4",
+    "barcode": "XB107BIW",
+    "type": "PSC03",
+    "date": "2022-04-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Andreea-Loredana Ciorba",
+      "notification_date": "2022-03-15"
+    },
+    "pages": 2,
+    "action_date": "2022-03-15",
+    "links": {
+      "self": "/company/13634269/filing-history/MzMzNTAzNDQzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yg1VDE91EhxUpPSLurDmPlqvDZB5ircu7VaWsjC1MyA"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTAzNDQwMGFkaXF6a2N4",
+    "barcode": "XB107BJS",
+    "type": "AP01",
+    "date": "2022-04-01",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Andreea-Loredana Ciorba",
+      "appointment_date": "2022-03-15"
+    },
+    "pages": 2,
+    "action_date": "2022-03-15",
+    "links": {
+      "self": "/company/13634269/filing-history/MzMzNTAzNDQwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZWJlVRqTebNMsgvEOFPKqRiXIMHne_3DWoZk09txNnA"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTAzNDM0OWFkaXF6a2N4",
+    "barcode": "XB107B8Q",
+    "type": "TM01",
+    "date": "2022-04-01",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Vasile-Cristian Tugui",
+      "termination_date": "2022-03-15"
+    },
+    "pages": 1,
+    "action_date": "2022-03-15",
+    "links": {
+      "self": "/company/13634269/filing-history/MzMzNTAzNDM0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XALT9jx0Cqh7_uF-9Km3XbR7JZHP5UHk73Rmn33RxSw"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTAzNDMyOGFkaXF6a2N4",
+    "barcode": "XB107AYX",
+    "type": "PSC07",
+    "date": "2022-04-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Vasile-Cristian Tugui",
+      "cessation_date": "2022-03-15"
+    },
+    "pages": 1,
+    "action_date": "2022-03-15",
+    "links": {
+      "self": "/company/13634269/filing-history/MzMzNTAzNDMyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/B9K3WX50PVELbGyc_EFPDKriUdlRES5w45Z6-V6a9KA"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDI5ODI2MmFkaXF6a2N4",
+    "barcode": "XADFTAR4",
+    "type": "NEWINC",
+    "date": "2021-09-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-09-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-09-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-09-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2021-09-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13634269/filing-history/MzMxNDI5ODI2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GKPWrmO2Usv7bkw8ajFzUT16owOPpPchK2pHQy-bu2Y"
+    }
+  }
+]

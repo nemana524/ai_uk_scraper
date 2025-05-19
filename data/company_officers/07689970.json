@@ -1,0 +1,160 @@
+{
+  "company_number": "07689970",
+  "company_name": "TECH CITY STRATFORD LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "HUNT, Lloyd",
+      "officer_role": "secretary",
+      "appointed_on": "2011-07-01",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Eddison House",
+        "address_line_2": "223-231 Old Marylebone Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW1 5QT",
+        "premises": "5th Floor"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/07689970/appointments/h8VawUyKCs1z368pYmplELoKc9E",
+        "officer": {
+          "appointments": "/officers/SXK-ShNkLc2Ona9b6yVwYBOKqOE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "HANDELSMAN, Harry",
+      "officer_role": "director",
+      "appointed_on": "2011-07-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Eddison House",
+        "address_line_2": "223-231 Old Marylebone Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW1 5QT",
+        "premises": "5th Floor"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1949
+      },
+      "links": {
+        "self": "/company/07689970/appointments/Cl2NmOrnOTykdYyiOdq6dJA5Hzw",
+        "officer": {
+          "appointments": "/officers/pThjRUkcfaggh2Sq6WJEQOrxJrc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "HUNT, Lloyd Kevin",
+      "officer_role": "director",
+      "appointed_on": "2023-09-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Accountant",
+      "address": {
+        "address_line_1": "Eddison House",
+        "address_line_2": "223-231 Old Marylebone Road",
+        "locality": "London",
+        "postal_code": "NW1 5QT",
+        "premises": "5th Floor"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/07689970/appointments/0xfPKQ9EwaqJtH-GoFaXnV_YLOM",
+        "officer": {
+          "appointments": "/officers/OBEktBI39S6-Ci0vQOC2AfONq84/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "REDDINGS COMPANY SECRETARY LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2011-07-01",
+      "resigned_on": "2011-07-01",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Oakridge Lane",
+        "address_line_2": "Sidcot",
+        "country": "United Kingdom",
+        "locality": "Winscombe",
+        "postal_code": "BS25 1LZ",
+        "premises": "Reddings",
+        "region": "North Somerset"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/07689970/appointments/rnj4xZsun6UBlwAgewJoo3ruteo",
+        "officer": {
+          "appointments": "/officers/86RleMxKtUCIwY6X8ZyH6A_BNnw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "eea",
+        "place_registered": "ENGLAND & WALES",
+        "registration_number": "3377552"
+      }
+    },
+    {
+      "name": "REDDING, Diana Elizabeth",
+      "officer_role": "director",
+      "appointed_on": "2011-07-01",
+      "resigned_on": "2011-07-01",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Law Consultant",
+      "address": {
+        "address_line_1": "Oakridge Lane",
+        "address_line_2": "Sidcot",
+        "country": "United Kingdom",
+        "locality": "Winscombe",
+        "postal_code": "BS25 1LZ",
+        "premises": "Reddings",
+        "region": "North Somerset"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1952
+      },
+      "links": {
+        "self": "/company/07689970/appointments/XnyFgBsfiEKqb0rpGZIhduxk09Q",
+        "officer": {
+          "appointments": "/officers/Pz8B3II4sb2xIDPsFZVwyZgjKac/appointments"
+        }
+      },
+      "former_names": [
+        {
+          "forenames": "DIANA",
+          "surname": "PLEASE SELECT..."
+        },
+        {
+          "forenames": "DIANA",
+          "surname": "REDDING"
+        }
+      ],
+      "identification": {}
+    }
+  ]
+}

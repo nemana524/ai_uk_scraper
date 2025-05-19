@@ -1,0 +1,79 @@
+[
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2023-11-10",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15236686/appointments/v3R9VZvCHkKEI7XjKiXY4UGTzsE",
+      "officer": {
+        "appointments": "/officers/fk35-h_bx_sQNhQkNxPaPzFNX14/appointments"
+      }
+    },
+    "name": "ALI, Amran",
+    "officer_role": "secretary",
+    "resigned_on": "2023-11-29",
+    "person_number": "315807580001"
+  },
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2023-11-27",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/15236686/appointments/Y91tQvA1BulgH_QlYcCdljwAznQ",
+      "officer": {
+        "appointments": "/officers/L4wZBa1SldpI_Rmcx8zkirHZYTg/appointments"
+      }
+    },
+    "name": "ALI, Amran",
+    "nationality": "Pakistani",
+    "occupation": "Accountant",
+    "officer_role": "director",
+    "resigned_on": "2024-11-11",
+    "person_number": "316365750001"
+  },
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2023-10-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1998
+    },
+    "links": {
+      "self": "/company/15236686/appointments/mG7zslF7mikcKnaznlVyRbN7EzQ",
+      "officer": {
+        "appointments": "/officers/9TA-pxBpy9rx8ilLBSqWNV9Zjq8/appointments"
+      }
+    },
+    "name": "KANWAL, Shanza",
+    "nationality": "Pakistani",
+    "occupation": "Businesswoman",
+    "officer_role": "director",
+    "resigned_on": "2023-11-30",
+    "person_number": "315141320001"
+  }
+]

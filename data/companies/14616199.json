@@ -1,0 +1,44 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "type": "null"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH DIGITAL SCHOOL LTD",
+  "company_number": "14616199",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-07-02",
+  "date_of_creation": "2023-01-25",
+  "etag": "bffa4e916dc9f93b62dd4ab7e0e1a56e79ed60a6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control_statements": "/company/14616199/persons-with-significant-control-statements",
+    "self": "/company/14616199",
+    "filing_history": "/company/14616199/filing-history",
+    "officers": "/company/14616199/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "2 Frederick Street",
+    "address_line_2": "Kings Cross",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC1X 0ND"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "74909",
+    "85410",
+    "85590",
+    "85600"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

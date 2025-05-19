@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-05-31",
+      "period_end_on": "2022-05-31",
+      "period_start_on": "2021-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-02-29",
+      "overdue": true,
+      "period_end_on": "2023-05-31",
+      "period_start_on": "2022-06-01"
+    },
+    "next_due": "2024-02-29",
+    "next_made_up_to": "2023-05-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH CLOUD LTD",
+  "company_number": "11987097",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-05-08",
+    "next_due": "2023-05-22",
+    "next_made_up_to": "2023-05-08",
+    "overdue": true
+  },
+  "date_of_creation": "2019-05-09",
+  "etag": "aa14fc362e0e1eeb0bb0c598551c589afbfba7ee",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11987097/persons-with-significant-control",
+    "self": "/company/11987097",
+    "filing_history": "/company/11987097/filing-history",
+    "officers": "/company/11987097/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "96 Heaton Road",
+    "country": "England",
+    "locality": "Bradford",
+    "postal_code": "BD9 4RJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46520"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

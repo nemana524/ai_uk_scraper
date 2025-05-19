@@ -1,0 +1,63 @@
+{
+  "company_number": "12393849",
+  "company_name": "TECH DISTRICT LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "HUSSAIN, Ateeq",
+      "officer_role": "director",
+      "appointed_on": "2020-01-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Dorset Waye",
+        "country": "England",
+        "locality": "Hounslow",
+        "postal_code": "TW5 0NF",
+        "premises": "7"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/12393849/appointments/4nZHSoCwAnkcdze9C4mJOuXPkqc",
+        "officer": {
+          "appointments": "/officers/YrSGyD7PZR5FvayiprUe5pQEPu4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "QADEER, Usman",
+      "officer_role": "director",
+      "appointed_on": "2020-01-09",
+      "resigned_on": "2022-01-13",
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Engineer",
+      "address": {
+        "address_line_1": "Wilbraham Road",
+        "country": "England",
+        "locality": "Walsall",
+        "postal_code": "WS2 9PT",
+        "premises": "14"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/12393849/appointments/BRcYhmzei9FrLRL8GIjLo0t_9Sc",
+        "officer": {
+          "appointments": "/officers/gxpd41BQTNDlXnG0LYVwnA2856I/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

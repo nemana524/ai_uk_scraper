@@ -1,0 +1,35 @@
+{
+  "company_number": "15735285",
+  "company_name": "TECH FIX SALES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "HOLE, Stephen Carl",
+      "officer_role": "director",
+      "appointed_on": "2024-05-22",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Fore Street",
+        "country": "England",
+        "locality": "Saltash",
+        "postal_code": "PL12 6AR",
+        "premises": "4 Keast Mews"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/15735285/appointments/s848HSXghbnB_d0y74HS9Qm56o0",
+        "officer": {
+          "appointments": "/officers/-pM_7sP7ZFC2JbOluz-e1Fzj-oA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

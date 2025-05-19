@@ -1,0 +1,41 @@
+{
+  "company_number": "09265135",
+  "company_name": "TECH INSTALLERS SERVICES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ALDONZA ABELLA, Raul",
+      "officer_role": "director",
+      "appointed_on": "2014-10-15",
+      "resigned_on": null,
+      "nationality": "Spanish",
+      "country_of_residence": "England",
+      "occupation": "Communications Technician",
+      "address": {
+        "address_line_1": "Temple Avenue",
+        "address_line_2": "Suire 259 Temple Chambers",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "EC4Y 0DA",
+        "premises": "3-7"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/09265135/appointments/kWhTMJ5zphzm88qsXkUjJHX9zKU",
+        "officer": {
+          "appointments": "/officers/wlp5jKYV-aajKOTBhtOflS_VhLY/appointments"
+        }
+      },
+      "former_names": [
+        {
+          "forenames": "RAUL",
+          "surname": "ALDONZA"
+        }
+      ],
+      "identification": {}
+    }
+  ]
+}

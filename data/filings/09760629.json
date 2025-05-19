@@ -1,0 +1,650 @@
+[
+  {
+    "transaction_id": "MzQ1NTA1MTIzOWFkaXF6a2N4",
+    "barcode": "YDWD4RO2",
+    "type": "LIQ03",
+    "date": "2025-02-19",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+    "description_values": {
+      "brought_down_date": "2025-01-31"
+    },
+    "pages": 16,
+    "action_date": "2025-01-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09760629/filing-history/MzQ1NTA1MTIzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cq0NXZ8MTvfoWHFCc-2nV2JnxceAJ-la68_XEQaXJkk"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjgzODAzN2FkaXF6a2N4",
+    "barcode": "AD3LDYDE",
+    "type": "AAMD",
+    "date": "2024-05-24",
+    "category": "accounts",
+    "description": "accounts-amended-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 18,
+    "action_date": "2022-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09760629/filing-history/MzQyMjgzODAzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BQfTJImsLESK01LBHMcnirsr_PpRXt9uUu7z62uZkUc"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTkyMTk1NWFkaXF6a2N4",
+    "barcode": "YCW9LGV5",
+    "type": "LIQ02",
+    "date": "2024-02-10",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-statement-of-affairs",
+    "pages": 9,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09760629/filing-history/MzQwOTkyMTk1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C1SdJJNtol1zRm008uT41ZpNzX62x5VmjXiQhL_aJtY"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTkyMTY5NmFkaXF6a2N4",
+    "barcode": "YCW9LFXG",
+    "type": "600",
+    "date": "2024-02-10",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-appointment-of-liquidator",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09760629/filing-history/MzQwOTkyMTY5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3_EtJNkSxqmgTM2RBlvkJlZw0n2aOkDMctJmAznmJ4s"
+    }
+  },
+  {
+    "transaction_id": "WUNXOUxGWkxhZGlxemtjeA",
+    "type": "RESOLUTIONS",
+    "date": "2024-02-10",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "liquidation",
+        "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+        "type": "LRESEX",
+        "subcategory": [
+          "voluntary",
+          "resolution"
+        ],
+        "description_values": {
+          "case_start_date": "2024-02-01"
+        },
+        "original_description": "Extraordinary resolution to wind up"
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09760629/filing-history/WUNXOUxGWkxhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0cMH5LMCpcCkINaTdILAoMqbnU4JpyOMxY0WhP-sMGk"
+    }
+  },
+  {
+    "transaction_id": "MzQwODM3MDY1OGFkaXF6a2N4",
+    "barcode": "YCVAE921",
+    "type": "AD01",
+    "date": "2024-01-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-01-24",
+      "old_address": "Concorde House Concorde House Grenville Place London Mill Hill NW7 3SA United Kingdom",
+      "new_address": "C/O B&C Associates Limited Concorde House Grenville Place Mill Hill London NW7 3SA"
+    },
+    "pages": 2,
+    "action_date": "2024-01-24",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09760629/filing-history/MzQwODM3MDY1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GBwCw-Hgig576sLtzuPPg7WkUsqyGsknPfuU6lqBTgY"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjk4ODc3NWFkaXF6a2N4",
+    "barcode": "XCUBSF8X",
+    "type": "AD01",
+    "date": "2024-01-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-01-09",
+      "old_address": "86-90 Paul Street Paul Street London EC2A 4NE England",
+      "new_address": "Concorde House Concorde House Grenville Place London Mill Hill NW7 3SA"
+    },
+    "pages": 1,
+    "action_date": "2024-01-09",
+    "links": {
+      "self": "/company/09760629/filing-history/MzQwNjk4ODc3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wCklfDN6adsCSseOjlinSU_YnkKRPEx1HRYANpg0Ca8"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDI1Njk3MGFkaXF6a2N4",
+    "barcode": "XCCRXQQX",
+    "type": "AA",
+    "date": "2023-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 8,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/09760629/filing-history/MzM5NDI1Njk3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qqe-qJapP1e7jEgyvXeJuovj9uDgsZmpVBQLEjTiJzI"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTkzMzIyNGFkaXF6a2N4",
+    "barcode": "XCBFNRIP",
+    "type": "CS01",
+    "date": "2023-09-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-09-02"
+    },
+    "pages": 3,
+    "action_date": "2023-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzM5MTkzMzIyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-h2hvQ5JBWfbFv82dJ6rkOjEeGpqQT8rqMj8LlcNZD4"
+    }
+  },
+  {
+    "transaction_id": "MzM3NTgwNjA0MWFkaXF6a2N4",
+    "barcode": "XC1810F6",
+    "type": "AD01",
+    "date": "2023-04-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-04-11",
+      "old_address": "Office 5, 24-28 st. Leonards Road Windsor SL4 3BB England",
+      "new_address": "86-90 Paul Street Paul Street London EC2A 4NE"
+    },
+    "pages": 1,
+    "action_date": "2023-04-11",
+    "links": {
+      "self": "/company/09760629/filing-history/MzM3NTgwNjA0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bUe0c35Is6uXKYFU5V_cW-V5sLPX_ueLWpuG3TH2-6c"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTQ4NTA1MmFkaXF6a2N4",
+    "barcode": "XBEU4WI1",
+    "type": "AA",
+    "date": "2022-10-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-12-31"
+    },
+    "pages": 9,
+    "action_date": "2021-12-31",
+    "links": {
+      "self": "/company/09760629/filing-history/MzM1NTQ4NTA1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p1-r1eDm2scCI-rvXtUDrNbVy4D5JyopOzHMzSk3zAw"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjI3MDMyOWFkaXF6a2N4",
+    "barcode": "XBCYNFCY",
+    "type": "CS01",
+    "date": "2022-09-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-09-02"
+    },
+    "pages": 3,
+    "action_date": "2022-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzM1MjI3MDMyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WlNQIvWENpSharkVSC-6ce7HKXFFy_hyt1QBU_DKUIY"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjI3MDA2OGFkaXF6a2N4",
+    "barcode": "XBCYNE88",
+    "type": "PSC04",
+    "date": "2022-09-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-09-06",
+      "psc_name": "Mr Luke Charles Reed"
+    },
+    "pages": 2,
+    "action_date": "2022-09-06",
+    "links": {
+      "self": "/company/09760629/filing-history/MzM1MjI3MDA2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/x3udHmz6Vhy4ZIO2IAMn8n3HEoTtaG4vbmq2xElHToQ"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjI2OTcxMGFkaXF6a2N4",
+    "barcode": "XBCYNCLS",
+    "type": "CH01",
+    "date": "2022-09-20",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-09-06",
+      "officer_name": "Mr Luke Charles Reed"
+    },
+    "pages": 2,
+    "action_date": "2022-09-06",
+    "links": {
+      "self": "/company/09760629/filing-history/MzM1MjI2OTcxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WKLVW-KoNM_VPkJ666fOdExZYVkyFt1c8gBfpB7NL2k"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTcwMDk3NmFkaXF6a2N4",
+    "barcode": "XAE4LR20",
+    "type": "CS01",
+    "date": "2021-09-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-09-02"
+    },
+    "pages": 3,
+    "action_date": "2021-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzMxNTcwMDk3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KM2wjr1gESqTMXcL0IcvZ6McT33CGlhdsw6U7r6q0cM"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTcwMDAxN2FkaXF6a2N4",
+    "barcode": "XAE4LM77",
+    "type": "AA",
+    "date": "2021-09-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-12-31"
+    },
+    "pages": 4,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/09760629/filing-history/MzMxNTcwMDAxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EW0TqSEVMTr48ob58_eky_TueQ0qRlyiPm0sFJW1YcY"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDM1NTQ2NGFkaXF6a2N4",
+    "barcode": "XA0BLHBD",
+    "type": "AD01",
+    "date": "2021-03-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-03-15",
+      "old_address": "61 Prospect Place Wapping Wall London E1W 3TJ England",
+      "new_address": "Office 5, 24-28 st. Leonards Road Windsor SL4 3BB"
+    },
+    "pages": 1,
+    "action_date": "2021-03-15",
+    "links": {
+      "self": "/company/09760629/filing-history/MzI5NDM1NTQ2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1VNUEFokUDZ2w3cNiErzl45liXJZefbH_mw6iAEhvJc"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDM1MzU1N2FkaXF6a2N4",
+    "barcode": "XA0BL8WR",
+    "type": "CH01",
+    "date": "2021-03-15",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-03-15",
+      "officer_name": "Mr Luke Charles Reed"
+    },
+    "pages": 2,
+    "action_date": "2021-03-15",
+    "links": {
+      "self": "/company/09760629/filing-history/MzI5NDM1MzU1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dkZcL60wKw9HP-pgj6IWKL6KBCj503FNJyYwXQbsB5U"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDM1MzM2MmFkaXF6a2N4",
+    "barcode": "XA0BL863",
+    "type": "PSC04",
+    "date": "2021-03-15",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-03-15",
+      "psc_name": "Mr Luke Charles Reed"
+    },
+    "pages": 2,
+    "action_date": "2021-03-15",
+    "links": {
+      "self": "/company/09760629/filing-history/MzI5NDM1MzM2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7TEJFpoQ72KBuZTAyLb1NETTrx6f1_DnCccOVUOtccE"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjA0NjAxOGFkaXF6a2N4",
+    "barcode": "X9JYLDU8",
+    "type": "AA01",
+    "date": "2020-12-15",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2020-09-30",
+      "new_date": "2020-12-31"
+    },
+    "pages": 1,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/09760629/filing-history/MzI4NjA0NjAxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fbg6w_wQN_Jd1AwjdjX5kiAbPHyyXAzxGsF-N_1eGXc"
+    }
+  },
+  {
+    "transaction_id": "MzI4NDU2NzY2M2FkaXF6a2N4",
+    "barcode": "X9IP85IC",
+    "type": "CS01",
+    "date": "2020-11-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-09-02"
+    },
+    "pages": 3,
+    "action_date": "2020-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzI4NDU2NzY2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-WLc0zc3_9goENYpx3G6D6LdFpmr4SeTIUdht0Y4T9I"
+    }
+  },
+  {
+    "transaction_id": "MzI3ODY3NzA2MmFkaXF6a2N4",
+    "barcode": "X9E8ZSYP",
+    "type": "AA",
+    "date": "2020-09-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2019-09-30"
+    },
+    "pages": 9,
+    "action_date": "2019-09-30",
+    "links": {
+      "self": "/company/09760629/filing-history/MzI3ODY3NzA2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OovWIhLQED8MC9mIiLwejPdANDF9YI_tmE-_HKG2UaI"
+    }
+  },
+  {
+    "transaction_id": "MzI0MzIwMzU2OWFkaXF6a2N4",
+    "barcode": "X8D63TCB",
+    "type": "CS01",
+    "date": "2019-09-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-09-02"
+    },
+    "pages": 3,
+    "action_date": "2019-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzI0MzIwMzU2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Def68UfhMAPJ3oqH0h_0QyOE37CaFqTX0c4m9nSeYuw"
+    }
+  },
+  {
+    "transaction_id": "MzIzODEyNTM0N2FkaXF6a2N4",
+    "barcode": "X88JYAHK",
+    "type": "AA",
+    "date": "2019-06-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-09-30"
+    },
+    "pages": 4,
+    "action_date": "2018-09-30",
+    "links": {
+      "self": "/company/09760629/filing-history/MzIzODEyNTM0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4c9dclGNiMyBXORJYZ8Q6BkhUo6mor3ACC7BQtTfK20"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDQ3Njg2MWFkaXF6a2N4",
+    "barcode": "X85J9MJV",
+    "type": "AD01",
+    "date": "2019-05-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-05-16",
+      "old_address": "24 Little London Court Mill Street London SE1 2BF United Kingdom",
+      "new_address": "61 Prospect Place Wapping Wall London E1W 3TJ"
+    },
+    "pages": 1,
+    "action_date": "2019-05-16",
+    "links": {
+      "self": "/company/09760629/filing-history/MzIzNDQ3Njg2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zHoGAee7Mg3jslqubm9SGpvoVoG0HVCEnb7_2rgpdSE"
+    }
+  },
+  {
+    "transaction_id": "MzIxNDI1MzI4NmFkaXF6a2N4",
+    "barcode": "X7EAI75L",
+    "type": "CS01",
+    "date": "2018-09-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-09-02"
+    },
+    "pages": 3,
+    "action_date": "2018-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzIxNDI1MzI4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/69xeHMkBxETD8wKkYGJVA_-SsJh6tXw5dSUzicg863Y"
+    }
+  },
+  {
+    "transaction_id": "MzIxNDI1MjkxMWFkaXF6a2N4",
+    "barcode": "X7EAHT2W",
+    "type": "CH01",
+    "date": "2018-09-11",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2018-08-20",
+      "officer_name": "Mr Luke Charles Reed"
+    },
+    "pages": 2,
+    "action_date": "2018-08-20",
+    "links": {
+      "self": "/company/09760629/filing-history/MzIxNDI1MjkxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I3OChvO_kEP_C07vdFOLaqKIXOt8BURfgXHFVWNmOto"
+    }
+  },
+  {
+    "transaction_id": "MzIxNDI1MjQ2MmFkaXF6a2N4",
+    "barcode": "X7EAHC89",
+    "type": "PSC04",
+    "date": "2018-09-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2018-08-20",
+      "psc_name": "Mr Luke Charles Reed"
+    },
+    "pages": 2,
+    "action_date": "2018-08-20",
+    "links": {
+      "self": "/company/09760629/filing-history/MzIxNDI1MjQ2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2zk_FGe4P9TUD6BFe-3p-kRe9TiB5xnzTE3Hg13SGXo"
+    }
+  },
+  {
+    "transaction_id": "MzIwODU0NTg2NmFkaXF6a2N4",
+    "barcode": "X792MEI3",
+    "type": "AA",
+    "date": "2018-06-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2017-09-30"
+    },
+    "pages": 12,
+    "action_date": "2017-09-30",
+    "links": {
+      "self": "/company/09760629/filing-history/MzIwODU0NTg2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Q4v23i36UukfCitJMPVOQNXHSswskpLJDmyrmWMyN-0"
+    }
+  },
+  {
+    "transaction_id": "MzIwMDAyNjM4NGFkaXF6a2N4",
+    "barcode": "X71NKPZU",
+    "type": "RESOLUTIONS",
+    "date": "2018-03-14",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2018-03-09"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2018-03-14",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/09760629/filing-history/MzIwMDAyNjM4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/u0R6yPyu8rbm8rZPxU1nDuz07rzG_4UyyygLRF9uMWo"
+    }
+  },
+  {
+    "transaction_id": "MzE4NTM0NDI1OWFkaXF6a2N4",
+    "barcode": "X6EZ9OQG",
+    "type": "CS01",
+    "date": "2017-09-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2017-09-02"
+    },
+    "pages": 3,
+    "action_date": "2017-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzE4NTM0NDI1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W0cawfgJ9aH3BoCVUhHyTt3Oo9TVdQtgZFQMA4zG13U"
+    }
+  },
+  {
+    "transaction_id": "MzE3OTM4NTgyN2FkaXF6a2N4",
+    "barcode": "X69PLX3F",
+    "type": "AA",
+    "date": "2017-06-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2016-09-30"
+    },
+    "pages": 3,
+    "action_date": "2016-09-30",
+    "links": {
+      "self": "/company/09760629/filing-history/MzE3OTM4NTgyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eMuqREkYXBDoEuNe22UxWPeupknL5coHewxgmJI8b74"
+    }
+  },
+  {
+    "transaction_id": "MzE1NzIwMTA0M2FkaXF6a2N4",
+    "barcode": "X5FD43EY",
+    "type": "CS01",
+    "date": "2016-09-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2016-09-02"
+    },
+    "pages": 5,
+    "action_date": "2016-09-02",
+    "links": {
+      "self": "/company/09760629/filing-history/MzE1NzIwMTA0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tmKWOoYj1NJWq2UvvLQ_0XekC2dInraCpUDZJr5D7rM"
+    }
+  },
+  {
+    "transaction_id": "MzEzMDI0NTU5NGFkaXF6a2N4",
+    "barcode": "X4F2SOTU",
+    "type": "NEWINC",
+    "date": "2015-09-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-09-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-09-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2015-09-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 36,
+    "links": {
+      "self": "/company/09760629/filing-history/MzEzMDI0NTU5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o_NpGTKsJny9HpKjy--Ke02y1RMSRGvEbNAjZU1vREU"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "company_number": "15812816",
+  "company_name": "TECH CHANNELS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-07-01",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "70229",
+    "78300"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Highstone House",
+    "address_line_2": "165 High Street",
+    "country": "United Kingdom",
+    "locality": "Barnet",
+    "postal_code": "EN5 5SU",
+    "region": "Hertfordshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-01",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-04-01",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "etag": "7c5837c55dedb56d8d50da2d99b35c4b1f951237"
+}

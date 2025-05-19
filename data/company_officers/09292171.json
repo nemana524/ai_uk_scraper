@@ -1,0 +1,152 @@
+{
+  "company_number": "09292171",
+  "company_name": "TECH EVENT SERVICES LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "KEMP, Adam",
+      "officer_role": "director",
+      "appointed_on": "2017-03-30",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Park Street",
+        "country": "United Kingdom",
+        "locality": "Gosport",
+        "postal_code": "PO12 4UH",
+        "premises": "Unit 1",
+        "region": "Hampshire"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/09292171/appointments/ReIg8Qgi2e4WbIqdMvtINyA9MHY",
+        "officer": {
+          "appointments": "/officers/tpVeskiSVs1F1V_TuBOCBpU-VR8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KEMP, Adam",
+      "officer_role": "director",
+      "appointed_on": "2014-11-03",
+      "resigned_on": "2014-11-03",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Quay Lane Industrial Estate",
+        "address_line_2": "Hardway",
+        "country": "United Kingdom",
+        "locality": "Gosport",
+        "postal_code": "PO12 4LJ",
+        "premises": "Unit 5",
+        "region": "Hampshire"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/09292171/appointments/7I4cxXEhoVy4wdv8T6B8LkhdAdE",
+        "officer": {
+          "appointments": "/officers/otyFImML3uchGER2rJ09U77JmwE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KEMP, Jill",
+      "officer_role": "director",
+      "appointed_on": "2014-11-03",
+      "resigned_on": "2014-11-03",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Quay Lane Industrial Estate",
+        "address_line_2": "Hardway",
+        "country": "United Kingdom",
+        "locality": "Gosport",
+        "postal_code": "PO12 4LJ",
+        "premises": "Unit 5",
+        "region": "Hampshire"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1950
+      },
+      "links": {
+        "self": "/company/09292171/appointments/LTQS7OinxU_l1zAj3nGSx-xqL_o",
+        "officer": {
+          "appointments": "/officers/MktQV_yojXt860ItbX3OvkNpRgw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KEMP, Jill",
+      "officer_role": "director",
+      "appointed_on": "2014-11-03",
+      "resigned_on": "2017-03-31",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Park Street",
+        "locality": "Gosport",
+        "postal_code": "PO12 4UH",
+        "premises": "Unit 1",
+        "region": "Hampshire"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1953
+      },
+      "links": {
+        "self": "/company/09292171/appointments/RkQaQPyIm7k7_kDPucIx5FQXygk",
+        "officer": {
+          "appointments": "/officers/KlSrCt0Qd5RRRr1UItCZN1tpWEw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KEMP, Julian",
+      "officer_role": "director",
+      "appointed_on": "2014-11-03",
+      "resigned_on": "2017-03-31",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Park Street",
+        "locality": "Gosport",
+        "postal_code": "PO12 4UH",
+        "premises": "Unit 1",
+        "region": "Hampshire"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1950
+      },
+      "links": {
+        "self": "/company/09292171/appointments/sonnOrrj080si70OJLvcmBx0t7M",
+        "officer": {
+          "appointments": "/officers/_B8dTcA1z_zEZP-MKQHbVl5f2U0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

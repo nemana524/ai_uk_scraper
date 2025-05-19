@@ -1,0 +1,93 @@
+{
+  "company_number": "15229564",
+  "company_name": "TECH ELITE LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "MALIK, Bakhtiar Ahmed",
+      "officer_role": "director",
+      "appointed_on": "2025-02-17",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "St. Andrews Mill",
+        "address_line_2": "Legrams Lane",
+        "country": "England",
+        "locality": "Bradford",
+        "postal_code": "BD7 2EA",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/15229564/appointments/RpMc9WQzuGJrux961eh80gZZCjE",
+        "officer": {
+          "appointments": "/officers/B1A3ukqvf9jvdm97vGgQVRSkXvE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "AKHLAQUE, Syed Rizwan",
+      "officer_role": "director",
+      "appointed_on": "2023-10-23",
+      "resigned_on": "2024-01-29",
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "Hampton Road",
+        "country": "England",
+        "locality": "Ilford",
+        "postal_code": "IG1 1PR",
+        "premises": "158"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/15229564/appointments/72TF17KIyYGjMlBnTX-PCVtMSQ4",
+        "officer": {
+          "appointments": "/officers/OSt9ZosvNQCqJr-Tv3rIdxYrOuE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ZAFAR, Umair",
+      "officer_role": "director",
+      "appointed_on": "2024-11-14",
+      "resigned_on": "2025-02-17",
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "St. Andrews Mill",
+        "address_line_2": "Legrams Lane",
+        "country": "England",
+        "locality": "Bradford",
+        "postal_code": "BD7 2EA",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15229564/appointments/D_J9dsh-iS31G8J6dawUpd428a0",
+        "officer": {
+          "appointments": "/officers/BtYiHL4TiNyU9XvPahrQO4xhqm8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

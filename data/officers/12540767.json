@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "Bury New Road",
+      "country": "England",
+      "locality": "Salford",
+      "postal_code": "M7 4WN",
+      "premises": "Flat 6 Moorhill Court"
+    },
+    "appointed_on": "2022-07-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1996
+    },
+    "links": {
+      "self": "/company/12540767/appointments/xWmEH1BiIwCITrea2GvvyqqeYFY",
+      "officer": {
+        "appointments": "/officers/rF1619O-ebJHS7V_WLEZG17KOVw/appointments"
+      }
+    },
+    "name": "RITCHIE, Nina Kate",
+    "nationality": "British",
+    "occupation": "Director Of Marketing",
+    "officer_role": "director",
+    "person_number": "298503480001"
+  },
+  {
+    "address": {
+      "address_line_1": "Dovedale Avenue",
+      "address_line_2": "Prestwich",
+      "country": "England",
+      "locality": "Manchester",
+      "postal_code": "M25 0BU",
+      "premises": "14"
+    },
+    "appointed_on": "2020-03-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/12540767/appointments/j3z7d5mkHQZfVzy5TD1OsaaGgMk",
+      "officer": {
+        "appointments": "/officers/pQjndOsu0xv725DLWbFIOyFujuc/appointments"
+      }
+    },
+    "name": "FLETCHER, Yehuda Zev",
+    "nationality": "British",
+    "occupation": "Quantity Surveyor",
+    "officer_role": "director",
+    "resigned_on": "2022-07-29",
+    "person_number": "268562390001"
+  }
+]

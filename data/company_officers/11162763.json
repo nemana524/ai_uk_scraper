@@ -1,0 +1,35 @@
+{
+  "company_number": "11162763",
+  "company_name": "TECH BUILDING LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BOGATAN, Daniel",
+      "officer_role": "director",
+      "appointed_on": "2018-01-22",
+      "resigned_on": null,
+      "nationality": "Romanian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Bardsway Avenue",
+        "country": "United Kingdom",
+        "locality": "Blackpool",
+        "postal_code": "FY3 8JR",
+        "premises": "70"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/11162763/appointments/UqkSIlLGbxHO01U33pSuaNpvHXQ",
+        "officer": {
+          "appointments": "/officers/JJRBkCYhAmBNAlQtiMiq_xBPjGg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

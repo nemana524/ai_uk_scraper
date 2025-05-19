@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-01-31",
+      "period_end_on": "2024-01-31",
+      "period_start_on": "2023-01-27",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-31",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-02-01"
+    },
+    "next_due": "2025-10-31",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INVEST SERIES 3 LTD",
+  "company_number": "14622994",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-13",
+    "next_due": "2026-03-27",
+    "next_made_up_to": "2026-03-13",
+    "overdue": false
+  },
+  "date_of_creation": "2023-01-27",
+  "etag": "659f27e35f9bee4ede869993bf5fb66338a37cf8",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14622994/persons-with-significant-control",
+    "self": "/company/14622994",
+    "filing_history": "/company/14622994/filing-history",
+    "officers": "/company/14622994/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20-22 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

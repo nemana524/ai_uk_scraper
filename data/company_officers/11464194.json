@@ -1,0 +1,35 @@
+{
+  "company_number": "11464194",
+  "company_name": "TECH EXPEDITORS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ALI, Syed",
+      "officer_role": "director",
+      "appointed_on": "2018-07-13",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Software Engineer",
+      "address": {
+        "address_line_1": "Islip Gardens",
+        "country": "England",
+        "locality": "Northolt",
+        "postal_code": "UB5 5BY",
+        "premises": "74"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/11464194/appointments/pqnIRoUdgIymZK8TybaiwX7q7FU",
+        "officer": {
+          "appointments": "/officers/UwvWOv0LK9HlZA8qXzoRk5X6qtc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

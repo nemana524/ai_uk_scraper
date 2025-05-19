@@ -1,0 +1,47 @@
+[
+  {
+    "address": {
+      "address_line_1": "School St",
+      "country": "United Arab Emirates",
+      "locality": "Dubai",
+      "premises": "Elite Downtown Residence 2009"
+    },
+    "appointed_on": "2023-05-11",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/14861762/appointments/K3MSyt1GD8HXIZUU_-MQCk1-GgE",
+      "officer": {
+        "appointments": "/officers/UJ0PK-Ai9cG1j-dBDtF8rkhfYu0/appointments"
+      }
+    },
+    "name": "ARAKELIAN, Stepan",
+    "officer_role": "secretary",
+    "person_number": "308895680001"
+  },
+  {
+    "address": {
+      "address_line_1": "School St",
+      "country": "United Arab Emirates",
+      "locality": "Dubai",
+      "premises": "Elite Downtown Residence 2009"
+    },
+    "appointed_on": "2023-05-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Arab Emirates",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1993
+    },
+    "links": {
+      "self": "/company/14861762/appointments/XJ-Yb80zdB8q6yZcAvNCE5GWBBk",
+      "officer": {
+        "appointments": "/officers/O_bgVZ1OsA02hwhuCO2ICwEuiak/appointments"
+      }
+    },
+    "name": "ARAKELIAN, Stepan",
+    "nationality": "Russian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "308895670001"
+  }
+]

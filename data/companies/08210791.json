@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-10-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ASSISTANT LTD",
+  "company_number": "08210791",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-12",
+    "next_due": "2025-09-26",
+    "next_made_up_to": "2025-09-12",
+    "overdue": false
+  },
+  "date_of_creation": "2012-09-12",
+  "etag": "d694c5393956642881950f20a2c9a572c34e1d99",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-09-12",
+  "links": {
+    "persons_with_significant_control": "/company/08210791/persons-with-significant-control",
+    "self": "/company/08210791",
+    "filing_history": "/company/08210791/filing-history",
+    "officers": "/company/08210791/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "24 Streetfield Road",
+    "address_line_2": "Slinfold",
+    "locality": "Horsham",
+    "postal_code": "RH13 0SE",
+    "region": "West Sussex"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "95110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

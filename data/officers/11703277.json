@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "The Copse",
+      "country": "United Kingdom",
+      "locality": "Hemel Hempstead",
+      "postal_code": "HP1 2TA",
+      "premises": "54",
+      "region": "Hertfordshire"
+    },
+    "appointed_on": "2018-11-29",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/11703277/appointments/8Xw7pth5g_-uF0TLe1AGtkO6TFw",
+      "officer": {
+        "appointments": "/officers/s8Omoeuba6NctQQGvbRBovAuKm4/appointments"
+      }
+    },
+    "name": "GHELA, Ajay Pravin",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "172392610001"
+  }
+]

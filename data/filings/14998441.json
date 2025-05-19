@@ -1,0 +1,91 @@
+[
+  {
+    "transaction_id": "MzQ2MjMzMTI1MmFkaXF6a2N4",
+    "barcode": "XE0B0P8H",
+    "type": "AA",
+    "date": "2025-04-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 9,
+    "links": {
+      "self": "/company/14998441/filing-history/MzQ2MjMzMTI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yDQ5FeNY-EcJe6qthvDlT_vD1u9-Tp7rj1-Ks0V284M"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjgxMTc4NWFkaXF6a2N4",
+    "barcode": "XD9X1TPV",
+    "type": "CS01",
+    "date": "2024-08-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-07-11"
+    },
+    "pages": 3,
+    "action_date": "2024-07-11",
+    "links": {
+      "self": "/company/14998441/filing-history/MzQzMjgxMTc4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GQoDHU62swl4WefBJd_eOwJrEdrxU0s1JZOvQYnWjTc"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTY1OTQ2M2FkaXF6a2N4",
+    "barcode": "XCVZ5NPN",
+    "type": "AD01",
+    "date": "2024-02-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-02-01",
+      "old_address": "Beyond Aldgate Towers 4th Floor 2 Leman Street London E1 8FA England",
+      "new_address": "124 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "action_date": "2024-02-01",
+    "links": {
+      "self": "/company/14998441/filing-history/MzQwOTY1OTQ2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wcGaVJ3Hs8G1bCaBOLMJ32RIk9gdB95_ZB2lkK3ofi0"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTk2ODcyNWFkaXF6a2N4",
+    "barcode": "XC7KA4BT",
+    "type": "NEWINC",
+    "date": "2023-07-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-07-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-07-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "200"
+            }
+          ]
+        },
+        "action_date": "2023-07-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/14998441/filing-history/MzM4NTk2ODcyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BFF0jPQsAEWcP4MqCltHhiy6Wdu5d_B_-zhAbr94_-A"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "St. Mary Axe",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "EC3A 8AA",
+      "premises": "63"
+    },
+    "appointed_on": "2024-09-23",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/15971652/appointments/6McqblfMaH1FanyA3HY6iw7RjII",
+      "officer": {
+        "appointments": "/officers/C_AChhT3uUyHJbEhrfAdMSSmGIk/appointments"
+      }
+    },
+    "name": "FIGUEREDO, Armando Castro",
+    "nationality": "Indian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "327404900001"
+  }
+]

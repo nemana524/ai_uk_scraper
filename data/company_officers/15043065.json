@@ -1,0 +1,35 @@
+{
+  "company_number": "15043065",
+  "company_name": "TECH CONTRACTORS LONDON LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BAKHSHILLO, Saidov",
+      "officer_role": "director",
+      "appointed_on": "2023-08-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Civil Engineer",
+      "address": {
+        "address_line_1": "Canada Square",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 5LB",
+        "premises": "25"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15043065/appointments/jYl1-EApcV593gJJLeJ6LnK0npg",
+        "officer": {
+          "appointments": "/officers/R-Z2ctP-hWAl7OUgjh6r5k1oXYk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

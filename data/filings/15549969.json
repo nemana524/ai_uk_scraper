@@ -1,0 +1,71 @@
+[
+  {
+    "transaction_id": "MzQzNzM0NDY1NGFkaXF6a2N4",
+    "barcode": "XDCGJ922",
+    "type": "CH01",
+    "date": "2024-09-26",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-09-25",
+      "officer_name": "Mr Bogdan Shevchuk"
+    },
+    "pages": 2,
+    "action_date": "2024-09-25",
+    "links": {
+      "self": "/company/15549969/filing-history/MzQzNzM0NDY1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/b-sHesN-mWgII7j2GRwYyiVnF_GqlAiHtXKU7TKY7Q0"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzM0NDE4MGFkaXF6a2N4",
+    "barcode": "XDCGJ78P",
+    "type": "CH03",
+    "date": "2024-09-26",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-secretary-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-09-25",
+      "officer_name": "Mr Bogdan Shevchuk"
+    },
+    "pages": 1,
+    "action_date": "2024-09-25",
+    "links": {
+      "self": "/company/15549969/filing-history/MzQzNzM0NDE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4g5EttCAKlP8juQmVZAU29fBZbD6oJ5GgSutrmqNGXw"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzU4NzE2MmFkaXF6a2N4",
+    "barcode": "XCYAT7AH",
+    "type": "NEWINC",
+    "date": "2024-03-09",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2024-03-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-03-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10,000"
+            }
+          ]
+        },
+        "action_date": "2024-03-09"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 30,
+    "links": {
+      "self": "/company/15549969/filing-history/MzQxMzU4NzE2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/47jBgmuLOIlu8eNmDEfO9cNb1I100rXUOtokSs4hGTA"
+    }
+  }
+]

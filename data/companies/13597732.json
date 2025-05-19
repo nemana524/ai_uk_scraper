@@ -1,0 +1,43 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-09-30",
+      "period_end_on": "2022-09-30",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH EDEN LIMITED",
+  "company_number": "13597732",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-07-02",
+  "date_of_creation": "2021-09-01",
+  "etag": "e19d2b9fb70af07371419f9b5e607a48d568b9db",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13597732/persons-with-significant-control",
+    "self": "/company/13597732",
+    "filing_history": "/company/13597732/filing-history",
+    "officers": "/company/13597732/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Henley Business Centre",
+    "address_line_2": "Newtown Road",
+    "country": "England",
+    "locality": "Henley-On-Thames",
+    "postal_code": "RG9 1HG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Hornsey Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "N7 6DN",
+      "premises": "113"
+    },
+    "appointed_on": "2018-09-24",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/11585659/appointments/qTKW7VZhgcI8J-z94aJpAjsPC4s",
+      "officer": {
+        "appointments": "/officers/w6Mk9_Woj1PPuTNwL-9IzAcjoq8/appointments"
+      }
+    },
+    "name": "ADAM, Hurso",
+    "nationality": "Nigerian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "218945370001"
+  }
+]

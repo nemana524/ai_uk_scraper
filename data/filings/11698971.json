@@ -1,0 +1,435 @@
+[
+  {
+    "transaction_id": "MzQ0NjcxOTczOGFkaXF6a2N4",
+    "barcode": "XDHDJBBD",
+    "type": "CS01",
+    "date": "2024-12-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-26"
+    },
+    "pages": 3,
+    "action_date": "2024-11-26",
+    "links": {
+      "self": "/company/11698971/filing-history/MzQ0NjcxOTczOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/H8a3KasPrr6mEYqndvB0aQlG4AunE_hbW0Ek-y_JIPg"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzkyNTk5NWFkaXF6a2N4",
+    "barcode": "XCIC0QGZ",
+    "type": "AD01",
+    "date": "2023-12-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-12-14",
+      "old_address": "City Point, 11th Floor 1, Ropemaker Street London EC2Y 9HT England",
+      "new_address": "5th Floor 167-169 Great Portland Street London W1W 5PF"
+    },
+    "pages": 1,
+    "action_date": "2023-12-14",
+    "links": {
+      "self": "/company/11698971/filing-history/MzQwMzkyNTk5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DAhw3_orO7x1eRPV5MwzNRFq82Vc6Fm8h9JtWt7AHDM"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzMxNzUyMWFkaXF6a2N4",
+    "barcode": "XCI12974",
+    "type": "AA",
+    "date": "2023-12-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-11-30"
+    },
+    "pages": 3,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/11698971/filing-history/MzQwMzMxNzUyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/34fWbQgh7wjGV4zV37lF-ITQ4wY3dwHCeMr2ZWlyYMI"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjk2MjA3N2FkaXF6a2N4",
+    "barcode": "XCHVP06I",
+    "type": "CS01",
+    "date": "2023-12-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-26"
+    },
+    "pages": 3,
+    "action_date": "2023-11-26",
+    "links": {
+      "self": "/company/11698971/filing-history/MzQwMjk2MjA3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Oav8DigAofUfG9qIlawl6zqhqJyh2gJoQhJATupzhrk"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODExNDU3N2FkaXF6a2N4",
+    "barcode": "XC2MZR8H",
+    "type": "AD01",
+    "date": "2023-05-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-01",
+      "old_address": "51 Eastcheap Wework, Office 3-106 London EC3M 1DT England",
+      "new_address": "City Point, 11th Floor 1, Ropemaker Street London EC2Y 9HT"
+    },
+    "pages": 1,
+    "action_date": "2023-05-01",
+    "links": {
+      "self": "/company/11698971/filing-history/MzM3ODExNDU3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HMvF8xCW-TLR89dK6x5_YeWRAwN5MNnlHQhyRw-TnZM"
+    }
+  },
+  {
+    "transaction_id": "MzM2Njk1OTYyOGFkaXF6a2N4",
+    "barcode": "XBVWF7I1",
+    "type": "AA",
+    "date": "2023-01-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-11-30"
+    },
+    "pages": 3,
+    "action_date": "2022-11-30",
+    "links": {
+      "self": "/company/11698971/filing-history/MzM2Njk1OTYyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SXpta3f_3MoO7PXHZYMh8j-iA_8MY0Y-zw5XT_loCHw"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTU5NDc2M2FkaXF6a2N4",
+    "barcode": "XBII3UOX",
+    "type": "CS01",
+    "date": "2022-12-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-11-26"
+    },
+    "pages": 3,
+    "action_date": "2022-11-26",
+    "links": {
+      "self": "/company/11698971/filing-history/MzM2MTU5NDc2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1fM4o9KzE2SKYZL57hqJmbdxA_jKP4GvbmoGGpiVtpc"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODk0OTE3NGFkaXF6a2N4",
+    "barcode": "XBGXTKAY",
+    "type": "AD01",
+    "date": "2022-11-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-11-17",
+      "old_address": "51 Eastcheap Wework, Office 3-106 15 Eastcheap London EC3M 1DT England",
+      "new_address": "51 Eastcheap Wework, Office 3-106 London EC3M 1DT"
+    },
+    "pages": 1,
+    "action_date": "2022-11-17",
+    "links": {
+      "self": "/company/11698971/filing-history/MzM1ODk0OTE3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cFq4L6hmAgv_J6sMG5vb44iMqH3CH9dMYHjPDD5tAbE"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODk0OTExNmFkaXF6a2N4",
+    "barcode": "XBGXTK0W",
+    "type": "AD01",
+    "date": "2022-11-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-11-17",
+      "old_address": "Wework, Office 4123 2 Minster Court London EC3R 7BB England",
+      "new_address": "51 Eastcheap Wework, Office 3-106 15 Eastcheap London EC3M 1DT"
+    },
+    "pages": 1,
+    "action_date": "2022-11-17",
+    "links": {
+      "self": "/company/11698971/filing-history/MzM1ODk0OTExNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8Gz_bjDm0sdyKnDftkw4KG1eT_h7I3Sspp-rXMGSebU"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTI4NzA0MGFkaXF6a2N4",
+    "barcode": "XBATLOX7",
+    "type": "AA",
+    "date": "2022-08-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-11-30"
+    },
+    "pages": 3,
+    "action_date": "2021-11-30",
+    "links": {
+      "self": "/company/11698971/filing-history/MzM0OTI4NzA0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J5XB7emP5QF1eMWeA6TvqJO_I6OApO6UpsT_ZcOuEfk"
+    }
+  },
+  {
+    "transaction_id": "MzMzODY0NDY4MWFkaXF6a2N4",
+    "barcode": "XB3IV32G",
+    "type": "AD01",
+    "date": "2022-05-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-05-07",
+      "old_address": "Wework 15 Bishopsgate London EC2N 3AR England",
+      "new_address": "Wework, Office 4123 2 Minster Court London EC3R 7BB"
+    },
+    "pages": 1,
+    "action_date": "2022-05-07",
+    "links": {
+      "self": "/company/11698971/filing-history/MzMzODY0NDY4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mOtdu4ewn7s9wiiP4eCDLmDblZfAcvhdiB4Tu_gGv8w"
+    }
+  },
+  {
+    "transaction_id": "MzMyMjUwNzg3NWFkaXF6a2N4",
+    "barcode": "XAINY2HU",
+    "type": "CS01",
+    "date": "2021-12-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-11-26"
+    },
+    "pages": 3,
+    "action_date": "2021-11-26",
+    "links": {
+      "self": "/company/11698971/filing-history/MzMyMjUwNzg3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j3vj925np8t0ictuHJfFrTWmHfw5qKYGLugp7rADLYc"
+    }
+  },
+  {
+    "transaction_id": "MzMxODkzOTQ0NGFkaXF6a2N4",
+    "barcode": "XAGFHEV4",
+    "type": "AD01",
+    "date": "2021-11-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-11-02",
+      "old_address": "199 Bishopsgate Wework London EC2M 3TY England",
+      "new_address": "Wework 15 Bishopsgate London EC2N 3AR"
+    },
+    "pages": 1,
+    "action_date": "2021-11-02",
+    "links": {
+      "self": "/company/11698971/filing-history/MzMxODkzOTQ0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KCfKCzhBh2p0viBQV8sQVAbLbOEhcwJeDoLojle6XdE"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjE3NDI4OWFkaXF6a2N4",
+    "barcode": "XABYJPQJ",
+    "type": "AA",
+    "date": "2021-08-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-11-30"
+    },
+    "pages": 3,
+    "action_date": "2020-11-30",
+    "links": {
+      "self": "/company/11698971/filing-history/MzMxMjE3NDI4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z7cahijY2sU1yNU9ntgqPXGc64N2j3Y-icta1PFaTNs"
+    }
+  },
+  {
+    "transaction_id": "MzI4OTQzNDU3MGFkaXF6a2N4",
+    "barcode": "X9WQWFNS",
+    "type": "CS01",
+    "date": "2021-01-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-11-26"
+    },
+    "pages": 3,
+    "action_date": "2020-11-26",
+    "links": {
+      "self": "/company/11698971/filing-history/MzI4OTQzNDU3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9KQy_Kfm49Thz5R1muSyhfdnlSaMcSuwF8OyxpvBCeQ"
+    }
+  },
+  {
+    "transaction_id": "MzI3NTc3MTc0MGFkaXF6a2N4",
+    "barcode": "X9BTNEBV",
+    "type": "AA",
+    "date": "2020-08-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-11-30"
+    },
+    "pages": 3,
+    "action_date": "2019-11-30",
+    "links": {
+      "self": "/company/11698971/filing-history/MzI3NTc3MTc0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5cXiB9uagxbmaU3ryDE8_70Inz92cC1lvdDR6t4RQJc"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjIyMzA3OGFkaXF6a2N4",
+    "barcode": "X8XWZT83",
+    "type": "AD01",
+    "date": "2020-02-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-02-01",
+      "old_address": "Citypoint, Office 1019 1 Ropemaker Street London EC2Y 9AW England",
+      "new_address": "199 Bishopsgate Wework London EC2M 3TY"
+    },
+    "pages": 1,
+    "action_date": "2020-02-01",
+    "links": {
+      "self": "/company/11698971/filing-history/MzI1NjIyMzA3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2wg5TlJOASz-b3_WEhjmK5rlff_lhjj9AdkLT9K3RJ0"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTA2MjMzN2FkaXF6a2N4",
+    "barcode": "X8JILF5T",
+    "type": "CS01",
+    "date": "2019-12-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-11-26"
+    },
+    "pages": 3,
+    "action_date": "2019-11-26",
+    "links": {
+      "self": "/company/11698971/filing-history/MzI1MTA2MjMzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uTKP1arZFkCRjm0efnVpsMYpLmAec0A2DCENvGKbNfE"
+    }
+  },
+  {
+    "transaction_id": "MzI0OTg0Mzk1MmFkaXF6a2N4",
+    "barcode": "X8IMKC7F",
+    "type": "PSC04",
+    "date": "2019-11-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2019-11-20",
+      "psc_name": "Mr Sachin Deshpande"
+    },
+    "pages": 2,
+    "action_date": "2019-11-20",
+    "links": {
+      "self": "/company/11698971/filing-history/MzI0OTg0Mzk1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mqGEDJ75YDer6L5fzLZP2mzV0tSmA7o_lRUfsQlGRXk"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjQ0OTU5M2FkaXF6a2N4",
+    "barcode": "X875JQW9",
+    "type": "CH01",
+    "date": "2019-06-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-06-08",
+      "officer_name": "Mr Sachin Deshpande"
+    },
+    "pages": 2,
+    "action_date": "2019-06-08",
+    "links": {
+      "self": "/company/11698971/filing-history/MzIzNjQ0OTU5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uDuHEySReZxJv_vYvcqT1b4AgvyXepwYkBO8bOBb3VA"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDE2NjI5M2FkaXF6a2N4",
+    "barcode": "X858P5OX",
+    "type": "AD01",
+    "date": "2019-05-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-05-11",
+      "old_address": "Citypoint, Office 1019 1, Ropemaker Street London EC2Y 9SS England",
+      "new_address": "Citypoint, Office 1019 1 Ropemaker Street London EC2Y 9AW"
+    },
+    "pages": 1,
+    "action_date": "2019-05-11",
+    "links": {
+      "self": "/company/11698971/filing-history/MzIzNDE2NjI5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QwIYjuw_72xpB0BlZcMlU8Nodm_3kIXLTOpvqjKjLTk"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDE2NjE2OWFkaXF6a2N4",
+    "barcode": "X858P56A",
+    "type": "AD01",
+    "date": "2019-05-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-05-11",
+      "old_address": "20-22 Wenlock Road London N1 7GU England",
+      "new_address": "Citypoint, Office 1019 1, Ropemaker Street London EC2Y 9SS"
+    },
+    "pages": 1,
+    "action_date": "2019-05-11",
+    "links": {
+      "self": "/company/11698971/filing-history/MzIzNDE2NjE2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/84_TbA7k9E95h3GBYObZJSfS3XMtCQQV_IiXgqLVMuQ"
+    }
+  },
+  {
+    "transaction_id": "MzIyMDMwMDAzMGFkaXF6a2N4",
+    "barcode": "X7JJNU61",
+    "type": "NEWINC",
+    "date": "2018-11-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-11-27",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-11-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-11-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-11-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11698971/filing-history/MzIyMDMwMDAzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OEgw0Kx_yr76Kn_jdeXYlvfY7Udn4Lc0MnyBhLVZjvs"
+    }
+  }
+]

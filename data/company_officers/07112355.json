@@ -1,0 +1,206 @@
+{
+  "company_number": "07112355",
+  "company_name": "TECH 4 OFFICE EQUIPMENT LIMITED",
+  "total_officers": 7,
+  "officers": [
+    {
+      "name": "THORBURN, Caroline",
+      "officer_role": "director",
+      "appointed_on": "2017-02-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Carlisle Airport Business Park",
+        "country": "United Kingdom",
+        "locality": "Carlisle",
+        "postal_code": "CA6 4NW",
+        "premises": "Skiddaw Building"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/07112355/appointments/fsE2gnDK8WVWd2QxF5zgGi92aYY",
+        "officer": {
+          "appointments": "/officers/M4CtIRWYZm7a-kWsnijOvmYEaBc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "THORBURN, Liam Robert",
+      "officer_role": "director",
+      "appointed_on": "2018-06-04",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Carlisle Airport Business Park",
+        "country": "United Kingdom",
+        "locality": "Carlisle",
+        "postal_code": "CA6 4NW",
+        "premises": "Skiddaw Building"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/07112355/appointments/SSDDJJ-HLayb_pbXaNn4vzcyZNM",
+        "officer": {
+          "appointments": "/officers/uYu8P9QwT9vC8kWq5NNX4p4pS90/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "THORBURN, Paul David",
+      "officer_role": "director",
+      "appointed_on": "2018-04-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Carlisle Airport Business Park",
+        "country": "United Kingdom",
+        "locality": "Carlisle",
+        "postal_code": "CA6 4NW",
+        "premises": "Skiddaw Building"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/07112355/appointments/D05CS-LHUC_sBzspKGsdG0ZECa0",
+        "officer": {
+          "appointments": "/officers/EnskIUfkYCFDV32hpymgFtn_xLw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "THORBURN, Ryan Paul",
+      "officer_role": "director",
+      "appointed_on": "2010-12-20",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Carlisle Airport Business Park",
+        "country": "United Kingdom",
+        "locality": "Carlisle",
+        "postal_code": "CA6 4NW",
+        "premises": "Skiddaw Building"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/07112355/appointments/JXInm6AT34bwZmBOf4dOJgxRhBY",
+        "officer": {
+          "appointments": "/officers/f3LdmlldxlFmeFpm5IYPZTmbEOE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BUTLER, David Alexander",
+      "officer_role": "director",
+      "appointed_on": "2009-12-23",
+      "resigned_on": "2010-01-09",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Chartered Accountant",
+      "address": {
+        "address_line_1": "Riverside",
+        "address_line_2": "Warwick Road",
+        "locality": "Carlisle",
+        "postal_code": "CA1 2BT",
+        "premises": "Suite 1 Telford House",
+        "region": "Cumbria"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/07112355/appointments/Gdb7v25N38aqHxbPWCX9xht21p8",
+        "officer": {
+          "appointments": "/officers/wI6mPCu0HNzfwbMcBzk5fVk77nw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "THORBURN, Paul David",
+      "officer_role": "director",
+      "appointed_on": "2010-02-09",
+      "resigned_on": "2010-12-20",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Riverside",
+        "address_line_2": "Warwick Road",
+        "locality": "Carlisle",
+        "postal_code": "CA1 2BT",
+        "premises": "Suite 1 Telford House",
+        "region": "Cumbria"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/07112355/appointments/TpA3TJ_CkSWxxtzQ_zYjjZWSYh8",
+        "officer": {
+          "appointments": "/officers/mfMAcpyrar6DlX8oykjnF5jBOMI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "THORBURN, Ryan Paul",
+      "officer_role": "director",
+      "appointed_on": "2010-01-09",
+      "resigned_on": "2010-02-09",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Riverside",
+        "address_line_2": "Warwick Road",
+        "locality": "Carlisle",
+        "postal_code": "CA1 2BT",
+        "premises": "Suite 1 Telford House",
+        "region": "Cumbria"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/07112355/appointments/tCnbTCcm0Ojg5h4kYQVQ6IvEcM4",
+        "officer": {
+          "appointments": "/officers/f3LdmlldxlFmeFpm5IYPZTmbEOE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Lee Crescent",
+      "address_line_2": "Bridge Of Don",
+      "country": "Scotland",
+      "locality": "Aberdeen",
+      "postal_code": "AB22 8FG",
+      "premises": "27"
+    },
+    "appointed_on": "2024-06-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Scotland",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/15771089/appointments/xkSZ_tI_mwfIE2N3lyt09prh4PI",
+      "officer": {
+        "appointments": "/officers/w4WEoJblaUsw4La8gCUEdnRwN7Y/appointments"
+      }
+    },
+    "name": "NEZHAD, Amir Hossien",
+    "nationality": "British",
+    "occupation": "Disc Jockey",
+    "officer_role": "director",
+    "person_number": "323930690001"
+  }
+]

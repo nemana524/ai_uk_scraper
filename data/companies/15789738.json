@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-20",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-06-20"
+    },
+    "next_due": "2026-03-20",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "CATERPILLARS TECH LIMITED",
+  "company_number": "15789738",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-07-03",
+    "next_made_up_to": "2025-06-19",
+    "overdue": false
+  },
+  "date_of_creation": "2024-06-20",
+  "etag": "0266965a0d09da330a4bf7ea743be0009890f2e1",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15789738/persons-with-significant-control",
+    "self": "/company/15789738",
+    "filing_history": "/company/15789738/filing-history",
+    "officers": "/company/15789738/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2024-07-30",
+      "effective_from": "2024-06-20",
+      "name": "TECH INNOVATORS LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "20-22 Hawley Street",
+    "address_line_2": "Pennine 5 Block 2 Spaces",
+    "country": "England",
+    "locality": "Sheffield",
+    "postal_code": "S1 2EA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

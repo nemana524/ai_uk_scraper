@@ -1,0 +1,272 @@
+[
+  {
+    "transaction_id": "MzQ0OTQ3ODkyN2FkaXF6a2N4",
+    "barcode": "YDJ5M1QR",
+    "type": "SLPCS01",
+    "date": "2025-01-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2024-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzQ0OTQ3ODkyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4XWe_0Hp_pm8FitIQfrWQb0iFO5kDue7Bmsdgt3UQAQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzIyNTMyNWFkaXF6a2N4",
+    "barcode": "ACXYY95E",
+    "type": "SLPPSC04",
+    "date": "2024-03-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control-scottish-limited-partnership",
+    "description_values": {
+      "change_date": "2024-02-13",
+      "psc_name": "Mr Jevgenijs Culkovs"
+    },
+    "pages": 5,
+    "action_date": "2024-02-13",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzQxMzIyNTMyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XC9VCmt3392i_jMxnk3d7nEPXOlESA_2X0-ztQ7nzns"
+    }
+  },
+  {
+    "transaction_id": "MzQxMTAyMTEyN2FkaXF6a2N4",
+    "barcode": "YCWV6PA9",
+    "type": "SLPCS01",
+    "date": "2024-02-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2023-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzQxMTAyMTEyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zHUahUJFFh-7obTbOrJL82BasXEv4q8jXXgPkso-gF0"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDczNTY5NWFkaXF6a2N4",
+    "barcode": "ACWD8OLG",
+    "type": "LP6",
+    "date": "2024-02-13",
+    "category": "incorporation",
+    "description": "legacy",
+    "description_values": {
+      "description": "Place of business changed from 64A cumberland street, edinburgh, EH3 6RE, scotland."
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzQxMDczNTY5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ydGApG1lmoNf3HPSUYOBCg6tt4TN-SrTVD0HwrImIyU"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjQ1MDM5N2FkaXF6a2N4",
+    "barcode": "YBVJ2OMY",
+    "type": "SLPCS01",
+    "date": "2023-01-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2022-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzM2NjQ1MDM5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0C9l4yt6OUYhcYtSqM5QA3ayy2xViAE1YJmx6Z8icik"
+    }
+  },
+  {
+    "transaction_id": "MzMyODc0NTY1NGFkaXF6a2N4",
+    "barcode": "YAX19E6Y",
+    "type": "SLPCS01",
+    "date": "2022-02-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2021-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzMyODc0NTY1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QXLglJ-w9Sxb8wkux1XumDu71IwXshxwHOFHJoLD88o"
+    }
+  },
+  {
+    "transaction_id": "MzMxOTI4MDYyMGFkaXF6a2N4",
+    "barcode": "SAGKLQZ7",
+    "type": "SLPCS01",
+    "date": "2021-11-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2020-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzMxOTI4MDYyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C7joK1jKIDnpH5PFGHP_TQ84UFeZjeK8rg3NTf1jfkA"
+    }
+  },
+  {
+    "transaction_id": "MzMxOTI4MDYyNWFkaXF6a2N4",
+    "barcode": "SAGKLQ7F",
+    "type": "LP6",
+    "date": "2021-11-05",
+    "category": "incorporation",
+    "description": "legacy",
+    "description_values": {
+      "description": "Place of business changed from 44 main street, douglas, south lanarkshire, ML11 0QW, scotland."
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzMxOTI4MDYyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/auuU-aVFazZBHY6jgqAvEdYlJKb5WBzsmON1e4x9nlw"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODkzNTk3MmFkaXF6a2N4",
+    "barcode": "S8ZONDUJ",
+    "type": "SLPCS01",
+    "date": "2020-03-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2019-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzI1ODkzNTk3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hKxX6C4E7CNi3n9dOAaOzAK9NcAt3ChVEJyCF5RgMIc"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDg0NDMxN2FkaXF6a2N4",
+    "barcode": "S8WMM49M",
+    "type": "SLPPSC01",
+    "date": "2020-01-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control-scottish-limited-partnership",
+    "description_values": {
+      "psc_name": "Jevgenijs Culkovs",
+      "notification_date": "2019-12-18"
+    },
+    "pages": 4,
+    "action_date": "2019-12-18",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzI1NDg0NDMxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s5vvGnCDwiVylRBOIoyjLhDNe8bDhsWjaXVwY0zL4uo"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDg0NDEwMmFkaXF6a2N4",
+    "barcode": "S8WMM4A2",
+    "type": "SLPPSC09",
+    "date": "2020-01-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement-scottish-limited-partnership",
+    "description_values": {
+      "withdrawal_date": "2020-01-17"
+    },
+    "pages": 2,
+    "action_date": "2020-01-17",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzI1NDg0NDEwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QwKrDpHtKd-Kopaxo8mqHHBXfZFy--Yx_kOTzgRei7I"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDMyMjE5M2FkaXF6a2N4",
+    "barcode": "S854SM4Z",
+    "type": "SLPCS01",
+    "date": "2019-05-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2018-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzIzNDMyMjE5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iH7c67QZDRdZmV7B0adt4AXT6ON-dmXCG82RSrAnW1U"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDMyMjA1N2FkaXF6a2N4",
+    "barcode": "S854SM4V",
+    "type": "SLPCS01",
+    "date": "2019-05-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2017-12-29"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzIzNDMyMjA1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ptAX3AmLZNkC75PMi-crHN9Qtswrnx_g7mmc4n9Qrzk"
+    }
+  },
+  {
+    "transaction_id": "MzE5MjQ4OTU3MGFkaXF6a2N4",
+    "barcode": "S6KQXTK2",
+    "type": "SLPPSC08",
+    "date": "2017-12-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "notification-of-a-person-with-significant-control-statement-scottish-limited-partnership",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzE5MjQ4OTU3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/80F-5l_BE4d09sGx-VDCaglgPFgxMWY7QhewUssuHAA"
+    }
+  },
+  {
+    "transaction_id": "MzExNDQyNTExOWFkaXF6a2N4",
+    "barcode": "S3NBOSHC",
+    "type": "LP5",
+    "date": "2014-12-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2014-12-30",
+        "description": "certificate-registration-limited-partnership",
+        "type": "CERT12",
+        "subcategory": "certificate"
+      }
+    ],
+    "description": "legacy",
+    "description_values": {
+      "description": "1 general partner appointed, 1 LIMITED partner appointed and the total amount contributed is 1000 gbp. General partner appointed:MAXBERG admin LTD. LIMITED partner appointed:HARMONY admin LTD."
+    },
+    "pages": 4,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL019183/filing-history/MzExNDQyNTExOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hu6zoN-veLMvy7i6lYNEWPjO69oBuxBy_c0l0p5g8G4"
+    }
+  }
+]

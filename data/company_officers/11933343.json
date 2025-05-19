@@ -1,0 +1,35 @@
+{
+  "company_number": "11933343",
+  "company_name": "TECH DEALZ LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ASHRAF, Mansoor",
+      "officer_role": "director",
+      "appointed_on": "2019-04-09",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Operations Manager",
+      "address": {
+        "address_line_1": "Swindon Road",
+        "country": "England",
+        "locality": "Birmingham",
+        "postal_code": "B17 8JJ",
+        "premises": "11"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/11933343/appointments/Sk3Cr5P-dQ3R8h3J8gcpCuOw1Iw",
+        "officer": {
+          "appointments": "/officers/G0RGLa-ACX60wmORWM1c-fKBWlU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

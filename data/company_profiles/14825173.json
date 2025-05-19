@@ -1,0 +1,38 @@
+{
+  "company_number": "14825173",
+  "company_name": "TECH CONTRACTORS TECH LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2023-04-25",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "41201"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "25 Canada Square",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E14 5LB"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2025-01-25",
+      "overdue": true,
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-04-25"
+    },
+    "next_due": "2025-01-25",
+    "next_made_up_to": "2024-04-30",
+    "overdue": true
+  },
+  "etag": "6a335abb8f5943106d55be6660059baf7d7a7295"
+}

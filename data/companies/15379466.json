@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-01",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-10-01",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GEEK 101 LTD",
+  "company_number": "15379466",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2025-01-14",
+    "next_made_up_to": "2024-12-31",
+    "overdue": true
+  },
+  "date_of_creation": "2024-01-01",
+  "etag": "03e6ebf4ff1d446a998bbc0c99cb4d5416da6a83",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15379466/persons-with-significant-control",
+    "self": "/company/15379466",
+    "filing_history": "/company/15379466/filing-history",
+    "officers": "/company/15379466/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "43 Exchange Street",
+    "country": "England",
+    "locality": "Doncaster",
+    "postal_code": "DN1 3QW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46190"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

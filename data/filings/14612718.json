@@ -1,0 +1,116 @@
+[
+  {
+    "transaction_id": "MzQyNjU2ODMzOWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-07-02",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14612718/filing-history/MzQyNjU2ODMzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Za5CVlMFlGiV8ZCyDhHrIeobd6wp7oSpu38h4dlqul0"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjk5MDI1N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-04-16",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14612718/filing-history/MzQxNjk5MDI1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Cvg3OJIyKIDPPMd8RZ_FVH4fws3__XHtqxOsd7OkhZw"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDUwMjkzMmFkaXF6a2N4",
+    "barcode": "XCWFE5K2",
+    "type": "CH03",
+    "date": "2024-02-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-secretary-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-02-08",
+      "officer_name": "Enes Atmaca"
+    },
+    "pages": 1,
+    "action_date": "2024-02-08",
+    "links": {
+      "self": "/company/14612718/filing-history/MzQxMDUwMjkzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GaPtDbuqOa-toQvU0j1YEFVnI05Vv6G8vnBlGTNc8io"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDUwMjk0MWFkaXF6a2N4",
+    "barcode": "XCWFE5L6",
+    "type": "PSC04",
+    "date": "2024-02-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-02-08",
+      "psc_name": "Enes Atmaca"
+    },
+    "pages": 2,
+    "action_date": "2024-02-08",
+    "links": {
+      "self": "/company/14612718/filing-history/MzQxMDUwMjk0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dux58BFKU41xqqRYlKoOj3pe1zA0VaECQ4cQ2xVqBRg"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDUwMjkyNmFkaXF6a2N4",
+    "barcode": "XCWFE5C1",
+    "type": "CH01",
+    "date": "2024-02-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-02-08",
+      "officer_name": "Enes Atmaca"
+    },
+    "pages": 2,
+    "action_date": "2024-02-08",
+    "links": {
+      "self": "/company/14612718/filing-history/MzQxMDUwMjkyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p3KYxuHOGDWtsZlI6ugdBi0KW9AY-LHPzaPmS8FCU6Y"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjgxNzA4MGFkaXF6a2N4",
+    "barcode": "XBVTPI9U",
+    "type": "NEWINC",
+    "date": "2023-01-24",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-01-24",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-01-24",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-01-24"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/14612718/filing-history/MzM2NjgxNzA4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/r59aZU8Dxbe4hsRoT1XpgQs5Do-jA-ASO2-4GmjTQAQ"
+    }
+  }
+]

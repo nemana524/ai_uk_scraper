@@ -1,0 +1,35 @@
+{
+  "company_number": "11072660",
+  "company_name": "TECH GENIUS IT SOLUTIONS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "RICHARDS, Mark",
+      "officer_role": "director",
+      "appointed_on": "2017-11-20",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "It Consultant",
+      "address": {
+        "country": "United Kingdom",
+        "locality": "Weymouth",
+        "postal_code": "DT4 9TH",
+        "premises": "14a Albany Road",
+        "region": "Dorset"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/11072660/appointments/v5ecdoX9Qt9JBl5_UYJzvGPX9EQ",
+        "officer": {
+          "appointments": "/officers/vOYgegJOtNsrHen5lFj2KgU-RKk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

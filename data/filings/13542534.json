@@ -1,0 +1,236 @@
+[
+  {
+    "transaction_id": "MzQzNDEyMTA2MWFkaXF6a2N4",
+    "barcode": "XDAT0U9V",
+    "type": "CS01",
+    "date": "2024-09-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-08-01"
+    },
+    "pages": 5,
+    "action_date": "2024-08-01",
+    "links": {
+      "self": "/company/13542534/filing-history/MzQzNDEyMTA2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mblcMeliExYixZ_m4N83PiJyZpQCnq0wCx7Uk9_6NB8"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjcxNjM3OWFkaXF6a2N4",
+    "barcode": "XD9U50QC",
+    "type": "CERTNM",
+    "date": "2024-08-20",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2024-08-15"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-08-20",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed tech show LIMITED\\certificate issued on 20/08/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/13542534/filing-history/MzQzMjcxNjM3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/k7Gd4q5N_vzM8MdlommclifnK4o9dQJ0S6yhgoheyZ4"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjYwMzU3NmFkaXF6a2N4",
+    "barcode": "XD9U4ZJ5",
+    "type": "PSC01",
+    "date": "2024-08-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mark Crozier",
+      "notification_date": "2024-08-15"
+    },
+    "pages": 2,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/13542534/filing-history/MzQzMjYwMzU3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/d195DHrLp7GnGwQh8nkHrkk1j0wtK3n15DuJL95Qto8"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjYwMzQxOWFkaXF6a2N4",
+    "barcode": "XD9U4YSO",
+    "type": "AP01",
+    "date": "2024-08-19",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Mark George Crozier",
+      "appointment_date": "2024-08-15"
+    },
+    "pages": 2,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/13542534/filing-history/MzQzMjYwMzQxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2qnIBvFtQ_KHbEmYQCBzP_B_Uy1IuXW6sHrnFCkin6o"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjYwMzM0MWFkaXF6a2N4",
+    "barcode": "XD9U4XPE",
+    "type": "TM01",
+    "date": "2024-08-19",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Darren Symes",
+      "termination_date": "2024-08-15"
+    },
+    "pages": 1,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/13542534/filing-history/MzQzMjYwMzM0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NAHhy5Y97idDQdAehMgCOBwoUydD51CXgsmEs5T5D5s"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjYwMzIzNWFkaXF6a2N4",
+    "barcode": "XD9U4XOI",
+    "type": "PSC07",
+    "date": "2024-08-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Darren Symes",
+      "cessation_date": "2024-08-15"
+    },
+    "pages": 1,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/13542534/filing-history/MzQzMjYwMzIzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/M2hUmLFyibvuMHxBgEld0tu4H6RSO8wZwpjzofnxZag"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjAyMDA3NWFkaXF6a2N4",
+    "barcode": "XD36O63K",
+    "type": "AA",
+    "date": "2024-05-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-08-31"
+    },
+    "pages": 2,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/13542534/filing-history/MzQyMjAyMDA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eGcAvZDaxHduUjpVGzL_ZYdlusviQZtWZzrTEd7iIhY"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTY5MDkyMWFkaXF6a2N4",
+    "barcode": "XCDR5RVC",
+    "type": "CS01",
+    "date": "2023-10-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-01"
+    },
+    "pages": 3,
+    "action_date": "2023-08-01",
+    "links": {
+      "self": "/company/13542534/filing-history/MzM5NTY5MDkyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c28dA4qPVt6BdbjYWPu54E8I60ryMEkPJQNTI2d4Ea4"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzY0NDQxN2FkaXF6a2N4",
+    "barcode": "XC29MSGH",
+    "type": "AA",
+    "date": "2023-04-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-08-31"
+    },
+    "pages": 2,
+    "action_date": "2022-08-31",
+    "links": {
+      "self": "/company/13542534/filing-history/MzM3NzY0NDQxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/koBWb4pjXZceyRS_EknGOXmDNQCvbuSF6BltEimp2DM"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzM5NDY4N2FkaXF6a2N4",
+    "barcode": "XBDHWC6Q",
+    "type": "CS01",
+    "date": "2022-09-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-08-01"
+    },
+    "pages": 3,
+    "action_date": "2022-08-01",
+    "links": {
+      "self": "/company/13542534/filing-history/MzM1MzM5NDY4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GT5nhsMiSwENsOmvoUuh32P-2oWZDlxXATZypd52inw"
+    }
+  },
+  {
+    "transaction_id": "MzMwOTQzNTI4NWFkaXF6a2N4",
+    "barcode": "XAA1DSMJ",
+    "type": "NEWINC",
+    "date": "2021-08-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-08-02",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-08-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-08-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-08-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13542534/filing-history/MzMwOTQzNTI4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v6m5QCWnwp-hp-My1-OziGSAv4t6haPhsXDsVs3hV1E"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "company_number": "14672637",
+  "company_name": "TECH GLOBE SHOP LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AHMED, Tarek",
+      "officer_role": "director",
+      "appointed_on": "2023-02-18",
+      "resigned_on": null,
+      "nationality": "Egyptian",
+      "country_of_residence": "Egypt",
+      "occupation": "Owner & Director",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "1st Formations Ltd, 71-75"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/14672637/appointments/8LIGpzDzSeM1H-juNC4nm2M4ZSo",
+        "officer": {
+          "appointments": "/officers/vMvGnlazEwtJyBAyTbyhTnKvW6Y/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

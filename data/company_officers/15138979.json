@@ -1,0 +1,36 @@
+{
+  "company_number": "15138979",
+  "company_name": "TECH IN TIME LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "REJWAN, Shariful Haque",
+      "officer_role": "director",
+      "appointed_on": "2023-09-14",
+      "resigned_on": null,
+      "nationality": "Bangladeshi",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Paul Street",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC2A 4NE",
+        "premises": "86-90",
+        "region": "England"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1998
+      },
+      "links": {
+        "self": "/company/15138979/appointments/5weCaBOLon_GuOhb_LcbCaiN7eQ",
+        "officer": {
+          "appointments": "/officers/20NAFi6Zl4MwxP0-eK46ltgtUuQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

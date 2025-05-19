@@ -1,0 +1,329 @@
+[
+  {
+    "transaction_id": "MzQ2MzU1ODY1OWFkaXF6a2N4",
+    "barcode": "XE11MFUY",
+    "type": "AA",
+    "date": "2025-04-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-06-29"
+    },
+    "pages": 7,
+    "action_date": "2024-06-29",
+    "links": {
+      "self": "/company/12674901/filing-history/MzQ2MzU1ODY1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kGnqTidO3RDVHGEueiVV_QwVsBXHbLFICGkzQDa1uq8"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTY1MDA3MmFkaXF6a2N4",
+    "barcode": "XD7WH6EH",
+    "type": "CS01",
+    "date": "2024-07-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-15"
+    },
+    "pages": 3,
+    "action_date": "2024-06-15",
+    "links": {
+      "self": "/company/12674901/filing-history/MzQyOTY1MDA3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RjCkEWna98v0cj1idEdwJ_ZqcHCm5W4Rz_RvHy_Q75M"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzIyNzcyN2FkaXF6a2N4",
+    "barcode": "XD402N4Q",
+    "type": "AA",
+    "date": "2024-05-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-06-30"
+    },
+    "pages": 7,
+    "action_date": "2023-06-30",
+    "links": {
+      "self": "/company/12674901/filing-history/MzQyMzIyNzcyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xyg_IURy579xQlv0SGLmakspk5-k2dq73iItf0A_-cI"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjE1Mzc1NGFkaXF6a2N4",
+    "barcode": "XCZQCN69",
+    "type": "AA01",
+    "date": "2024-03-26",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2023-06-30",
+      "new_date": "2023-06-29"
+    },
+    "pages": 1,
+    "action_date": "2023-06-29",
+    "links": {
+      "self": "/company/12674901/filing-history/MzQxNjE1Mzc1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/73F1SL7wgtSt5LJf5IzBhsR8lJdTUd_JcJJN7BD26WE"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzQyMjI5N2FkaXF6a2N4",
+    "barcode": "XCC9090Y",
+    "type": "AD01",
+    "date": "2023-09-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-09-17",
+      "old_address": "369 Watling Avenue Edgware HA8 0NG England",
+      "new_address": "369 Watling Avenue Edgware HA8 0NG"
+    },
+    "pages": 1,
+    "action_date": "2023-09-17",
+    "links": {
+      "self": "/company/12674901/filing-history/MzM5MzQyMjI5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zjuxiDLyQh_bNvRgpls0Mre-0hzvH6e8aHQP1TiYiHo"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzQyMjI5MGFkaXF6a2N4",
+    "barcode": "XCC90963",
+    "type": "AD01",
+    "date": "2023-09-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-09-17",
+      "old_address": "401-402 Pentax House South Hill Avenue Harrow HA2 0DU England",
+      "new_address": "369 Watling Avenue Edgware HA8 0NG"
+    },
+    "pages": 1,
+    "action_date": "2023-09-17",
+    "links": {
+      "self": "/company/12674901/filing-history/MzM5MzQyMjI5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0aZn_zH0Te6q0fZWCIiIYCdpyCIScBStUXiKm8DdTPY"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzQyMjI1NWFkaXF6a2N4",
+    "barcode": "XCC908VD",
+    "type": "AP01",
+    "date": "2023-09-17",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Sajada Sharma Karki",
+      "appointment_date": "2023-09-17"
+    },
+    "pages": 2,
+    "action_date": "2023-09-17",
+    "links": {
+      "self": "/company/12674901/filing-history/MzM5MzQyMjI1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LlMSCnT8GQZjuhX2xAabGVaxGEYX4qBB3jajQUojHdk"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzQyMjE2NGFkaXF6a2N4",
+    "barcode": "XCC908M0",
+    "type": "TM01",
+    "date": "2023-09-17",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Basanta Nepal",
+      "termination_date": "2023-09-17"
+    },
+    "pages": 1,
+    "action_date": "2023-09-17",
+    "links": {
+      "self": "/company/12674901/filing-history/MzM5MzQyMjE2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UxPeZczNUqB8IxqL4Ohz9lZ0dT0Y7rs8gG-Il8Xz9Jk"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzQyMjE1OWFkaXF6a2N4",
+    "barcode": "XCC908CR",
+    "type": "PSC07",
+    "date": "2023-09-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Basanta Nepal",
+      "cessation_date": "2023-09-17"
+    },
+    "pages": 1,
+    "action_date": "2023-09-17",
+    "links": {
+      "self": "/company/12674901/filing-history/MzM5MzQyMjE1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v8dzEDHmQUL91qpUkqBQXxh-L_QOkyQn2oHH6SSFxKQ"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTI1NTk3NmFkaXF6a2N4",
+    "barcode": "XC9L5TGY",
+    "type": "CS01",
+    "date": "2023-08-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-06-15"
+    },
+    "pages": 4,
+    "action_date": "2023-06-15",
+    "links": {
+      "self": "/company/12674901/filing-history/MzM4OTI1NTk3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tnDGZjrDayFTXmMNq58p9bRoACoNEjurfKBV_K-mrrE"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDAyNzIxMmFkaXF6a2N4",
+    "barcode": "XC00XI4H",
+    "type": "AA",
+    "date": "2023-03-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-06-30"
+    },
+    "pages": 7,
+    "action_date": "2022-06-30",
+    "links": {
+      "self": "/company/12674901/filing-history/MzM3NDAyNzIxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ydkiMpNYaTcknaCvBhb3Q2Qzhj4QXdqEEavZII1Ufes"
+    }
+  },
+  {
+    "transaction_id": "MzM2NzcwMjQ4OWFkaXF6a2N4",
+    "barcode": "ABW1R3UI",
+    "type": "CS01",
+    "date": "2023-01-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-06-15"
+    },
+    "pages": 2,
+    "action_date": "2022-06-15",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12674901/filing-history/MzM2NzcwMjQ4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VAk5dakJsiWK2pEHmMCx0bZtqLkcQ6Vw0D1jKJNq2Ow"
+    }
+  },
+  {
+    "transaction_id": "MzM2NzcwMjQ1MGFkaXF6a2N4",
+    "barcode": "ABW1R3UA",
+    "type": "RT01",
+    "date": "2023-01-31",
+    "category": "restoration",
+    "description": "administrative-restoration-company",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12674901/filing-history/MzM2NzcwMjQ1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/99nHxq74zCy2YuBjJcAhcL-rx2ayMNgDXhl2Y5MQKFM"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTg0NDg1OWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2022-12-20",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12674901/filing-history/MzM2MTg0NDg1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P7jZnGzJ5enLjKTdlXKDj6ze8mIq3mwr3NBwFR4n3FY"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTcxNjY3NGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-09-06",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12674901/filing-history/MzM0OTcxNjY3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AWbSsJuIk782oF4Ybx9snyXN2Lm0cFCIyWR92f4PJ_w"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzEyNjM2NWFkaXF6a2N4",
+    "barcode": "XAZVFA9F",
+    "type": "AA",
+    "date": "2022-03-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-06-30"
+    },
+    "pages": 7,
+    "action_date": "2021-06-30",
+    "links": {
+      "self": "/company/12674901/filing-history/MzMzMzEyNjM2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ydLVmYSvA2ulpFNdtx7OCmovmrhbCk7LIfd1eYPEyx8"
+    }
+  },
+  {
+    "transaction_id": "MzMwNTgyNDk0NGFkaXF6a2N4",
+    "barcode": "XA7ICQ16",
+    "type": "CS01",
+    "date": "2021-06-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-06-15"
+    },
+    "pages": 3,
+    "action_date": "2021-06-15",
+    "links": {
+      "self": "/company/12674901/filing-history/MzMwNTgyNDk0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PmHiO10i14zAyGrFA4NWvAc3IGYK6YUoibMZjzYVN6c"
+    }
+  },
+  {
+    "transaction_id": "MzI2NzM4NDI2OWFkaXF6a2N4",
+    "barcode": "X979F1O1",
+    "type": "NEWINC",
+    "date": "2020-06-16",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-06-16",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-06-16",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-06-16",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2020-06-16"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/12674901/filing-history/MzI2NzM4NDI2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KQVui-68xnkKGkJVs6Xh6-Xrxl5tb5HgXE71oVc-oLE"
+    }
+  }
+]

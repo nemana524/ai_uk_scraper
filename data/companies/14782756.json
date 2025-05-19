@@ -1,0 +1,65 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-04-05",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FORGE GLOBAL LTD",
+  "company_number": "14782756",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-04",
+    "next_due": "2026-04-18",
+    "next_made_up_to": "2026-04-04",
+    "overdue": false
+  },
+  "date_of_creation": "2023-04-05",
+  "etag": "37d5ffc631e81d1074dcd429d590984e27b2f3da",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14782756/persons-with-significant-control",
+    "self": "/company/14782756",
+    "filing_history": "/company/14782756/filing-history",
+    "officers": "/company/14782756/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2025-04-14",
+      "effective_from": "2023-04-05",
+      "name": "TECH FORGE 360 LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Matrix Business Centre",
+    "address_line_2": "167 Station Road",
+    "country": "England",
+    "locality": "Edgware",
+    "postal_code": "HA8 7JU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

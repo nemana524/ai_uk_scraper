@@ -1,0 +1,35 @@
+{
+  "company_number": "15509791",
+  "company_name": "TECH CONSULTANT-SHE LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2024-02-21",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "30 Hill View",
+    "country": "England",
+    "locality": "Berkhamsted",
+    "postal_code": "HP4 1SA",
+    "region": "Hertfordshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-01-31",
+      "period_end_on": "2025-01-31",
+      "type": "micro-entity"
+    }
+  },
+  "etag": "6add1eef94f0a6e09886f9619d977b3331a68539"
+}

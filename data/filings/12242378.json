@@ -1,0 +1,442 @@
+[
+  {
+    "transaction_id": "MzQ0MTk1NDY2OGFkaXF6a2N4",
+    "barcode": "XDF6ADKQ",
+    "type": "CS01",
+    "date": "2024-11-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-02"
+    },
+    "pages": 3,
+    "action_date": "2024-10-02",
+    "links": {
+      "self": "/company/12242378/filing-history/MzQ0MTk1NDY2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7I_bS8txUZNNc2jAWTlyr1typbs1ltrDr67e-bx3A4g"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDQ2MzU3OWFkaXF6a2N4",
+    "barcode": "XDAYHZ6O",
+    "type": "AA",
+    "date": "2024-09-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-10-31"
+    },
+    "pages": 3,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/12242378/filing-history/MzQzNDQ2MzU3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/36rdRbHhNvBXyvCAt7SOoxGR_brduEVk-jWtBul_FLM"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjk4MzQzMWFkaXF6a2N4",
+    "barcode": "XCUBRSAY",
+    "type": "CH01",
+    "date": "2024-01-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-01-01",
+      "officer_name": "Mr Thomas Mark Withers"
+    },
+    "pages": 2,
+    "action_date": "2024-01-01",
+    "links": {
+      "self": "/company/12242378/filing-history/MzQwNjk4MzQzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P9VZdh2jQlLiO_lm75GGwmD3xQVy_QnN8BWT5CacPaY"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTM4NTMyNWFkaXF6a2N4",
+    "barcode": "XCFXHBA2",
+    "type": "CS01",
+    "date": "2023-11-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-02"
+    },
+    "pages": 3,
+    "action_date": "2023-10-02",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM5OTM4NTMyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Tbfcjbf3zCCqf5GXkOKKh1c9COR-FihebUDY0TSOv2k"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTM4NTA2NmFkaXF6a2N4",
+    "barcode": "XCFXHAAX",
+    "type": "AD01",
+    "date": "2023-11-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-11-09",
+      "old_address": "50 Larkrise Cam Dursley GL11 5EZ England",
+      "new_address": "The Coach House 77 Regent Street Stonehouse GL10 2AA"
+    },
+    "pages": 1,
+    "action_date": "2023-11-09",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM5OTM4NTA2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QNYD-LBR24idr3TO6evFIiALFTfEWCaazmoazoSVJeM"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTM4NDg4OGFkaXF6a2N4",
+    "barcode": "XCFXH9LD",
+    "type": "PSC04",
+    "date": "2023-11-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-11-01",
+      "psc_name": "Mr Thomas Mark Withers"
+    },
+    "pages": 2,
+    "action_date": "2023-11-01",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM5OTM4NDg4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ft5fccK0KDbzBPKie8qq0ibjhkTyJ1UOYjKpOKMETxk"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODMyNTQ3NmFkaXF6a2N4",
+    "barcode": "XC8ZL7A1",
+    "type": "AA",
+    "date": "2023-08-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-10-31"
+    },
+    "pages": 3,
+    "action_date": "2022-10-31",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM4ODMyNTQ3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2aBsK9VqKfMsga-JCRjlAj_uHeGSYw3EfUwWNx7TeoE"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODQ3MTkxNGFkaXF6a2N4",
+    "barcode": "XBGS4NC1",
+    "type": "CS01",
+    "date": "2022-11-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-10-02"
+    },
+    "pages": 3,
+    "action_date": "2022-10-02",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM1ODQ3MTkxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8vEle-CynRfjppFmlSXdjLop3yNoKS3kiHmN5P6onpQ"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTkwOTYxM2FkaXF6a2N4",
+    "barcode": "XBB75QOX",
+    "type": "AA",
+    "date": "2022-08-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-10-31"
+    },
+    "pages": 8,
+    "action_date": "2021-10-31",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM0OTkwOTYxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zVUayhAEt14sOmw8Q93N4CdY5ztbBqBAnSqSyBD_so8"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODk0NTk0N2FkaXF6a2N4",
+    "barcode": "XBALM855",
+    "type": "CH01",
+    "date": "2022-08-17",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-08-14",
+      "officer_name": "Mr Thomas Mark Withers"
+    },
+    "pages": 2,
+    "action_date": "2022-08-14",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM0ODk0NTk0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TjBNY9_M2Pv4kLoYC0Zd4K36HOq46GQgXmpTXKhA2oc"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODk0NTkxNGFkaXF6a2N4",
+    "barcode": "XBALM849",
+    "type": "AD01",
+    "date": "2022-08-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-08-17",
+      "old_address": "Apartment 10 Warwick Hall Warwick Hall Gardens Bromsgrove B60 2DX United Kingdom",
+      "new_address": "50 Larkrise Cam Dursley GL11 5EZ"
+    },
+    "pages": 1,
+    "action_date": "2022-08-17",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM0ODk0NTkxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QcDVnT3-4AX59iHd2tk2y1Z3DwSfT4rj4SVebKcxGzE"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODk0NTg3OGFkaXF6a2N4",
+    "barcode": "XBALM7U0",
+    "type": "CH01",
+    "date": "2022-08-17",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-08-17",
+      "officer_name": "Mr Luke Alexander Browne"
+    },
+    "pages": 2,
+    "action_date": "2022-08-17",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM0ODk0NTg3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3Cp93VYtkmddjAgHQMTcC-IXhiKXLUEz-cpl_aSfQjI"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTczOTk4NmFkaXF6a2N4",
+    "barcode": "XB888H0W",
+    "type": "CH01",
+    "date": "2022-07-14",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-07-14",
+      "officer_name": "Mr Alistair James Hey"
+    },
+    "pages": 2,
+    "action_date": "2022-07-14",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM0NTczOTk4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X5NSgoWZqDm7v1RrQCN42CYjzvjA7t5ZtMKHt1vfxfg"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTczOTg4M2FkaXF6a2N4",
+    "barcode": "XB888GJL",
+    "type": "AP01",
+    "date": "2022-07-14",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Luke Alexander Browne",
+      "appointment_date": "2022-07-14"
+    },
+    "pages": 2,
+    "action_date": "2022-07-14",
+    "links": {
+      "self": "/company/12242378/filing-history/MzM0NTczOTg4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hCOnsA_0pou8kselgj5BsTkjvEksTyfTRjwb0YJNu44"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTY5NTc4M2FkaXF6a2N4",
+    "barcode": "XB1ITEFN",
+    "type": "PSC04",
+    "date": "2022-04-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-04-08",
+      "psc_name": "Mr Thomas Mark Withers"
+    },
+    "pages": 2,
+    "action_date": "2022-04-08",
+    "links": {
+      "self": "/company/12242378/filing-history/MzMzNTY5NTc4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fq3y8Vj74pwabtT-_Wy9eoR5OSFb71fD347x4l6qLDo"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTY5NTYxNGFkaXF6a2N4",
+    "barcode": "XB1ITDUQ",
+    "type": "AD01",
+    "date": "2022-04-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-04-08",
+      "old_address": "50 Duck Lane Codsall Wolverhampton WV8 1HF England",
+      "new_address": "Apartment 10 Warwick Hall Warwick Hall Gardens Bromsgrove B60 2DX"
+    },
+    "pages": 1,
+    "action_date": "2022-04-08",
+    "links": {
+      "self": "/company/12242378/filing-history/MzMzNTY5NTYxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uCAIJR7KkZh6NrWYA8j2u1y3415fYe_tH1xZPeuBiyI"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDQ2MDE2NWFkaXF6a2N4",
+    "barcode": "XAHGY97N",
+    "type": "TM01",
+    "date": "2021-11-17",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Daniel Edward Allford",
+      "termination_date": "2021-11-17"
+    },
+    "pages": 1,
+    "action_date": "2021-11-17",
+    "links": {
+      "self": "/company/12242378/filing-history/MzMyMDQ2MDE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ayJgak3kIG13b8GAaWPNE8Ltn5sIyc4pOlZmhFCxLqs"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDQ2MDEwNmFkaXF6a2N4",
+    "barcode": "XAHGY902",
+    "type": "PSC07",
+    "date": "2021-11-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Daniel Edward Allford",
+      "cessation_date": "2021-11-17"
+    },
+    "pages": 1,
+    "action_date": "2021-11-17",
+    "links": {
+      "self": "/company/12242378/filing-history/MzMyMDQ2MDEwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3FvAUGX0wyrOPkVB20ZpG2FrLmC2-4pVUzYGCjQzDmE"
+    }
+  },
+  {
+    "transaction_id": "MzMxOTI0MTE2NWFkaXF6a2N4",
+    "barcode": "XAGKZRN4",
+    "type": "CS01",
+    "date": "2021-11-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-10-02"
+    },
+    "pages": 3,
+    "action_date": "2021-10-02",
+    "links": {
+      "self": "/company/12242378/filing-history/MzMxOTI0MTE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OE5VTFNWoKFiGy66emwpg5tkNEortjmoic6e4deJXT0"
+    }
+  },
+  {
+    "transaction_id": "MzMwNzk4NjY3OGFkaXF6a2N4",
+    "barcode": "XA900JBF",
+    "type": "AA",
+    "date": "2021-07-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-10-31"
+    },
+    "pages": 3,
+    "action_date": "2020-10-31",
+    "links": {
+      "self": "/company/12242378/filing-history/MzMwNzk4NjY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ii_vJrTdbfW_Ebh5PeVuWiYPKABcRQI9GGP9g8XAmr0"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDU5NzQ3MGFkaXF6a2N4",
+    "barcode": "X9FNT7NM",
+    "type": "CS01",
+    "date": "2020-10-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-10-02"
+    },
+    "pages": 3,
+    "action_date": "2020-10-02",
+    "links": {
+      "self": "/company/12242378/filing-history/MzI4MDU5NzQ3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mMaIha4KR8dZapt5IJXgje4MCcSFevydVPhhhMIpmcE"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjE2MTY5N2FkaXF6a2N4",
+    "barcode": "X8XUEI9C",
+    "type": "PSC04",
+    "date": "2020-01-31",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-01-23",
+      "psc_name": "Mr Thomas Mark Withers"
+    },
+    "pages": 2,
+    "action_date": "2020-01-23",
+    "links": {
+      "self": "/company/12242378/filing-history/MzI1NjE2MTY5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Cnye_ZB4kqqobve3TAq-DE3aXOtqf3oq7J5UdUB7Fhc"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjE2MTUyMGFkaXF6a2N4",
+    "barcode": "X8XUEHDC",
+    "type": "AD01",
+    "date": "2020-01-31",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-31",
+      "old_address": "1 the Beeches Brunswick Terrace Wednesbury WS10 9FB England",
+      "new_address": "50 Duck Lane Codsall Wolverhampton WV8 1HF"
+    },
+    "pages": 1,
+    "action_date": "2020-01-31",
+    "links": {
+      "self": "/company/12242378/filing-history/MzI1NjE2MTUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6ut-S4woh7JKdpnL6i5NPcSZJ-rMA7aZzbWM0eimbRE"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTg1OTEwMWFkaXF6a2N4",
+    "barcode": "X8F8QJYB",
+    "type": "NEWINC",
+    "date": "2019-10-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-10-03",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 15,
+    "links": {
+      "self": "/company/12242378/filing-history/MzI0NTg1OTEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lliU-dVqgot30XBA85I4iVJvQ77HNn97D0Iz49ki55g"
+    }
+  }
+]

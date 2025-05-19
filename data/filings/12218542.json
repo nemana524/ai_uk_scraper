@@ -1,0 +1,476 @@
+[
+  {
+    "transaction_id": "MzQ1MjI5MDQxM2FkaXF6a2N4",
+    "barcode": "XDUS67BT",
+    "type": "CS01",
+    "date": "2025-01-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-31"
+    },
+    "pages": 3,
+    "action_date": "2024-12-31",
+    "links": {
+      "self": "/company/12218542/filing-history/MzQ1MjI5MDQxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uoaBxQEqn0iBCWEpWZOiEgSWc-eo55t08NWuQpB-ijQ"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjA2NTk1NGFkaXF6a2N4",
+    "barcode": "XD5NN8ST",
+    "type": "AA",
+    "date": "2024-06-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 8,
+    "action_date": "2023-09-30",
+    "links": {
+      "self": "/company/12218542/filing-history/MzQyNjA2NTk1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/e2gyviotrfw-FUcQH9ZCSg6TZ1GbT3PjpAIeLuRhVPg"
+    }
+  },
+  {
+    "transaction_id": "MzQxODA4NDQ2MWFkaXF6a2N4",
+    "barcode": "XD0VBJAO",
+    "type": "AAMD",
+    "date": "2024-04-12",
+    "category": "accounts",
+    "description": "accounts-amended-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-09-30"
+    },
+    "pages": 9,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/12218542/filing-history/MzQxODA4NDQ2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qgs6nVcRxl73eU-TJTZfoq0frMgJvd86iAo88XdVRfU"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjEyNTcxMmFkaXF6a2N4",
+    "barcode": "XCJJ9VWH",
+    "type": "CS01",
+    "date": "2023-12-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 3,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/12218542/filing-history/MzQwNjEyNTcxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2-6OeryTZFr31HtusQQ2Wf_-27YgynynZULZ2N7d9Nw"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzE0NjQ3OWFkaXF6a2N4",
+    "barcode": "XCC18G3M",
+    "type": "CS01",
+    "date": "2023-09-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-20"
+    },
+    "pages": 3,
+    "action_date": "2023-08-20",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM5MzE0NjQ3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MiK0iAUpU38K6OEH4wgd8mMcIFm7DZQynui2HfbpbVA"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODIzMDA4MmFkaXF6a2N4",
+    "barcode": "XC8WXO0X",
+    "type": "AA",
+    "date": "2023-07-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-09-30"
+    },
+    "pages": 5,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM4ODIzMDA4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FrNic3Bh7h4Mf_878xHUNKd5Nr-neRB_2avgvz0pWmY"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDk5MDMwN2FkaXF6a2N4",
+    "barcode": "XC6YQRA1",
+    "type": "RP04AP01",
+    "date": "2023-07-10",
+    "category": "officers",
+    "subcategory": "document-replacement",
+    "description": "second-filing-of-director-appointment-with-name",
+    "description_values": {
+      "officer_name": "Mr Zeeshan Zubair"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/12218542/filing-history/MzM4NDk5MDMwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AGjkdex-CZfQ9Ho-QiXkgT_-fnnXpjJ3oRGxVJdqBUk"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDk5MDY3N2FkaXF6a2N4",
+    "barcode": "XC6YQSZS",
+    "type": "RP04CS01",
+    "date": "2023-07-10",
+    "category": "confirmation-statement",
+    "subcategory": "document-replacement",
+    "description": "second-filing-of-confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2022-08-20"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/12218542/filing-history/MzM4NDk5MDY3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jhus1mBgcqUrP7uaw0jkxMEs7mEJJDRGes1toaIegXk"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTE3NjEwOGFkaXF6a2N4",
+    "barcode": "XC71LPDS",
+    "type": "AP01",
+    "date": "2023-07-04",
+    "category": "officers",
+    "annotations": [
+      {
+        "annotation": "Clarification A second filed AP01 was registered on 10/07/2023",
+        "date": "2023-07-10",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Clarification a second filed AP01 was registered on 10/07/2023"
+        }
+      }
+    ],
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Zeeshan Zubair",
+      "appointment_date": "2022-08-19"
+    },
+    "pages": 3,
+    "action_date": "2022-08-19",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12218542/filing-history/MzM4NTE3NjEwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8urbAaeHWe9bCrolGPJYPPiidkZEZ9iuKLHUTack2qc"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTE3NTg2MmFkaXF6a2N4",
+    "barcode": "XC71LOFN",
+    "type": "TM01",
+    "date": "2023-07-04",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Munir Ahmed",
+      "termination_date": "2022-08-19"
+    },
+    "pages": 1,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM4NTE3NTg2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C4D4HnkLv3Hkj1G9TA-SngDd93bP7WNcNMLkhh2NtQc"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTE3NTc2MGFkaXF6a2N4",
+    "barcode": "XC71LO76",
+    "type": "PSC01",
+    "date": "2023-07-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Zeeshan Zubair",
+      "notification_date": "2022-08-19"
+    },
+    "pages": 2,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM4NTE3NTc2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vRDYpr_GOZ8B-EAMhdU5rySLnYLTXiv-rDST8XkyVbM"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTE3NTMxM2FkaXF6a2N4",
+    "barcode": "XC71LM9T",
+    "type": "PSC07",
+    "date": "2023-07-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Munir Ahmed",
+      "cessation_date": "2022-08-19"
+    },
+    "pages": 1,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM4NTE3NTMxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MZ_85lpHAG6laLfFvqGRXKdrXqn5tcKQkyltcfOLZWo"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTI4NDQyOGFkaXF6a2N4",
+    "barcode": "XBATLEGO",
+    "type": "CS01",
+    "date": "2022-08-20",
+    "category": "confirmation-statement",
+    "annotations": [
+      {
+        "annotation": "Clarification A second filed CS01 (Statement of Capital, Shareholder information) was registered on 10/07/2023",
+        "date": "2023-07-10",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Clarification a second filed CS01 (Statement of Capital, Shareholder information) was registered on 10/07/2023"
+        }
+      }
+    ],
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-08-20"
+    },
+    "pages": 5,
+    "action_date": "2022-08-20",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12218542/filing-history/MzM0OTI4NDQyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ccmxZH0BVYfR-tp6xwOnN-LsVcOAwjxvv1STv0mzUwM"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTI4NDM4MGFkaXF6a2N4",
+    "barcode": "XBATLE69",
+    "type": "PSC01",
+    "date": "2022-08-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Munir Ahmed",
+      "notification_date": "2022-08-19"
+    },
+    "pages": 2,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM0OTI4NDM4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MGNxZ60pLUFIyGkCzbSBEs4dpHbPG4_ugUBbJ4ROCoM"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTIwMjIzOGFkaXF6a2N4",
+    "barcode": "XBAR2RRU",
+    "type": "AP01",
+    "date": "2022-08-19",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Munir Ahmed",
+      "appointment_date": "2022-08-19"
+    },
+    "pages": 2,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM0OTIwMjIzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8b4hYLjfO-d6Q05ERe0YX0RE92P2nUbN_mTYMTEuvAY"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTIwMjE4MGFkaXF6a2N4",
+    "barcode": "XBAR2RIO",
+    "type": "AD01",
+    "date": "2022-08-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-08-19",
+      "old_address": "13a 13a Goldsmith Avenue Warwick CV34 6JA England",
+      "new_address": "Tech Doctor Morrisons Old Warwick Road Lemington Spa CV31 3NU"
+    },
+    "pages": 1,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM0OTIwMjE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rbL9eijrDmwKYTK-JAmMm6kZU_lPhsnDtckkPIyDmoM"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTIwMjE1NmFkaXF6a2N4",
+    "barcode": "XBAR2R97",
+    "type": "PSC07",
+    "date": "2022-08-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Gagandeep Dilbarsingh Kandhola",
+      "cessation_date": "2022-08-19"
+    },
+    "pages": 1,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM0OTIwMjE1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6sjQS9QGvT2MHl6dzjbc5UDV5WtderESkJN5UKyEHss"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTIwMjE0NWFkaXF6a2N4",
+    "barcode": "XBAR2REK",
+    "type": "TM01",
+    "date": "2022-08-19",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Gagandeep Dilbarsingh Kandhola",
+      "termination_date": "2022-08-19"
+    },
+    "pages": 1,
+    "action_date": "2022-08-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM0OTIwMjE0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xPpPUo4iZ1cujv1Oepn6upWjH_oChc4NOfr4HVqaBhw"
+    }
+  },
+  {
+    "transaction_id": "MzM0NDE1NTEyMGFkaXF6a2N4",
+    "barcode": "XB76I4LV",
+    "type": "AA",
+    "date": "2022-06-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-09-30"
+    },
+    "pages": 8,
+    "action_date": "2021-09-30",
+    "links": {
+      "self": "/company/12218542/filing-history/MzM0NDE1NTEyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pWsnvmSJsKz-nlDiN5UPoWQP_dcqp49nv7aW4s-xpQE"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzQ0NTQ1MWFkaXF6a2N4",
+    "barcode": "XAFGMK8J",
+    "type": "CS01",
+    "date": "2021-10-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-09-19"
+    },
+    "pages": 3,
+    "action_date": "2021-09-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzMxNzQ0NTQ1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KRJsaq2rAZq80VTAGE4XomCiQh2nMl-JbUwwf4xRRvE"
+    }
+  },
+  {
+    "transaction_id": "MzMwNDYyODkyMWFkaXF6a2N4",
+    "barcode": "XA6RLUPV",
+    "type": "AA",
+    "date": "2021-06-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-09-30"
+    },
+    "pages": 8,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/12218542/filing-history/MzMwNDYyODkyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wapfYv6C2wQIfUG_yq0n9VjasrHAoSnEKEZNjVAxERM"
+    }
+  },
+  {
+    "transaction_id": "MzI3ODE0MjM1N2FkaXF6a2N4",
+    "barcode": "X9E0R788",
+    "type": "CS01",
+    "date": "2020-09-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-09-19"
+    },
+    "pages": 3,
+    "action_date": "2020-09-19",
+    "links": {
+      "self": "/company/12218542/filing-history/MzI3ODE0MjM1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pOs9c-cwsnrKdEXQQ-6pSrpe9nujFT6r7cml47WCcHQ"
+    }
+  },
+  {
+    "transaction_id": "MzI2NDgxNzgxMmFkaXF6a2N4",
+    "barcode": "X951RBBV",
+    "type": "AD01",
+    "date": "2020-05-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-05-15",
+      "old_address": "27 Wingrove Court Chelmsford CM1 4ES United Kingdom",
+      "new_address": "13a 13a Goldsmith Avenue Warwick CV34 6JA"
+    },
+    "pages": 1,
+    "action_date": "2020-05-15",
+    "links": {
+      "self": "/company/12218542/filing-history/MzI2NDgxNzgxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1984KeiV3xcnZ02lbWa5F33z23fgqR-JVMNTILHxb7g"
+    }
+  },
+  {
+    "transaction_id": "MzI0NDYyNzQ5OWFkaXF6a2N4",
+    "barcode": "X8ECGSMX",
+    "type": "NEWINC",
+    "date": "2019-09-20",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-09-20",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-09-20",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-09-20",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2019-09-20"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12218542/filing-history/MzI0NDYyNzQ5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rrJLR8Rned0nqij2K9itRx0kabQ_jaKgJZfliHoeD8A"
+    }
+  }
+]

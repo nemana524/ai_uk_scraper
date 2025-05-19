@@ -1,0 +1,35 @@
+{
+  "company_number": "15040046",
+  "company_name": "TECH LEVO RECRUITMENT LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NUR, Kalid Ismail Mohamed",
+      "officer_role": "director",
+      "appointed_on": "2023-07-31",
+      "resigned_on": null,
+      "nationality": "Dutch",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Longstone Avenue",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW10 3BD",
+        "premises": "Flat 63, 53, Anansi House"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/15040046/appointments/oSfqa7oKTXKPvjGmEF-aweAqWVE",
+        "officer": {
+          "appointments": "/officers/wecQA-6HmEJL0kZoKCwO-f4hMlM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

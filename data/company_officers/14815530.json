@@ -1,0 +1,35 @@
+{
+  "company_number": "14815530",
+  "company_name": "TECH CONNECTS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BENNETT, Kirk",
+      "officer_role": "director",
+      "appointed_on": "2023-04-19",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Sydney Road",
+        "country": "England",
+        "locality": "Watford",
+        "postal_code": "WD18 7PX",
+        "premises": "26"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/14815530/appointments/b89H-WKrjZs83-NPOItfYi7mL9g",
+        "officer": {
+          "appointments": "/officers/Zgedhj72yO-wQ_1fuxb9AEWOtzE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "company_number": "04524402",
+  "company_name": "TECH. BOX MANAGEMENT LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "BASU, Shomit",
+      "officer_role": "secretary",
+      "appointed_on": "2002-09-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "18 St. Michaels Close",
+        "address_line_2": "North Finchley",
+        "locality": "London",
+        "postal_code": "N12 9NB"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/04524402/appointments/nN6kUTT8qABeWUMDd1qzS1duY_U",
+        "officer": {
+          "appointments": "/officers/qB5MeyRoCaxlUSyPYD71QdkW5GQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BASU, Shomit",
+      "officer_role": "director",
+      "appointed_on": "2002-09-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "18 St. Michaels Close",
+        "address_line_2": "North Finchley",
+        "locality": "London",
+        "postal_code": "N12 9NB"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1968
+      },
+      "links": {
+        "self": "/company/04524402/appointments/QFoPp2nUPTxtO22hY4Kk0TdXI5Y",
+        "officer": {
+          "appointments": "/officers/w11Pa2ikXV5avNceFnyYdPcVX9g/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "NOMINEE COMPANY SECRETARIES LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2002-09-02",
+      "resigned_on": "2002-09-02",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "116 Lonsdale House",
+        "address_line_2": "52 Blucher Street",
+        "locality": "Birmingham",
+        "postal_code": "B1 1QU",
+        "region": "West Midlands"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/04524402/appointments/-gMHkW0Rcsnv3RuYhXjYwzQt7AQ",
+        "officer": {
+          "appointments": "/officers/I6UwJbHgXEJUkTRmo6IRcNzUj9s/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "CARLSTROM, Bengt Johan Anders",
+      "officer_role": "director",
+      "appointed_on": "2002-09-02",
+      "resigned_on": "2014-06-23",
+      "nationality": "Swedish",
+      "country_of_residence": "Sweden",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "18 St. Michaels Close",
+        "address_line_2": "North Finchley",
+        "locality": "London",
+        "postal_code": "N12 9NB"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1953
+      },
+      "links": {
+        "self": "/company/04524402/appointments/OeYMU6xhSVpX_OPhxh2MuUKTKeM",
+        "officer": {
+          "appointments": "/officers/kwgyKYKmvsfuMpfgAMF4d_KC-nQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "NOMINEE COMPANY DIRECTORS LIMITED",
+      "officer_role": "corporate-director",
+      "appointed_on": "2002-09-02",
+      "resigned_on": "2002-09-02",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "116 Lonsdale House",
+        "address_line_2": "52 Blucher Street",
+        "locality": "Birmingham",
+        "postal_code": "B1 1QU",
+        "region": "West Midlands"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/04524402/appointments/LqpxLByU13pANJfRYuy_6XNnomI",
+        "officer": {
+          "appointments": "/officers/OTR0xCoJ3NcWNhWVT-ZEGszzXAg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

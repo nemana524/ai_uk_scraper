@@ -1,0 +1,66 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ADVICE LTD",
+  "company_number": "12360521",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-12-11",
+    "next_due": "2025-12-25",
+    "next_made_up_to": "2025-12-11",
+    "overdue": false
+  },
+  "date_of_creation": "2019-12-12",
+  "etag": "7662b3f88de058e6ce28dead8607435ac2015a58",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12360521/persons-with-significant-control",
+    "persons_with_significant_control_statements": "/company/12360521/persons-with-significant-control-statements",
+    "self": "/company/12360521",
+    "filing_history": "/company/12360521/filing-history",
+    "officers": "/company/12360521/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2020-12-17",
+      "effective_from": "2019-12-12",
+      "name": "ML ADVICE LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "41 Devonshire Street",
+    "address_line_2": "Ground Floor",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1G 7AJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "74909"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

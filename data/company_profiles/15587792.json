@@ -1,0 +1,40 @@
+{
+  "company_number": "15587792",
+  "company_name": "TECH COUNTRY PEST CONTROL LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-03-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "81291"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 2 Coachmakers",
+    "address_line_2": "116a Seaside",
+    "country": "United Kingdom",
+    "locality": "Eastbourne",
+    "postal_code": "BN22 7QP",
+    "region": "East Sussex"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-23",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-03-23"
+    },
+    "next_due": "2025-12-23",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "19bf74dc24115c7af63046adf67922a98770917a"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "transaction_id": "MzQ0MTMyNzA3MWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-11-05",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14902035/filing-history/MzQ0MTMyNzA3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dtjR0UVq6CHhX5yJD9LVmC4VIdihR8W88aEuhHB6XmU"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTU2NzQzNWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-08-20",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14902035/filing-history/MzQzMTU2NzQzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kv96dvFg-Ja6FIuTwGiI5OlDn7JuhklFkqH-Wucsf24"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTMyNjI2N2FkaXF6a2N4",
+    "barcode": "XC9NR5P4",
+    "type": "AD01",
+    "date": "2023-08-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-11",
+      "old_address": "13 Lytchett House, 13 Freeland Park, Wareham Road, Poole Dorset BH16 6FA United Kingdom",
+      "new_address": "Lytchett House 13 Freeland Park Wareham Road Poole Dorset BH16 6FA"
+    },
+    "pages": 1,
+    "action_date": "2023-08-11",
+    "links": {
+      "self": "/company/14902035/filing-history/MzM4OTMyNjI2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7GHDrpJ3aiLVPiJZBIVLBazByfAzfczJ8z9PGMnsb8g"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTA2OTgzOGFkaXF6a2N4",
+    "barcode": "XC4HYSIX",
+    "type": "NEWINC",
+    "date": "2023-05-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-05-30",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-05-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-05-30"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14902035/filing-history/MzM4MTA2OTgzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eIrdm7xln7xM3UGoqfOP1rxHWxtHqc0Tv9ktRK5uxKw"
+    }
+  }
+]

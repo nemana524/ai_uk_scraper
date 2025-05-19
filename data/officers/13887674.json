@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Hampden Place",
+      "country": "England",
+      "locality": "Halifax",
+      "postal_code": "HX1 5LT",
+      "premises": "7"
+    },
+    "appointed_on": "2022-02-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/13887674/appointments/0UBk58SgrA_6JZvQnuAhnQ-pEHU",
+      "officer": {
+        "appointments": "/officers/1gMWu86wzFZW8FCyDovAxidlCfA/appointments"
+      }
+    },
+    "name": "ASHFAQ, Awais",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "292068100001"
+  }
+]

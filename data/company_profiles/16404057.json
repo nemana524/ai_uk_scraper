@@ -1,0 +1,38 @@
+{
+  "company_number": "16404057",
+  "company_name": "TECH DEVELOP LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-04-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "484 Alcester Road South",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B14 6EP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2027-01-23",
+      "overdue": false,
+      "period_end_on": "2026-04-30",
+      "period_start_on": "2025-04-23"
+    },
+    "next_due": "2027-01-23",
+    "next_made_up_to": "2026-04-30",
+    "overdue": false
+  },
+  "etag": "fbec04fbd827a13d6ba66a2147f819d2e8a36f7c"
+}

@@ -1,0 +1,94 @@
+{
+  "company_number": "15934175",
+  "company_name": "TECH 534 LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "CLAYTON, Mia Dominique",
+      "officer_role": "director",
+      "appointed_on": "2024-09-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Executive Director",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1998
+      },
+      "links": {
+        "self": "/company/15934175/appointments/fz-vbWI68CP2_jRcEYaEZZC-3J4",
+        "officer": {
+          "appointments": "/officers/MR2wvfgxoY5D40kpdZt-1GC5XGU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "DAVIE, Joshua Jason",
+      "officer_role": "director",
+      "appointed_on": "2024-09-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Operations Director",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/15934175/appointments/tGnjOMx3-PLEV157i4ucfMZRU0c",
+        "officer": {
+          "appointments": "/officers/fICSkEpqhETRKYEfkCFly_WKQco/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "YUSOF, Isaac Abraham Farooq",
+      "officer_role": "director",
+      "appointed_on": "2024-09-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Managing Director",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/15934175/appointments/ionAseH6fXXi__41MCQ5lf0RJAM",
+        "officer": {
+          "appointments": "/officers/t4F5mhTfVV_NWDHcQvc38enghlw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

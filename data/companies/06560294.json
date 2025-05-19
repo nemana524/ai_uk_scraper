@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CAPITAL LIMITED",
+  "company_number": "06560294",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-20",
+    "next_due": "2026-05-04",
+    "next_made_up_to": "2026-04-20",
+    "overdue": false
+  },
+  "date_of_creation": "2008-04-09",
+  "etag": "5a3d94de89a8c833c7c5939682051dc6d680f46c",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-04-09",
+  "links": {
+    "persons_with_significant_control": "/company/06560294/persons-with-significant-control",
+    "self": "/company/06560294",
+    "filing_history": "/company/06560294/filing-history",
+    "officers": "/company/06560294/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "51 Milner Road",
+    "address_line_2": "Selly Park",
+    "locality": "Birmingham",
+    "postal_code": "B29 7RL"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

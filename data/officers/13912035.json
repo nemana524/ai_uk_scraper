@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Constance Street",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E16 2DQ",
+      "premises": "12"
+    },
+    "appointed_on": "2022-02-12",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1987
+    },
+    "links": {
+      "self": "/company/13912035/appointments/bbN5u382lIIS6CBj5UGCV4cQd2Y",
+      "officer": {
+        "appointments": "/officers/OBd-oFm7xvjM-6tN3a-4yD-Qnb4/appointments"
+      }
+    },
+    "name": "KHAN, Haider",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "292478200001"
+  }
+]

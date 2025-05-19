@@ -1,0 +1,65 @@
+{
+  "company_number": "15101355",
+  "company_name": "TECH LED CULTURE LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "BLOMSTROM, Duena Cristina Alexandra",
+      "officer_role": "director",
+      "appointed_on": "2023-08-29",
+      "resigned_on": null,
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "The Esplanade",
+        "address_line_2": "Sandgate",
+        "country": "England",
+        "locality": "Folkestone",
+        "postal_code": "CT20 3DT",
+        "premises": "3"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/15101355/appointments/qALn_2kuc4wI2dMF2W6LQXY-QQ0",
+        "officer": {
+          "appointments": "/officers/6Od1ae-aSQ0rqFlL11Ef2PaDBGw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "CREDLAND-BALLANTYNE, David",
+      "officer_role": "director",
+      "appointed_on": "2023-08-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "The Esplanade",
+        "address_line_2": "Sandgate",
+        "country": "England",
+        "locality": "Folkestone",
+        "postal_code": "CT20 3DT",
+        "premises": "3"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/15101355/appointments/xkVeipAO1GoxL_dMzY1Gs4UYrbI",
+        "officer": {
+          "appointments": "/officers/TYJ-3DdW9ycATPsHew5LqNTY0nI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

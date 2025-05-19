@@ -1,0 +1,738 @@
+[
+  {
+    "transaction_id": "MzQ1NTIwNTQyOWFkaXF6a2N4",
+    "barcode": "XDWKYJYJ",
+    "type": "CS01",
+    "date": "2025-02-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-09"
+    },
+    "pages": 3,
+    "action_date": "2025-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzQ1NTIwNTQyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qA4vw1xYl36fruMMtnvITutPS4OMJW8pEzZfs5m6HRo"
+    }
+  },
+  {
+    "transaction_id": "MzQ0ODM1NzA1NmFkaXF6a2N4",
+    "barcode": "ADI8170Q",
+    "type": "AA",
+    "date": "2024-12-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 8,
+    "action_date": "2024-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzQ0ODM1NzA1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/thMr-3CWM2z7woomq5-V8GeKQzFL2b1yM5rHxtD6n0k"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjY1MjAxM2FkaXF6a2N4",
+    "barcode": "XD3K6X20",
+    "type": "AD01",
+    "date": "2024-05-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-05-21",
+      "old_address": "C/O Suffolk Chamber of Commerce 42 Felaw Street Ipswich IP2 8SQ United Kingdom",
+      "new_address": "1st Floor the Atrium Building Long Street Ipswich IP4 1LQ"
+    },
+    "pages": 1,
+    "action_date": "2024-05-21",
+    "links": {
+      "self": "/company/09997111/filing-history/MzQyMjY1MjAxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ppYKRc6j9IQgLCC26rm9CN0VComHJi7HZR-x70_mlC8"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjU3NTE1MGFkaXF6a2N4",
+    "barcode": "XCXRNBWJ",
+    "type": "AP01",
+    "date": "2024-02-27",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Professor Gurpreet Singh Jagpal",
+      "appointment_date": "2024-02-16"
+    },
+    "pages": 2,
+    "action_date": "2024-02-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzQxMjU3NTE1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rz6Q7Mxgoa4mACb_YmS2yQs4zg0mPgu1Wn62WkmnOvE"
+    }
+  },
+  {
+    "transaction_id": "MzQxMTA5NDg0OWFkaXF6a2N4",
+    "barcode": "XCWV90A3",
+    "type": "CS01",
+    "date": "2024-02-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-02-09"
+    },
+    "pages": 3,
+    "action_date": "2024-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzQxMTA5NDg0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AqhS_F_xOVu-gGBR1nj2XrF0ovrX8YMwCLtKidRDsG8"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTEwNDUzOGFkaXF6a2N4",
+    "barcode": "ACFE9GMP",
+    "type": "AA",
+    "date": "2023-11-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 7,
+    "action_date": "2023-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzM5OTEwNDUzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xOdStF-XRbiQBkuz-KzQM3st4GCKHkDfw-0xLfTDDE8"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDY5NjgzM2FkaXF6a2N4",
+    "barcode": "XC0EKQ9L",
+    "type": "AP01",
+    "date": "2023-03-30",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Christopher Hugh Sargisson",
+      "appointment_date": "2023-03-27"
+    },
+    "pages": 2,
+    "action_date": "2023-03-27",
+    "links": {
+      "self": "/company/09997111/filing-history/MzM3NDY5NjgzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LmaLzApE17CBsYZZCpfn9W4OfKN_3LiTojisIqppGUc"
+    }
+  },
+  {
+    "transaction_id": "MzM2OTAxOTE0OGFkaXF6a2N4",
+    "barcode": "XBX8W6QJ",
+    "type": "CS01",
+    "date": "2023-02-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-02-09"
+    },
+    "pages": 3,
+    "action_date": "2023-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzM2OTAxOTE0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W_D6y-AsViZsE0nyGbk2nJKyNck27VT3Z_cXzSCXwts"
+    }
+  },
+  {
+    "transaction_id": "MzM2NzkzNDI4M2FkaXF6a2N4",
+    "barcode": "XBWFK9DS",
+    "type": "TM01",
+    "date": "2023-02-01",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "James Nicholas Marshall",
+      "termination_date": "2023-01-26"
+    },
+    "pages": 1,
+    "action_date": "2023-01-26",
+    "links": {
+      "self": "/company/09997111/filing-history/MzM2NzkzNDI4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TSWwWMgAQ2A-wRwj597o6AjjJqT7juiItIIr9fP1NJ8"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjEyNzQ4N2FkaXF6a2N4",
+    "barcode": "ABCL6PC3",
+    "type": "AA",
+    "date": "2022-09-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 7,
+    "action_date": "2022-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzM1MjEyNzQ4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SzPUCK9WBDhl0PJb8Ncipl5NmMm4AIZ5473EBTn5O0o"
+    }
+  },
+  {
+    "transaction_id": "MzMyOTUwNjc5NGFkaXF6a2N4",
+    "barcode": "XAXJX802",
+    "type": "CS01",
+    "date": "2022-02-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-02-09"
+    },
+    "pages": 3,
+    "action_date": "2022-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzMyOTUwNjc5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yym_AbPNR8yHXCXgxTsEt6PfMADpRQDQ7hTVIqZWaiE"
+    }
+  },
+  {
+    "transaction_id": "MzMxOTg3ODM2OGFkaXF6a2N4",
+    "barcode": "AAGY9JJL",
+    "type": "AA",
+    "date": "2021-11-11",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 8,
+    "action_date": "2021-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzMxOTg3ODM2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ILFm2aOThvgQLOz2ydgiMUjExRCTw2oFNdSgq3MbCZ0"
+    }
+  },
+  {
+    "transaction_id": "MzI5NjIyNTQwN2FkaXF6a2N4",
+    "barcode": "XA1DI7JF",
+    "type": "AP01",
+    "date": "2021-03-30",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr James Nicholas Marshall",
+      "appointment_date": "2021-03-16"
+    },
+    "pages": 2,
+    "action_date": "2021-03-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzI5NjIyNTQwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8VnIpcg8dzvhQfC-VSZ5WtRDiKkt8LoEcQEhgzZlvXs"
+    }
+  },
+  {
+    "transaction_id": "MzI5NjIwNzE4MGFkaXF6a2N4",
+    "barcode": "XA1DFUYX",
+    "type": "TM01",
+    "date": "2021-03-30",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Marlon Simon Bowser",
+      "termination_date": "2021-03-16"
+    },
+    "pages": 1,
+    "action_date": "2021-03-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzI5NjIwNzE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ws-97HOMiSER4Q6WESfRjr-GDQ5xP_efxsPAngVtEiQ"
+    }
+  },
+  {
+    "transaction_id": "MzI5NjE5OTk4NGFkaXF6a2N4",
+    "barcode": "XA1DEZ6W",
+    "type": "TM01",
+    "date": "2021-03-30",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Graham Robert Masterson",
+      "termination_date": "2021-03-16"
+    },
+    "pages": 1,
+    "action_date": "2021-03-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzI5NjE5OTk4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tCs-V8d3C_wbO_-s0MtNXNewB0gaMz_irnLKke915lw"
+    }
+  },
+  {
+    "transaction_id": "MzI5NTU1MjIzMGFkaXF6a2N4",
+    "barcode": "AA0D6GUG",
+    "type": "AA",
+    "date": "2021-03-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 8,
+    "action_date": "2020-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzI5NTU1MjIzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9dKQHZHy8UuBzbWCvC9imZ5XnRguFsQOi4oN3y1lnl4"
+    }
+  },
+  {
+    "transaction_id": "MzI5MTY3NTI2OGFkaXF6a2N4",
+    "barcode": "X9YJ2DS1",
+    "type": "CS01",
+    "date": "2021-02-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-02-09"
+    },
+    "pages": 3,
+    "action_date": "2021-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzI5MTY3NTI2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sj5HkUmQmNOldS-JFGk_PQ73JX50mBaHwP4eTzIecIw"
+    }
+  },
+  {
+    "transaction_id": "MzI3OTcyMTkwN2FkaXF6a2N4",
+    "barcode": "X9F2EGG2",
+    "type": "TM01",
+    "date": "2020-10-06",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mike Gordon Richard Kingston",
+      "termination_date": "2020-05-04"
+    },
+    "pages": 1,
+    "action_date": "2020-05-04",
+    "links": {
+      "self": "/company/09997111/filing-history/MzI3OTcyMTkwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2OuI9KXh-jAmcOq7p2a0wCSEaacD27zbQqNtPJwT62k"
+    }
+  },
+  {
+    "transaction_id": "MzI1NzY1OTAxNmFkaXF6a2N4",
+    "barcode": "X8Z5ZY4I",
+    "type": "CS01",
+    "date": "2020-02-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-02-09"
+    },
+    "pages": 3,
+    "action_date": "2020-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzI1NzY1OTAxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7JcUtUwIy7swF8I7ZQtXmh3VB1AiQngG99O8HsCk2po"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjczNjExNGFkaXF6a2N4",
+    "barcode": "X8YAF57E",
+    "type": "TM01",
+    "date": "2020-02-07",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Hayley Dee Johnson",
+      "termination_date": "2020-01-29"
+    },
+    "pages": 1,
+    "action_date": "2020-01-29",
+    "links": {
+      "self": "/company/09997111/filing-history/MzI1NjczNjExNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/60n9uJFXpiFtfIyPWKXma3y-1I_3GdWf1Cvtlq1t1lA"
+    }
+  },
+  {
+    "transaction_id": "MzI0OTgwNzA5OGFkaXF6a2N4",
+    "barcode": "A8INY02Z",
+    "type": "AA",
+    "date": "2019-11-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 7,
+    "action_date": "2019-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzI0OTgwNzA5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BTtNbLl_xcwo9kyO5bZkTcJZXOvGLvTtK6MkHST8lQo"
+    }
+  },
+  {
+    "transaction_id": "MzIyNzI5NDAyMGFkaXF6a2N4",
+    "barcode": "X7ZMRZUX",
+    "type": "CS01",
+    "date": "2019-02-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-02-09"
+    },
+    "pages": 3,
+    "action_date": "2019-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzIyNzI5NDAyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pEuDFrm2vMpHcebzwWyoyh5kJYDqJwXjZrBjqoC6s6k"
+    }
+  },
+  {
+    "transaction_id": "MzIyMTM4NjkzNGFkaXF6a2N4",
+    "barcode": "A7K3YZS3",
+    "type": "AA",
+    "date": "2018-12-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2018-03-31"
+    },
+    "pages": 5,
+    "action_date": "2018-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzIyMTM4NjkzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_GvBYuQzgGuwjE5UHqG4hahKxu8Hu4kUZWXqwieVPjU"
+    }
+  },
+  {
+    "transaction_id": "MzIwMDE0OTk2MmFkaXF6a2N4",
+    "barcode": "X71R44H5",
+    "type": "AP01",
+    "date": "2018-03-15",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Lisa Perkins",
+      "appointment_date": "2018-03-07"
+    },
+    "pages": 2,
+    "action_date": "2018-03-07",
+    "links": {
+      "self": "/company/09997111/filing-history/MzIwMDE0OTk2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tcKCU1gKS7sN-XvxZonnZ0cV6SKTn3pbKZrYiT23y20"
+    }
+  },
+  {
+    "transaction_id": "MzE5ODA0NjQwMGFkaXF6a2N4",
+    "barcode": "X704C12Z",
+    "type": "CS01",
+    "date": "2018-02-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-02-09"
+    },
+    "pages": 3,
+    "action_date": "2018-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE5ODA0NjQwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3WfCzE5oxKVcBck6kqMR1VCND22FwC8E2TgPI0b41Ho"
+    }
+  },
+  {
+    "transaction_id": "MzE5NTI3MTY0NmFkaXF6a2N4",
+    "barcode": "X6XOPG5K",
+    "type": "AP01",
+    "date": "2018-01-15",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Hayley Dee Johnson",
+      "appointment_date": "2018-01-08"
+    },
+    "pages": 2,
+    "action_date": "2018-01-08",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE5NTI3MTY0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oCjzRpOOMfNcApnEbFttxfNe3BRiUr2aTnPDkxAsLE8"
+    }
+  },
+  {
+    "transaction_id": "MzE4OTgzMDI0N2FkaXF6a2N4",
+    "barcode": "L6ILI9TS",
+    "type": "AA",
+    "date": "2017-11-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2017-03-31"
+    },
+    "pages": 5,
+    "action_date": "2017-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzE4OTgzMDI0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JRwmg2u-7ipsUVhqmSB4fSM-Q1Dvdm1D8WfbfvCYijE"
+    }
+  },
+  {
+    "transaction_id": "MzE4Mzk5MTU2OWFkaXF6a2N4",
+    "barcode": "X6DTKJSB",
+    "type": "TM01",
+    "date": "2017-08-29",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Neil Robert Garner",
+      "termination_date": "2017-08-25"
+    },
+    "pages": 1,
+    "action_date": "2017-08-25",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE4Mzk5MTU2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/u2tARpH8dI5srQiCE4nXwj35idZC3t0AKivl8MkpMVw"
+    }
+  },
+  {
+    "transaction_id": "MzE2OTM4MzY4M2FkaXF6a2N4",
+    "barcode": "X60PQCJ5",
+    "type": "CS01",
+    "date": "2017-02-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-02-09"
+    },
+    "pages": 5,
+    "action_date": "2017-02-09",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE2OTM4MzY4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tZxq46oEXaK8Culv5brJ9t52rl9HWwlUhogwyDJQXwk"
+    }
+  },
+  {
+    "transaction_id": "MzE2MDA4NDMwOGFkaXF6a2N4",
+    "barcode": "A5HK9B5L",
+    "type": "AA01",
+    "date": "2016-10-24",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2017-02-28",
+      "new_date": "2017-03-31"
+    },
+    "pages": 3,
+    "action_date": "2017-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzE2MDA4NDMwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kmi04suZ_HQQBIpZA_57UUm67cMyDnbU6scUeKZmDa0"
+    }
+  },
+  {
+    "transaction_id": "MzE1NDk1NTQ4NWFkaXF6a2N4",
+    "barcode": "X5D4EEDK",
+    "type": "AP01",
+    "date": "2016-08-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Graham Robert Masterson",
+      "appointment_date": "2016-06-16"
+    },
+    "pages": 2,
+    "action_date": "2016-06-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE1NDk1NTQ4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C48E0JvJ8TqrNUpZUND-JeDzkAub3qW-JaX4eu2878g"
+    }
+  },
+  {
+    "transaction_id": "MzE1NDk1NTI5OGFkaXF6a2N4",
+    "barcode": "X5D4EDSX",
+    "type": "AP01",
+    "date": "2016-08-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Mike Gordon Richard Kingston",
+      "appointment_date": "2016-06-16"
+    },
+    "pages": 2,
+    "action_date": "2016-06-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE1NDk1NTI5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EHO_cfwodYvUGc41hCuiRcj7E4bxA11Oj0qW8gRiIr4"
+    }
+  },
+  {
+    "transaction_id": "MzE1NDk1NDkzMGFkaXF6a2N4",
+    "barcode": "X5D4ECKJ",
+    "type": "AP01",
+    "date": "2016-08-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Neil David Miles",
+      "appointment_date": "2016-06-16"
+    },
+    "pages": 2,
+    "action_date": "2016-06-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE1NDk1NDkzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QQ2aXCIj5tJLJ6XE6I0XII1j_wiHvPD0PHcPVoqR8aE"
+    }
+  },
+  {
+    "transaction_id": "MzE1NDk1NDYwOWFkaXF6a2N4",
+    "barcode": "X5D4EB6O",
+    "type": "AP01",
+    "date": "2016-08-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Professor Fiona Elaine Lettice",
+      "appointment_date": "2016-06-16"
+    },
+    "pages": 2,
+    "action_date": "2016-06-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE1NDk1NDYwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ii6mrlWWWN4WbLFysKKMfg9kXL9rx0xgHIxxcnM_xoI"
+    }
+  },
+  {
+    "transaction_id": "MzE1NDk1NDE0NWFkaXF6a2N4",
+    "barcode": "X5D4E9LK",
+    "type": "AP01",
+    "date": "2016-08-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Marlon Simon Bowser",
+      "appointment_date": "2016-06-16"
+    },
+    "pages": 2,
+    "action_date": "2016-06-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE1NDk1NDE0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GkBgGmEMZducu3WfzdXuUmIp33oSfYh1kp1sVv_RO6g"
+    }
+  },
+  {
+    "transaction_id": "MzE1NDk1MzgzM2FkaXF6a2N4",
+    "barcode": "X5D4E8MV",
+    "type": "AP01",
+    "date": "2016-08-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Dr Neil Robert Garner",
+      "appointment_date": "2016-06-16"
+    },
+    "pages": 2,
+    "action_date": "2016-06-16",
+    "links": {
+      "self": "/company/09997111/filing-history/MzE1NDk1MzgzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EZI_4752JvOkDBcQasOUbHg2_uix6Bv6Jls-ZEpvJvg"
+    }
+  },
+  {
+    "transaction_id": "QTU3Q1dESDVhZGlxemtjeA",
+    "type": "RESOLUTIONS",
+    "date": "2016-05-24",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "incorporation",
+        "description": "resolution-adopt-articles",
+        "type": "RES01",
+        "subcategory": "resolution",
+        "description_values": {
+          "res_type": "ADOPT ARTICLES"
+        }
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 25,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/QTU3Q1dESDVhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PI8cvYMNjDrFQlNbkeJT3_fHCWY0O9KHRnkQ48PTOM4"
+    }
+  },
+  {
+    "transaction_id": "MzE0OTIyMDQzNWFkaXF6a2N4",
+    "barcode": "A57CWDGX",
+    "type": "CC04",
+    "date": "2016-05-24",
+    "category": "change-of-constitution",
+    "description": "statement-of-companys-objects",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09997111/filing-history/MzE0OTIyMDQzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zDQGYE1-rHCSJaeKpIQwiFqeFJ7anb6fgk3TJk8wBbE"
+    }
+  },
+  {
+    "transaction_id": "MzE0MTU0Njg1N2FkaXF6a2N4",
+    "barcode": "X50DP62Q",
+    "type": "NEWINC",
+    "date": "2016-02-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-02-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-02-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2016-02-10"
+      },
+      {
+        "category": "incorporation",
+        "date": "2016-02-10",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 8,
+    "links": {
+      "self": "/company/09997111/filing-history/MzE0MTU0Njg1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LOIHxS8bwFC51OkfgVo42IrltrRThvff_2B7Tvsd6xg"
+    }
+  }
+]

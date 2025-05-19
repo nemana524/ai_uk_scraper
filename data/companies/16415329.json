@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2027-01-29",
+      "overdue": false,
+      "period_end_on": "2026-04-30",
+      "period_start_on": "2025-04-29"
+    },
+    "next_due": "2027-01-29",
+    "next_made_up_to": "2026-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EYE VISION LTD",
+  "company_number": "16415329",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-05-12",
+    "next_made_up_to": "2026-04-28",
+    "overdue": false
+  },
+  "date_of_creation": "2025-04-29",
+  "etag": "c5a6ef39ee0abea01f09ee1549398b9d014b4a8b",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16415329/persons-with-significant-control",
+    "self": "/company/16415329",
+    "filing_history": "/company/16415329/filing-history",
+    "officers": "/company/16415329/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "59 Accrington Road",
+    "country": "England",
+    "locality": "Blackburn",
+    "postal_code": "BB1 2AF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "80200"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

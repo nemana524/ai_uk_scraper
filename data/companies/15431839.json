@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-22",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-01-22"
+    },
+    "next_due": "2025-10-22",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH IR LIMITED",
+  "company_number": "15431839",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-21",
+    "next_due": "2026-02-04",
+    "next_made_up_to": "2026-01-21",
+    "overdue": false
+  },
+  "date_of_creation": "2024-01-22",
+  "etag": "01d26e2205a3b5ce58fe9439b652e7f4be0a431f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15431839/persons-with-significant-control",
+    "self": "/company/15431839",
+    "filing_history": "/company/15431839/filing-history",
+    "officers": "/company/15431839/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "287 Lower Addiscombe Road",
+    "country": "England",
+    "locality": "Croydon",
+    "postal_code": "CR0 6RE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47410"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ANGELS LTD",
+  "company_number": "08563241",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-10",
+    "next_due": "2025-06-24",
+    "next_made_up_to": "2025-06-10",
+    "overdue": false
+  },
+  "date_of_creation": "2013-06-10",
+  "etag": "05a6452399aafb536085a3d4c2f587b5b917243f",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-06-10",
+  "links": {
+    "persons_with_significant_control": "/company/08563241/persons-with-significant-control",
+    "self": "/company/08563241",
+    "filing_history": "/company/08563241/filing-history",
+    "officers": "/company/08563241/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "5 Imperial Court",
+    "address_line_2": "Laporte Way",
+    "country": "England",
+    "locality": "Luton",
+    "postal_code": "LU4 8FE",
+    "region": "Bedfordshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

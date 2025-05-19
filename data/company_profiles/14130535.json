@@ -1,0 +1,44 @@
+{
+  "company_number": "14130535",
+  "company_name": "TECH JUICE LTD",
+  "company_status": "active",
+  "date_of_creation": "2022-05-25",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "96090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "209c Bravington Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W9 3AR"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "0782c37a62fde412f3901b6f1b308a421aecb55d"
+}

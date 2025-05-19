@@ -1,0 +1,45 @@
+{
+  "company_number": "14792799",
+  "company_name": "TECH CUISINE LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-04-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "27510"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Woodlands Grange Woodlands Lane",
+    "address_line_2": "Bradley Stoke",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS32 4JY"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-04-11",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "5c580e0ab7c188c5cd7ff149da160e5c963e8884"
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "14870166",
+  "company_name": "TECH CF LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ATHEY, Christopher",
+      "officer_role": "director",
+      "appointed_on": "2023-05-15",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Laminator",
+      "address": {
+        "address_line_1": "Elmont Close",
+        "country": "United Kingdom",
+        "locality": "Newcastle",
+        "postal_code": "NE5 2GD",
+        "premises": "6"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/14870166/appointments/jfFsRhDkY5Dg6i4LT-7Y8xunKpI",
+        "officer": {
+          "appointments": "/officers/PqT7-MyrB-Z6Yufi7hhHQQap7eU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Giorgi Akhvlediani Street",
+      "country": "Georgia",
+      "locality": "Tbilisi",
+      "postal_code": "0108",
+      "premises": "25/2"
+    },
+    "appointed_on": "2025-01-13",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Georgia",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1997
+    },
+    "links": {
+      "self": "/company/16180086/appointments/TdkTrgblGhXH8TL3Dq0TcuV5ubw",
+      "officer": {
+        "appointments": "/officers/WH40xXPDvk3Ge033BxhakY2OJrc/appointments"
+      }
+    },
+    "name": "CHKHAIDZE, Salome",
+    "nationality": "Georgian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "331136370001"
+  }
+]

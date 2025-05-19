@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FACILITIES SERVICES LIMITED",
+  "company_number": "NI630140",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-16",
+    "next_due": "2026-03-02",
+    "next_made_up_to": "2026-02-16",
+    "overdue": false
+  },
+  "date_of_creation": "2015-03-20",
+  "etag": "9f0ac318b6028531b245e37488fc50c04722318d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "last_full_members_list_date": "2016-03-20",
+  "links": {
+    "persons_with_significant_control": "/company/NI630140/persons-with-significant-control",
+    "self": "/company/NI630140",
+    "filing_history": "/company/NI630140/filing-history",
+    "officers": "/company/NI630140/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "5 Moss Road",
+    "address_line_2": "Gawleys Gate",
+    "country": "Northern Ireland",
+    "locality": "Aghalee",
+    "postal_code": "BT67 0BU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43210"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

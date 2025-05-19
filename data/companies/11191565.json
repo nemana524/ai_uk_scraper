@@ -1,0 +1,56 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2019-11-07",
+      "overdue": true,
+      "period_end_on": "2019-02-28",
+      "period_start_on": "2018-02-07"
+    },
+    "next_due": "2019-11-07",
+    "next_made_up_to": "2019-02-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH IMPORTS (LONDON) LIMITED",
+  "company_number": "11191565",
+  "company_status": "liquidation",
+  "confirmation_statement": {
+    "last_made_up_to": "2020-02-06",
+    "next_due": "2021-03-20",
+    "next_made_up_to": "2021-02-06",
+    "overdue": true
+  },
+  "date_of_creation": "2018-02-07",
+  "etag": "8c0cc7081e22d07dd2d192f9924f6734459c3c03",
+  "has_charges": false,
+  "has_insolvency_history": true,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11191565/persons-with-significant-control",
+    "self": "/company/11191565",
+    "filing_history": "/company/11191565/filing-history",
+    "insolvency": "/company/11191565/insolvency",
+    "officers": "/company/11191565/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "C/O Geoffrey Martin & Co 3rd Floor",
+    "address_line_2": "One Park Row",
+    "locality": "Leeds",
+    "postal_code": "LS1 5HN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46420",
+    "56290",
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false
+}

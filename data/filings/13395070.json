@@ -1,0 +1,307 @@
+[
+  {
+    "transaction_id": "MzQ2NTczNjUyNGFkaXF6a2N4",
+    "barcode": "XE2E9EUQ",
+    "type": "CS01",
+    "date": "2025-05-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-05-12"
+    },
+    "pages": 3,
+    "action_date": "2025-05-12",
+    "links": {
+      "self": "/company/13395070/filing-history/MzQ2NTczNjUyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jC5fxH0ajvcjRzJ4Xr_tK9BCTxD1aCJdH04cQ1KwPtc"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NTY0NTM3NmFkaXF6a2N4",
+    "barcode": "XE26LJFL",
+    "type": "AA",
+    "date": "2025-05-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2025-02-28"
+    },
+    "pages": 2,
+    "action_date": "2025-02-28",
+    "links": {
+      "self": "/company/13395070/filing-history/MzQ2NTY0NTM3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bOI957OMRI4QNs8U-Qgk3SNNXrTSM7L0P3IADFZBaws"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzkxODUzMGFkaXF6a2N4",
+    "barcode": "XD6XB2DT",
+    "type": "AD01",
+    "date": "2024-07-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-07-08",
+      "old_address": "Flat 3 74 Comeragh Road London W14 9HR England",
+      "new_address": "Flat 3, 74 Comeragh Road London W14 9HR"
+    },
+    "pages": 1,
+    "action_date": "2024-07-08",
+    "links": {
+      "self": "/company/13395070/filing-history/MzQyNzkxODUzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qU1q2RP8EoOthyCRP9ZiCbmPJmIEY72VDrn0-ITx0dk"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzkxNzkyOGFkaXF6a2N4",
+    "barcode": "XD6XAZQG",
+    "type": "AD01",
+    "date": "2024-07-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-07-08",
+      "old_address": "Flat 3 Comeragh Road London W14 9HR England",
+      "new_address": "Flat 3 74 Comeragh Road London W14 9HR"
+    },
+    "pages": 1,
+    "action_date": "2024-07-08",
+    "links": {
+      "self": "/company/13395070/filing-history/MzQyNzkxNzkyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KaQ6Zom2EEqB049TNKwBsafVz-eEwFNqvFUJMvUstoc"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTAwOTc5OWFkaXF6a2N4",
+    "barcode": "XD54J8U1",
+    "type": "AD01",
+    "date": "2024-06-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-06-12",
+      "old_address": "21a Acton Street London WC1X 9LX England",
+      "new_address": "Flat 3 Comeragh Road London W14 9HR"
+    },
+    "pages": 1,
+    "action_date": "2024-06-12",
+    "links": {
+      "self": "/company/13395070/filing-history/MzQyNTAwOTc5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XYgLW0PV7iCHFrn6Ig5cldLZ104-juI25jTHle27dm8"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTM2Njg4OWFkaXF6a2N4",
+    "barcode": "XD3154E8",
+    "type": "CS01",
+    "date": "2024-05-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-12"
+    },
+    "pages": 3,
+    "action_date": "2024-05-12",
+    "links": {
+      "self": "/company/13395070/filing-history/MzQyMTM2Njg4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WZiPj9KqZ44gegt1yed_rDiAKBCZSdZq9s2u_c3_Nzk"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDIzMTA0MWFkaXF6a2N4",
+    "barcode": "XD255B88",
+    "type": "AA",
+    "date": "2024-04-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-02-29"
+    },
+    "pages": 2,
+    "action_date": "2024-02-29",
+    "links": {
+      "self": "/company/13395070/filing-history/MzQyMDIzMTA0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9pXZPMFQn1sS6Hl5cBa5VfpTFYAkim5o1DjUjLfa3dY"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDA3MDI2N2FkaXF6a2N4",
+    "barcode": "XC3RD7TL",
+    "type": "CS01",
+    "date": "2023-05-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-05-12"
+    },
+    "pages": 3,
+    "action_date": "2023-05-12",
+    "links": {
+      "self": "/company/13395070/filing-history/MzM4MDA3MDI2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/05jUKvOO3zhK1aXtBCWytUYWORS6RVeFyFfRk-oj4cY"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTIzNDkwOGFkaXF6a2N4",
+    "barcode": "XC3B245E",
+    "type": "AA",
+    "date": "2023-05-11",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-02-28"
+    },
+    "pages": 2,
+    "action_date": "2023-02-28",
+    "links": {
+      "self": "/company/13395070/filing-history/MzM3OTIzNDkwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jd61n23GpRxY3TO8lVTkc2J3Y2zAUWGD4sj1WNyaCck"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODkwNDIzNmFkaXF6a2N4",
+    "barcode": "XC35OK2G",
+    "type": "CH01",
+    "date": "2023-05-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-08",
+      "officer_name": "Mr Kemal Isik"
+    },
+    "pages": 2,
+    "action_date": "2023-05-08",
+    "links": {
+      "self": "/company/13395070/filing-history/MzM3ODkwNDIzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ImQZEswiOE6nHyotZjnJnubf-KGROAz5Lz33bOt7aII"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODkwNDExOGFkaXF6a2N4",
+    "barcode": "XC35OJR7",
+    "type": "PSC04",
+    "date": "2023-05-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-05-08",
+      "psc_name": "Mr Kemal Isik"
+    },
+    "pages": 2,
+    "action_date": "2023-05-08",
+    "links": {
+      "self": "/company/13395070/filing-history/MzM3ODkwNDExOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1O9E-Xe0eBWjtxReRPsg1rldDSonydN570bBwszDNWU"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODkwNDAzNGFkaXF6a2N4",
+    "barcode": "XC35OJD5",
+    "type": "AD01",
+    "date": "2023-05-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-09",
+      "old_address": "49 Brunswick House Parr's Way London W6 9LH England",
+      "new_address": "21a Acton Street London WC1X 9LX"
+    },
+    "pages": 1,
+    "action_date": "2023-05-09",
+    "links": {
+      "self": "/company/13395070/filing-history/MzM3ODkwNDAzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PEGqlY49ntoCUokNWnBdbv4UgZQrwy22r1ANj9w6h0A"
+    }
+  },
+  {
+    "transaction_id": "MzM0MDkxNjMzOWFkaXF6a2N4",
+    "barcode": "XB5332EW",
+    "type": "CS01",
+    "date": "2022-05-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-05-12"
+    },
+    "pages": 3,
+    "action_date": "2022-05-12",
+    "links": {
+      "self": "/company/13395070/filing-history/MzM0MDkxNjMzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MvLXTDEQQ5ieG7oXw_1OhhRnhONl8bHwUtDPOmemVWA"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjY4NzM2N2FkaXF6a2N4",
+    "barcode": "XAZPO8K8",
+    "type": "AA",
+    "date": "2022-03-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-02-28"
+    },
+    "pages": 3,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/13395070/filing-history/MzMzMjY4NzM2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NhISwg4cv3VDI3mJzRiXg03coUSG20DIZeHL_oP_i9U"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjY1NTQzN2FkaXF6a2N4",
+    "barcode": "XAZKMYKR",
+    "type": "AA01",
+    "date": "2022-03-11",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2022-05-31",
+      "new_date": "2022-02-28"
+    },
+    "pages": 1,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/13395070/filing-history/MzMzMjY1NTQzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/B9u7t6klqfPUm2GR51R7upR2jTbd2lRaVO-Juey-jJg"
+    }
+  },
+  {
+    "transaction_id": "MzMwMDY2NjIzNWFkaXF6a2N4",
+    "barcode": "XA4ARCB4",
+    "type": "NEWINC",
+    "date": "2021-05-13",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-05-13",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-05-13",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-05-13",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2021-05-13"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13395070/filing-history/MzMwMDY2NjIzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ICF8fGCNxOGx792oIXFWuE7kmTFmTyylb6VIvAuazs4"
+    }
+  }
+]

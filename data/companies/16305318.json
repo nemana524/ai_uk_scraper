@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-10",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-03-10"
+    },
+    "next_due": "2026-12-10",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FOR LESS LTD",
+  "company_number": "16305318",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2026-03-23",
+    "next_made_up_to": "2026-03-09",
+    "overdue": false
+  },
+  "date_of_creation": "2025-03-10",
+  "etag": "97b9bc6a574d18180fce60e71dc739af5c304320",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16305318/persons-with-significant-control",
+    "self": "/company/16305318",
+    "filing_history": "/company/16305318/filing-history",
+    "officers": "/company/16305318/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "15 Telham Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E6 6BW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46520"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

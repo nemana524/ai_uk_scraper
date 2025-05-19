@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-16",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-08-16"
+    },
+    "next_due": "2026-05-16",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FACILITY LTD",
+  "company_number": "15901910",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-08-29",
+    "next_made_up_to": "2025-08-15",
+    "overdue": false
+  },
+  "date_of_creation": "2024-08-16",
+  "etag": "18e0cadd1e8df5d6fd13736024e66d7099abc342",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15901910/persons-with-significant-control",
+    "self": "/company/15901910",
+    "filing_history": "/company/15901910/filing-history",
+    "officers": "/company/15901910/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "50 St Chads Road",
+    "country": "United Kingdom",
+    "locality": "Derby",
+    "postal_code": "DE23 6RR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

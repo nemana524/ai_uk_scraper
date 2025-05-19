@@ -1,0 +1,45 @@
+{
+  "company_number": "13761685",
+  "company_name": "TECH CO GROUP LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2021-11-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46510"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Savile Business Centre",
+    "address_line_2": "Mill Street East",
+    "country": "England",
+    "locality": "Dewsbury",
+    "postal_code": "WF12 9AH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "etag": "0247b29b90e0610c5a8b4cff11c7c0817bb31edf"
+}

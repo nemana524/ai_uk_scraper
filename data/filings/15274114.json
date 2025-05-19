@@ -1,0 +1,173 @@
+[
+  {
+    "transaction_id": "MzQ2MTk0MjA1NWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-04-22",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15274114/filing-history/MzQ2MTk0MjA1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T19mGGRbyad-O8dvUSOukm4i7P_9qatxgtEM1mc8LUk"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MDAwMDU2MmFkaXF6a2N4",
+    "barcode": "UDZ1XKVF",
+    "type": "RP05",
+    "date": "2025-03-25",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2025-03-25",
+      "default_address": "PO Box 4385, 15274114 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2025-03-25",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15274114/filing-history/MzQ2MDAwMDU2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/brVHXpJwnXjaPk7Dzxu7JmAuHqEFstx2WorRiZhCMms"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MjAxMjU5MGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-01-28",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15274114/filing-history/MzQ1MjAxMjU5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Lt6UC-WqsrDtSfDvFwRemYcvscS8lQmuQCKJyGXHODI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTE0NjA2OWFkaXF6a2N4",
+    "barcode": "XDGR23OO",
+    "type": "CH01",
+    "date": "2024-11-27",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-11-27",
+      "officer_name": "Mr Abdelkader Benghaffor"
+    },
+    "pages": 2,
+    "action_date": "2024-11-27",
+    "links": {
+      "self": "/company/15274114/filing-history/MzQ0NTE0NjA2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nr-frWlW43qf2qZPjIG4cBi4HJkBYBl4FrmgRC-hxKA"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTE0NjA3MmFkaXF6a2N4",
+    "barcode": "XDGR23Q8",
+    "type": "PSC04",
+    "date": "2024-11-27",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-11-27",
+      "psc_name": "Mr Abdelkader Benghaffor"
+    },
+    "pages": 2,
+    "action_date": "2024-11-27",
+    "links": {
+      "self": "/company/15274114/filing-history/MzQ0NTE0NjA3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gfrgFgw_B6IZF1rjYgSPCTUShMJES6haraqPaVK0DH0"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTE0NDA5NWFkaXF6a2N4",
+    "barcode": "XDGR1VGY",
+    "type": "AD01",
+    "date": "2024-11-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-11-27",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ United Kingdom",
+      "new_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2024-11-27",
+    "links": {
+      "self": "/company/15274114/filing-history/MzQ0NTE0NDA5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NbAdeWK4jE7H1ALe7qugk6RB7-OIvtAAxhErRsZIkXs"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDM0OTcxNWFkaXF6a2N4",
+    "barcode": "XCYTNLUP",
+    "type": "TM02",
+    "date": "2024-03-13",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Rf Secretaries Limited",
+      "termination_date": "2024-03-01"
+    },
+    "pages": 1,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/15274114/filing-history/MzQxNDM0OTcxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DEmAAwr0dPWOSUuwyXo6Ic58pjppjs4F4q2KHzD3lKU"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTc3ODc3NGFkaXF6a2N4",
+    "barcode": "XCG8420G",
+    "type": "AP04",
+    "date": "2023-11-13",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-corporate-secretary-company-with-name-date",
+    "description_values": {
+      "officer_name": "Rf Secretaries Limited",
+      "appointment_date": "2023-11-13"
+    },
+    "pages": 2,
+    "action_date": "2023-11-13",
+    "links": {
+      "self": "/company/15274114/filing-history/MzM5OTc3ODc3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SdbcVtATkX89sdC09wVEzI4DgNqHPBm_PdQlRe1aipQ"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTQxMTY1MGFkaXF6a2N4",
+    "barcode": "XCFXKIKB",
+    "type": "NEWINC",
+    "date": "2023-11-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-11-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-11-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-11-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/15274114/filing-history/MzM5OTQxMTY1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T42j-wRXqOuN5Fzzp4KJgggwGOk7MjFq8DUy7ecFel0"
+    }
+  }
+]

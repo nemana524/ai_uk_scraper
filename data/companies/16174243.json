@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2026-10-09",
+      "overdue": false,
+      "period_end_on": "2026-01-31",
+      "period_start_on": "2025-01-09"
+    },
+    "next_due": "2026-10-09",
+    "next_made_up_to": "2026-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FORTUNE LIMITED",
+  "company_number": "16174243",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-01-22",
+    "next_made_up_to": "2026-01-08",
+    "overdue": false
+  },
+  "date_of_creation": "2025-01-09",
+  "etag": "4696426bdcad36aa15e380de98cbfff86a73aea9",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16174243/persons-with-significant-control",
+    "self": "/company/16174243",
+    "filing_history": "/company/16174243/filing-history",
+    "officers": "/company/16174243/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "302 Dudley Road",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B18 4HL"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

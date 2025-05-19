@@ -1,0 +1,46 @@
+{
+  "company_number": "15186107",
+  "company_name": "TECH ELECTRICAL LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-10-04",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "43210"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Harrison House Sheep Walk",
+    "address_line_2": "Langford Road",
+    "country": "England",
+    "locality": "Biggleswade",
+    "postal_code": "SG18 9RB",
+    "region": "Bedfordshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-10-31",
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-04",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-31",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-11-01"
+    },
+    "next_due": "2026-07-31",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "etag": "8bdb77f458494b12d6f625685e8132ea5f7b2e23"
+}

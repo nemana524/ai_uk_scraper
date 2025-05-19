@@ -1,0 +1,44 @@
+{
+  "company_number": "NI672774",
+  "company_name": "TECH 4.0 LTD",
+  "company_status": "active",
+  "date_of_creation": "2020-09-21",
+  "type": "ltd",
+  "jurisdiction": "northern-ireland",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "82 Ballycullen Road",
+    "country": "Northern Ireland",
+    "locality": "Dungannon",
+    "postal_code": "BT71 7HT"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "etag": "a929b0252790164322c89ff0cff777849a3c2c64"
+}

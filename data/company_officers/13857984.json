@@ -1,0 +1,35 @@
+{
+  "company_number": "13857984",
+  "company_name": "TECH GROWTH LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PARRY, Nicholas David",
+      "officer_role": "director",
+      "appointed_on": "2022-01-19",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Oldfield Road",
+        "country": "England",
+        "locality": "Bath",
+        "postal_code": "BA2 3NE",
+        "premises": "33"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/13857984/appointments/7QTLLqWQtuYWrmdx8pLk2kwQ1Y0",
+        "officer": {
+          "appointments": "/officers/4rgQnkUUICVEpk_tDk20pNrEUCI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

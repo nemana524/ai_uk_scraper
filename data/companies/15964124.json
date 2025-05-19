@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-18",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-09-18"
+    },
+    "next_due": "2026-06-18",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ATTITUDE LTD",
+  "company_number": "15964124",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-10-01",
+    "next_made_up_to": "2025-09-17",
+    "overdue": false
+  },
+  "date_of_creation": "2024-09-18",
+  "etag": "ba85105bcfd4f09657a179dcb7200af1112b027a",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15964124/persons-with-significant-control",
+    "self": "/company/15964124",
+    "filing_history": "/company/15964124/filing-history",
+    "officers": "/company/15964124/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "2nd Floor College House",
+    "address_line_2": "17 King Edwards Road,",
+    "country": "United Kingdom",
+    "locality": "Ruislip,",
+    "postal_code": "HA4 7AE",
+    "region": "London,"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "85600"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

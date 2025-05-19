@@ -1,0 +1,45 @@
+{
+  "company_number": "11670095",
+  "company_name": "TECH KNOW LOGIC CONSULTING LTD",
+  "company_status": "active",
+  "date_of_creation": "2018-11-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "82990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "73 Clifford Bridge Road",
+    "address_line_2": "Binley",
+    "country": "United Kingdom",
+    "locality": "Coventry",
+    "postal_code": "CV3 2DW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "etag": "41548a09ce3f94ae86ad9d94c943f0217023870c"
+}

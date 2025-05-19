@@ -1,0 +1,36 @@
+{
+  "company_number": "15802097",
+  "company_name": "TECH IGNITE LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SRINIVASMURTHY, Yamini",
+      "officer_role": "director",
+      "appointed_on": "2024-06-25",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Mainside",
+        "address_line_2": "Redmarshall",
+        "country": "England",
+        "locality": "Stockton-On-Tees",
+        "postal_code": "TS21 1HY",
+        "premises": "14"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1999
+      },
+      "links": {
+        "self": "/company/15802097/appointments/tcBtFPBpnZ3jr4gSWOBrM9FoO_c",
+        "officer": {
+          "appointments": "/officers/NzV6sHWbu3ou_Be2wP38MLg_HZ8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

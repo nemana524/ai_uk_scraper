@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-09-07",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AHEAD LIMITED",
+  "company_number": "14343481",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-09-06",
+    "next_due": "2024-09-20",
+    "next_made_up_to": "2024-09-06",
+    "overdue": true
+  },
+  "date_of_creation": "2022-09-07",
+  "etag": "3236b26bcb44fb5976404338ab5ec3bddce337b6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14343481/persons-with-significant-control",
+    "self": "/company/14343481",
+    "filing_history": "/company/14343481/filing-history",
+    "officers": "/company/14343481/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Studio 123 Trident Court 1 Oakcroft Road",
+    "locality": "Chessington",
+    "postal_code": "KT9 1BD",
+    "region": "Surrey"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

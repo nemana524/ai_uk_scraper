@@ -1,0 +1,51 @@
+[
+  {
+    "address": {
+      "address_line_1": "Denmark Close",
+      "country": "United Kingdom",
+      "locality": "Corby",
+      "postal_code": "NN18 9EH",
+      "premises": "10",
+      "region": "Northamptonshire"
+    },
+    "appointed_on": "2024-03-19",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15577069/appointments/KYDxlC6DTri7ZAXR2nhEbTHfb48",
+      "officer": {
+        "appointments": "/officers/-8ChnkcaWmGkhIA2005_xUuKTcY/appointments"
+      }
+    },
+    "name": "FALUSI, Tolu",
+    "officer_role": "secretary",
+    "person_number": "320739200001"
+  },
+  {
+    "address": {
+      "address_line_1": "Denmark Close",
+      "country": "United Kingdom",
+      "locality": "Corby",
+      "postal_code": "NN18 9EH",
+      "premises": "10",
+      "region": "Northamptonshire"
+    },
+    "appointed_on": "2024-03-19",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1964
+    },
+    "links": {
+      "self": "/company/15577069/appointments/6wY32sdWADKK_Yj8P4wADpH1lbk",
+      "officer": {
+        "appointments": "/officers/KaaWnvq7fqUr3dxweAzc277tMcE/appointments"
+      }
+    },
+    "name": "FALUSI, Tolu",
+    "nationality": "British",
+    "occupation": "I.T. Enterpreneur",
+    "officer_role": "director",
+    "person_number": "320739190001"
+  }
+]

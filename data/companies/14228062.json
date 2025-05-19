@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-31",
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-08-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-08-01"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GUARDING LTD",
+  "company_number": "14228062",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-11",
+    "next_due": "2025-07-25",
+    "next_made_up_to": "2025-07-11",
+    "overdue": false
+  },
+  "date_of_creation": "2022-07-12",
+  "etag": "75e8553350137645afd2eb9c6f5de3d9e35c2e3c",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14228062/persons-with-significant-control",
+    "self": "/company/14228062",
+    "filing_history": "/company/14228062/filing-history",
+    "officers": "/company/14228062/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "32 Eyre Street",
+    "country": "United Kingdom",
+    "locality": "Sheffield",
+    "postal_code": "S1 4QZ",
+    "region": "South Yorkshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "80100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

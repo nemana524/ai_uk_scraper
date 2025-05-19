@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Plot 4300 Solent Business Park",
+      "address_line_2": "Whiteley",
+      "locality": "Fareham",
+      "postal_code": "PO15 7FP",
+      "premises": "Bizspace Steel House",
+      "region": "Hampshire"
+    },
+    "appointed_on": "2016-10-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/10414860/appointments/LT8ilNJT72g-zipuDEwL6fBl7ko",
+      "officer": {
+        "appointments": "/officers/07jAvKd93A9W4IJ7DXNHZAjKSxc/appointments"
+      }
+    },
+    "name": "TZEZAIRLIDIS, Anastasios",
+    "nationality": "Greek",
+    "occupation": "It And Media Support",
+    "officer_role": "director",
+    "person_number": "181429390001"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-10-31",
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-27",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-31",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-11-01"
+    },
+    "next_due": "2026-07-31",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ALLY LTD",
+  "company_number": "15242563",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-26",
+    "next_due": "2025-11-09",
+    "next_made_up_to": "2025-10-26",
+    "overdue": false
+  },
+  "date_of_creation": "2023-10-27",
+  "etag": "57dc829713e6663f874851c35a9f828f7560e160",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15242563/persons-with-significant-control",
+    "self": "/company/15242563",
+    "filing_history": "/company/15242563/filing-history",
+    "officers": "/company/15242563/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "51 New Lane",
+    "country": "England",
+    "locality": "Havant",
+    "postal_code": "PO9 2JJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

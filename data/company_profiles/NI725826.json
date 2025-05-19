@@ -1,0 +1,41 @@
+{
+  "company_number": "NI725826",
+  "company_name": "TECH ILAND LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-01-27",
+  "type": "ltd",
+  "jurisdiction": "northern-ireland",
+  "sic_codes": [
+    "47260",
+    "47421",
+    "47910",
+    "61900"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "71a The Promenade",
+    "country": "Northern Ireland",
+    "locality": "Portstewart",
+    "postal_code": "BT55 7AF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2026-10-27",
+      "overdue": false,
+      "period_end_on": "2026-01-31",
+      "period_start_on": "2025-01-27"
+    },
+    "next_due": "2026-10-27",
+    "next_made_up_to": "2026-01-31",
+    "overdue": false
+  },
+  "etag": "b994d1e921b670dab8e3f7ec99d568cb544b4d8b"
+}

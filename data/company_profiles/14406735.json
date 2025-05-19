@@ -1,0 +1,29 @@
+{
+  "company_number": "14406735",
+  "company_name": "TECH COURT LIMITED",
+  "company_status": "dissolved",
+  "date_of_creation": "2022-10-10",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "96090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "17 Plumbers Row",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 1EQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    }
+  },
+  "etag": "cb4674b0844d1848f586429639b22304b5201ce7"
+}

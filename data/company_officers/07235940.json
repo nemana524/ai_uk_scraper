@@ -1,0 +1,145 @@
+{
+  "company_number": "07235940",
+  "company_name": "TECH GLOBAL LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "SHEIKH, Atif Ali",
+      "officer_role": "director",
+      "appointed_on": "2013-11-19",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "None",
+      "address": {
+        "address_line_1": "Marsh Road",
+        "country": "United Kingdom",
+        "locality": "Luton",
+        "postal_code": "LU3 2QL",
+        "premises": "159",
+        "region": "Beds"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/07235940/appointments/LQnTgBSlZsHGpnl24nanPGX8G9U",
+        "officer": {
+          "appointments": "/officers/0SNHPKtHwj26Kua7vVD5_0pL10s/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHAKOOR, Bilal",
+      "officer_role": "secretary",
+      "appointed_on": "2010-04-27",
+      "resigned_on": "2011-05-27",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Marsh Road",
+        "country": "United Kingdom",
+        "locality": "Luton",
+        "postal_code": "LU32QL",
+        "premises": "159"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/07235940/appointments/Dzj2K6j_hXTq4VgxwV0i7wlGzu8",
+        "officer": {
+          "appointments": "/officers/8MoOxk4JvGhW-lAgdYHSFXXCO38/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "AWAIS, Muhammad Bilal",
+      "officer_role": "director",
+      "appointed_on": "2012-09-30",
+      "resigned_on": "2013-10-01",
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Marsh Road",
+        "country": "United Kingdom",
+        "locality": "Luton",
+        "postal_code": "LU3 2QL",
+        "premises": "159"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/07235940/appointments/-PGMMjRXF3WH_lsidKfOZwR7APE",
+        "officer": {
+          "appointments": "/officers/MDc81gfQKuuHNA65ZCYzFVsSseA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHAKOOR, Bilal",
+      "officer_role": "director",
+      "appointed_on": "2010-04-27",
+      "resigned_on": "2011-01-04",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "Marsh Road",
+        "country": "United Kingdom",
+        "locality": "Luton",
+        "postal_code": "LU32QL",
+        "premises": "159"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1991
+      },
+      "links": {
+        "self": "/company/07235940/appointments/5yOTvB7-4oM5QVZii1dnE_h5iCk",
+        "officer": {
+          "appointments": "/officers/tXlDRlI4py1_CHLYnvVsuDdNeSg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHEIKH, Atif Ali",
+      "officer_role": "director",
+      "appointed_on": "2011-01-04",
+      "resigned_on": "2012-09-30",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Managing Director",
+      "address": {
+        "address_line_1": "Marsh Road",
+        "country": "United Kingdom",
+        "locality": "Luton",
+        "postal_code": "LU32QL",
+        "premises": "159"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/07235940/appointments/tiTXrbPkH0cLLG1sPYOoVerfpFU",
+        "officer": {
+          "appointments": "/officers/KIso0C8BP-8g-pcVtA8jbqf_QTE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2009-10-31",
+      "period_end_on": "2009-10-31",
+      "period_start_on": "2008-11-01",
+      "type": "total-exemption-small"
+    },
+    "next_accounts": {
+      "due_on": "2011-07-31",
+      "overdue": true,
+      "period_end_on": "2010-10-31",
+      "period_start_on": "2009-11-01"
+    },
+    "next_due": "2011-07-31",
+    "next_made_up_to": "2010-10-31",
+    "overdue": true
+  },
+  "annual_return": {
+    "last_made_up_to": "2010-10-17",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH 4 OFFICE SOLUTIONS LIMITED",
+  "company_number": "05594776",
+  "company_status": "liquidation",
+  "confirmation_statement": {
+    "next_due": "2016-10-31",
+    "next_made_up_to": "2016-10-17",
+    "overdue": true
+  },
+  "date_of_creation": "2005-10-17",
+  "etag": "dfd96e52c511605714a753f061384d0165a2ad60",
+  "has_been_liquidated": true,
+  "has_charges": false,
+  "has_insolvency_history": true,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2010-10-17",
+  "links": {
+    "self": "/company/05594776",
+    "filing_history": "/company/05594776/filing-history",
+    "insolvency": "/company/05594776/insolvency",
+    "officers": "/company/05594776/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2005-11-11",
+      "effective_from": "2005-10-17",
+      "name": "BAS (NINETY NINE) LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Suite 1 Telford House",
+    "address_line_2": "Riverside Warwick Road",
+    "locality": "Carlisle",
+    "postal_code": "CA1 2BT",
+    "region": "Cumbria"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "7133"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false
+}

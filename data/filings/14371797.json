@@ -1,0 +1,143 @@
+[
+  {
+    "transaction_id": "MzQ2Mzk5OTQ1MWFkaXF6a2N4",
+    "barcode": "AE1501VK",
+    "type": "AAMD",
+    "date": "2025-04-25",
+    "category": "accounts",
+    "description": "accounts-amended-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 3,
+    "action_date": "2023-09-30",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14371797/filing-history/MzQ2Mzk5OTQ1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RlSvWELLlNz-DXbYgzTrOP9v3AdNOv-7ZeRTBGaE57E"
+    }
+  },
+  {
+    "transaction_id": "MzQ2Mzk5OTQ1MGFkaXF6a2N4",
+    "barcode": "AE1501VC",
+    "type": "AAMD",
+    "date": "2025-04-25",
+    "category": "accounts",
+    "description": "accounts-amended-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-09-30"
+    },
+    "pages": 4,
+    "action_date": "2024-09-30",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14371797/filing-history/MzQ2Mzk5OTQ1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4y8gk14BAcFAFagEnyHWpZKMZX6N4-LzcaRcI0tITYw"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MjU1NzI5N2FkaXF6a2N4",
+    "barcode": "XDUXLQI3",
+    "type": "AA",
+    "date": "2025-01-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-09-30"
+    },
+    "pages": 4,
+    "action_date": "2024-09-30",
+    "links": {
+      "self": "/company/14371797/filing-history/MzQ1MjU1NzI5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5RDyjLwANlnd-grgRaMCEZf_7rnLpfxuAO_GWj7dvQg"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzAyMzI4MWFkaXF6a2N4",
+    "barcode": "XDCB4IWI",
+    "type": "CS01",
+    "date": "2024-09-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-09-21"
+    },
+    "pages": 5,
+    "action_date": "2024-09-21",
+    "links": {
+      "self": "/company/14371797/filing-history/MzQzNzAyMzI4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/szS-miBKta8JpLZ0M_h79_uZ8vD_lLEwm0S7j_hzpLk"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjI2ODQ3MWFkaXF6a2N4",
+    "barcode": "XD5SV9DS",
+    "type": "AA",
+    "date": "2024-06-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 4,
+    "action_date": "2023-09-30",
+    "links": {
+      "self": "/company/14371797/filing-history/MzQyNjI2ODQ3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vc-MnpifTBpzmkAGdhzERlEAhU6D6wdSq9lA7_2RzBo"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTQ0OTEzM2FkaXF6a2N4",
+    "barcode": "XCDJ8KQ2",
+    "type": "CS01",
+    "date": "2023-10-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-09-21"
+    },
+    "pages": 3,
+    "action_date": "2023-09-21",
+    "links": {
+      "self": "/company/14371797/filing-history/MzM5NTQ0OTEzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hWQFfpyxugUWCOQR6gYDk0SOQE2DVk79r2G5rHa8GE4"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjY1NTc0MGFkaXF6a2N4",
+    "barcode": "XBD4B1S0",
+    "type": "NEWINC",
+    "date": "2022-09-22",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-09-22",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-09-22",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-09-22",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2022-09-22"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/14371797/filing-history/MzM1MjY1NTc0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/teiwadiVakr_0RTnyFSkZoRfLK9bZBuWO8_pGbsPAfo"
+    }
+  }
+]

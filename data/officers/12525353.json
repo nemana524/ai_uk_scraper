@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "Courtfield Drive",
+      "country": "England",
+      "locality": "Maidenhead",
+      "postal_code": "SL6 6JG",
+      "premises": "21"
+    },
+    "appointed_on": "2020-03-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1978
+    },
+    "links": {
+      "self": "/company/12525353/appointments/-U89obdBM-sKK9R1BavX8LCU6DY",
+      "officer": {
+        "appointments": "/officers/rULSGIAefJPFK7mOocPTZRR3DFc/appointments"
+      }
+    },
+    "name": "LOKHANDWALA, Maryam Mustufa",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "268271860001"
+  },
+  {
+    "address": {
+      "address_line_1": "Courtfield Drive",
+      "country": "England",
+      "locality": "Maidenhead",
+      "postal_code": "SL6 6JG",
+      "premises": "21"
+    },
+    "appointed_on": "2020-03-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1978
+    },
+    "links": {
+      "self": "/company/12525353/appointments/d4jv87JcOHW0kucvVdgAoNcr27g",
+      "officer": {
+        "appointments": "/officers/ZrSJoWIEfe20CnrWZGv-P38XDmE/appointments"
+      }
+    },
+    "name": "LOKHANDWALA, Mustufa Yusuf",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "268271850001"
+  }
+]

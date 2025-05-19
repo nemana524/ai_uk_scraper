@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "Market Street",
+      "country": "United Kingdom",
+      "locality": "Chesterfield",
+      "postal_code": "S43 3UT",
+      "premises": "36 Chesterfield Road",
+      "region": "Derbyshire"
+    },
+    "appointed_on": "2022-07-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1972
+    },
+    "links": {
+      "self": "/company/14208079/appointments/gm68F17AMYRjkCDvftU9lH7Qmsk",
+      "officer": {
+        "appointments": "/officers/u2PEt7S55aZAjtNjab89G__eQYc/appointments"
+      }
+    },
+    "name": "GRIFFITHS, Jennifer Till",
+    "nationality": "American",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "297529150001"
+  },
+  {
+    "address": {
+      "address_line_1": "Market Street",
+      "country": "United Kingdom",
+      "locality": "Chesterfield",
+      "postal_code": "S43 3UT",
+      "premises": "36 Chesterfield Road",
+      "region": "Derbyshire"
+    },
+    "appointed_on": "2023-04-13",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/14208079/appointments/0SZDB8oa0-cfp8iqXW10F3ztm5w",
+      "officer": {
+        "appointments": "/officers/pPDii_EbjmBMt0m10mnygR5BXSw/appointments"
+      }
+    },
+    "name": "GRIFFITHS, Philip John",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "297529160001"
+  }
+]

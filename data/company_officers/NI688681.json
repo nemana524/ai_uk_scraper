@@ -1,0 +1,35 @@
+{
+  "company_number": "NI688681",
+  "company_name": "TECH IT FROM ME LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "CHIVERS, Johnathan Samuel Allen",
+      "officer_role": "director",
+      "appointed_on": "2022-06-01",
+      "resigned_on": null,
+      "nationality": "Irish",
+      "country_of_residence": "Northern Ireland",
+      "occupation": "Computer Consultant",
+      "address": {
+        "address_line_1": "Rushfield Avenue",
+        "country": "Northern Ireland",
+        "locality": "Belfast",
+        "postal_code": "BT7 3FQ",
+        "premises": "48"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1990
+      },
+      "links": {
+        "self": "/company/NI688681/appointments/UKUacjAR0VqsbvclYTLfmSVm6oM",
+        "officer": {
+          "appointments": "/officers/NU54eN_ITIH3y9HwxvoID8Fdj1o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

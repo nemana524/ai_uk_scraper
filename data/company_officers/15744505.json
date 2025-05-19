@@ -1,0 +1,35 @@
+{
+  "company_number": "15744505",
+  "company_name": "TECH EXPERT SERVICES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHAHBAZ, Ushna",
+      "officer_role": "director",
+      "appointed_on": "2024-05-27",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "North Street",
+        "country": "England",
+        "locality": "Horsham",
+        "postal_code": "RH12 1FA",
+        "premises": "90 Holmes Park"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 2000
+      },
+      "links": {
+        "self": "/company/15744505/appointments/W-SxpYMKMgue9oZtaZYKAEdZu3A",
+        "officer": {
+          "appointments": "/officers/iceAPanHfsN9PC_U6eHWp74IzI0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

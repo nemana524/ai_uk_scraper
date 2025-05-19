@@ -1,0 +1,65 @@
+{
+  "company_number": "10197289",
+  "company_name": "TECH GOLD LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "DAVIS, Brandon Anthony",
+      "officer_role": "director",
+      "appointed_on": "2025-03-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Lymington Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "NW6 1HX",
+        "premises": "1"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/10197289/appointments/ys0ejHczwz-ukNNIUsaIT9KgVOw",
+        "officer": {
+          "appointments": "/officers/ucKjO90jldKV9SSd00VA2t-i1R0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "AL LABAN, Hassan",
+      "officer_role": "director",
+      "appointed_on": "2016-05-24",
+      "resigned_on": "2025-03-01",
+      "nationality": "Lebanese",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Alperton Lane",
+        "address_line_2": "Perivale",
+        "country": "England",
+        "locality": "Greenford",
+        "postal_code": "UB6 8DH",
+        "premises": "1",
+        "region": "Middlesex"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1976
+      },
+      "links": {
+        "self": "/company/10197289/appointments/l6UjXXQdh5QQTTWfV2C9hVByeK4",
+        "officer": {
+          "appointments": "/officers/doXcUHWF3gF7Qb5mKZhaH8Y-vt8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

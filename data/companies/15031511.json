@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-26",
+      "overdue": false,
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-07-26"
+    },
+    "next_due": "2025-07-26",
+    "next_made_up_to": "2024-07-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GEEKZ LTD",
+  "company_number": "15031511",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-25",
+    "next_due": "2025-08-08",
+    "next_made_up_to": "2025-07-25",
+    "overdue": false
+  },
+  "date_of_creation": "2023-07-26",
+  "etag": "b1ad578de66f49f74328768884e8809057822694",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15031511/persons-with-significant-control",
+    "self": "/company/15031511",
+    "filing_history": "/company/15031511/filing-history",
+    "officers": "/company/15031511/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "560 Romford Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E12 5AF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

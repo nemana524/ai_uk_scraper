@@ -1,0 +1,45 @@
+{
+  "company_number": "11583156",
+  "company_name": "TECH FOODS LEEDS LTD",
+  "company_status": "liquidation",
+  "date_of_creation": "2018-09-21",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "56103"
+  ],
+  "has_insolvency_history": true,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Hope Park Business Centre",
+    "address_line_2": "Trevor Foster Way",
+    "locality": "Bradford",
+    "postal_code": "BD5 8HB",
+    "region": "West Yorkshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-09-30",
+      "period_end_on": "2022-09-30",
+      "period_start_on": "2021-10-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-06-30",
+      "overdue": true,
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-10-01"
+    },
+    "next_due": "2024-06-30",
+    "next_made_up_to": "2023-09-30",
+    "overdue": true
+  },
+  "etag": "5ea8e09c9b594e8b3237c60c2ea78ad3716de74a"
+}

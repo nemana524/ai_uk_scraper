@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-30",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2024-12-30"
+    },
+    "next_due": "2026-09-30",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH & TRANSFER LTD",
+  "company_number": "16154472",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-01-12",
+    "next_made_up_to": "2025-12-29",
+    "overdue": false
+  },
+  "date_of_creation": "2024-12-30",
+  "etag": "ecf8093214b5bdf6caaaa225901987664b0e969b",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16154472/persons-with-significant-control",
+    "self": "/company/16154472",
+    "filing_history": "/company/16154472/filing-history",
+    "officers": "/company/16154472/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "345 Derby Street",
+    "country": "England",
+    "locality": "Bolton",
+    "postal_code": "BL3 6LR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

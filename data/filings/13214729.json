@@ -1,0 +1,261 @@
+[
+  {
+    "transaction_id": "MzQ1ODIyODI4MWFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2025-03-15",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13214729/filing-history/MzQ1ODIyODI4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vAJVzY4W0fLcV3zk9u2j4gQhEyAL18JFxNGLm-yCydk"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODIyOTY5MGFkaXF6a2N4",
+    "barcode": "XDY67MYO",
+    "type": "AA",
+    "date": "2025-03-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-02-28"
+    },
+    "pages": 2,
+    "action_date": "2024-02-28",
+    "links": {
+      "self": "/company/13214729/filing-history/MzQ1ODIyOTY5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a4GnuYGedjk4ADXgXF_wZwUH9SZnA5Yi-uS-Bni5CRk"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODIyODIwNGFkaXF6a2N4",
+    "barcode": "XDY67GAI",
+    "type": "CS01",
+    "date": "2025-03-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-16"
+    },
+    "pages": 3,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13214729/filing-history/MzQ1ODIyODIwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yaeWZLed9t6_TQAalT5LFgHfUQrD-jP9q8IWBa-2Q6o"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MjAwMzUxNGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-01-28",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13214729/filing-history/MzQ1MjAwMzUxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5fCgqZuaid8uyuMV7u9as3TZ6e0igljBBLFqWgOyerA"
+    }
+  },
+  {
+    "transaction_id": "MzQwODkyNzk2NWFkaXF6a2N4",
+    "barcode": "XCVG7DR4",
+    "type": "CS01",
+    "date": "2024-01-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-16"
+    },
+    "pages": 3,
+    "action_date": "2023-12-16",
+    "links": {
+      "self": "/company/13214729/filing-history/MzQwODkyNzk2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/omIv7UQIcVV_4_iy2jqWRuB-J69Cu2uBwR17qD30OFg"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjgwNjU0OGFkaXF6a2N4",
+    "barcode": "ACHI8AIJ",
+    "type": "AA",
+    "date": "2023-12-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-02-28"
+    },
+    "pages": 2,
+    "action_date": "2023-02-28",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13214729/filing-history/MzQwMjgwNjU0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OYRsNRaWWReFtJcp9BtpGny9ublXoXZKYf7lk7i_zgY"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjcyOTc3NGFkaXF6a2N4",
+    "barcode": "XBIYIA3E",
+    "type": "CS01",
+    "date": "2022-12-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-12-16"
+    },
+    "pages": 5,
+    "action_date": "2022-12-16",
+    "links": {
+      "self": "/company/13214729/filing-history/MzM2MjcyOTc3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3CWvAPZYOK0NAGNWkHikycrNjf_444ITAhxBKFYUjG8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjcyODE5OWFkaXF6a2N4",
+    "barcode": "XBIYI3LN",
+    "type": "PSC07",
+    "date": "2022-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Grzegorz Szewczyk",
+      "cessation_date": "2022-12-15"
+    },
+    "pages": 1,
+    "action_date": "2022-12-15",
+    "links": {
+      "self": "/company/13214729/filing-history/MzM2MjcyODE5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cjRq6d00qhs_UwsDEpa4_upnDoQfOQxTwlopvForEBA"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjcyNjc5OWFkaXF6a2N4",
+    "barcode": "XBIYHX6R",
+    "type": "PSC01",
+    "date": "2022-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Aleksandrs Matvejevs",
+      "notification_date": "2022-12-15"
+    },
+    "pages": 2,
+    "action_date": "2022-12-15",
+    "links": {
+      "self": "/company/13214729/filing-history/MzM2MjcyNjc5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Tf1Cv1SpQsY-pozIYwCU4LLYb8dwhpcfZpGKo5S2t00"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjcyNTYwNGFkaXF6a2N4",
+    "barcode": "XBIYHSO2",
+    "type": "TM01",
+    "date": "2022-12-16",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Grzegorz Szewczyk",
+      "termination_date": "2022-12-15"
+    },
+    "pages": 1,
+    "action_date": "2022-12-15",
+    "links": {
+      "self": "/company/13214729/filing-history/MzM2MjcyNTYwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lpu33hQvfsdJKKMcFcQOQrmV8nEeTo7ABMGGr8JNcb4"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjcyMzgzOWFkaXF6a2N4",
+    "barcode": "XBIYHLPL",
+    "type": "AP01",
+    "date": "2022-12-16",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Aleksandrs Matvejevs",
+      "appointment_date": "2022-12-15"
+    },
+    "pages": 2,
+    "action_date": "2022-12-15",
+    "links": {
+      "self": "/company/13214729/filing-history/MzM2MjcyMzgzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5RWcPZspj-o4yYBqZ2h0IdgGG92VbBMrij8ipakup8M"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTgzODExOWFkaXF6a2N4",
+    "barcode": "XBCIWN4Z",
+    "type": "AA",
+    "date": "2022-09-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-02-28"
+    },
+    "pages": 2,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/13214729/filing-history/MzM1MTgzODExOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NdHJob3NAckmD1uqOijdveC5VMpZoUYrFEx5W6z2USg"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDE0ODUyMGFkaXF6a2N4",
+    "barcode": "XAY00PO0",
+    "type": "CS01",
+    "date": "2022-02-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-02-17"
+    },
+    "pages": 5,
+    "action_date": "2022-02-17",
+    "links": {
+      "self": "/company/13214729/filing-history/MzMzMDE0ODUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GEC87ixNDacjbZjihqGj5I0BoWJQklk6guX2mn6qEuE"
+    }
+  },
+  {
+    "transaction_id": "MzI5MTkyMzkwMmFkaXF6a2N4",
+    "barcode": "X9YOE4GP",
+    "type": "NEWINC",
+    "date": "2021-02-19",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-02-19",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-19",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-02-19",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-02-19"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13214729/filing-history/MzI5MTkyMzkwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GilPe2H9ubgZzweSLEG3us8Y4w7qVsNsVlExdwsIFAI"
+    }
+  }
+]

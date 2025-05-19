@@ -1,0 +1,24 @@
+{
+  "branch_company_details": {
+    "business_activity": "Software Development And Services",
+    "parent_company_name": "TECH MAHINDRA LIMITED",
+    "parent_company_number": "FC018895"
+  },
+  "can_file": false,
+  "company_name": "TECH MAHINDRA LIMITED",
+  "company_number": "BR012190",
+  "company_status": "open",
+  "date_of_creation": "2009-10-01",
+  "etag": "eaca355d34bc8e30e8ab1572db2ff11df0b222cf",
+  "links": {
+    "self": "/company/BR012190",
+    "filing_history": "/company/BR012190/filing-history",
+    "overseas": "/company/FC018895"
+  },
+  "registered_office_address": {
+    "address_line_1": "401 Charles Scwab Grafton Gate East",
+    "locality": "Milton Keynes",
+    "postal_code": "MK9 1AQ"
+  },
+  "type": "uk-establishment"
+}

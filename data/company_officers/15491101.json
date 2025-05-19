@@ -1,0 +1,35 @@
+{
+  "company_number": "15491101",
+  "company_name": "TECH BLISS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KHAN, Nouman",
+      "officer_role": "director",
+      "appointed_on": "2024-02-15",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "177 Washwood Heath Road",
+        "country": "England",
+        "locality": "Birmingham",
+        "postal_code": "B8 1RW",
+        "premises": "Flat 5"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/15491101/appointments/GRGnynr2NK6DvDffkFyJ1mjU8wc",
+        "officer": {
+          "appointments": "/officers/Y7svDCY3_0h9-te1wSLpWSyuqgA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

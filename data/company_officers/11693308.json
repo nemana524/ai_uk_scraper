@@ -1,0 +1,35 @@
+{
+  "company_number": "11693308",
+  "company_name": "TECH GEEK MCR LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SUBHANI, Hammad",
+      "officer_role": "director",
+      "appointed_on": "2018-11-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "Palatine Road",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M22 4ET",
+        "premises": "297"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1976
+      },
+      "links": {
+        "self": "/company/11693308/appointments/b5jate_GElikzQTEwN8OR1D90ec",
+        "officer": {
+          "appointments": "/officers/WIDQ26ZCAm9C1eNh5ETwlV02kEw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

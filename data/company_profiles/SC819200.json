@@ -1,0 +1,38 @@
+{
+  "company_number": "SC819200",
+  "company_name": "TECH BIRTH LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-08-12",
+  "type": "ltd",
+  "jurisdiction": "scotland",
+  "sic_codes": [
+    "47910"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "1/2 248 Albert Drive",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G41 2NL"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-12",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-08-12"
+    },
+    "next_due": "2026-05-12",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "etag": "425abe3b8bec2ba247d30d94795bafdd8dad4104"
+}

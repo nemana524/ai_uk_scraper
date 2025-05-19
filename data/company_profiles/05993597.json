@@ -1,0 +1,44 @@
+{
+  "company_number": "05993597",
+  "company_name": "TECH ITEASY LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2006-11-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "90 Ravensthorpe Road",
+    "locality": "Dewsbury",
+    "postal_code": "WF12 9EG",
+    "region": "West Yorkshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-10-31",
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-11-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-31",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-11-01"
+    },
+    "next_due": "2026-07-31",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "etag": "e8a9e7870baae70ad41365973b72eabb7d5264aa"
+}

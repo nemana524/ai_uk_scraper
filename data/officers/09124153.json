@@ -1,0 +1,697 @@
+[
+  {
+    "address": {
+      "address_line_1": "Wework",
+      "address_line_2": "30 Churchill Place",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E14 5RE",
+      "premises": "C/O Alizoy Uk Ltd"
+    },
+    "appointed_on": "2015-09-20",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/09124153/appointments/5J4oUaS-9WVH3vOW_MqXRioA5GU",
+      "officer": {
+        "appointments": "/officers/N5-JcnY9M8gwY01X7xarUh4FEa0/appointments"
+      }
+    },
+    "name": "AHMED, Sagheer",
+    "nationality": "Pakistani",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "201939830001"
+  },
+  {
+    "address": {
+      "address_line_1": "20 Mortlake High Street",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "SW14 8JN",
+      "premises": "Suite 105, Citibase Business Center"
+    },
+    "appointed_on": "2014-07-10",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/09124153/appointments/ziVKSxJV_l_WjQl4qb7YLsraA1Y",
+      "officer": {
+        "appointments": "/officers/3T_KdGQa9vEvg2RnjcHA2sQCgsE/appointments"
+      }
+    },
+    "name": "BILWANI, Adnan",
+    "officer_role": "secretary",
+    "resigned_on": "2014-11-21",
+    "person_number": "189240330001"
+  },
+  {
+    "address": {
+      "address_line_1": "1 Fore Street Avenue",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2Y 9DT",
+      "premises": "Moore Place"
+    },
+    "appointed_on": "2017-05-03",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1989
+    },
+    "links": {
+      "self": "/company/09124153/appointments/4XJY3boc1HLBrFz_u31krYDWFbI",
+      "officer": {
+        "appointments": "/officers/kdIidz6xVMVrTFOCQTm1lMBbA8s/appointments"
+      }
+    },
+    "name": "ALI, Mohammad",
+    "nationality": "Pakistani",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2020-01-15",
+    "person_number": "230519220001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2017-05-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Bahrain",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1969
+    },
+    "links": {
+      "self": "/company/09124153/appointments/JTVHgsbCobkU_X0gnDQjI-64FrM",
+      "officer": {
+        "appointments": "/officers/HjNDDFXhPYuOX-W6HSP97-VYVAU/appointments"
+      }
+    },
+    "name": "AZIZ, Abdul",
+    "nationality": "Pakistani",
+    "occupation": "Businessman",
+    "officer_role": "director",
+    "resigned_on": "2018-07-12",
+    "person_number": "230519170001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2017-02-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/09124153/appointments/1IQrmC9AzMr-9n6bBHI4uPTlH5o",
+      "officer": {
+        "appointments": "/officers/x4WyV1SA_kqwg_BJ_x-ppZVwI9M/appointments"
+      }
+    },
+    "name": "BABATUNDE, Ademola",
+    "nationality": "Nigerian",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "resigned_on": "2017-09-15",
+    "person_number": "224610930001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2018-04-05",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/09124153/appointments/amhDLNxcPbLlIQ64cTyTUuZDhg8",
+      "officer": {
+        "appointments": "/officers/5Ex-Hw5Mr2GG200Qut-KnFJNts8/appointments"
+      }
+    },
+    "name": "BAJPAI, Upasana",
+    "nationality": "Indian",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2018-09-10",
+    "person_number": "245476280001"
+  },
+  {
+    "address": {
+      "address_line_1": "1 Fore Street Avenue",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2Y 9DT",
+      "premises": "Moore Place"
+    },
+    "appointed_on": "2018-07-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Nigeria",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/09124153/appointments/T7jekClWX-gZIc69Bc2zQ1goWag",
+      "officer": {
+        "appointments": "/officers/2H_sCgXU1v4mEnAffqs_lZXdxlw/appointments"
+      }
+    },
+    "name": "BELL-GAM, Asibie Bridget",
+    "nationality": "Nigerian",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2019-02-04",
+    "person_number": "248708480001"
+  },
+  {
+    "address": {
+      "address_line_1": "20 Mortlake High Street",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "SW14 8JN",
+      "premises": "Suite 105, Citibase Business Center"
+    },
+    "appointed_on": "2014-07-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1976
+    },
+    "links": {
+      "self": "/company/09124153/appointments/DkVu6KjxSGOPVjBLgjX_MrzxuhM",
+      "officer": {
+        "appointments": "/officers/Yj6kh4mg41VVUBPB6QwFHAlYTpc/appointments"
+      }
+    },
+    "name": "BILWANI, Adnan",
+    "nationality": "British",
+    "occupation": "Accountant",
+    "officer_role": "director",
+    "resigned_on": "2014-11-21",
+    "person_number": "180015460001"
+  },
+  {
+    "address": {
+      "address_line_1": "1 Fore Street Avenue",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2Y 9DT",
+      "premises": "Moore Place"
+    },
+    "appointed_on": "2017-08-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/09124153/appointments/ujFhoBFfGY8b0xHsO7todATcpf0",
+      "officer": {
+        "appointments": "/officers/6zr41rz-HffSeusEI9atWdegC64/appointments"
+      }
+    },
+    "name": "EGBASE, Jude Oseghale",
+    "nationality": "Nigerian",
+    "occupation": "Businessman",
+    "officer_role": "director",
+    "resigned_on": "2020-01-15",
+    "person_number": "237350010001"
+  },
+  {
+    "address": {
+      "address_line_1": "Gracechurch Street",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "EC3V 0BT",
+      "premises": "40"
+    },
+    "appointed_on": "2016-04-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/09124153/appointments/yb_IYXOwz3h-9_W9YHr86Egz-xY",
+      "officer": {
+        "appointments": "/officers/5LX6Acq4VkJVgzIThgISmgNGJ70/appointments"
+      }
+    },
+    "name": "FAZAL, Zimran",
+    "nationality": "British",
+    "occupation": "Accountant",
+    "officer_role": "director",
+    "resigned_on": "2016-09-25",
+    "person_number": "186445140001"
+  },
+  {
+    "address": {
+      "address_line_1": "1 Fore Street Avenue",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2Y 9DT",
+      "premises": "Moore Place"
+    },
+    "appointed_on": "2017-09-29",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1990
+    },
+    "links": {
+      "self": "/company/09124153/appointments/xqOrZFlt5wDBqRC1QJdxXPiSWm0",
+      "officer": {
+        "appointments": "/officers/lEIBMmajIiQLn1a0jXxZTkheRBg/appointments"
+      }
+    },
+    "name": "GANDAPORE, Hoor Inam",
+    "nationality": "Pakistani",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2019-02-20",
+    "person_number": "238964520001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2017-04-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Arab Emirates",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/09124153/appointments/HaK-AfU3E963GINh4nkQGY31i6o",
+      "officer": {
+        "appointments": "/officers/wD5CFNrUqbeAEoTCd-ht4Fixeo4/appointments"
+      }
+    },
+    "name": "IMRAN, Muhammad",
+    "nationality": "Pakistani",
+    "occupation": "Engineering Consultant",
+    "officer_role": "director",
+    "resigned_on": "2018-07-23",
+    "person_number": "229830720001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2018-02-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Arab Emirates",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1975
+    },
+    "links": {
+      "self": "/company/09124153/appointments/a1x-g-Y5wKc7kKPafGO_P0gIx0U",
+      "officer": {
+        "appointments": "/officers/oaqsPSKaVU5fCwDV6TMJcfXhQSA/appointments"
+      }
+    },
+    "name": "IQBAL, Muhammad Rashid",
+    "nationality": "Pakistani",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2018-09-17",
+    "person_number": "243646330001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2018-03-23",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Arab Emirates",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1976
+    },
+    "links": {
+      "self": "/company/09124153/appointments/L4GcFKlbPlSBZazovoDFnP7u1lg",
+      "officer": {
+        "appointments": "/officers/LYE9ZlSRk0n4dW_dplwJ7MmCGmg/appointments"
+      }
+    },
+    "name": "KOLAR RAHMAN, Nazhath Rahman",
+    "nationality": "Indian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2018-07-12",
+    "person_number": "244980200001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2017-06-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1986
+    },
+    "links": {
+      "self": "/company/09124153/appointments/bah9UEHWJI2j5HhjRmWM6ocq2xk",
+      "officer": {
+        "appointments": "/officers/xYHjFd-Av04v2LgYh8bUARrYch8/appointments"
+      }
+    },
+    "name": "NAWANI, Kumar, Mr.",
+    "nationality": "British",
+    "occupation": "Business Executive",
+    "officer_role": "director",
+    "resigned_on": "2017-08-21",
+    "person_number": "234876520001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2015-12-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/09124153/appointments/3ixqmESCUkFrEzAmADU-zJLSCSk",
+      "officer": {
+        "appointments": "/officers/MyJsW3lkIkgEZ01iuViA5RqNbQA/appointments"
+      }
+    },
+    "name": "NJEPU, Juliet Ndidiamaka",
+    "nationality": "Nigerian",
+    "occupation": "Business Executive",
+    "officer_role": "director",
+    "resigned_on": "2017-09-15",
+    "person_number": "203450430001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2018-03-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Nigeria",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/09124153/appointments/8FyDA52GyTHyE-tCAo83oSFDi7s",
+      "officer": {
+        "appointments": "/officers/-jVNCq31Q-fACBLd7mZ_xFEO0S0/appointments"
+      }
+    },
+    "name": "OLANIAWO, Damilola Oluwasijibomi",
+    "nationality": "Nigerian",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2018-09-17",
+    "person_number": "244204730001"
+  },
+  {
+    "address": {
+      "address_line_1": "1 Fore Street Avenue",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2Y 9DT",
+      "premises": "Moore Place"
+    },
+    "appointed_on": "2018-07-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Nigeria",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/09124153/appointments/mz-0Y1LGgvsHnrvRHD2ExPWccWI",
+      "officer": {
+        "appointments": "/officers/2QUeBbA2-JU-Zd40EsMKu5H1pAg/appointments"
+      }
+    },
+    "name": "OTIGBO, Omolua Peggy",
+    "nationality": "Nigerian",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2019-02-04",
+    "person_number": "248708180001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2017-08-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/09124153/appointments/iRjv-r6-7R_iPPpKs-kkytfzxTI",
+      "officer": {
+        "appointments": "/officers/RKsC9tyxA4Kdid5J40s1Zwqhb3Y/appointments"
+      }
+    },
+    "name": "PATEL, Kalpana Ashvinkumar",
+    "nationality": "Indian",
+    "occupation": "Businesswoman",
+    "officer_role": "director",
+    "resigned_on": "2018-07-12",
+    "person_number": "237369190001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2017-02-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/09124153/appointments/WUumX9LZcMU80Wun6A7JTHqyAxU",
+      "officer": {
+        "appointments": "/officers/NAqN1L8a30aYICbtEOoHtvSOJaM/appointments"
+      }
+    },
+    "name": "SAHOO, Pradeep",
+    "nationality": "Indian",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "resigned_on": "2017-09-15",
+    "person_number": "224610020001"
+  },
+  {
+    "address": {
+      "address_line_1": "Stamford St",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SE1 9LQ",
+      "premises": "30"
+    },
+    "appointed_on": "2018-11-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Cambodia",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1987
+    },
+    "links": {
+      "self": "/company/09124153/appointments/5iYCRyKi4vksPEoK0_-fUEHomzE",
+      "officer": {
+        "appointments": "/officers/xzygKOziRHTC4lwApW77J-mm4v0/appointments"
+      }
+    },
+    "name": "SARUN, Morokot",
+    "nationality": "Cambodian",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2021-06-28",
+    "person_number": "253039760001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2014-11-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/09124153/appointments/gYKf8yeMIL_nDhtaaNSC8twPJT4",
+      "officer": {
+        "appointments": "/officers/DQKsHeKH3JmUH4GBIwf_enKSW3M/appointments"
+      }
+    },
+    "name": "SIDDIQUI, Arsala Danish, Dr",
+    "nationality": "British",
+    "occupation": "Doctor",
+    "officer_role": "director",
+    "resigned_on": "2017-09-15",
+    "person_number": "179556190001"
+  },
+  {
+    "address": {
+      "address_line_1": "Wework",
+      "address_line_2": "30 Churchill Place",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E14 5RE",
+      "premises": "C/O Alizoy Uk Ltd"
+    },
+    "appointed_on": "2020-01-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1976
+    },
+    "links": {
+      "self": "/company/09124153/appointments/O27fI6n3TbJb9DFSx013R0Ydp50",
+      "officer": {
+        "appointments": "/officers/Dmxt-e4Z0zWAyhyiS_LFDFbCBQ8/appointments"
+      }
+    },
+    "name": "SIDDIQUI, Danish Ahmed",
+    "nationality": "British",
+    "occupation": "Businessman",
+    "officer_role": "director",
+    "resigned_on": "2024-07-07",
+    "person_number": "261860880001"
+  },
+  {
+    "address": {
+      "address_line_1": "Wework",
+      "address_line_2": "30 Churchill Place",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E14 5RE",
+      "premises": "C/O Alizoy Uk Ltd"
+    },
+    "appointed_on": "2016-12-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1992
+    },
+    "links": {
+      "self": "/company/09124153/appointments/IhBKpX_EEfxRwIIe13e-wadFAdY",
+      "officer": {
+        "appointments": "/officers/5fhsAFmBf6FgUCqPHB7t1U4Cdwk/appointments"
+      }
+    },
+    "name": "SIDDIQUI, Uzair Ahmed",
+    "nationality": "Pakistani",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2023-10-02",
+    "person_number": "218381710001"
+  },
+  {
+    "address": {
+      "address_line_1": "25 Finsbury Circus",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2M 7EE",
+      "premises": "Uzair Siddiqui, First Floor"
+    },
+    "appointed_on": "2016-03-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1952
+    },
+    "links": {
+      "self": "/company/09124153/appointments/U7axxmJjzZB04wLIBDtPfwFnBMY",
+      "officer": {
+        "appointments": "/officers/MIKG41Rj0FZH89j9tJn_UZWaVf0/appointments"
+      }
+    },
+    "name": "STUBBS, Noel Arthur",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "resigned_on": "2018-07-12",
+    "person_number": "130819020001"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-10-28",
+      "period_end_on": "2020-10-28",
+      "period_start_on": "2019-10-29",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2022-07-28",
+      "overdue": true,
+      "period_end_on": "2021-10-28",
+      "period_start_on": "2020-10-29"
+    },
+    "next_due": "2022-07-28",
+    "next_made_up_to": "2021-10-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH CONSTRUCTION (UK) LTD",
+  "company_number": "09242754",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2020-10-01",
+    "next_due": "2021-10-15",
+    "next_made_up_to": "2021-10-01",
+    "overdue": true
+  },
+  "date_of_creation": "2014-10-01",
+  "etag": "f8ccf95133cd8c1dd0ab6dcae4c585d91301444d",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-10-01",
+  "links": {
+    "persons_with_significant_control": "/company/09242754/persons-with-significant-control",
+    "self": "/company/09242754",
+    "filing_history": "/company/09242754/filing-history",
+    "officers": "/company/09242754/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "11 Dettingen Crescent Deepcut",
+    "locality": "Camberley",
+    "postal_code": "GU16 6GN",
+    "region": "Surrey"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

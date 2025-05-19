@@ -1,0 +1,35 @@
+{
+  "company_number": "14540870",
+  "company_name": "TECH LOUNGE CONSULTANCY (TLC) LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BIO, Joseph Suapim",
+      "officer_role": "director",
+      "appointed_on": "2022-12-14",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Managing Director",
+      "address": {
+        "address_line_1": "Barnett Avenue",
+        "country": "England",
+        "locality": "Manchester",
+        "postal_code": "M20 3FA",
+        "premises": "19"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/14540870/appointments/6q4iBx9NoV54X3AVvnEaLf2MuyE",
+        "officer": {
+          "appointments": "/officers/B5olkPL1DNXdYq2V4xEQRb_MIR4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

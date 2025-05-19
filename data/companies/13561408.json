@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-08-31",
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-31",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01"
+    },
+    "next_due": "2026-05-31",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EQUITY CLOUD SERVICES LTD",
+  "company_number": "13561408",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-10",
+    "next_due": "2025-08-24",
+    "next_made_up_to": "2025-08-10",
+    "overdue": false
+  },
+  "date_of_creation": "2021-08-11",
+  "etag": "b97adf0f2a36aeeaac58e9891a9d32fdac4a40b5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13561408/persons-with-significant-control",
+    "self": "/company/13561408",
+    "filing_history": "/company/13561408/filing-history",
+    "officers": "/company/13561408/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "16 Carew Close",
+    "address_line_2": "Chafford Hundred",
+    "country": "England",
+    "locality": "Grays",
+    "postal_code": "RM16 6RZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

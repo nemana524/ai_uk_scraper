@@ -1,0 +1,267 @@
+[
+  {
+    "transaction_id": "MzQ1NTQyNjE3MWFkaXF6a2N4",
+    "barcode": "XDWNM4PE",
+    "type": "CS01",
+    "date": "2025-02-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-06"
+    },
+    "pages": 3,
+    "action_date": "2025-02-06",
+    "links": {
+      "self": "/company/13215438/filing-history/MzQ1NTQyNjE3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c8kdeH-QSSYGXtFRjbbGN0bmZFGHCLHHgZm8MP5JIF0"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NDI5MzY2NWFkaXF6a2N4",
+    "barcode": "XDGAPVD6",
+    "type": "AA",
+    "date": "2024-11-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2024-02-28"
+    },
+    "pages": 6,
+    "links": {
+      "self": "/company/13215438/filing-history/MzQ0NDI5MzY2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HxnTi8d6IhSG0Ngoq5VeELtA_fllpM4PrnT1P0mEc_Q"
+    }
+  },
+  {
+    "transaction_id": "MzQxMTIzODE4MGFkaXF6a2N4",
+    "barcode": "XCWVDYUG",
+    "type": "CS01",
+    "date": "2024-02-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-02-06"
+    },
+    "pages": 3,
+    "action_date": "2024-02-06",
+    "links": {
+      "self": "/company/13215438/filing-history/MzQxMTIzODE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/whpMzrChNh3uXFrFsG1Bk48zhsMrdGc2TpTMdpQs_mg"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjEwNDYyMGFkaXF6a2N4",
+    "barcode": "XCHCSG40",
+    "type": "AA",
+    "date": "2023-11-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-02-28"
+    },
+    "pages": 7,
+    "action_date": "2023-02-28",
+    "links": {
+      "self": "/company/13215438/filing-history/MzQwMjEwNDYyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vVwnt2cXqqy179eAHWQ95s2t4G89WGjpEro_63u9Qs4"
+    }
+  },
+  {
+    "transaction_id": "MzM2OTYyMTY3MWFkaXF6a2N4",
+    "barcode": "XBXH5996",
+    "type": "AD01",
+    "date": "2023-02-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-02-16",
+      "old_address": "128 City Road London EC1V 2NX England",
+      "new_address": "Copperfield Church Lane Wyatts Green Brentwood CM15 0PL"
+    },
+    "pages": 1,
+    "action_date": "2023-02-16",
+    "links": {
+      "self": "/company/13215438/filing-history/MzM2OTYyMTY3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/U8a4Rvho-keVk5CIYqjyLG0wncrJ70ga-txhoHCKw8s"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODMwNTg1M2FkaXF6a2N4",
+    "barcode": "XBWSORAI",
+    "type": "CS01",
+    "date": "2023-02-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-02-06"
+    },
+    "pages": 3,
+    "action_date": "2023-02-06",
+    "links": {
+      "self": "/company/13215438/filing-history/MzM2ODMwNTg1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VQSeVeQydFwSBNfdqNEEBQDNf5-c1whKsfbdH610qB8"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTIxODI1N2FkaXF6a2N4",
+    "barcode": "XBH8A21M",
+    "type": "AA",
+    "date": "2022-11-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-02-28"
+    },
+    "pages": 7,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/13215438/filing-history/MzM1OTIxODI1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EQa_8ZbqjtVsMTd2DT75nzenIYHlaNvP1MlzKpnNUPA"
+    }
+  },
+  {
+    "transaction_id": "MzM0Nzk4MzIxNWFkaXF6a2N4",
+    "barcode": "XB9SI92H",
+    "type": "AD01",
+    "date": "2022-08-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-08-06",
+      "old_address": "12 Sunset Drive Luton LU2 7TN England",
+      "new_address": "128 City Road London EC1V 2NX"
+    },
+    "pages": 1,
+    "action_date": "2022-08-06",
+    "links": {
+      "self": "/company/13215438/filing-history/MzM0Nzk4MzIxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3JKomHvRSX6Jflf4zDtNalIdpsbxJr_yCTa__Cm94oc"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTQ1MjQ2MGFkaXF6a2N4",
+    "barcode": "XAYW2R96",
+    "type": "CS01",
+    "date": "2022-03-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-02-21"
+    },
+    "pages": 3,
+    "action_date": "2022-02-21",
+    "links": {
+      "self": "/company/13215438/filing-history/MzMzMTQ1MjQ2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hH6A6w61ThX2XAiHw3ZpZ4CKf8bZ4gQVIYJo8GmL-wQ"
+    }
+  },
+  {
+    "transaction_id": "MzI5OTYwMTEyNWFkaXF6a2N4",
+    "barcode": "XA3GXC37",
+    "type": "RESOLUTIONS",
+    "date": "2021-04-30",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2021-04-29"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2021-04-30",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/13215438/filing-history/MzI5OTYwMTEyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sVDgEWqxUii54m1gz32v7pNasxjleNQ5FOvAg1Gthqo"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDU4NzE4OGFkaXF6a2N4",
+    "barcode": "XA0E6HPC",
+    "type": "RESOLUTIONS",
+    "date": "2021-03-17",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2021-03-16"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2021-03-17",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/13215438/filing-history/MzI5NDU4NzE4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s3EFv_Ui6h92mKPeoj1xSynky9cTtAzRw90LLvGhrX8"
+    }
+  },
+  {
+    "transaction_id": "MzI5MTk0MTcwNmFkaXF6a2N4",
+    "barcode": "X9YLY460",
+    "type": "NEWINC",
+    "date": "2021-02-22",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-02-22",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-02-22",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-02-22",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-02-22"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13215438/filing-history/MzI5MTk0MTcwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CQirYgcnnmgAjX83-ugKw5jnnIkfBk8RBPUZvcJ5hlo"
+    }
+  }
+]

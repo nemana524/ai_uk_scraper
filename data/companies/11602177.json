@@ -1,0 +1,45 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "03",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-12-03",
+      "period_end_on": "2024-12-03",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH CHECK LDN LTD",
+  "company_number": "11602177",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-08"
+  },
+  "date_of_cessation": "2025-03-04",
+  "date_of_creation": "2018-10-03",
+  "etag": "2eb8148bc831ab8ec68a31aaaaf0e4debd3ce16a",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11602177/persons-with-significant-control",
+    "self": "/company/11602177",
+    "filing_history": "/company/11602177/filing-history",
+    "officers": "/company/11602177/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "120 Fox Hollow Drive",
+    "country": "United Kingdom",
+    "locality": "Bexleyheath",
+    "postal_code": "DA7 4UR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62030"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

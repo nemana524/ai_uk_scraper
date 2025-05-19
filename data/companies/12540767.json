@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-03-31",
+      "period_end_on": "2022-03-31",
+      "period_start_on": "2021-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-12-31",
+      "overdue": true,
+      "period_end_on": "2023-03-31",
+      "period_start_on": "2022-04-01"
+    },
+    "next_due": "2023-12-31",
+    "next_made_up_to": "2023-03-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH EUROPA LTD",
+  "company_number": "12540767",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-05-06",
+    "next_due": "2024-05-20",
+    "next_made_up_to": "2024-05-06",
+    "overdue": true
+  },
+  "date_of_creation": "2020-03-31",
+  "etag": "98fd7e2673f9d16ef77df1b23d37e49d7c64bbe2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12540767/persons-with-significant-control",
+    "self": "/company/12540767",
+    "filing_history": "/company/12540767/filing-history",
+    "officers": "/company/12540767/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "83 Ducie Street",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M1 2JQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

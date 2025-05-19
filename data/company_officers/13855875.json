@@ -1,0 +1,36 @@
+{
+  "company_number": "13855875",
+  "company_name": "TECH ACQUISITION VENTURES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MCGLASSON, James",
+      "officer_role": "director",
+      "appointed_on": "2022-01-18",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Marketer",
+      "address": {
+        "address_line_1": "17 King Edwards Road",
+        "address_line_2": "Ruislip",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "HA4 7AE",
+        "premises": "2nd Floor, College House"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/13855875/appointments/zwA2_9IgtKIINb0pqn8EGAdRIXs",
+        "officer": {
+          "appointments": "/officers/jqnbSoPOih7hZoNpkxFRiJjJOnU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

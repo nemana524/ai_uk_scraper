@@ -1,0 +1,65 @@
+{
+  "company_number": "09194965",
+  "company_name": "TECH FORGE MEDIA LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "JOHNSON, Ian Paul",
+      "officer_role": "director",
+      "appointed_on": "2014-08-29",
+      "resigned_on": null,
+      "nationality": "English",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Telephone Avenue",
+        "country": "England",
+        "locality": "Bristol",
+        "postal_code": "BS1 4BQ",
+        "premises": "Armada House"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/09194965/appointments/MPFuV1deyhtPQuqOnBb7dt3mnbU",
+        "officer": {
+          "appointments": "/officers/ZPolTGEsUzDaEDy4B7wZGEcXwAc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KRAJICKOVA, Jaroslava",
+      "officer_role": "secretary",
+      "appointed_on": "2014-09-28",
+      "resigned_on": "2019-04-05",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Oakfield Road",
+        "address_line_2": "Clifton",
+        "country": "United Kingdom",
+        "locality": "Bristol",
+        "postal_code": "BS8 2BB",
+        "premises": "69"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/09194965/appointments/70bQw94sC7cIcEr8pj-kiNF9kDY",
+        "officer": {
+          "appointments": "/officers/836CfErspMqrd6N3d2P8rZoDGKM/appointments"
+        }
+      },
+      "former_names": [
+        {
+          "surname": "YARKA KRAJICKOVA"
+        }
+      ],
+      "identification": {}
+    }
+  ]
+}

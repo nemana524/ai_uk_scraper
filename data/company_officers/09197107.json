@@ -1,0 +1,96 @@
+{
+  "company_number": "09197107",
+  "company_name": "TECH CPR LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "WOOD, Mark David Allan",
+      "officer_role": "director",
+      "appointed_on": "2015-03-04",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "York Street",
+        "country": "England",
+        "locality": "Chesterfield",
+        "postal_code": "S41 0PN",
+        "premises": "4",
+        "region": "Derbyshire"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1987
+      },
+      "links": {
+        "self": "/company/09197107/appointments/qAbFfFUeeJN7DiDEj8qB4MhsiJY",
+        "officer": {
+          "appointments": "/officers/1yIgkT0aRdSo4wjyeiXNc5tXiP8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MOORE, David Allan",
+      "officer_role": "director",
+      "appointed_on": "2014-08-31",
+      "resigned_on": "2018-05-31",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Station Road",
+        "address_line_2": "Whittington Moor",
+        "country": "England",
+        "locality": "Chesterfield",
+        "postal_code": "S41 9AQ",
+        "premises": "2",
+        "region": "Derbyshire"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/09197107/appointments/-tcgNKvL59FgxTc4I3XmgNYHtJc",
+        "officer": {
+          "appointments": "/officers/erukdOfAXIXw0gsAo57BDsaO04U/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PARKINSON, Darren Michael Freddie",
+      "officer_role": "director",
+      "appointed_on": "2014-08-31",
+      "resigned_on": "2016-11-01",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Station Road",
+        "address_line_2": "Whittington Moor",
+        "country": "England",
+        "locality": "Chesterfield",
+        "postal_code": "S41 9AQ",
+        "premises": "2",
+        "region": "Derbyshire"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/09197107/appointments/cyYNlkfXZPIL7nrPZjwpEo3scjE",
+        "officer": {
+          "appointments": "/officers/YLbuJyM_-_tPwknKnCGk44aFSyU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

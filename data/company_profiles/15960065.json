@@ -1,0 +1,38 @@
+{
+  "company_number": "15960065",
+  "company_name": "TECH G GLOBAL LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-09-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "41 Osprey Avenue",
+    "country": "England",
+    "locality": "Bracknell",
+    "postal_code": "RG12 8AT"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-17",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-09-17"
+    },
+    "next_due": "2026-06-17",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "etag": "c6b71c7124851b3bd65c8188a7e684c971046d62"
+}

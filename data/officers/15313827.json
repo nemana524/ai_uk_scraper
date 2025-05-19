@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "14 Clytha Park Road",
+      "country": "United Kingdom",
+      "locality": "Newport",
+      "postal_code": "NP20 4PB",
+      "premises": "Agincourt House",
+      "region": "Gwent"
+    },
+    "appointed_on": "2023-11-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Wales",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/15313827/appointments/1Y4--gwxuye564JCfV7A0zGdDBU",
+      "officer": {
+        "appointments": "/officers/BnLqnVhpobjkBKNVCT0rlhezw4U/appointments"
+      }
+    },
+    "name": "GRAY, David Alexander",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "249991020001"
+  }
+]

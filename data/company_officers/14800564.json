@@ -1,0 +1,35 @@
+{
+  "company_number": "14800564",
+  "company_name": "TECH FUSE GLOBAL LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KARTAL, Onay",
+      "officer_role": "director",
+      "appointed_on": "2023-04-14",
+      "resigned_on": null,
+      "nationality": "Turkish",
+      "country_of_residence": "Turkey",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Raven Road, Unit 1c3-10",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "E18 1HB",
+        "premises": "4"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1987
+      },
+      "links": {
+        "self": "/company/14800564/appointments/LRGG7alokgs_nYDEgsdOpwkiYes",
+        "officer": {
+          "appointments": "/officers/1MVDT3Lg9B7Slh7Ak5BYva7Yu1c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

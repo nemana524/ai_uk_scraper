@@ -1,0 +1,66 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GLOVES GROUP LTD",
+  "company_number": "12814015",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-27",
+    "next_due": "2025-09-10",
+    "next_made_up_to": "2025-08-27",
+    "overdue": false
+  },
+  "date_of_creation": "2020-08-14",
+  "etag": "848c1f764dfe46ccd304bbc74f84fcad65ec2a4c",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12814015/persons-with-significant-control",
+    "persons_with_significant_control_statements": "/company/12814015/persons-with-significant-control-statements",
+    "self": "/company/12814015",
+    "filing_history": "/company/12814015/filing-history",
+    "officers": "/company/12814015/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2020-08-25",
+      "effective_from": "2020-08-14",
+      "name": "TECH GLOVES GROUP LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "13 Rossall Road",
+    "country": "United Kingdom",
+    "locality": "Thornton-Cleveleys",
+    "postal_code": "FY5 1AP",
+    "region": "Lancashire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "64209"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

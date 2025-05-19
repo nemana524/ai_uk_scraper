@@ -1,0 +1,35 @@
+{
+  "company_number": "16171715",
+  "company_name": "TECH FOCUS CENTRE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AL HASHIMI, Jaffar Talib",
+      "officer_role": "director",
+      "appointed_on": "2025-01-08",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Station Road",
+        "country": "England",
+        "locality": "Harrow",
+        "postal_code": "HA1 2DX",
+        "premises": "310"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1987
+      },
+      "links": {
+        "self": "/company/16171715/appointments/BDXcoA3PBYDGc_0o1nkj5EhlFWg",
+        "officer": {
+          "appointments": "/officers/4dSSWPEinwj-j5o0aoDq3gTruhk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

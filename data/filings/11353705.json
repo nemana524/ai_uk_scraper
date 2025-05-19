@@ -1,0 +1,457 @@
+[
+  {
+    "transaction_id": "MzQ0NTY1MTUzM2FkaXF6a2N4",
+    "barcode": "XDH1U08O",
+    "type": "AA",
+    "date": "2024-12-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 13,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzQ0NTY1MTUzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gmWO98z04U1LmfjLrHz3Iw4XNNDmcVQzT_4AJy0pnW8"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDQ1MTA0NGFkaXF6a2N4",
+    "barcode": "XD4ONFRK",
+    "type": "CS01",
+    "date": "2024-06-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 3,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzQyNDQ1MTA0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/O-8LMWJwgQdVisebxBKNIgm9qrF9FkbC6NtQDvV8cvs"
+    }
+  },
+  {
+    "transaction_id": "MzM5Mjc5NzQyMWFkaXF6a2N4",
+    "barcode": "XCBYFF5M",
+    "type": "AA",
+    "date": "2023-09-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 13,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzM5Mjc5NzQyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-CNYKR-umENPCt7Tkk-z0coThIiPzGx4BKzbzOAxPvI"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTU2MDc2NWFkaXF6a2N4",
+    "barcode": "XC4Q9QM0",
+    "type": "CS01",
+    "date": "2023-06-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 3,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzM4MTU2MDc2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HgeoYO6Rr8wZMGpbhdXn7LVSUiEGsRYRESVqIT7hVZA"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzgyNzg4NmFkaXF6a2N4",
+    "barcode": "XBDQ6WOI",
+    "type": "AA",
+    "date": "2022-10-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-05-31"
+    },
+    "pages": 12,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzM1MzgyNzg4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t2PJSdKrlHgJEovP7zvNPLHKdOF3Hc_47hVjFw3W6h0"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTI5OTE0MWFkaXF6a2N4",
+    "barcode": "XB58T3DD",
+    "type": "CS01",
+    "date": "2022-06-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-05-31"
+    },
+    "pages": 3,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzM0MTI5OTE0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YMJZMRCm232CND14jtmKRbtA9_xFqLnp3Sas2UflOxA"
+    }
+  },
+  {
+    "transaction_id": "MzMyMTgzNDYzOWFkaXF6a2N4",
+    "barcode": "XAICYI60",
+    "type": "AA",
+    "date": "2021-11-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-05-31"
+    },
+    "pages": 12,
+    "action_date": "2021-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzMyMTgzNDYzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ae1a5r35oOqybV3PBfZg1mFvh7zBNB6wpcgGY8Om2Do"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjk0NDIxMWFkaXF6a2N4",
+    "barcode": "XA5PXG0R",
+    "type": "CS01",
+    "date": "2021-06-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-05-31"
+    },
+    "pages": 3,
+    "action_date": "2021-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzMwMjk0NDIxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cwMPN9z-S8vGC3bKauzY0Fxw-bSYi8HtwJOtgRcMQHg"
+    }
+  },
+  {
+    "transaction_id": "MzI5MDY2MzkyOWFkaXF6a2N4",
+    "barcode": "X9XPPUFE",
+    "type": "AA",
+    "date": "2021-02-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-05-31"
+    },
+    "pages": 14,
+    "action_date": "2020-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzI5MDY2MzkyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XuBj106UREXrdjaT-0rW0WNFvo1TRIk9-fkmm9dyyzw"
+    }
+  },
+  {
+    "transaction_id": "MzI2NzI4NjIzM2FkaXF6a2N4",
+    "barcode": "X97456W3",
+    "type": "CS01",
+    "date": "2020-06-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-05-31"
+    },
+    "pages": 3,
+    "action_date": "2020-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzI2NzI4NjIzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kgchHRXm8wTysDeM5ikzYKwfFTmpnbxrl6d7TJlyt2I"
+    }
+  },
+  {
+    "transaction_id": "MzI2NTQwMzMzM2FkaXF6a2N4",
+    "barcode": "X95HQYPN",
+    "type": "CS01",
+    "date": "2020-05-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-05-31"
+    },
+    "pages": 3,
+    "action_date": "2019-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzI2NTQwMzMzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-sPvFBLke2VoModnt1BivovUC_B68tATa9SSMSgtCHA"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzQ0NTQyMGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2020-04-29",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11353705/filing-history/MzI2MzQ0NTQyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eqTKw9rYu8-PSqx-l5jabONjRYE0smnf_R1ioh59K2M"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzQ0NTM2N2FkaXF6a2N4",
+    "barcode": "X93XWJZN",
+    "type": "AA",
+    "date": "2020-04-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2019-05-31"
+    },
+    "pages": 12,
+    "action_date": "2019-05-31",
+    "links": {
+      "self": "/company/11353705/filing-history/MzI2MzQ0NTM2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kPEls35HFctpd_K5NvtXWmfXUFQbQdIBOijgCsCJ8qE"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTI5NTUwNGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2020-04-07",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11353705/filing-history/MzI2MTI5NTUwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/k2JO93Ntw39wC_00_80wETEhslvRyoYEEcNHnGybUgw"
+    }
+  },
+  {
+    "transaction_id": "MzI0NjE0OTEwM2FkaXF6a2N4",
+    "barcode": "X8FLNXZL",
+    "type": "PSC01",
+    "date": "2019-10-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Aspak Harunbhai Pirvani",
+      "notification_date": "2018-05-10"
+    },
+    "pages": 2,
+    "action_date": "2018-05-10",
+    "links": {
+      "self": "/company/11353705/filing-history/MzI0NjE0OTEwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xH667-UCh36iywBCGhuqgHChceV9Kj0x-WsDTQgOf3s"
+    }
+  },
+  {
+    "transaction_id": "MzI0NjE0Nzk4MGFkaXF6a2N4",
+    "barcode": "X8FLNTXD",
+    "type": "PSC01",
+    "date": "2019-10-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Alireza Zahidhussein Merchant",
+      "notification_date": "2018-05-10"
+    },
+    "pages": 2,
+    "action_date": "2018-05-10",
+    "links": {
+      "self": "/company/11353705/filing-history/MzI0NjE0Nzk4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s7H07WbMtGAxF0v_e7MEozLW8pgTh7Z7VmOTyhNEcy8"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDMxMzU5OWFkaXF6a2N4",
+    "barcode": "X85GHLXS",
+    "type": "CS01",
+    "date": "2019-05-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-05-09"
+    },
+    "pages": 4,
+    "action_date": "2019-05-09",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIzNDMxMzU5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eBVMYjTknRTiizg2ze7hjxiDYJU6i2JNOecqqiBRGkI"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTg5ODgwNGFkaXF6a2N4",
+    "barcode": "X7C4CXMX",
+    "type": "CH01",
+    "date": "2018-08-11",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2018-07-20",
+      "officer_name": "Mr. Aspak Harunbhai Pirvani"
+    },
+    "pages": 2,
+    "action_date": "2018-07-20",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIxMTg5ODgwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F7RzTlEjBXCt6iP73ZnDoHQl_czdbfRNqORC7SC2VxU"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTg5ODc0NmFkaXF6a2N4",
+    "barcode": "X7C4CUOA",
+    "type": "CH01",
+    "date": "2018-08-11",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2018-07-20",
+      "officer_name": "Mr. Alireza Zahidhussein Merchant"
+    },
+    "pages": 2,
+    "action_date": "2018-07-20",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIxMTg5ODc0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zCn6e7CQCKnUPZRii2uqe8zt6BUfUQ_DPrTGlWnM79I"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTQwMTEwNmFkaXF6a2N4",
+    "barcode": "X7BLRA15",
+    "type": "PSC07",
+    "date": "2018-08-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Neeraj Rajkumar Parwani",
+      "cessation_date": "2018-07-20"
+    },
+    "pages": 1,
+    "action_date": "2018-07-20",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIxMTQwMTEwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_o8xE9wNHkkTzO6UYDjk8wU1vNbUcKWe6SCmggadyIk"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTQwMTA5MmFkaXF6a2N4",
+    "barcode": "X7BLR9JF",
+    "type": "PSC07",
+    "date": "2018-08-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Vijay Katke",
+      "cessation_date": "2018-07-20"
+    },
+    "pages": 1,
+    "action_date": "2018-07-20",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIxMTQwMTA5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qEx7HxEOyEoUn2_KcVu-pyDqXPfqHW4lf_pvcOzdY8c"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTI3NjYxOGFkaXF6a2N4",
+    "barcode": "X7BHEIGR",
+    "type": "TM01",
+    "date": "2018-08-02",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Neeraj Rajkumar Parwani",
+      "termination_date": "2018-07-20"
+    },
+    "pages": 1,
+    "action_date": "2018-07-20",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIxMTI3NjYxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Lexdn4avdrmA-XvSu-zz8YWKIy0BrDkZT__pfkyByVg"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTI3NjE2OGFkaXF6a2N4",
+    "barcode": "X7BHE0I1",
+    "type": "AP01",
+    "date": "2018-08-02",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr. Aspak Harunbhai Pirvani",
+      "appointment_date": "2018-07-20"
+    },
+    "pages": 2,
+    "action_date": "2018-07-20",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIxMTI3NjE2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/falekU8naimhc2aHkGw5SDQOryUBfla97paUOdPme5o"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTIzNzM3OWFkaXF6a2N4",
+    "barcode": "X7BGBDKR",
+    "type": "AP01",
+    "date": "2018-08-02",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr. Alireza Zahidhussein Merchant",
+      "appointment_date": "2018-07-20"
+    },
+    "pages": 2,
+    "action_date": "2018-07-20",
+    "links": {
+      "self": "/company/11353705/filing-history/MzIxMTIzNzM3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uRfqhjEKuN6gz6zhq5V3AcKN4yq7OaO3akNmSsBC-gk"
+    }
+  },
+  {
+    "transaction_id": "MzIwNDUzOTY3MGFkaXF6a2N4",
+    "barcode": "X75MEWIG",
+    "type": "NEWINC",
+    "date": "2018-05-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-05-10",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-05-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-05-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2018-05-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 12,
+    "links": {
+      "self": "/company/11353705/filing-history/MzIwNDUzOTY3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3fXsreLopwI5TTvupOx9cv_HlRFi2Wi4HZur7n_DNq4"
+    }
+  }
+]

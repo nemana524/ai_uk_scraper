@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "country": "United Kingdom",
+      "locality": "Chislehurst",
+      "postal_code": "BR7 5BE",
+      "premises": "63 High Street",
+      "region": "Kent"
+    },
+    "appointed_on": "2022-07-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/14223754/appointments/SeaGx8cCgpvpm_rdGGOOvEkhR3Y",
+      "officer": {
+        "appointments": "/officers/Yxn2g9w5q4IxB3VsBRuWVPUN_aU/appointments"
+      }
+    },
+    "name": "CONNOLLY-GRAHAM, Jaydon Pierre",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "297818370001"
+  }
+]

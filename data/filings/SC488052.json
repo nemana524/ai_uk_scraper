@@ -1,0 +1,615 @@
+[
+  {
+    "transaction_id": "MzQ0MTQ1NDQ0N2FkaXF6a2N4",
+    "barcode": "XDESR5RE",
+    "type": "CS01",
+    "date": "2024-10-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-30"
+    },
+    "pages": 4,
+    "action_date": "2024-10-30",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzQ0MTQ1NDQ0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ULpCmYqvmhCF4BqhZyE_w-Wcqvhp0Ec01G3nfLXRb6A"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDUxODEyMGFkaXF6a2N4",
+    "barcode": "XD8F9X2X",
+    "type": "AA",
+    "date": "2024-07-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-10-31"
+    },
+    "pages": 4,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzQzMDUxODEyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T_sGYt3mmuElNbkmeLPh5JE9jF9_LJAcYr_iusGp1q8"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODI3MjI1MmFkaXF6a2N4",
+    "barcode": "XCF920JD",
+    "type": "CS01",
+    "date": "2023-10-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-30"
+    },
+    "pages": 3,
+    "action_date": "2023-10-30",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM5ODI3MjI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C4KPm4FJY850vkn9VfCqt4MxqYqIMYTX0TAM9Y2rXjA"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDA3ODE4NmFkaXF6a2N4",
+    "barcode": "XCCMLNM3",
+    "type": "AA",
+    "date": "2023-09-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-10-31"
+    },
+    "pages": 4,
+    "action_date": "2022-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM5NDA3ODE4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/45qXM-88paaqSnUzbStVHnIcv00A-WESlGmQ3z_9Dm0"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjMwNTQ5MWFkaXF6a2N4",
+    "barcode": "XCBNP1MQ",
+    "type": "CH01",
+    "date": "2023-09-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-09-08",
+      "officer_name": "Mr Muhammad Rifaquat Ahmad"
+    },
+    "pages": 2,
+    "action_date": "2023-09-08",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM5MjMwNTQ5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i7zY_cxqqjd7eqWct1Y8aXdEom5CzREZmIS5DOMlPcU"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjMwNTQ4OWFkaXF6a2N4",
+    "barcode": "XCBNP1NM",
+    "type": "PSC04",
+    "date": "2023-09-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-09-08",
+      "psc_name": "Mrs Anam Rifaquat"
+    },
+    "pages": 2,
+    "action_date": "2023-09-08",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM5MjMwNTQ4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bOWsyjI4WIrWSx_A_VJhA876pvlqPVgyePdMLMp20wg"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjMwNTM4NWFkaXF6a2N4",
+    "barcode": "XCBNP1H7",
+    "type": "PSC04",
+    "date": "2023-09-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-09-08",
+      "psc_name": "Mr Muhammad Rifaquat Ahmad"
+    },
+    "pages": 2,
+    "action_date": "2023-09-08",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM5MjMwNTM4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OX4jsgD5CURm0yaet63G-PWp4F2aAyqWHgK5gMD5UOc"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjA1NjE1NGFkaXF6a2N4",
+    "barcode": "XCBI8RZK",
+    "type": "AD01",
+    "date": "2023-09-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-09-06",
+      "old_address": "3rd Floor 116 Dundas Street Edinburgh EH3 5DQ United Kingdom",
+      "new_address": "272 Bath Street Glasgow G2 4JR"
+    },
+    "pages": 1,
+    "action_date": "2023-09-06",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM5MjA1NjE1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lZ7kMou0yJEgr5ifJtmKMgrGvXinsC1L3GPay_0bzx8"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDQ1Mjc0NGFkaXF6a2N4",
+    "barcode": "XBE3TKBS",
+    "type": "CS01",
+    "date": "2022-10-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-10-05"
+    },
+    "pages": 3,
+    "action_date": "2022-10-05",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM1NDQ1Mjc0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6CTGshD2s4uveAa2_TGr9VuEJI9HFFSx7i2Milo6dUc"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzY0NTM0MmFkaXF6a2N4",
+    "barcode": "XB6T7DVN",
+    "type": "AA",
+    "date": "2022-06-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-10-31"
+    },
+    "pages": 5,
+    "action_date": "2021-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzM0MzY0NTM0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uk56qw1GUbt_0GNf94kukhk8CaAbi8hIU0dJGslzc0E"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDA1NDM3NGFkaXF6a2N4",
+    "barcode": "XAH3PLN4",
+    "type": "CS01",
+    "date": "2021-11-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-10-05"
+    },
+    "pages": 3,
+    "action_date": "2021-10-05",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzMyMDA1NDM3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xbPBewVqeg4KiLnLn-kaP7BQOyVD6Cm8S6NW24_wIak"
+    }
+  },
+  {
+    "transaction_id": "MzMwNzU1NTQ0OGFkaXF6a2N4",
+    "barcode": "XA8MVF3K",
+    "type": "AA",
+    "date": "2021-07-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-10-31"
+    },
+    "pages": 5,
+    "action_date": "2020-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzMwNzU1NTQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ts81zxcTHreMsJNun7Rz5ffvUJP3tEYGVYD6tmuX4IM"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDE0MTk2NWFkaXF6a2N4",
+    "barcode": "X9FALVKG",
+    "type": "CS01",
+    "date": "2020-10-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-10-05"
+    },
+    "pages": 4,
+    "action_date": "2020-10-05",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzI4MDE0MTk2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mE5-9SAis_z9B8SvOWv75bA0ieQo_yF8mKf_DVWj_CY"
+    }
+  },
+  {
+    "transaction_id": "MzI1OTgxMTg2MWFkaXF6a2N4",
+    "barcode": "X90Q2WEZ",
+    "type": "AA",
+    "date": "2020-03-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-10-31"
+    },
+    "pages": 5,
+    "action_date": "2019-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzI1OTgxMTg2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0BWtrKEGrZlW0XvmsoVyI92iSkVIMDKlAoDgXGdGbZ0"
+    }
+  },
+  {
+    "transaction_id": "MzI0NjE3NzU5OWFkaXF6a2N4",
+    "barcode": "X8FLQIB7",
+    "type": "CS01",
+    "date": "2019-10-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-10-05"
+    },
+    "pages": 4,
+    "action_date": "2019-10-05",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzI0NjE3NzU5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J60dmebhw4XKWAtPoNg8kK39jl2Yf7Jm85u6Y2EE23c"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTUzMjk3MGFkaXF6a2N4",
+    "barcode": "X82YP5WZ",
+    "type": "AA",
+    "date": "2019-04-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-10-31"
+    },
+    "pages": 5,
+    "action_date": "2018-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzIzMTUzMjk3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qxc0d_zI7SncmYHM93WrYdehr4enne5ueSUqWVLOF6I"
+    }
+  },
+  {
+    "transaction_id": "MzIxNjMxODI3MGFkaXF6a2N4",
+    "barcode": "X7FWDBL7",
+    "type": "CS01",
+    "date": "2018-10-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2018-10-05"
+    },
+    "pages": 4,
+    "action_date": "2018-10-05",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzIxNjMxODI3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/g8jpZ9US_8nZexX5MUYZpmG7xe9t-ftnZCiC1jf1bhM"
+    }
+  },
+  {
+    "transaction_id": "MzE5ODI2NTgzM2FkaXF6a2N4",
+    "barcode": "X709QQVU",
+    "type": "AA",
+    "date": "2018-02-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-10-31"
+    },
+    "pages": 5,
+    "action_date": "2017-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE5ODI2NTgzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/b5U_zmsQhqXWgNN63xW4xwtCSt1YcMg2CY3kxe9Zm94"
+    }
+  },
+  {
+    "transaction_id": "MzE4NzMyMjU1OWFkaXF6a2N4",
+    "barcode": "X6GNQWQJ",
+    "type": "CS01",
+    "date": "2017-10-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-10-07"
+    },
+    "pages": 4,
+    "action_date": "2017-10-07",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE4NzMyMjU1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hCPxT3cXz-UyPnA4r3GfAO4Z7Ev8eFizOQQkP-LmeHY"
+    }
+  },
+  {
+    "transaction_id": "MzE4NzMxODY5N2FkaXF6a2N4",
+    "barcode": "X6GNN2C9",
+    "type": "PSC04",
+    "date": "2017-10-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2017-03-24",
+      "psc_name": "Mrs Anam Rifaquat"
+    },
+    "pages": 2,
+    "action_date": "2017-03-24",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE4NzMxODY5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cnsF_bA4KvkSE7hBkfJrezbyWxPo1xqELNT1PDk-MMo"
+    }
+  },
+  {
+    "transaction_id": "MzE4NzMxODIxNWFkaXF6a2N4",
+    "barcode": "X6GNMPZV",
+    "type": "PSC04",
+    "date": "2017-10-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2017-03-24",
+      "psc_name": "Mr Muhammad Rifaquat Ahmad"
+    },
+    "pages": 2,
+    "action_date": "2017-03-24",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE4NzMxODIxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W0OijiKQRHqpAMpp1fe2YKpp1jWnsP40cm-gDIq8-78"
+    }
+  },
+  {
+    "transaction_id": "MzE4NzMxNjY1OWFkaXF6a2N4",
+    "barcode": "X6GNL8YZ",
+    "type": "PSC04",
+    "date": "2017-10-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2016-10-08",
+      "psc_name": "Mr Muhammad Rifaquat Ahmad"
+    },
+    "pages": 2,
+    "action_date": "2016-10-08",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE4NzMxNjY1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qyYtCdMDxlVSSzxl7P5yA728tju8FVh37Yt46GZGgpg"
+    }
+  },
+  {
+    "transaction_id": "MzE3MTg4MDIyMmFkaXF6a2N4",
+    "barcode": "X62WQMCA",
+    "type": "AD01",
+    "date": "2017-03-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2017-03-24",
+      "old_address": "1st Floor 31 Palmerston Place Edinburgh EH12 5AP",
+      "new_address": "3rd Floor 116 Dundas Street Edinburgh EH3 5DQ"
+    },
+    "pages": 1,
+    "action_date": "2017-03-24",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE3MTg4MDIyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nkG8H2dbYRJeL4LcDTYQdCg88rogtepcDWusvVrdwrs"
+    }
+  },
+  {
+    "transaction_id": "MzE2OTYxNDc1M2FkaXF6a2N4",
+    "barcode": "X60V2Z2X",
+    "type": "AA",
+    "date": "2017-02-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2016-10-31"
+    },
+    "pages": 6,
+    "action_date": "2016-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE2OTYxNDc1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ugM64t64BwwDguiUlZooTwHp6H39i3nVhuMKTYRKIpw"
+    }
+  },
+  {
+    "transaction_id": "MzE1OTIxNTU3N2FkaXF6a2N4",
+    "barcode": "X5H4CJ7F",
+    "type": "CS01",
+    "date": "2016-10-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2016-10-07"
+    },
+    "pages": 6,
+    "action_date": "2016-10-07",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzE1OTIxNTU3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rdEyc7BBjwmn20MONU0f9O8T7ZPwOCCgcKB_yhUcXVw"
+    }
+  },
+  {
+    "transaction_id": "MzEzOTgyMjM2NWFkaXF6a2N4",
+    "barcode": "X4YN371L",
+    "type": "AA",
+    "date": "2016-01-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2015-10-31"
+    },
+    "pages": 6,
+    "action_date": "2015-10-31",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzEzOTgyMjM2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0b4GoMgSgqT6DZNfW9pFr-1ke0yz3mTp0VVBm1E2gsE"
+    }
+  },
+  {
+    "transaction_id": "MzEzMjc0MzY2MWFkaXF6a2N4",
+    "barcode": "X4HOPXLC",
+    "type": "AR01",
+    "date": "2015-10-09",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-10-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-10-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2015-10-09"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2015-10-02"
+    },
+    "pages": 3,
+    "action_date": "2015-10-02",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzEzMjc0MzY2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sm-GWSsQxyfjBRhpOXARaPNpwPybiQqhJwLnFP89Eng"
+    }
+  },
+  {
+    "transaction_id": "MzEzMjU2MzAyM2FkaXF6a2N4",
+    "barcode": "X4HJH3PK",
+    "type": "AD01",
+    "date": "2015-10-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2015-10-07",
+      "old_address": "1st Floor 31 Palmerston Place Edinburgh EH12 5AP United Kingdom",
+      "new_address": "1st Floor 31 Palmerston Place Edinburgh EH12 5AP"
+    },
+    "pages": 1,
+    "action_date": "2015-10-07",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzEzMjU2MzAyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T3ctC2KPhUT-8eRclFOiBxSTdYSKVQS8kN2EGcZesvQ"
+    }
+  },
+  {
+    "transaction_id": "MzEzMjQwMTczNGFkaXF6a2N4",
+    "barcode": "X4HE9BUJ",
+    "type": "AD01",
+    "date": "2015-10-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2015-10-05",
+      "old_address": "128 Ballochmyle Wynd Carnbroe ML5 4QE Scotland",
+      "new_address": "1st Floor 31 Palmerston Place Edinburgh EH12 5AP"
+    },
+    "pages": 1,
+    "action_date": "2015-10-05",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzEzMjQwMTczNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aWLWTlD9sWiA14kiYEF0R4kI1Yyh8K1VAATzD_4RCWI"
+    }
+  },
+  {
+    "transaction_id": "MzEyMzg4NjY3NWFkaXF6a2N4",
+    "barcode": "X487BFNL",
+    "type": "AD01",
+    "date": "2015-05-26",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2015-05-26",
+      "old_address": "1 175 Craighall Road Glasgow G4 9TN United Kingdom",
+      "new_address": "128 Ballochmyle Wynd Carnbroe ML5 4QE"
+    },
+    "pages": 1,
+    "action_date": "2015-05-26",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzEyMzg4NjY3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jtulTVoO8aSFCmKOS8QINpR1gS73Jz60vD6L0iSuT_Q"
+    }
+  },
+  {
+    "transaction_id": "MzEyMzg4NjY4NmFkaXF6a2N4",
+    "barcode": "X487BHMZ",
+    "type": "CH01",
+    "date": "2015-05-26",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2014-12-23",
+      "officer_name": "Mr Muhammad Rifaquat Ahmad"
+    },
+    "pages": 2,
+    "action_date": "2014-12-23",
+    "links": {
+      "self": "/company/SC488052/filing-history/MzEyMzg4NjY4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/inq2JI9_VKiHBbj2PzNA131bF_H2GaCDTtQebkcNknc"
+    }
+  },
+  {
+    "transaction_id": "MzEwODcwODc3NWFkaXF6a2N4",
+    "barcode": "X3HNW83N",
+    "type": "NEWINC",
+    "date": "2014-10-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2014-10-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2014-10-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2014-10-02"
+      },
+      {
+        "category": "incorporation",
+        "date": "2014-10-02",
+        "description": "model-articles-adopted-amended-provisions",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "incorporation",
+        "date": "2014-10-02",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 22,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SC488052/filing-history/MzEwODcwODc3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NxBsp58Eb9r2HAZ6D7YT1TIOxMapSGxRIb8zhhphkMM"
+    }
+  }
+]

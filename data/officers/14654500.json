@@ -1,0 +1,69 @@
+[
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2023-02-10",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/14654500/appointments/K3jBzSAEtNN8sB88bFJTVKVvzPM",
+      "officer": {
+        "appointments": "/officers/hgvwHX-zSg74030cDNocNxf8weA/appointments"
+      }
+    },
+    "name": "EARLS, Lee",
+    "officer_role": "secretary",
+    "person_number": "305419180001"
+  },
+  {
+    "address": {
+      "address_line_1": "Connaught Road",
+      "country": "United Kingdom",
+      "locality": "Reading",
+      "postal_code": "RG30 2UF",
+      "premises": "124"
+    },
+    "appointed_on": "2023-03-07",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/14654500/appointments/jZRxxHVtcFo7WEqRoH2aqnTSdVM",
+      "officer": {
+        "appointments": "/officers/e8KqFmzd3oMldlFlrabsCYBi3so/appointments"
+      }
+    },
+    "name": "RAMOS, Edwin",
+    "officer_role": "secretary",
+    "person_number": "306399990001"
+  },
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2023-02-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/14654500/appointments/pKPvAaHo9OPlwO7yIjI8WENrnx4",
+      "officer": {
+        "appointments": "/officers/ifA_xhViBDkujMiikRnpPsVbfhk/appointments"
+      }
+    },
+    "name": "EARLS, Lee",
+    "nationality": "British",
+    "occupation": "Managing Director",
+    "officer_role": "director",
+    "person_number": "288771050001"
+  }
+]

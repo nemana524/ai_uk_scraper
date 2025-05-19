@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "6 Floor, St James\u2019S House",
+      "address_line_2": "Pendleton Way",
+      "country": "England",
+      "locality": "Salford",
+      "postal_code": "M6 5FW",
+      "premises": "Suite 8"
+    },
+    "appointed_on": "2022-02-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1989
+    },
+    "links": {
+      "self": "/company/13886024/appointments/_nvOuNJbYy3TD5Yrgs6I3Ax_8Kw",
+      "officer": {
+        "appointments": "/officers/uf8e7HnWQh80CAzMwKhZzgspiP0/appointments"
+      }
+    },
+    "name": "TARIQ, Asad",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "333543480001"
+  },
+  {
+    "address": {
+      "address_line_1": "30 Uphall Road",
+      "country": "England",
+      "locality": "Ilford",
+      "postal_code": "IG1 2JF",
+      "premises": "7-Rd"
+    },
+    "appointed_on": "2022-02-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 2001
+    },
+    "links": {
+      "self": "/company/13886024/appointments/Cgq-ns4HULiRjIBp9gWArgkU4b4",
+      "officer": {
+        "appointments": "/officers/E5Vf6A-CfLDzy0IXCT45Ko0CDKY/appointments"
+      }
+    },
+    "name": "TALLAT WAHEED, Ubaid Ur Rehman Muaz Bin Tallat",
+    "nationality": "Pakistani",
+    "occupation": "Businessman",
+    "officer_role": "director",
+    "resigned_on": "2022-02-01",
+    "person_number": "292042020001"
+  }
+]

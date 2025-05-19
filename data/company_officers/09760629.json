@@ -1,0 +1,35 @@
+{
+  "company_number": "09760629",
+  "company_name": "TECH CIRCUS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "REED, Luke Charles",
+      "officer_role": "director",
+      "appointed_on": "2015-09-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "St. Leonards Road",
+        "country": "England",
+        "locality": "Windsor",
+        "postal_code": "SL4 3BB",
+        "premises": "Office 5, 24-28"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/09760629/appointments/NRsAaPtK0KwP7z7-SxK0neusoag",
+        "officer": {
+          "appointments": "/officers/4wGmu_I53DgZeS-7TKX8mD61R2I/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

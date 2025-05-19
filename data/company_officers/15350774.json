@@ -1,0 +1,65 @@
+{
+  "company_number": "15350774",
+  "company_name": "TECH DJ LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MCIVER, Kevin",
+      "officer_role": "director",
+      "appointed_on": "2024-09-19",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Sales Director",
+      "address": {
+        "address_line_1": "Longridge Road",
+        "address_line_2": "Ribbleton",
+        "country": "England",
+        "locality": "Preston",
+        "postal_code": "PR2 5ND",
+        "premises": "Unit A63"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/15350774/appointments/FFNEi1vHgtgY7uyUcaxRk0GLxeY",
+        "officer": {
+          "appointments": "/officers/5-BkwoP3aN6t9axJlQABhDwuMv8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SCOTT, Sean Dalton",
+      "officer_role": "director",
+      "appointed_on": "2023-12-14",
+      "resigned_on": "2025-02-16",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "General Manager",
+      "address": {
+        "address_line_1": "Longridge Road",
+        "address_line_2": "Ribbleton",
+        "country": "England",
+        "locality": "Preston",
+        "postal_code": "PR2 5ND",
+        "premises": "Unit A63"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1968
+      },
+      "links": {
+        "self": "/company/15350774/appointments/k4tUqfQcKEmGYImyuXijwZ4iGek",
+        "officer": {
+          "appointments": "/officers/-5GjMTlfQyXSLSsyQz3ChGJd_Tg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "company_number": "13279273",
+  "company_name": "TECH CORNER (WARRINGTON) LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-03-19",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47190"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Tech Corner 20 Benson Road",
+    "address_line_2": "Birchwood",
+    "country": "England",
+    "locality": "Warrington",
+    "postal_code": "WA3 7PQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "6abc2454ac0ee3a0480bb742fc556eb08e54e7ff"
+}

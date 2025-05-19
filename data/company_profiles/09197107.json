@@ -1,0 +1,45 @@
+{
+  "company_number": "09197107",
+  "company_name": "TECH CPR LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2014-08-31",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "2 Station Road",
+    "address_line_2": "Whittington Moor",
+    "locality": "Chesterfield",
+    "postal_code": "S41 9AQ",
+    "region": "Derbyshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-06-30",
+      "period_end_on": "2021-06-30",
+      "period_start_on": "2020-07-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2023-03-31",
+      "overdue": true,
+      "period_end_on": "2022-06-30",
+      "period_start_on": "2021-07-01"
+    },
+    "next_due": "2023-03-31",
+    "next_made_up_to": "2022-06-30",
+    "overdue": true
+  },
+  "etag": "c45ace7a9fe65b13a6541170af207688fb6197ad"
+}

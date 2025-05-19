@@ -1,0 +1,49 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH CARGO BEHEER LIMITED",
+  "company_number": "06377449",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-20"
+  },
+  "date_of_cessation": "2025-02-25",
+  "date_of_creation": "2007-09-20",
+  "etag": "9a7894eeb7c917699e33491aa1f1eea673ba13f5",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-09-20",
+  "links": {
+    "persons_with_significant_control": "/company/06377449/persons-with-significant-control",
+    "self": "/company/06377449",
+    "filing_history": "/company/06377449/filing-history",
+    "officers": "/company/06377449/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Hartrow Manor Farm Cottage",
+    "address_line_2": "Lydeard St. Lawrence",
+    "country": "United Kingdom",
+    "locality": "Taunton",
+    "postal_code": "TA4 3PZ",
+    "region": "Somerset"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "82990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

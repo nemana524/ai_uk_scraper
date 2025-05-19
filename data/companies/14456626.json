@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2024-08-02",
+      "overdue": true,
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-11-02"
+    },
+    "next_due": "2024-08-02",
+    "next_made_up_to": "2023-11-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH CON SERV LTD",
+  "company_number": "14456626",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-11-01",
+    "next_due": "2024-11-15",
+    "next_made_up_to": "2024-11-01",
+    "overdue": true
+  },
+  "date_of_creation": "2022-11-02",
+  "etag": "82329efe4d62dadc7e83063fd4d9ea20641a64e7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14456626/persons-with-significant-control",
+    "self": "/company/14456626",
+    "filing_history": "/company/14456626/filing-history",
+    "officers": "/company/14456626/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "128 Runley Road",
+    "country": "England",
+    "locality": "Luton",
+    "postal_code": "LU1 1UA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43290",
+    "71121"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

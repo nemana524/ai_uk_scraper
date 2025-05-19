@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "86-94 High Street",
+      "country": "England",
+      "locality": "Hunslow",
+      "postal_code": "TW3 1NH",
+      "premises": "Ashley House"
+    },
+    "appointed_on": "2022-01-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/09834597/appointments/Wv8xhuPfQvor5DJdQ6p6DgfKvso",
+      "officer": {
+        "appointments": "/officers/_WiqB5dcEKTS-3Z9Mo6y3TdqJs0/appointments"
+      }
+    },
+    "name": "GAMBHIR, Preethi",
+    "nationality": "Indian",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "person_number": "267079060001"
+  },
+  {
+    "address": {
+      "address_line_1": "100 Pears Road",
+      "address_line_2": "Hounslow",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "TW3 1AT",
+      "premises": "12 New Oxford Court"
+    },
+    "appointed_on": "2015-10-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/09834597/appointments/It8weRQIHHJTXujCU2MHJpkozIA",
+      "officer": {
+        "appointments": "/officers/PfJiAbNiFzS3ffagDK7yabjnZq8/appointments"
+      }
+    },
+    "name": "KUMAR, Karan",
+    "nationality": "Portuguese",
+    "occupation": "It Services And Training",
+    "officer_role": "director",
+    "resigned_on": "2022-01-01",
+    "person_number": "183441520003"
+  }
+]

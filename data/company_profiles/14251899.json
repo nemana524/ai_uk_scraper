@@ -1,0 +1,31 @@
+{
+  "company_number": "14251899",
+  "company_name": "TECH BOTANICA LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2022-07-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46520"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "104 Ladyshot",
+    "address_line_2": "Flat 2",
+    "country": "United Kingdom",
+    "locality": "Harlow",
+    "postal_code": "CM20 3EW",
+    "region": "Essex"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    }
+  },
+  "etag": "bdb39794670dd3c96f5699a794409aa4a0a31d53"
+}

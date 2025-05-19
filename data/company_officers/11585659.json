@@ -1,0 +1,35 @@
+{
+  "company_number": "11585659",
+  "company_name": "TECH GROUP INTERNATIONAL LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ADAM, Hurso",
+      "officer_role": "director",
+      "appointed_on": "2018-09-24",
+      "resigned_on": null,
+      "nationality": "Nigerian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Hornsey Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N7 6DN",
+        "premises": "113"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/11585659/appointments/qTKW7VZhgcI8J-z94aJpAjsPC4s",
+        "officer": {
+          "appointments": "/officers/w6Mk9_Woj1PPuTNwL-9IzAcjoq8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

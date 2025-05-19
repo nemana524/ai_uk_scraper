@@ -1,0 +1,63 @@
+[
+  {
+    "transaction_id": "MzQyMzM5Njk5N2FkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-06-04",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14571044/filing-history/MzQyMzM5Njk5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cB3NEThxDQ2sCUbna0VXU16UTnNy8iuDlyve9hdTZEE"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzg1MzE2NWFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-03-19",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14571044/filing-history/MzQxMzg1MzE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/z3d4N-FODSxWlEdleI_Nay2nqDaR9hO6HQvmJrQeNwc"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzQyNTMxNmFkaXF6a2N4",
+    "barcode": "ACY92JC3",
+    "type": "DS01",
+    "date": "2024-03-08",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14571044/filing-history/MzQxMzQyNTMxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LDrv25xLCl3JQCXP1Jh8DmZwPX-Yz1c5DI9Z_nC9c-o"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDY1Mzc2OGFkaXF6a2N4",
+    "barcode": "XBUHQ2JS",
+    "type": "NEWINC",
+    "date": "2023-01-04",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-01-04",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 9,
+    "links": {
+      "self": "/company/14571044/filing-history/MzM2NDY1Mzc2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T5SPIMANfc-W0IIp9lqOzhcUjGpslk8QInG0l_bIvo0"
+    }
+  }
+]

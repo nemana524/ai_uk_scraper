@@ -1,0 +1,101 @@
+[
+  {
+    "transaction_id": "MzQ1MDkzNDA4NmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2025-01-15",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15193836/filing-history/MzQ1MDkzNDA4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rJ6fQK0eqYjuEjAmny5BV_rEgJYYNssX3VAlKbggSdQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDkzNDA1OGFkaXF6a2N4",
+    "barcode": "XDU8XW34",
+    "type": "CS01",
+    "date": "2025-01-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-05"
+    },
+    "pages": 3,
+    "action_date": "2024-10-05",
+    "links": {
+      "self": "/company/15193836/filing-history/MzQ1MDkzNDA1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/e1E4xC-331WsmegXTRESfmIfDH4I5Su6TCaATqOhPwg"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDc2NTEwMmFkaXF6a2N4",
+    "barcode": "XDU6AU1C",
+    "type": "AD01",
+    "date": "2025-01-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-01-13",
+      "old_address": "275 New North Road Pmb 3229 London N1 7AA England",
+      "new_address": "Unit E4 Rosslyn Crescent Harrow HA1 2SP"
+    },
+    "pages": 1,
+    "action_date": "2025-01-13",
+    "links": {
+      "self": "/company/15193836/filing-history/MzQ1MDc2NTEwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/13JPU_JETNnx-L6HW5m9fEW59b7-dS8Po-pTLwz0oqE"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Nzc2MjUyN2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-12-24",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15193836/filing-history/MzQ0Nzc2MjUyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T4b9GQ0xKC3N_4Ptak86vmQn0YcjI5VvbqBM-w92ICQ"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTUzNjQwNmFkaXF6a2N4",
+    "barcode": "XCDJFN0Z",
+    "type": "NEWINC",
+    "date": "2023-10-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-10-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-10-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-10-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15193836/filing-history/MzM5NTUzNjQwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NoD0-Vr4btXqeWn7p3FrJC3zvZXRzMOgNs6MSChRbN8"
+    }
+  }
+]

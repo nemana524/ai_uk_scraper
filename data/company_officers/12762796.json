@@ -1,0 +1,152 @@
+{
+  "company_number": "12762796",
+  "company_name": "TECH FINANCE COLLECTIONS LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "CSC CORPORATE SERVICES (UK) LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2020-07-23",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Churchill Place",
+        "address_line_2": "10th Floor",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 5HU",
+        "premises": "5"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/12762796/appointments/E39q0dSj10qsBoIs_4oE-wsryMk",
+        "officer": {
+          "appointments": "/officers/TFYU-lCkYyQmxKzs2VArweQw_ck/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "10831084"
+      }
+    },
+    {
+      "name": "MCGRATH, Catherine Mary Elizabeth",
+      "officer_role": "director",
+      "appointed_on": "2024-03-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Churchill Place",
+        "address_line_2": "10th Floor",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 5HU",
+        "premises": "5"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/12762796/appointments/_gChIObKbCNpGm6n0IcJITgdh4o",
+        "officer": {
+          "appointments": "/officers/EnLkqO6WOniRrZKC_AH_Z_1mBbU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "CSC DIRECTORS (NO.1) LIMITED",
+      "officer_role": "corporate-director",
+      "appointed_on": "2020-07-23",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Churchill Place",
+        "address_line_2": "10th Floor",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 5HU",
+        "premises": "5"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/12762796/appointments/RcNl5fSGj8dkG7fD8P_0qb8gJD0",
+        "officer": {
+          "appointments": "/officers/eM8agzczz37cg9jdnGmvo8_Xc38/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "10830933"
+      }
+    },
+    {
+      "name": "CSC DIRECTORS (NO.2) LIMITED",
+      "officer_role": "corporate-director",
+      "appointed_on": "2020-07-23",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Churchill Place",
+        "address_line_2": "10th Floor",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 5HU",
+        "premises": "5"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/12762796/appointments/c9Vn2awrGLLxhRM0L_bGhqf1x2o",
+        "officer": {
+          "appointments": "/officers/ThKdosI3uA8c9OoPbdm7stOYbGg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "10831026"
+      }
+    },
+    {
+      "name": "NASATO, Lara",
+      "officer_role": "director",
+      "appointed_on": "2020-07-23",
+      "resigned_on": "2024-03-01",
+      "nationality": "Italian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Churchill Place",
+        "address_line_2": "10th Floor",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 5HU",
+        "premises": "5"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/12762796/appointments/ZwP_EEnWS2OaHUvpPDUeonvFjx0",
+        "officer": {
+          "appointments": "/officers/pKVn0RjUP2RyLsXUmfkqIdllwBw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

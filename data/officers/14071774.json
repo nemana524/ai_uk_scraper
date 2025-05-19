@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Linton Street",
+      "country": "United Kingdom",
+      "locality": "Leicester",
+      "postal_code": "LE5 5JA",
+      "premises": "2a"
+    },
+    "appointed_on": "2022-04-27",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/14071774/appointments/fojVXwPs3gNThsFINof50Atbl6M",
+      "officer": {
+        "appointments": "/officers/4X6Qe48CwgoT9Qd6S3xW1ghyeIc/appointments"
+      }
+    },
+    "name": "FAKI, Waheed Imtiaz",
+    "nationality": "British",
+    "occupation": "Salesman",
+    "officer_role": "director",
+    "person_number": "229632880002"
+  }
+]

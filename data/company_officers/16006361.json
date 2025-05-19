@@ -1,0 +1,64 @@
+{
+  "company_number": "16006361",
+  "company_name": "TECH HUB UK1 LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "KIANI, Bilal Nawaz",
+      "officer_role": "director",
+      "appointed_on": "2024-11-12",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business Man",
+      "address": {
+        "address_line_1": "Fairless Road",
+        "address_line_2": "Eccles",
+        "country": "England",
+        "locality": "Manchester",
+        "postal_code": "M30 0HR",
+        "premises": "42"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/16006361/appointments/gbBOGVXFD2I8JY4dU-SuzOlSlFw",
+        "officer": {
+          "appointments": "/officers/ZgpXfkZmTddXlNgdaeUnn1-rPFQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BIBI, Sarah Zenib",
+      "officer_role": "director",
+      "appointed_on": "2024-10-08",
+      "resigned_on": "2024-11-12",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Businesswoman",
+      "address": {
+        "address_line_1": "Letchworth Avenue",
+        "country": "United Kingdom",
+        "locality": "Rochdale",
+        "postal_code": "OL11 1NB",
+        "premises": "14"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/16006361/appointments/AXZ_9tCshZ_wH1ngdbwyb_XWFKs",
+        "officer": {
+          "appointments": "/officers/IeS8_apguxpvEzcxFD8aDslgkYU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

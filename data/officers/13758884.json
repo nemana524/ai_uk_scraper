@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Whitechapel Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E1 1DE",
+      "premises": "215"
+    },
+    "appointed_on": "2021-11-22",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1992
+    },
+    "links": {
+      "self": "/company/13758884/appointments/OMrN7lSc0b4mGC6alhZObt3U7s0",
+      "officer": {
+        "appointments": "/officers/_vUWgB99LtzU8sOFc8Vx1SCy8Mo/appointments"
+      }
+    },
+    "name": "BEN MABROUK, Magdi",
+    "nationality": "French",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "289769750001"
+  }
+]

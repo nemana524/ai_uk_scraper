@@ -1,0 +1,35 @@
+{
+  "company_number": "SC711749",
+  "company_name": "TECH GML LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "LEITCH, Gregor Rory",
+      "officer_role": "director",
+      "appointed_on": "2021-10-08",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Scotland",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "12 High Street",
+        "country": "Scotland",
+        "locality": "Glasgow",
+        "postal_code": "G1 1NL",
+        "premises": "6/1"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1966
+      },
+      "links": {
+        "self": "/company/SC711749/appointments/B9G7KyjuCDfMZEvvJyAIktXCRmc",
+        "officer": {
+          "appointments": "/officers/jG8yx5yuOx-lKwTTWhcV8736quU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

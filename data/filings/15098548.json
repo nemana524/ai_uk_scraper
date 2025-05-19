@@ -1,0 +1,213 @@
+[
+  {
+    "transaction_id": "MzQ0ODE3Mzk3MGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-12-21",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0ODE3Mzk3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p6qBcmnNAPK9rwMzA9Im-BfrGkfCg_M2DCMxWK7MsO8"
+    }
+  },
+  {
+    "transaction_id": "MzQ0ODE3Mzg0M2FkaXF6a2N4",
+    "barcode": "XDI6YXB8",
+    "type": "CS01",
+    "date": "2024-12-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-08-26"
+    },
+    "pages": 5,
+    "action_date": "2024-08-26",
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0ODE3Mzg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AmHyPJtbOWKXnVbwlIRprLgU7LQDxLe6niro4J84lXU"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjYwNzAzN2FkaXF6a2N4",
+    "barcode": "XDHKR5M9",
+    "type": "CERTNM",
+    "date": "2024-12-09",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2024-12-01"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-12-09",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed tech solutions pvt LIMITED\\certificate issued on 09/12/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0NjYwNzAzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vwf4p-CeXdNEhk6FGgWOI4X9XNEfsMg5MvuRLcpbsQ4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjU0Mzc3NWFkaXF6a2N4",
+    "barcode": "XDHKREUR",
+    "type": "PSC07",
+    "date": "2024-12-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Rabab Ather",
+      "cessation_date": "2024-12-01"
+    },
+    "pages": 1,
+    "action_date": "2024-12-01",
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0NjU0Mzc3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IGEph9KxoKjwuuCN9yE32QZk7w5-SVoyAbPNM6EN_bE"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjU0MzcwNWFkaXF6a2N4",
+    "barcode": "XDHKREE9",
+    "type": "PSC01",
+    "date": "2024-12-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Hardeep Singh",
+      "notification_date": "2024-12-01"
+    },
+    "pages": 2,
+    "action_date": "2024-12-01",
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0NjU0MzcwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8a9J3_Il9cb6j9ZtKcE0LWGf2949O2tV2igz1aHzXME"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjUzOTYzMmFkaXF6a2N4",
+    "barcode": "XDHKQYY3",
+    "type": "TM01",
+    "date": "2024-12-09",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Rabab Ather",
+      "termination_date": "2024-12-01"
+    },
+    "pages": 1,
+    "action_date": "2024-12-01",
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0NjUzOTYzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VzU1U6S_vmjR_okNwLALRCoO98ht8XuGOXd8wKyZaYY"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjUzODc4M2FkaXF6a2N4",
+    "barcode": "XDHKQVUB",
+    "type": "AD01",
+    "date": "2024-12-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-09",
+      "old_address": "29 Penderel Road Hounslow TW3 3QR England",
+      "new_address": "23 Silver Street Wellingborough NN8 1AY"
+    },
+    "pages": 1,
+    "action_date": "2024-12-09",
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0NjUzODc4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a_l6TvgIq01qKxcqseQy9o6khmnX3fK8REumBALVnBY"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjUzODM1N2FkaXF6a2N4",
+    "barcode": "XDHKQUJL",
+    "type": "AP01",
+    "date": "2024-12-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Hardeep Singh",
+      "appointment_date": "2024-12-01"
+    },
+    "pages": 2,
+    "action_date": "2024-12-01",
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0NjUzODM1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4lfmBSMgzWnUbqS6uMuBTsbwcUqT3SDOuTV7t0-t-pQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjAwMTQ5MmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-11-12",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15098548/filing-history/MzQ0MjAwMTQ5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hz6Hgww4ZUcruyKAYczNzczeUmoSb81GnjRqDI7i-8M"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDk0Mjg0MGFkaXF6a2N4",
+    "barcode": "XCARKJC9",
+    "type": "NEWINC",
+    "date": "2023-08-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-08-27",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-08-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-08-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15098548/filing-history/MzM5MDk0Mjg0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SggU6s_8QvwoOAjNoUHWe_g2CURCAm1hGxqfY0-lif0"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Second Avenue",
+      "country": "England",
+      "locality": "Blackpool",
+      "postal_code": "FY4 2EX",
+      "premises": "16"
+    },
+    "appointed_on": "2017-02-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1984
+    },
+    "links": {
+      "self": "/company/10644311/appointments/jC4WAjO9DgIxdQqy6V-Dhpa6aoo",
+      "officer": {
+        "appointments": "/officers/8yL_sALFdmPPoeJgZzpu4fLyDz4/appointments"
+      }
+    },
+    "name": "LYDIATE, Anthony John",
+    "nationality": "English",
+    "occupation": "Gas Engineer",
+    "officer_role": "director",
+    "resigned_on": "2024-11-30",
+    "person_number": "225726470001"
+  }
+]

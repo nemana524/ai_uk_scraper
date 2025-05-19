@@ -1,0 +1,38 @@
+{
+  "company_number": "16275702",
+  "company_name": "TECH DEVELOPER HUB LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-02-25",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46620"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "2a 64 Saddler St",
+    "country": "United Kingdom",
+    "locality": "Durham",
+    "postal_code": "DH1 3PG"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2026-11-25",
+      "overdue": false,
+      "period_end_on": "2026-02-28",
+      "period_start_on": "2025-02-25"
+    },
+    "next_due": "2026-11-25",
+    "next_made_up_to": "2026-02-28",
+    "overdue": false
+  },
+  "etag": "9f6a21e61f544b8426bbdc4e6eb579ab6be14dcf"
+}

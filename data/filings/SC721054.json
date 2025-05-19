@@ -1,0 +1,144 @@
+[
+  {
+    "transaction_id": "MzQ1Nzk2ODA3MWFkaXF6a2N4",
+    "barcode": "XDY3E6SI",
+    "type": "CS01",
+    "date": "2025-03-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-25"
+    },
+    "pages": 3,
+    "action_date": "2025-01-25",
+    "links": {
+      "self": "/company/SC721054/filing-history/MzQ1Nzk2ODA3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7-qKN47Nfi38foRaBl-iClW0i64ZsrVA-n-9-lOVeDk"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTM1MTIzOWFkaXF6a2N4",
+    "barcode": "XD8Y940O",
+    "type": "AD01",
+    "date": "2024-08-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-08-06",
+      "old_address": "1/10 Sienna Gardens Edinburgh EH9 1PF Scotland",
+      "new_address": "53 Burdiehouse Terrace Edinburgh EH17 8AJ"
+    },
+    "pages": 1,
+    "action_date": "2024-08-06",
+    "links": {
+      "self": "/company/SC721054/filing-history/MzQzMTM1MTIzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PLmNWv1y37DZFr1Z_HurmKLX-BG-A0TdoVvvQjm_bdc"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDYyMTE5NmFkaXF6a2N4",
+    "barcode": "XCYYZWIA",
+    "type": "AA",
+    "date": "2024-03-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 4,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/SC721054/filing-history/MzQxNDYyMTE5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8UyFC1dAPWeUyAGbG-ON9X1sBaS5BtEXZbCNl16Fe6Q"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU0OTU2NmFkaXF6a2N4",
+    "barcode": "XCYWCXYX",
+    "type": "AA01",
+    "date": "2024-03-14",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2024-01-31",
+      "new_date": "2023-12-31"
+    },
+    "pages": 1,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/SC721054/filing-history/MzQxNDU0OTU2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HgVU1H7B954XXalYF8-czsL1f8tlfKHwEfJaEe7Wlm0"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTE3MDcxNWFkaXF6a2N4",
+    "barcode": "XCVQNQTD",
+    "type": "CS01",
+    "date": "2024-01-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-01-25"
+    },
+    "pages": 3,
+    "action_date": "2024-01-25",
+    "links": {
+      "self": "/company/SC721054/filing-history/MzQwOTE3MDcxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GY0ifo1WShf3iOJoNk-TC_8P1ODQD1fT7benViLwpCY"
+    }
+  },
+  {
+    "transaction_id": "MzM3MDg1NDk3MWFkaXF6a2N4",
+    "barcode": "XBY7Y4WJ",
+    "type": "CS01",
+    "date": "2023-02-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-01-25"
+    },
+    "pages": 3,
+    "action_date": "2023-01-25",
+    "links": {
+      "self": "/company/SC721054/filing-history/MzM3MDg1NDk3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VkXfnLdTaQLIbIbVhLVev6c09zE4PFCc_HaLj-BBqn4"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzkwNDc1M2FkaXF6a2N4",
+    "barcode": "XAWI8332",
+    "type": "NEWINC",
+    "date": "2022-01-26",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-01-26",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-26",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-01-26",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-01-26"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/SC721054/filing-history/MzMyNzkwNDc1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/y7_IN66XXNivJgu_kxsDe1Gfxut87O4sgH8qm2J9AMU"
+    }
+  }
+]

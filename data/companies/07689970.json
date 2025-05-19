@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "small"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CITY STRATFORD LIMITED",
+  "company_number": "07689970",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-01",
+    "next_due": "2025-07-15",
+    "next_made_up_to": "2025-07-01",
+    "overdue": false
+  },
+  "date_of_creation": "2011-07-01",
+  "etag": "23882fe46b419cc9de8b6367ac400d49f208fceb",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-07-01",
+  "links": {
+    "persons_with_significant_control": "/company/07689970/persons-with-significant-control",
+    "self": "/company/07689970",
+    "charges": "/company/07689970/charges",
+    "filing_history": "/company/07689970/filing-history",
+    "officers": "/company/07689970/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "5th Floor Eddison House",
+    "address_line_2": "223-231 Old Marylebone Road",
+    "locality": "London",
+    "postal_code": "NW1 5QT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "68209"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "137 Ellesmere Road Ne4 8tr",
+      "country": "United Kingdom",
+      "locality": "Newcastle",
+      "postal_code": "NE4 8TR",
+      "premises": "137"
+    },
+    "appointed_on": "2025-05-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 2,
+      "year": 2003
+    },
+    "links": {
+      "self": "/company/16449291/appointments/wUd1vW2gTdtmRjB8mGXSdFp_ZBE",
+      "officer": {
+        "appointments": "/officers/ZYkN2mjv3F8TDANprlPGoeu9m7s/appointments"
+      }
+    },
+    "name": "MUQADDAS, Saliha",
+    "nationality": "Pakistani",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "335767270001"
+  }
+]

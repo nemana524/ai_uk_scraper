@@ -1,0 +1,194 @@
+{
+  "company_number": "OC330699",
+  "company_name": "TECH CORPORATION GROUP LLP",
+  "total_officers": 6,
+  "officers": [
+    {
+      "name": "ATCS LIMITED",
+      "officer_role": "corporate-llp-designated-member",
+      "appointed_on": "2018-03-22",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Waterfront Drive",
+        "country": "Virgin Islands, British",
+        "locality": "Road Town",
+        "po_box": "3169",
+        "postal_code": "VG 1110",
+        "premises": "2nd Floor Abbott Building",
+        "region": "Tortola"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/OC330699/appointments/LZy6YT4TuOxWFSfvIqcC5yeuyKE",
+        "officer": {
+          "appointments": "/officers/oNk3B7Z5pHhWtcPUAoSY9D53fMI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "other-corporate-body-or-firm",
+        "legal_authority": "BRITISH VIRGIN ISLANDS",
+        "legal_form": "PRIVATE COMPANY",
+        "place_registered": "VIRGIN ISLANDS, BRITISH",
+        "registration_number": "1581304"
+      }
+    },
+    {
+      "name": "MADERO VENTURES LIMITED",
+      "officer_role": "corporate-llp-designated-member",
+      "appointed_on": "2018-03-22",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Waterfront Drive",
+        "country": "Virgin Islands, British",
+        "locality": "Road Town",
+        "po_box": "3469",
+        "premises": "Geneva Place",
+        "region": "Tortola"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/OC330699/appointments/ukPWUAiIHqdr5r-_CP0wAoYIPqk",
+        "officer": {
+          "appointments": "/officers/l_tbIsYbQhusaixy4pUyNe9kzBA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "other-corporate-body-or-firm",
+        "legal_authority": "BRITISH VIRGIN ISLANDS",
+        "legal_form": "PRIVATE LIMITED COMPANY",
+        "place_registered": "VIRGIN ISLANDS, BRITISH",
+        "registration_number": "1570127"
+      }
+    },
+    {
+      "name": "INTRAHOLD A.G.",
+      "officer_role": "corporate-llp-designated-member",
+      "appointed_on": "2012-07-10",
+      "resigned_on": "2017-06-20",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Floor Dekk House",
+        "address_line_2": "Zippora Street Providence Industrial Estate",
+        "country": "Seychelles",
+        "locality": "Mahe",
+        "premises": "1st"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/OC330699/appointments/zx7BAklQsmaUwVIiGEUJJHR8Umw",
+        "officer": {
+          "appointments": "/officers/2z5-oI1wyARH2RmIfJVycbXTIJs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "non-eea",
+        "legal_authority": "MARSHALL ISLANDS",
+        "legal_form": "IBC",
+        "place_registered": "MARSHALL ISLANDS",
+        "registration_number": "094539"
+      }
+    },
+    {
+      "name": "IRELAND & OVERSEAS ACQUISITIONS LIMITED",
+      "officer_role": "corporate-llp-designated-member",
+      "appointed_on": "2007-08-20",
+      "resigned_on": "2012-07-10",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "New Road",
+        "country": "Belize",
+        "locality": "Belize City",
+        "premises": "No 35"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/OC330699/appointments/A2S5dKWBcoQToB_stzoXNEvK0xo",
+        "officer": {
+          "appointments": "/officers/sYD9QKtSRdN9TRJ0aukVY3hJHqw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "non-eea",
+        "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT 2000",
+        "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+        "place_registered": "BELIZE",
+        "registration_number": "97,310"
+      }
+    },
+    {
+      "name": "MILLTOWN CORPORATE SERVICES LIMITED",
+      "officer_role": "corporate-llp-designated-member",
+      "appointed_on": "2007-08-20",
+      "resigned_on": "2012-07-10",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "New Road",
+        "country": "Belize",
+        "locality": "Belize City",
+        "premises": "No.35"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/OC330699/appointments/5mBmPGdcRXKi0eLIQtZcG7OoRoY",
+        "officer": {
+          "appointments": "/officers/oA5CTAk5JBSv0_BYw2OVeD8JQPQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "non-eea",
+        "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT 2000",
+        "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+        "place_registered": "BELIZE",
+        "registration_number": "97,311"
+      }
+    },
+    {
+      "name": "MONOHOLD A.G.",
+      "officer_role": "corporate-llp-designated-member",
+      "appointed_on": "2012-07-10",
+      "resigned_on": "2017-06-20",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Floor Dekk House",
+        "address_line_2": "Zippora Street Providence Industrial Estate",
+        "country": "Seychelles",
+        "locality": "Mahe",
+        "premises": "1st"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/OC330699/appointments/1yM-DdhdTYmfcYdLworRUaaQPi4",
+        "officer": {
+          "appointments": "/officers/MfUH61_9GOqhveAPNS3JNv0p8Lo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "non-eea",
+        "legal_authority": "MARSHALL ISLANDS",
+        "legal_form": "IBC",
+        "place_registered": "MARSHALL ISLANDS",
+        "registration_number": "094539"
+      }
+    }
+  ]
+}

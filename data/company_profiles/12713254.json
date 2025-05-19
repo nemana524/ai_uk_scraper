@@ -1,0 +1,49 @@
+{
+  "company_number": "12713254",
+  "company_name": "TECH LANCASTER LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2020-07-02",
+  "type": "private-limited-guarant-nsc",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "71122",
+    "71129",
+    "94120",
+    "94990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "6-3-14 Alston House White Cross Business Park",
+    "address_line_2": "South Road",
+    "country": "England",
+    "locality": "Lancaster",
+    "postal_code": "LA1 4XQ",
+    "region": "Lancashire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "etag": "607bd3c38c8bed443ff5e2b3bf77dcc341a317c8"
+}

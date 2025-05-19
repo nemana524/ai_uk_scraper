@@ -1,0 +1,132 @@
+[
+  {
+    "transaction_id": "MzQzMTc4NzQzNGFkaXF6a2N4",
+    "barcode": "XD96F4FF",
+    "type": "CS01",
+    "date": "2024-08-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-10"
+    },
+    "pages": 3,
+    "action_date": "2024-08-10",
+    "links": {
+      "self": "/company/15097346/filing-history/MzQzMTc4NzQzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tref3vjUVSOWol8UZJv1TYI74NLl9PL-QwJ9AZffOoI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTc4NzI4NmFkaXF6a2N4",
+    "barcode": "XD96F3PN",
+    "type": "AD01",
+    "date": "2024-08-10",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-08-10",
+      "old_address": "124 City Road London EC1V 2NX United Kingdom",
+      "new_address": "Building 48 Flat 18, Building 48 Marlborough Road London SE18 6RE"
+    },
+    "pages": 1,
+    "action_date": "2024-08-10",
+    "links": {
+      "self": "/company/15097346/filing-history/MzQzMTc4NzI4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T-i0sUUNbXOmawY4mw7gsBpduRdueMGY4MnYdTsqtnM"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzkzNzg0MWFkaXF6a2N4",
+    "barcode": "XCYIX5AB",
+    "type": "CH01",
+    "date": "2024-03-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-02-29",
+      "officer_name": "Vilius Remeikis"
+    },
+    "pages": 2,
+    "action_date": "2024-02-29",
+    "links": {
+      "self": "/company/15097346/filing-history/MzQxMzkzNzg0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xxsEHJkqGSv-o9cbMeaHz1PpuC5M7e0AOE0JTZ2ZtGs"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODk0MTQxMGFkaXF6a2N4",
+    "barcode": "XCFMPZ1M",
+    "type": "PSC04",
+    "date": "2023-11-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-11-05",
+      "psc_name": "Vilius Remeikis"
+    },
+    "pages": 2,
+    "action_date": "2023-11-05",
+    "links": {
+      "self": "/company/15097346/filing-history/MzM5ODk0MTQxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6jhMwv_l2noYggjmhdalKnvqWuhbdnKjgI1OdVhEqqo"
+    }
+  },
+  {
+    "transaction_id": "MzM5NjkxMzU3NGFkaXF6a2N4",
+    "barcode": "XCECRVW1",
+    "type": "CH01",
+    "date": "2023-10-17",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-10-17",
+      "officer_name": "Vilius Remeikis"
+    },
+    "pages": 2,
+    "action_date": "2023-10-17",
+    "links": {
+      "self": "/company/15097346/filing-history/MzM5NjkxMzU3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WP0lonWft3epHWavekVvC3oUle2YzZ_hIcjDCrRaAoY"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDcxMDg0MGFkaXF6a2N4",
+    "barcode": "XCAOTEQH",
+    "type": "NEWINC",
+    "date": "2023-08-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-08-25",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-08-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-08-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15097346/filing-history/MzM5MDcxMDg0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hFUaRhYvn_-GXUvv8qZiBWNcEooqfVRO8JqGpqE-STA"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "company_number": "14719455",
+  "company_name": "TECH ACCOUNTANCY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BROOMFIELD, Charlene Elizabeth",
+      "officer_role": "director",
+      "appointed_on": "2023-03-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Oxenhope Way",
+        "address_line_2": "Broughton",
+        "country": "England",
+        "locality": "Milton Keynes",
+        "postal_code": "MK10 7AE",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/14719455/appointments/l7PunZuUEMUu08y08P1Z6Rdr0MA",
+        "officer": {
+          "appointments": "/officers/oyIreSnhkE6lv9uo_g5Iapi3Kt8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

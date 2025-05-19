@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-25",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-25"
+    },
+    "next_due": "2026-01-25",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH BITE LIMITED",
+  "company_number": "15680497",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-24",
+    "next_due": "2026-05-08",
+    "next_made_up_to": "2026-04-24",
+    "overdue": false
+  },
+  "date_of_creation": "2024-04-25",
+  "etag": "3c01b5eb4da920b8730ccb7d1a181c5ec8e6b9ba",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15680497/persons-with-significant-control",
+    "self": "/company/15680497",
+    "filing_history": "/company/15680497/filing-history",
+    "officers": "/company/15680497/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "140b The Mall",
+    "country": "United Kingdom",
+    "locality": "Luton",
+    "postal_code": "LU1 2TJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47410"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

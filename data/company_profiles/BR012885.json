@@ -1,0 +1,22 @@
+{
+  "company_number": "BR012885",
+  "company_name": "TECH INDUSTRIES U.K. LTD.",
+  "company_status": "open",
+  "date_of_creation": "2009-10-01",
+  "type": "uk-establishment",
+  "jurisdiction": null,
+  "sic_codes": [],
+  "has_insolvency_history": null,
+  "has_charges": null,
+  "has_super_secure_pscs": null,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": " David Wood",
+    "locality": "3-4 Railway Street",
+    "postal_code": "ST16 2EA",
+    "region": "Wood & Company (Accountants) Ltd"
+  },
+  "annual_return": {},
+  "accounts": {},
+  "etag": "24c64d392c4a241d5abebdc20afddf017bfcb3de"
+}

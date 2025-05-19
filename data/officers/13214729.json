@@ -1,0 +1,57 @@
+[
+  {
+    "address": {
+      "address_line_1": "Bell Yard",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "WC2A 2JR",
+      "premises": "7"
+    },
+    "appointed_on": "2022-12-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1973
+    },
+    "links": {
+      "self": "/company/13214729/appointments/LzPfAjZe_dcJXqi0EklRqZxYKQ0",
+      "officer": {
+        "appointments": "/officers/rX-2oqQ3Ps0gIlzYP3lxvehXmSQ/appointments"
+      }
+    },
+    "name": "MATVEJEVS, Aleksandrs",
+    "nationality": "Latvian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "303399260001"
+  },
+  {
+    "address": {
+      "address_line_1": "Bell Yard",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "WC2A 2JR",
+      "premises": "7"
+    },
+    "appointed_on": "2021-02-19",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/13214729/appointments/B2DkjvIJf4N1P0WafMJhqDOwqpc",
+      "officer": {
+        "appointments": "/officers/8M7w7sbMnk6zkq5LAyrmhVSWl0w/appointments"
+      }
+    },
+    "name": "SZEWCZYK, Grzegorz",
+    "nationality": "Polish",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2022-12-15",
+    "person_number": "270683780001"
+  }
+]

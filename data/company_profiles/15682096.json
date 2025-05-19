@@ -1,0 +1,40 @@
+{
+  "company_number": "15682096",
+  "company_name": "TECH LCA LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-04-26",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46900",
+    "74901"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Bartle House",
+    "address_line_2": "9 Oxford Court",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M2 3WQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-26",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-26"
+    },
+    "next_due": "2026-01-26",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "59ab0fc253de43b89209bae07a45b48397046e4a"
+}

@@ -1,0 +1,45 @@
+{
+  "company_number": "12201715",
+  "company_name": "TECH EXPORTERS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2019-09-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46510"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 5 Park Lane",
+    "address_line_2": "Fallings Park Industrial Estate",
+    "country": "England",
+    "locality": "Wolverhampton",
+    "postal_code": "WV10 9QA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "etag": "9e9a2b14a2f852af6cfe2fcb960d157f9750b387"
+}

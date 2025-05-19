@@ -1,0 +1,58 @@
+[
+  {
+    "transaction_id": "MzQ2NTc5OTQ3NWFkaXF6a2N4",
+    "barcode": "XE2EGZAH",
+    "type": "AD01",
+    "date": "2025-05-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-05-12",
+      "old_address": "Flat 10 Cheviot House 70-76 Baxter Avenue Southend-on-Sea SS2 6DP England",
+      "new_address": "Unit F41 the Victoria Centre 357 Chartwell Square Southend-on-Sea SS2 5SP"
+    },
+    "pages": 1,
+    "action_date": "2025-05-12",
+    "links": {
+      "self": "/company/16292009/filing-history/MzQ2NTc5OTQ3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FEdxNoxuxIiQ8t65MxGGqRO5P_FCk3f8O2r4QYwgohU"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NzEyMTM1OWFkaXF6a2N4",
+    "barcode": "XDXKHFR5",
+    "type": "NEWINC",
+    "date": "2025-03-04",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2025-03-04",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-04",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2025-03-04",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2025-03-04"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/16292009/filing-history/MzQ1NzEyMTM1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oZ5_tXUlqTlbNArXXvCiFH5AytaPBZFJrMr-h1sTL7A"
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "transaction_id": "MzQ0MDY0NTE1NmFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-11-05",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15439368/filing-history/MzQ0MDY0NTE1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o2Oftxr9rMyD68Cll0riQ4sG9duL4phosjMZyEUOPlI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDg2NzgxNGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-08-13",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15439368/filing-history/MzQzMDg2NzgxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v8cdjl9fH3k3ACj6YRIooZ3tTVdguIbOAxV1ge8RZE0"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDQ0MTQ3NWFkaXF6a2N4",
+    "barcode": "XD281ULU",
+    "type": "RP10",
+    "date": "2024-05-01",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-psc",
+    "description_values": {
+      "change_date": "2024-05-01",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "15439368",
+      "psc_name": "Mr Muhammad Muzamil"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/15439368/filing-history/MzQyMDQ0MTQ3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-OqZCX_bIebRX-Xx2UzoHCqVKYfQMd4sViWx7zGlQcw"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDQ0MTMwNmFkaXF6a2N4",
+    "barcode": "XD281UJV",
+    "type": "RP09",
+    "date": "2024-05-01",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-officer",
+    "description_values": {
+      "change_date": "2024-05-01",
+      "officer_name": "Mr Muhammad Muzamil",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "15439368"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/15439368/filing-history/MzQyMDQ0MTMwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/myglQ2auHXgD5PO9cvwAgGxgvJEjxre0ax-ITKY683E"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDQ0MTEwMmFkaXF6a2N4",
+    "barcode": "RD279UEA",
+    "type": "RP05",
+    "date": "2024-05-01",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2024-05-01",
+      "default_address": "PO Box 4385, 15439368 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2024-05-01",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15439368/filing-history/MzQyMDQ0MTEwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yUyvjQeEIb5LiUFj88geIrV3Hm6weDJH17heVx9VQEo"
+    }
+  },
+  {
+    "transaction_id": "MzQwODc0Njg3N2FkaXF6a2N4",
+    "barcode": "XCVDD7U8",
+    "type": "NEWINC",
+    "date": "2024-01-24",
+    "category": "incorporation",
+    "annotations": [
+      {
+        "annotation": "Part Admin Removed The registered office address and the service address of the director(s), person(s) with significant control and shareholder(s) on the IN01 were administratively removed from the public register on 01/05/2024 as the material was not properly delivered.",
+        "date": "2024-05-01",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Admin Removed The registered office address and the service address of the director(s), person(s) with significant control and shareholder(s) on the IN01 were administratively removed from the public register on 01/05/2024 as the material was not properly delivered."
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-01-24",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-24",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-01-24",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-01-24"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15439368/filing-history/MzQwODc0Njg3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PlobmhW9vOPw25Nf2ucm3CoCY9xMqQoCbTIL2NCgsww"
+    }
+  }
+]

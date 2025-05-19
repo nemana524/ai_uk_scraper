@@ -1,0 +1,35 @@
+{
+  "company_number": "14962027",
+  "company_name": "TECH INNOVATIOUS GROUP INC LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "RAZA, Danish Khan, Mr,",
+      "officer_role": "director",
+      "appointed_on": "2023-06-26",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Freelancer",
+      "address": {
+        "address_line_1": "Po Khas, Kalabat ,Topi",
+        "country": "Pakistan",
+        "locality": "Sawabi",
+        "postal_code": "23611",
+        "premises": "Mazeed Khail"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/14962027/appointments/RyeD9lfxNgaZfZ_vdiHusKgFEC4",
+        "officer": {
+          "appointments": "/officers/q7RB1rp1_fJnocvxLTfx5wcEKRw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

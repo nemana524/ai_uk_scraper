@@ -1,0 +1,97 @@
+[
+  {
+    "transaction_id": "MzQyMjAwNzUyMWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-05-28",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14543363/filing-history/MzQyMjAwNzUyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AJWn0ChYyQFzLebmBD0I_YEYKbMowOdLRhwzGTQL0KE"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjEzMzY2MmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-03-05",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14543363/filing-history/MzQxMjEzMzY2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lBBJ5TB3v91kswoqsh_oMHDLDIGuM5uxuxbdkm25evE"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTYzODc3OGFkaXF6a2N4",
+    "barcode": "RC78G3A2",
+    "type": "RP05",
+    "date": "2023-07-07",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2023-07-07",
+      "default_address": "PO Box 4385, 14543363 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2023-07-07",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14543363/filing-history/MzM4NTYzODc3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5DvPDqs1FBjlfqM4C0Wt--ek8q2_9m6267KYrTgZ2L8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjEzMDgwNWFkaXF6a2N4",
+    "barcode": "XBIVKI43",
+    "type": "NEWINC",
+    "date": "2022-12-15",
+    "category": "incorporation",
+    "annotations": [
+      {
+        "annotation": "Part Rectified The directors service address on the IN01 was removed from the public register on 24/04/2023 as it was factually inaccurate or was derived from something factually inaccurate",
+        "date": "2023-04-24",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Rectified The directors service address on the IN01 was removed from the public register on 24/04/2023 as it was factually inaccurate or was derived from something factually inaccurate"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-12-15",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-12-15",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-12-15",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "444"
+            }
+          ]
+        },
+        "action_date": "2022-12-15"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14543363/filing-history/MzM2MjEzMDgwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8qEMZL5l8NdtySxndiSAPC84rRJm361zpIuSFHWHIO4"
+    }
+  }
+]

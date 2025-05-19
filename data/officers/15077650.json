@@ -1,0 +1,55 @@
+[
+  {
+    "address": {
+      "country": "England",
+      "locality": "Bagshot",
+      "postal_code": "GU19 5QT",
+      "premises": "13 Arthur Close"
+    },
+    "appointed_on": "2024-06-27",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1987
+    },
+    "links": {
+      "self": "/company/15077650/appointments/PAquSc_5MPsw3c5eM-tcudjaFOI",
+      "officer": {
+        "appointments": "/officers/X1fvN4aBoONBY2XdPReVkJKDIlM/appointments"
+      }
+    },
+    "name": "ABOUD, Lina",
+    "nationality": "Syrian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "325874100001"
+  },
+  {
+    "address": {
+      "address_line_1": "Arthur Close",
+      "country": "England",
+      "locality": "Bagshot",
+      "postal_code": "GU19 5QT",
+      "premises": "13"
+    },
+    "appointed_on": "2023-08-16",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/15077650/appointments/UuLayNjp5bnNEhjMYEopxFpuoVA",
+      "officer": {
+        "appointments": "/officers/yCcnU103CUP6Og9w11kDb5yr-Qg/appointments"
+      }
+    },
+    "name": "AL NAJM, Issam",
+    "nationality": "Syrian",
+    "occupation": "Managing Director",
+    "officer_role": "director",
+    "person_number": "312514650001"
+  }
+]

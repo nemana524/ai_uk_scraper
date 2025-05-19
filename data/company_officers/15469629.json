@@ -1,0 +1,35 @@
+{
+  "company_number": "15469629",
+  "company_name": "TECH EASE CONSULTANCY LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHARMA, Sahil",
+      "officer_role": "director",
+      "appointed_on": "2024-02-06",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Myddleton Road",
+        "country": "England",
+        "locality": "Uxbridge",
+        "postal_code": "UB8 2DN",
+        "premises": "31"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/15469629/appointments/hApkPMOlkMiQoML9_4aGtcZ5EbU",
+        "officer": {
+          "appointments": "/officers/ZMvo7Zi-GBn0VMHBHc9XqVNGhjM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

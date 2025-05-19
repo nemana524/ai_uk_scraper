@@ -1,0 +1,49 @@
+[
+  {
+    "address": {
+      "address_line_1": "Annalee Road",
+      "country": "England",
+      "locality": "South Ockendon",
+      "postal_code": "RM15 5BY",
+      "premises": "22"
+    },
+    "appointed_on": "2012-07-18",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/08147154/appointments/ezd07iTd39G9czU56dl2bpMw4ek",
+      "officer": {
+        "appointments": "/officers/jBR8h8GUgk5gGdSPLGYtNU_Hus8/appointments"
+      }
+    },
+    "name": "BOWERBANK, Lisa Clair",
+    "officer_role": "secretary",
+    "person_number": "170721480001"
+  },
+  {
+    "address": {
+      "address_line_1": "Annalee Road",
+      "country": "England",
+      "locality": "South Ockendon",
+      "postal_code": "RM15 5BY",
+      "premises": "22"
+    },
+    "appointed_on": "2012-07-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/08147154/appointments/Zm5V7UjqBltvaDqgNedpSf3k3GM",
+      "officer": {
+        "appointments": "/officers/TfxAstcQjwz6BkHBUl4UwrGMYmg/appointments"
+      }
+    },
+    "name": "BOWERBANK, Lee Graham",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "170721470002"
+  }
+]

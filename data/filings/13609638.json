@@ -1,0 +1,302 @@
+[
+  {
+    "transaction_id": "MzQzNTUyMjc4NGFkaXF6a2N4",
+    "barcode": "XDBHL7CO",
+    "type": "CS01",
+    "date": "2024-09-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-08"
+    },
+    "pages": 3,
+    "action_date": "2024-08-08",
+    "links": {
+      "self": "/company/13609638/filing-history/MzQzNTUyMjc4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/83KQeZE7DYKKBZGmH9Tkd7-WoE5ZVdOTgw5W4rg8Bg8"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzM1NzA5M2FkaXF6a2N4",
+    "barcode": "XDAA8YGZ",
+    "type": "AA",
+    "date": "2024-08-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 7,
+    "action_date": "2023-09-30",
+    "links": {
+      "self": "/company/13609638/filing-history/MzQzMzM1NzA5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/z3q0idRLzkAuzG9DgJaGUHWUoNkaqhUBlvPBmYXtA7M"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjg2MzkzMGFkaXF6a2N4",
+    "barcode": "XD06MZU8",
+    "type": "PSC04",
+    "date": "2024-04-02",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-08-08",
+      "psc_name": "Mr Banish Lal"
+    },
+    "pages": 2,
+    "action_date": "2023-08-08",
+    "links": {
+      "self": "/company/13609638/filing-history/MzQxNjg2MzkzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PLRSObEHdd5W9tAd5O9Ei8TCpVuKYw_cWjQwV1eFVmA"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTIyNzM5NWFkaXF6a2N4",
+    "barcode": "XC9L2K2I",
+    "type": "AA",
+    "date": "2023-08-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-09-30"
+    },
+    "pages": 7,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM4OTIyNzM5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F5jprVufwlJTShR7GKBECa9y6ObVeF0dVg4YHNwYWjw"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODk2MDg3NmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-08-09",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13609638/filing-history/MzM4ODk2MDg3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/63tvcDfdjMa8bje31z3jitRC3wmh3ExX4sAt-cDUy7Q"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODk2MDg1M2FkaXF6a2N4",
+    "barcode": "XC9I8KPE",
+    "type": "CS01",
+    "date": "2023-08-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-08-08"
+    },
+    "pages": 4,
+    "action_date": "2023-08-08",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM4ODk2MDg1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s-OdzmFe0gBkvhxOmqD8vxeYkpfawP504eBeAyztn1A"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODk1OTk0NGFkaXF6a2N4",
+    "barcode": "XC9I8GYR",
+    "type": "PSC01",
+    "date": "2023-08-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Banish Lal",
+      "notification_date": "2023-08-08"
+    },
+    "pages": 2,
+    "action_date": "2023-08-08",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM4ODk1OTk0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aWpiOE-gkczOj1YgLlJ4D2s_KNmPF2aOCvq7eRiHxRA"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODk1NjU1NWFkaXF6a2N4",
+    "barcode": "XC9I82RK",
+    "type": "PSC09",
+    "date": "2023-08-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement",
+    "description_values": {
+      "withdrawal_date": "2023-08-08"
+    },
+    "pages": 2,
+    "action_date": "2023-08-08",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM4ODk1NjU1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J6zpkoNbpi9crG3h8xBLQz1c1NdrBxwJFwv347CP2n0"
+    }
+  },
+  {
+    "transaction_id": "MzM4Nzg5ODg4MGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-08-08",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13609638/filing-history/MzM4Nzg5ODg4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lzajUB_1pIQllcLPeFWMqWPTwzIHTc0P2zNIwtsOHDo"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODU2Nzk5M2FkaXF6a2N4",
+    "barcode": "XC2SO2E3",
+    "type": "AP01",
+    "date": "2023-05-04",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Bansri Lal",
+      "appointment_date": "2023-05-03"
+    },
+    "pages": 2,
+    "action_date": "2023-05-03",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM3ODU2Nzk5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0hucOmHW-jBCIhtXX6mJNaftwXsl0Ft2X4HNkWxcXIs"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODAxNzAzM2FkaXF6a2N4",
+    "barcode": "XC2HT2KY",
+    "type": "TM02",
+    "date": "2023-04-29",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Bansri Lal",
+      "termination_date": "2023-04-29"
+    },
+    "pages": 1,
+    "action_date": "2023-04-29",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM3ODAxNzAzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WBUAUoAKuQDYPQYTBMc3NOwPpSERa1UPZFL3SV6soOY"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODAxNzA2NmFkaXF6a2N4",
+    "barcode": "XC2HT2LM",
+    "type": "TM01",
+    "date": "2023-04-29",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Bansri Lal",
+      "termination_date": "2023-04-29"
+    },
+    "pages": 1,
+    "action_date": "2023-04-29",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM3ODAxNzA2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UEiTssJ29wCX0zYc8BBr59eClwf4t6fQWUfLkGp6pRA"
+    }
+  },
+  {
+    "transaction_id": "MzM3Nzk3MDkyMmFkaXF6a2N4",
+    "barcode": "XC2F6TM2",
+    "type": "AP01",
+    "date": "2023-04-28",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Banish Lal",
+      "appointment_date": "2023-04-28"
+    },
+    "pages": 2,
+    "action_date": "2023-04-28",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM3Nzk3MDkyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p0uc-B7bTw6s7cOu4fAQq2CsKLlr1agFOgmFEgDJ64M"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDE4NTIyOGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-12-31",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13609638/filing-history/MzM2NDE4NTIyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vzz-14vUXzrb-H3lqoVwqgIr2vhxjat6arn-1tgbAMw"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDE4NTE2MmFkaXF6a2N4",
+    "barcode": "XBJXCMUR",
+    "type": "CS01",
+    "date": "2022-12-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-09-07"
+    },
+    "pages": 3,
+    "action_date": "2022-09-07",
+    "links": {
+      "self": "/company/13609638/filing-history/MzM2NDE4NTE2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hty9QbaG4OqvCRZbphSJIh9pHAYyONBaF3WHogDMz_A"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODg3MTQ5NWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-11-29",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13609638/filing-history/MzM1ODg3MTQ5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qIZs56ffgP0EdRKkXoLF0G2PPcplqJV1yIcjjN6VQ2w"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzA3MDE5MGFkaXF6a2N4",
+    "barcode": "XACJVAB4",
+    "type": "NEWINC",
+    "date": "2021-09-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2021-09-08",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-09-08",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-09-08"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 27,
+    "links": {
+      "self": "/company/13609638/filing-history/MzMxMzA3MDE5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pH6QGMYTGfE7eDejzRivM7O8SShIs0DJqq1AqnsP29k"
+    }
+  }
+]

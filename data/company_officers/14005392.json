@@ -1,0 +1,63 @@
+{
+  "company_number": "14005392",
+  "company_name": "TECH INVEST SERIES 2 LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "PRITCHARD, Andrew",
+      "officer_role": "director",
+      "appointed_on": "2022-03-28",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/14005392/appointments/hHWyRpaxJuE9P-M61jCrsmqYZsg",
+        "officer": {
+          "appointments": "/officers/iKHOjaYG7_wRjy3RkkAploF7dEA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PRITCHARD, Stuart",
+      "officer_role": "director",
+      "appointed_on": "2022-03-28",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/14005392/appointments/rQWtV6UG3E2VgHc05OjVPIBF7L4",
+        "officer": {
+          "appointments": "/officers/9MJHeHPvIhyQttOPiBb2aUhNcuc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

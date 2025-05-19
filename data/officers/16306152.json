@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "2 Richmond Road",
+      "country": "England",
+      "locality": "Kingston Upon Thames",
+      "postal_code": "KT2 5EB",
+      "premises": "Unit 2a Quebec House"
+    },
+    "appointed_on": "2025-03-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 2006
+    },
+    "links": {
+      "self": "/company/16306152/appointments/MGBlxc961KW9bmTvY9E2IR82E2M",
+      "officer": {
+        "appointments": "/officers/OFAXMlhFbDDEApYOAmBkqc0AoMw/appointments"
+      }
+    },
+    "name": "MOEEN, Azka",
+    "nationality": "British",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "person_number": "333263670001"
+  }
+]

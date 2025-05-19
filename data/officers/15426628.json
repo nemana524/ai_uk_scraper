@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "Stoke Lane",
+      "address_line_2": "Patchway",
+      "country": "England",
+      "locality": "Bristol",
+      "postal_code": "BS34 6DR",
+      "premises": "96"
+    },
+    "appointed_on": "2024-01-19",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1964
+    },
+    "links": {
+      "self": "/company/15426628/appointments/S5NnoiRK7XUKaTnRAL75y_2zxEM",
+      "officer": {
+        "appointments": "/officers/vz1VlNduudE4KYFz9kZLoYBSVeE/appointments"
+      }
+    },
+    "name": "BAGGOTT, Andrew Leslie",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "104182980001"
+  },
+  {
+    "address": {
+      "address_line_1": "Stoke Lane",
+      "address_line_2": "Patchway",
+      "country": "England",
+      "locality": "Bristol",
+      "postal_code": "BS34 6DR",
+      "premises": "96"
+    },
+    "appointed_on": "2024-01-19",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1965
+    },
+    "links": {
+      "self": "/company/15426628/appointments/EBzVUzlJHgT0BTWckg7nImQSvZQ",
+      "officer": {
+        "appointments": "/officers/srXS2joakzHV2uEX-UQ5NHFG37o/appointments"
+      }
+    },
+    "name": "BAGGOTT, Juliet Elizabeth Alyson",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "318314340001"
+  }
+]

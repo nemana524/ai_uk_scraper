@@ -1,0 +1,93 @@
+{
+  "company_number": "14169393",
+  "company_name": "TECH CHAMPION LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "DOGAREL, Florin",
+      "officer_role": "director",
+      "appointed_on": "2023-05-25",
+      "resigned_on": null,
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "Alvin Street",
+        "country": "England",
+        "locality": "Gloucester",
+        "postal_code": "GL1 3EJ",
+        "premises": "71"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/14169393/appointments/taH1aMezkRWVpwxCW-jRhsycIzs",
+        "officer": {
+          "appointments": "/officers/SCHfRllS2obd-HJVUWH6fyFWK6c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ALVIN, Princis",
+      "officer_role": "director",
+      "appointed_on": "2023-04-05",
+      "resigned_on": "2023-06-20",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "1 Alvin Street",
+        "country": "United Kingdom",
+        "locality": "Gloucester",
+        "postal_code": "GL1 3EJ",
+        "premises": "No1 Business Centre"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/14169393/appointments/HlMC79WIU6vu3MpVoaI6W2yzEJE",
+        "officer": {
+          "appointments": "/officers/8HonDdIwD5GGd98a4ErwWw0Asdg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "THORNTON, Bryan Anthony",
+      "officer_role": "director",
+      "appointed_on": "2022-06-13",
+      "resigned_on": "2023-04-05",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "43 Owston Road",
+        "address_line_2": "Carcroft",
+        "country": "United Kingdom",
+        "locality": "Doncaster",
+        "postal_code": "DN6 8DA",
+        "premises": "Dept 2",
+        "region": "South Yorkshire"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1955
+      },
+      "links": {
+        "self": "/company/14169393/appointments/vGEXjnBHV_jerquSql4EOcWdE_w",
+        "officer": {
+          "appointments": "/officers/a3E54NM8PJhxMgMXh9jfhL8446Q/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

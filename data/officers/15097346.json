@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Marlborough Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SE18 6RE",
+      "premises": "Flat 18"
+    },
+    "appointed_on": "2023-08-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1998
+    },
+    "links": {
+      "self": "/company/15097346/appointments/7RhUIELgUu11J1IwudCN6ALHLoY",
+      "officer": {
+        "appointments": "/officers/B9PYMCP3417fmQJXGNFH_v9yjPg/appointments"
+      }
+    },
+    "name": "REMEIKIS, Vilius",
+    "nationality": "Lithuanian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "312835830002"
+  }
+]

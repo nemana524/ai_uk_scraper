@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "country": "United Kingdom",
+      "locality": "Luton",
+      "postal_code": "LU3 3LA",
+      "premises": "3 Arbroath Road",
+      "region": "Bedfordshire"
+    },
+    "appointed_on": "2021-04-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/13335635/appointments/6WZs2Mw_WnIuMcVm12vXYar-UNw",
+      "officer": {
+        "appointments": "/officers/PNGt2Ez1Ag6kxL3V7Gy5nYbb4B4/appointments"
+      }
+    },
+    "name": "PARMAR, Mitin",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "216544910001"
+  }
+]

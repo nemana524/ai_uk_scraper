@@ -1,0 +1,36 @@
+{
+  "company_number": "14555881",
+  "company_name": "TECH ESSEX LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ULLAH NOOR, Ahmed",
+      "officer_role": "director",
+      "appointed_on": "2022-12-23",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "58 Peregrine Road",
+        "address_line_2": "Hainault, Ilford",
+        "country": "United Kingdom",
+        "locality": "Essex",
+        "postal_code": "IG6 3SZ",
+        "premises": "Office 2179"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/14555881/appointments/Fz_VnwtWAima9KUkDUIZJa_SbXo",
+        "officer": {
+          "appointments": "/officers/qSskrczw9QIxHtTw9OB0GrAGbrE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

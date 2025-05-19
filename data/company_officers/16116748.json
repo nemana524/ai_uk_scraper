@@ -1,0 +1,35 @@
+{
+  "company_number": "16116748",
+  "company_name": "TECH & SOLUTIONS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ALI, Hasnat",
+      "officer_role": "director",
+      "appointed_on": "2024-12-03",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Self Employed",
+      "address": {
+        "address_line_1": "Stockport Road",
+        "country": "England",
+        "locality": "Cheadle",
+        "postal_code": "SK8 2DP",
+        "premises": "143"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/16116748/appointments/2EGHdd3JGTT1Gl8A3kRMmjCxUoM",
+        "officer": {
+          "appointments": "/officers/NQU00lB73x70DYZXgC3XKStChWA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "company_number": "03558370",
+  "company_name": "TECH DIRECT EUROPE PLC",
+  "company_status": "liquidation",
+  "date_of_creation": "1998-05-06",
+  "type": "plc",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "5164",
+    "7210",
+    "7220",
+    "7260"
+  ],
+  "has_insolvency_history": true,
+  "has_charges": true,
+  "has_super_secure_pscs": null,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 20",
+    "address_line_2": "Red Lion Business Park",
+    "locality": "Red Lion Road Surbiton",
+    "postal_code": "KT6 7QD",
+    "region": "Surrey"
+  },
+  "annual_return": {
+    "last_made_up_to": "2000-05-06",
+    "overdue": true
+  },
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "1998-08-31",
+      "period_end_on": "1998-08-31",
+      "period_start_on": "1998-05-06",
+      "type": "full"
+    },
+    "next_accounts": {
+      "due_on": "2000-07-31",
+      "overdue": true,
+      "period_end_on": "1999-12-31",
+      "period_start_on": "1998-09-01"
+    },
+    "next_due": "2000-07-31",
+    "next_made_up_to": "1999-12-31",
+    "overdue": true
+  },
+  "etag": "b9bce8669fe46deed6bb83d9b1efeef328a4f56c"
+}

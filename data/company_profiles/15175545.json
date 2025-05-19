@@ -1,0 +1,48 @@
+{
+  "company_number": "15175545",
+  "company_name": "TECH BUDDIES LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-09-29",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46510",
+    "58290",
+    "62011",
+    "62012"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-29",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "etag": "29f95fb32a95c7dde69a9a3168972f7d6bdb5d53"
+}

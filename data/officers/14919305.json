@@ -1,0 +1,25 @@
+[
+  {
+    "address": {
+      "address_line_1": "Elgar Close",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E13 9EW",
+      "premises": "3"
+    },
+    "appointed_on": "2023-06-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "links": {
+      "self": "/company/14919305/appointments/hXR-PXTXTRq-Us3xbtPkkIeB2SE",
+      "officer": {
+        "appointments": "/officers/Zz37qD3blL8sc4YSmwdlb9niyVw/appointments"
+      }
+    },
+    "name": "ISMAIL, Elyas Ali Mohmed",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "309862950001"
+  }
+]

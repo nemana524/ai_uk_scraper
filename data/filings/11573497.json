@@ -1,0 +1,183 @@
+[
+  {
+    "transaction_id": "MzM4ODMxMzg3N2FkaXF6a2N4",
+    "barcode": "XC8ZJX6Z",
+    "type": "AD01",
+    "date": "2023-08-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-01",
+      "old_address": "20-22 Wenlock Road London N1 7GU England",
+      "new_address": "82 st. Michaels Road Woking GU21 5PZ"
+    },
+    "pages": 1,
+    "action_date": "2023-08-01",
+    "links": {
+      "self": "/company/11573497/filing-history/MzM4ODMxMzg3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hQBn0iX0aUwhSHMSA51A_LC31wpC9mqvt9CROu-Xx10"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTU5OTQ0NmFkaXF6a2N4",
+    "type": "SOAS(A)",
+    "date": "2022-07-14",
+    "category": "dissolution",
+    "description": "dissolution-voluntary-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11573497/filing-history/MzM0NTU5OTQ0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/js_ac2nPuANfLOWcVh_qVhDIBEWiQDpdHapd05P7cBI"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzQ5MzA2M2FkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2022-07-05",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11573497/filing-history/MzM0MzQ5MzA2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6-Pf8YQr0irqa0tljLWpwV29ML3p1lYWfSn57UxGSp8"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzQ3MTgyNGFkaXF6a2N4",
+    "barcode": "AB6QCM1U",
+    "type": "DS01",
+    "date": "2022-06-23",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11573497/filing-history/MzM0MzQ3MTgyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aAwgJV8PX8XI1Yy1OSUUAkWQu4BLsK9xvApbjGgFkoM"
+    }
+  },
+  {
+    "transaction_id": "MzMxODk5ODExN2FkaXF6a2N4",
+    "barcode": "XAGI35P4",
+    "type": "CS01",
+    "date": "2021-11-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-09-16"
+    },
+    "pages": 3,
+    "action_date": "2021-09-16",
+    "links": {
+      "self": "/company/11573497/filing-history/MzMxODk5ODExN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/B2mYtK6qo1RgETqPzoDyPFl523vpfMkDz029NyOuUHo"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTY4MDYzNWFkaXF6a2N4",
+    "barcode": "XAE4IUVE",
+    "type": "AA",
+    "date": "2021-09-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-09-30"
+    },
+    "pages": 8,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/11573497/filing-history/MzMxNTY4MDYzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SfgL76x4nvAvM2HMzjA3wf1KtMadx8yJgppySTNgy04"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDg4NzEzNmFkaXF6a2N4",
+    "barcode": "X9FVQ2FT",
+    "type": "AA",
+    "date": "2020-10-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-09-30"
+    },
+    "pages": 8,
+    "action_date": "2019-09-30",
+    "links": {
+      "self": "/company/11573497/filing-history/MzI4MDg4NzEzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ngxo-cB8pTq0by6xvdanSGAmZBwTGzkTJU6m9HiQAP8"
+    }
+  },
+  {
+    "transaction_id": "MzI3OTU2MDQ2MWFkaXF6a2N4",
+    "barcode": "X9EZLOBC",
+    "type": "CS01",
+    "date": "2020-10-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-09-16"
+    },
+    "pages": 3,
+    "action_date": "2020-09-16",
+    "links": {
+      "self": "/company/11573497/filing-history/MzI3OTU2MDQ2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GSHRjPwiw00EM5frl6LesD_494KZ--Lhwwmk31CBn68"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTY4NjQzNGFkaXF6a2N4",
+    "barcode": "X8F5XFKA",
+    "type": "CS01",
+    "date": "2019-10-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-09-16"
+    },
+    "pages": 5,
+    "action_date": "2019-09-16",
+    "links": {
+      "self": "/company/11573497/filing-history/MzI0NTY4NjQzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Aowgo09McN1F3v7Tgz-WSYypM-e_h-7tHQY4aaqZQUk"
+    }
+  },
+  {
+    "transaction_id": "MzIxNDYxMTU3M2FkaXF6a2N4",
+    "barcode": "X7EM034O",
+    "type": "NEWINC",
+    "date": "2018-09-17",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-09-17",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-09-17",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-09-17",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-09-17"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11573497/filing-history/MzIxNDYxMTU3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pIQqVF4stmyxrHDLGS0640PoGRnaH9wAMaH3XOyXWpg"
+    }
+  }
+]

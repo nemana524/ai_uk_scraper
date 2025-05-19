@@ -1,0 +1,38 @@
+{
+  "company_number": "16143776",
+  "company_name": "TECH IT INNOVATIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-12-18",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "23 Primley Park Road",
+    "country": "England",
+    "locality": "Leeds",
+    "postal_code": "LS17 7HR"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-18",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2024-12-18"
+    },
+    "next_due": "2026-09-18",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "etag": "84b9747b4c36bb637eb63d0c8e608faf37a5da34"
+}

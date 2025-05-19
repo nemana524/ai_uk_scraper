@@ -1,0 +1,429 @@
+[
+  {
+    "transaction_id": "MzQ2MzY5MjA5NmFkaXF6a2N4",
+    "barcode": "XE14ALWX",
+    "type": "AA",
+    "date": "2025-04-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 5,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/12118357/filing-history/MzQ2MzY5MjA5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2PFHYCHWOdjsiZj3KnRkxjCYDJ04FblzI5wuULLXYew"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTMwNjgwOWFkaXF6a2N4",
+    "barcode": "XDBEVNH1",
+    "type": "CS01",
+    "date": "2024-09-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-16"
+    },
+    "pages": 3,
+    "action_date": "2024-08-16",
+    "links": {
+      "self": "/company/12118357/filing-history/MzQzNTMwNjgwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xtE_Yw8PHwDsLLJtM8h20VeZzWTRo8iPoDhXeXGs88U"
+    }
+  },
+  {
+    "transaction_id": "MzQyODAwNTI4NmFkaXF6a2N4",
+    "barcode": "XD6XIO8Z",
+    "type": "CH01",
+    "date": "2024-07-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-01-01",
+      "officer_name": "Mr Mohammad Naveed Siddiqui"
+    },
+    "pages": 2,
+    "action_date": "2024-01-01",
+    "links": {
+      "self": "/company/12118357/filing-history/MzQyODAwNTI4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WIZMHCaQeKjvml22fbFOpp8pPxHRFa39qt3g0lSULLo"
+    }
+  },
+  {
+    "transaction_id": "MzQyODAwNTIyMGFkaXF6a2N4",
+    "barcode": "XD6XIO1S",
+    "type": "PSC04",
+    "date": "2024-07-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-01-01",
+      "psc_name": "Mr Mohammad Naveed Siddiqui"
+    },
+    "pages": 2,
+    "action_date": "2024-01-01",
+    "links": {
+      "self": "/company/12118357/filing-history/MzQyODAwNTIyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yM2oQyjsggUdvj9W61ZfhM3Qm4NdzNhGbpl9kdzEQ8Q"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTA2MjE0N2FkaXF6a2N4",
+    "barcode": "XD1E3WYY",
+    "type": "AA",
+    "date": "2024-04-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 5,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/12118357/filing-history/MzQxOTA2MjE0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fidEHtuuBn5YsX0i2He4LoAA4K1KeiWO8cwmtvcGO48"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDQzMjYzMGFkaXF6a2N4",
+    "barcode": "XCCUNKN5",
+    "type": "CS01",
+    "date": "2023-09-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-16"
+    },
+    "pages": 3,
+    "action_date": "2023-08-16",
+    "links": {
+      "self": "/company/12118357/filing-history/MzM5NDQzMjYzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uYWao1646T1VgUse42UgP64MXHXZrvOQQVNyyAthUAE"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTAzNzc0OGFkaXF6a2N4",
+    "barcode": "XBUUU1C7",
+    "type": "PSC04",
+    "date": "2023-01-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-01-09",
+      "psc_name": "Mr Mohammad Naveed Siddiqui"
+    },
+    "pages": 2,
+    "action_date": "2023-01-09",
+    "links": {
+      "self": "/company/12118357/filing-history/MzM2NTAzNzc0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/89vWZxp9SShNVS2tYkfcZB37PNEEyeIHCRCqakz7BwY"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTUzNDEzNWFkaXF6a2N4",
+    "barcode": "XBEUADGR",
+    "type": "AA",
+    "date": "2022-10-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-07-31"
+    },
+    "pages": 5,
+    "action_date": "2022-07-31",
+    "links": {
+      "self": "/company/12118357/filing-history/MzM1NTUzNDEzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ze_rnNcKj9LPBwRen2B6SViUv4YA0D4fRqbRn1un3Ao"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjAxOTk0MGFkaXF6a2N4",
+    "barcode": "XBCLRU0B",
+    "type": "CS01",
+    "date": "2022-09-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-08-16"
+    },
+    "pages": 3,
+    "action_date": "2022-08-16",
+    "links": {
+      "self": "/company/12118357/filing-history/MzM1MjAxOTk0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/V9x8FCFlwk9cWFsvGy59D9zzG-qrWCi6BuFuOGxNox0"
+    }
+  },
+  {
+    "transaction_id": "MzMzNjAxNTgxN2FkaXF6a2N4",
+    "barcode": "XB1QX5UR",
+    "type": "AA",
+    "date": "2022-04-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-07-31"
+    },
+    "pages": 5,
+    "action_date": "2021-07-31",
+    "links": {
+      "self": "/company/12118357/filing-history/MzMzNjAxNTgxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S8q-zu-LVAc9PgsmObjuGBkHmnKhTH5KLV4y2QXbSng"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTc4OTQ2NGFkaXF6a2N4",
+    "barcode": "XAE77KL7",
+    "type": "AD01",
+    "date": "2021-10-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-10-01",
+      "old_address": "125-129, Waterloo Road, Waterloo Road First Floor Office # 8 & 9 Manchester M8 8BT England",
+      "new_address": "350-352 Great Cheetham Street East Salford M7 4UJ"
+    },
+    "pages": 1,
+    "action_date": "2021-10-01",
+    "links": {
+      "self": "/company/12118357/filing-history/MzMxNTc4OTQ2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WXYhL5u89YCv82AFAJW8IieKpCJYZriws6NO2HWe1us"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDc5MjIwOWFkaXF6a2N4",
+    "barcode": "XAB00UTC",
+    "type": "CS01",
+    "date": "2021-08-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-08-16"
+    },
+    "pages": 3,
+    "action_date": "2021-08-16",
+    "links": {
+      "self": "/company/12118357/filing-history/MzMxMDc5MjIwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aBNpZ40WGk5yiSO-_pOebLWLMV3BVjLljqXO4NjOkdw"
+    }
+  },
+  {
+    "transaction_id": "MzI4NDM1MzA2NmFkaXF6a2N4",
+    "barcode": "X9IJUMJL",
+    "type": "AA",
+    "date": "2020-11-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-07-31"
+    },
+    "pages": 5,
+    "action_date": "2020-07-31",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI4NDM1MzA2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iKR03Q7rIzn4kwqNB025ELqFiBDKPBAKuKAdl_Git6I"
+    }
+  },
+  {
+    "transaction_id": "MzI3NTg2Njk3M2FkaXF6a2N4",
+    "barcode": "X9BWAOLD",
+    "type": "CS01",
+    "date": "2020-08-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-08-21"
+    },
+    "pages": 3,
+    "action_date": "2020-08-21",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI3NTg2Njk3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/chpTE_CFnoo1uMpXRygTpliXOFFof-97Cf0A0gAhRiE"
+    }
+  },
+  {
+    "transaction_id": "MzI3MjY3MDg2MGFkaXF6a2N4",
+    "barcode": "X98TJCK1",
+    "type": "CS01",
+    "date": "2020-07-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-07-08"
+    },
+    "pages": 3,
+    "action_date": "2020-07-08",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI3MjY3MDg2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Mb-qjessYNjBfsiDv0lVP0DxyO3zuOsTHcCh2_yPtQE"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTk3MjYwMmFkaXF6a2N4",
+    "barcode": "X92HH6XM",
+    "type": "AD01",
+    "date": "2020-04-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-04-07",
+      "old_address": "123-129 Waterloo Road Office No. 02 First Floor Manchester M8 8BT England",
+      "new_address": "125-129, Waterloo Road, Waterloo Road First Floor Office # 8 & 9 Manchester M8 8BT"
+    },
+    "pages": 1,
+    "action_date": "2020-04-07",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI2MTk3MjYwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-FSD3J0gCq3DwCfUWiNRxp3QuSO6pt-WoPOtus5U2CE"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTY0NDI3MGFkaXF6a2N4",
+    "barcode": "X924FAYO",
+    "type": "CH01",
+    "date": "2020-04-06",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2020-04-02",
+      "officer_name": "Mr Mohammad Naveed Siddiqui"
+    },
+    "pages": 2,
+    "action_date": "2020-04-02",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI2MTY0NDI3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yS33MzJanq_zdhPtryD6zADYE-L_VEXulJIJT99wrGM"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTc4MDE3N2FkaXF6a2N4",
+    "barcode": "X929M3QX",
+    "type": "AD01",
+    "date": "2020-04-04",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-04-04",
+      "old_address": "35 Brynorme Road Manchester M8 4GN England",
+      "new_address": "123-129 Waterloo Road Office No. 02 First Floor Manchester M8 8BT"
+    },
+    "pages": 1,
+    "action_date": "2020-04-04",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI2MTc4MDE3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pvk8xuOwaX-OAv8rfXhxPNVM19RTsOD3ACNNVcTvBHE"
+    }
+  },
+  {
+    "transaction_id": "MzI1NzY5MDYyOGFkaXF6a2N4",
+    "barcode": "X8Z61S1T",
+    "type": "CH01",
+    "date": "2020-02-19",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-11-16",
+      "officer_name": "Mr Mohammad Naveed Siddiqui"
+    },
+    "pages": 2,
+    "action_date": "2019-11-16",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI1NzY5MDYyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2Ot7U4e_5PmUP9BASZY5C61TxQm2u6lKHsqkEeOeNAo"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDkyOTY3MmFkaXF6a2N4",
+    "barcode": "X8X0UXOR",
+    "type": "CH01",
+    "date": "2020-01-19",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2020-01-19",
+      "officer_name": "Mr Mohammad Naveed Siddiqui"
+    },
+    "pages": 2,
+    "action_date": "2020-01-19",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI1NDkyOTY3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NjBwbyJXCbd4T1ZUCT4pWXnlvvCrITeT4pDh8FnkJ_M"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDkyOTQzMmFkaXF6a2N4",
+    "barcode": "X8X0UWJL",
+    "type": "AD01",
+    "date": "2020-01-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-19",
+      "old_address": "47 Kingsley Road Hounslow TW3 1PA England",
+      "new_address": "35 Brynorme Road Manchester M8 4GN"
+    },
+    "pages": 1,
+    "action_date": "2020-01-19",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI1NDkyOTQzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/APwHliQ37sHSuNmM-TFOFRmigtCjxg7L_LdqagCRiXE"
+    }
+  },
+  {
+    "transaction_id": "MzI0ODcwODE4MWFkaXF6a2N4",
+    "barcode": "X8HO3PTZ",
+    "type": "AD01",
+    "date": "2019-11-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-11-06",
+      "old_address": "Duke of Cambridge House 1-3 Kingsley Road Hounslow , London TW3 1PA United Kingdom",
+      "new_address": "47 Kingsley Road Hounslow TW3 1PA"
+    },
+    "pages": 1,
+    "action_date": "2019-11-06",
+    "links": {
+      "self": "/company/12118357/filing-history/MzI0ODcwODE4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/COzSh0I0zblmiU48a8NwoggCEnjXuM-__IvqT1PMdgo"
+    }
+  },
+  {
+    "transaction_id": "MzIzOTk0MjUzOGFkaXF6a2N4",
+    "barcode": "X8AB3YGW",
+    "type": "NEWINC",
+    "date": "2019-07-23",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2019-07-23",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-07-23",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2019-07-23"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 23,
+    "links": {
+      "self": "/company/12118357/filing-history/MzIzOTk0MjUzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HTntxqWLBsLYtNAVLFr_a-4e8gSRBhXElDb-rhQd6Q8"
+    }
+  }
+]

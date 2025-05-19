@@ -1,0 +1,57 @@
+[
+  {
+    "address": {
+      "address_line_1": "566 Chiswick High Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "W4 5YA",
+      "premises": "Building 3"
+    },
+    "appointed_on": "2020-04-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1978
+    },
+    "links": {
+      "self": "/company/12552327/appointments/4iqsuvg2WeRYWOsxwTqEyv6N9Sw",
+      "officer": {
+        "appointments": "/officers/TWqRh0phcDQiyBAvy-UyKsEQaBA/appointments"
+      }
+    },
+    "name": "BHAMBRA, Amardeep Singh, Mr.",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "226174790001"
+  },
+  {
+    "address": {
+      "address_line_1": "566 Chiswick High Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "W4 5YA",
+      "premises": "Building 3"
+    },
+    "appointed_on": "2020-11-04",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/12552327/appointments/uGQ7pWwrf_wjfBcuXji9Tj8rjrY",
+      "officer": {
+        "appointments": "/officers/WJdaLGu43SsxleTAxQyKPujGCrc/appointments"
+      }
+    },
+    "name": "SHARMA, Sanjeev, Mr.",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2023-05-26",
+    "person_number": "268796350001"
+  }
+]

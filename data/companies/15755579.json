@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-02",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-06-02"
+    },
+    "next_due": "2026-03-02",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH $QUAD LTD",
+  "company_number": "15755579",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-15",
+    "next_due": "2026-04-29",
+    "next_made_up_to": "2026-04-15",
+    "overdue": false
+  },
+  "date_of_creation": "2024-06-02",
+  "etag": "51c142f0e2222580f97c9cb09e306056abf70da0",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15755579/persons-with-significant-control",
+    "self": "/company/15755579",
+    "filing_history": "/company/15755579/filing-history",
+    "officers": "/company/15755579/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "23 Woodfield Street",
+    "country": "England",
+    "locality": "Bolton",
+    "postal_code": "BL3 2HD"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46510"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

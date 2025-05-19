@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INNOVATIONS LIMITED",
+  "company_number": "07238363",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-01",
+    "next_due": "2025-05-15",
+    "next_made_up_to": "2025-05-01",
+    "overdue": false
+  },
+  "date_of_creation": "2010-04-29",
+  "etag": "dbf3ed75a3c43cb93a522131d62dadacd4223741",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-04-29",
+  "links": {
+    "persons_with_significant_control": "/company/07238363/persons-with-significant-control",
+    "self": "/company/07238363",
+    "filing_history": "/company/07238363/filing-history",
+    "officers": "/company/07238363/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Cherry Lodge West Haddon Road",
+    "address_line_2": "Watford",
+    "locality": "Northampton",
+    "postal_code": "NN6 7UN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

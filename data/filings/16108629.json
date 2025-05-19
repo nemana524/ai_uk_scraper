@@ -1,0 +1,115 @@
+[
+  {
+    "transaction_id": "MzQ0ODM1NTMxMWFkaXF6a2N4",
+    "barcode": "XDI9W8F5",
+    "type": "AP01",
+    "date": "2024-12-19",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Amardeep Singh Flora",
+      "appointment_date": "2024-12-19"
+    },
+    "pages": 2,
+    "action_date": "2024-12-19",
+    "links": {
+      "self": "/company/16108629/filing-history/MzQ0ODM1NTMxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FFHKwfxy7f02cruqtGG5spFva2OyD50tU7lwk7-1ntQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Nzk1MzA0OWFkaXF6a2N4",
+    "barcode": "XDI6KNYH",
+    "type": "PSC04",
+    "date": "2024-12-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-12-17",
+      "psc_name": "Mr Rajan Deep Singh"
+    },
+    "pages": 2,
+    "action_date": "2024-12-17",
+    "links": {
+      "self": "/company/16108629/filing-history/MzQ0Nzk1MzA0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZyaeJsVvsJCN0xC8FVwSDUpLu-0feIwM6fyzvVxQNSo"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Nzk1MjIwNWFkaXF6a2N4",
+    "barcode": "XDI6KKQI",
+    "type": "CH01",
+    "date": "2024-12-17",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-12-17",
+      "officer_name": "Mr Rajan Deep Singh"
+    },
+    "pages": 2,
+    "action_date": "2024-12-17",
+    "links": {
+      "self": "/company/16108629/filing-history/MzQ0Nzk1MjIwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OmoAYnTPZSdDOVagXG4YGD771vLPWvcRhXXa2mDM8_M"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Nzk1MTUzM2FkaXF6a2N4",
+    "barcode": "XDI6KI3F",
+    "type": "AD01",
+    "date": "2024-12-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-17",
+      "old_address": "Flat 21 4 Terrace Vista Terrace Road Bournemouth BH2 5NP England",
+      "new_address": "Suite 3-06 Peel House London Road Morden SM4 5BT"
+    },
+    "pages": 1,
+    "action_date": "2024-12-17",
+    "links": {
+      "self": "/company/16108629/filing-history/MzQ0Nzk1MTUzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oxjAkz941ME9lhNIYZDTPrqyLVtEa9ZvJQvtDlyTLdo"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTMzMTIzMWFkaXF6a2N4",
+    "barcode": "XDGTU2JM",
+    "type": "NEWINC",
+    "date": "2024-11-29",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-11-29",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-29",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-11-29",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-11-29"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/16108629/filing-history/MzQ0NTMzMTIzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RhAI3eOBWuFmTVXVwipSKP2P1Fr4mjX7l-qJXZfbj_Q"
+    }
+  }
+]

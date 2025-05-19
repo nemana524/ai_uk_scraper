@@ -1,0 +1,35 @@
+{
+  "company_number": "15191615",
+  "company_name": "TECH IN DEPTH LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "DAS, Malyaban",
+      "officer_role": "director",
+      "appointed_on": "2023-10-05",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Sidney Road",
+        "country": "England",
+        "locality": "Staines-Upon-Thames",
+        "postal_code": "TW18 4QJ",
+        "premises": "3"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/15191615/appointments/uE7LNUEx3y_fUwy-8S9yXnoVxwY",
+        "officer": {
+          "appointments": "/officers/jfGf30twzQcvy4c93jmF9_dYjcM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

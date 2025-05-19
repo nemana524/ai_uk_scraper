@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-19",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-19"
+    },
+    "next_due": "2026-01-19",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DNA GLOBAL LIMITED",
+  "company_number": "15661879",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-05-02",
+    "next_made_up_to": "2025-04-18",
+    "overdue": true
+  },
+  "date_of_creation": "2024-04-19",
+  "etag": "b336b6f41043544842b90b444c632e3209a0bc34",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15661879/persons-with-significant-control",
+    "self": "/company/15661879",
+    "filing_history": "/company/15661879/filing-history",
+    "officers": "/company/15661879/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "16 Ashworth",
+    "country": "United Kingdom",
+    "locality": "Stoke-On-Trent",
+    "postal_code": "ST4 4NY",
+    "region": "Staffordshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "33140",
+    "47421"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

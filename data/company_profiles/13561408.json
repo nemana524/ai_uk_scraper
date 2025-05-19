@@ -1,0 +1,46 @@
+{
+  "company_number": "13561408",
+  "company_name": "TECH EQUITY CLOUD SERVICES LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-08-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "16 Carew Close",
+    "address_line_2": "Chafford Hundred",
+    "country": "England",
+    "locality": "Grays",
+    "postal_code": "RM16 6RZ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-08-31",
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-31",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01"
+    },
+    "next_due": "2026-05-31",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "etag": "b97adf0f2a36aeeaac58e9891a9d32fdac4a40b5"
+}

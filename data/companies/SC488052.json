@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-10-31",
+      "period_end_on": "2023-10-31",
+      "period_start_on": "2022-11-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-31",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-11-01"
+    },
+    "next_due": "2025-07-31",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH KEY SOLUTIONS LTD",
+  "company_number": "SC488052",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-30",
+    "next_due": "2025-11-13",
+    "next_made_up_to": "2025-10-30",
+    "overdue": false
+  },
+  "date_of_creation": "2014-10-02",
+  "etag": "adbcdf3832574b3b2b1817d90b5d3e9b50874ad5",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "last_full_members_list_date": "2015-10-02",
+  "links": {
+    "persons_with_significant_control": "/company/SC488052/persons-with-significant-control",
+    "self": "/company/SC488052",
+    "filing_history": "/company/SC488052/filing-history",
+    "officers": "/company/SC488052/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "272 Bath Street",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G2 4JR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

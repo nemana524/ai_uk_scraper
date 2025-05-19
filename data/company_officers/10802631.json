@@ -1,0 +1,66 @@
+{
+  "company_number": "10802631",
+  "company_name": "TECH GORILLAS LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "HEATHER, Bruce Michael",
+      "officer_role": "director",
+      "appointed_on": "2017-06-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Games Developer",
+      "address": {
+        "address_line_1": "South Road",
+        "country": "United Kingdom",
+        "locality": "Brighton",
+        "postal_code": "BN1 6SB",
+        "premises": "Preston Park House",
+        "region": "East Sussex"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/10802631/appointments/6msc9E2AcKwU9NHE59QuIXHKgbw",
+        "officer": {
+          "appointments": "/officers/xnsz7wGi5LiJM_8KvqeqEVo349Y/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "LARSSON-DE WET, Louis Vorster",
+      "officer_role": "director",
+      "appointed_on": "2017-06-05",
+      "resigned_on": "2023-07-07",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Games Developer",
+      "address": {
+        "address_line_1": "The Chrome Works",
+        "address_line_2": "2 Goldstone Lane",
+        "country": "England",
+        "locality": "Hove",
+        "postal_code": "BN3 7RJ",
+        "premises": "Apartment 55",
+        "region": "East Sussex"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/10802631/appointments/FoA0E_ReDHKhBPL_e0eHdCp8VCQ",
+        "officer": {
+          "appointments": "/officers/p6paaVD8w4xM7_oPydzUoPLFk1Y/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

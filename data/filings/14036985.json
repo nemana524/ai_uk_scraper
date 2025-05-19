@@ -1,0 +1,144 @@
+[
+  {
+    "transaction_id": "MzQzNTE1MTcyOGFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-09-17",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14036985/filing-history/MzQzNTE1MTcyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0zMVocQBr0uR5r2g_PU73BSRBvuTto7Zv_UUfwIWLWI"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg1MTYxN2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-07-02",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14036985/filing-history/MzQyNTg1MTYxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ugm1QLqfKzjFUOPeiHfYDvvBkn08bqXMSVeyk5O1z48"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzk1MjcwMWFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-03-13",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14036985/filing-history/MzQxMzk1MjcwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dBFS8BG0NVRBDmsfOgf1D5yss_fgCR3y9XYpRg3KzLM"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzA3NjA3NWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-03-12",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14036985/filing-history/MzQxMzA3NjA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/99xrzvxJPMYvYfgU8S3LN7p-LVdS7oENMnrNQOYN_fs"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzk1MjY3OWFkaXF6a2N4",
+    "barcode": "XCYLGNYP",
+    "type": "AA",
+    "date": "2024-03-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-04-30"
+    },
+    "pages": 2,
+    "action_date": "2023-04-30",
+    "links": {
+      "self": "/company/14036985/filing-history/MzQxMzk1MjY3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f7QEaUlvK7GMYGDfWzinrSJBOhw-6F_UU6AFuCIWR6Y"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjgyOTI2OWFkaXF6a2N4",
+    "barcode": "XCBYJ7KZ",
+    "type": "AD01",
+    "date": "2023-09-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-09-13",
+      "old_address": "Flat 5 David Court 4 Hillary Mews London E14 6GE England",
+      "new_address": "167-169 Great Portland Street, 5th Floor, London, 167-169 Great Portland Street, 5th Floor, London, London London W1W 5PF"
+    },
+    "pages": 1,
+    "action_date": "2023-09-13",
+    "links": {
+      "self": "/company/14036985/filing-history/MzM5MjgyOTI2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DDqaxc4GpD8F4WBsgyxc4UrxFyeA2s4Y3MflvDFBdcI"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzUwODI3NWFkaXF6a2N4",
+    "barcode": "XC62BYJD",
+    "type": "CS01",
+    "date": "2023-06-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-04-08"
+    },
+    "pages": 3,
+    "action_date": "2023-04-08",
+    "links": {
+      "self": "/company/14036985/filing-history/MzM4MzUwODI3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pFbtY8CaGORaueV-nw14C1a_Y4R7ET7pO6IAiNs03HE"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTc0MzI1NWFkaXF6a2N4",
+    "barcode": "XB1LEKFM",
+    "type": "NEWINC",
+    "date": "2022-04-09",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-04-09",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-04-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-04-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-04-09"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14036985/filing-history/MzMzNTc0MzI1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dJi8PcWhtFxaC9m-JHrYvAoe9X8uyYfZWjChfEPUIvc"
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "address": {
+      "address_line_1": "Sale",
+      "country": "United Kingdom",
+      "locality": "Cheshire",
+      "postal_code": "M33 2TW",
+      "premises": "6 Newby Drive"
+    },
+    "appointed_on": "2020-04-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1968
+    },
+    "links": {
+      "self": "/company/12576209/appointments/RrCqlYk6wHyJvWnoBYl3x-XjOIY",
+      "officer": {
+        "appointments": "/officers/Cqxtai80OzY9sgET8d1771-fhFE/appointments"
+      }
+    },
+    "name": "KAPREKAR, Aniruddha Dinanath",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "180803780002"
+  },
+  {
+    "address": {
+      "address_line_1": "Pellat Road",
+      "country": "United Kingdom",
+      "locality": "Wembley",
+      "postal_code": "HA9 8FB",
+      "premises": "7 Crown Green Mews"
+    },
+    "appointed_on": "2020-04-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1978
+    },
+    "links": {
+      "self": "/company/12576209/appointments/btad7DaO46ssKKhCF1rlcNfjNL0",
+      "officer": {
+        "appointments": "/officers/R41EUFWE1R89ENFYvUB49hiNFyc/appointments"
+      }
+    },
+    "name": "MALHOTRA, Aftab Kanwar",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "148819480001"
+  },
+  {
+    "address": {
+      "address_line_1": "Sidmouth Avenue",
+      "country": "United Kingdom",
+      "locality": "Isleworth",
+      "postal_code": "TW7 4DR",
+      "premises": "70"
+    },
+    "appointed_on": "2020-04-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1973
+    },
+    "links": {
+      "self": "/company/12576209/appointments/kfJl3PiQgVqL4kEH7I4H_SmoFus",
+      "officer": {
+        "appointments": "/officers/ERYvcMjRHrEfNBVeubUPnNmAj5k/appointments"
+      }
+    },
+    "name": "GOPALI, Nilesh Krishna",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2022-03-18",
+    "person_number": "123857890002"
+  }
+]

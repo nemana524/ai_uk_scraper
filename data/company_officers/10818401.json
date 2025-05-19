@@ -1,0 +1,149 @@
+{
+  "company_number": "10818401",
+  "company_name": "TECH 4 YOU LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "KHAN, Hassan",
+      "officer_role": "director",
+      "appointed_on": "2023-10-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Green Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E13 9DB",
+        "premises": "448-450"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 2000
+      },
+      "links": {
+        "self": "/company/10818401/appointments/Y0j5L9kSCVBl4Wxma2JoW_FnymU",
+        "officer": {
+          "appointments": "/officers/44l0icDfnkBGt76Eqfd1hCTH01o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ALI, Farman",
+      "officer_role": "director",
+      "appointed_on": "2018-07-24",
+      "resigned_on": "2018-08-01",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "Basement",
+        "address_line_2": "Green Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E13 9AU",
+        "premises": "371-373"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/10818401/appointments/tVpkxHNG9EvM1RKlOl7ssodRZuk",
+        "officer": {
+          "appointments": "/officers/U-4BUW247hoOkGWHp3dmvONOT4E/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ALI, Farman",
+      "officer_role": "director",
+      "appointed_on": "2017-06-14",
+      "resigned_on": "2018-07-24",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Business Manager",
+      "address": {
+        "address_line_1": "Basement",
+        "address_line_2": "Green Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E13 9AU",
+        "premises": "371-373"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/10818401/appointments/1nPk3jq_lwd8nPxqDA7ruUkyxR4",
+        "officer": {
+          "appointments": "/officers/U-4BUW247hoOkGWHp3dmvONOT4E/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KHAN, Hassan",
+      "officer_role": "director",
+      "appointed_on": "2018-07-24",
+      "resigned_on": "2023-10-01",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "Green Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E13 9DB",
+        "premises": "448-450"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 2000
+      },
+      "links": {
+        "self": "/company/10818401/appointments/HNu8iQGVaNMLjjOIteyZoGcqvwA",
+        "officer": {
+          "appointments": "/officers/44l0icDfnkBGt76Eqfd1hCTH01o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KHAN, Imran",
+      "officer_role": "director",
+      "appointed_on": "2023-10-01",
+      "resigned_on": "2024-07-01",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Green Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E13 9DB",
+        "premises": "448-450"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/10818401/appointments/yiDaAUpvNzP0lYXUG9IY0WX9ZU8",
+        "officer": {
+          "appointments": "/officers/jLrxvYkFVBp__POr7e4g68qSiA0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

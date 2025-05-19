@@ -1,0 +1,43 @@
+{
+  "company_number": "15656043",
+  "company_name": "TECH FIX LESTA LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-04-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "33140",
+    "71129",
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "63 Peters Drive",
+    "country": "United Kingdom",
+    "locality": "Leicester",
+    "postal_code": "LE5 2AR"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-17",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-17"
+    },
+    "next_due": "2026-01-17",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "984bbe9596a649d0603edf5c2ad4565c02f61232"
+}

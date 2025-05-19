@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "124"
+    },
+    "appointed_on": "2024-02-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/15479251/appointments/v7LwL4whR38v-hS4hqLlLrsWTDU",
+      "officer": {
+        "appointments": "/officers/Bxp8a3_8Fo3dbmrakU8VBRyXoEM/appointments"
+      }
+    },
+    "name": "THOMAS, Ben",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "319177330001"
+  }
+]

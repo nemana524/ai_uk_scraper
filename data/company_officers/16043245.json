@@ -1,0 +1,63 @@
+{
+  "company_number": "16043245",
+  "company_name": "TECH HOUSE LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "AHMAD, Shumail",
+      "officer_role": "director",
+      "appointed_on": "2024-10-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Mechanic",
+      "address": {
+        "address_line_1": "90 Bishopsford Road",
+        "country": "England",
+        "locality": "Morden",
+        "postal_code": "SM4 6BE",
+        "premises": "Flat 18 Grosslea"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 2000
+      },
+      "links": {
+        "self": "/company/16043245/appointments/h4pC5DYCb0UTIatILjZ_7x62JOs",
+        "officer": {
+          "appointments": "/officers/CLoTJn4kQI_yG6C7xe0mFRjWnlw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "AHMAD, Usama",
+      "officer_role": "director",
+      "appointed_on": "2024-10-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Mechanic",
+      "address": {
+        "address_line_1": "134 Falcon Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW11 2LH",
+        "premises": "Flat 29 Edwin Trayfoot Lodge"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 2001
+      },
+      "links": {
+        "self": "/company/16043245/appointments/wChsT3ZxPMJ3pkiAdlm--RJTEY8",
+        "officer": {
+          "appointments": "/officers/342-DI74HKkKzCKF3KSyVc4EXLI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

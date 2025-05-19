@@ -1,0 +1,364 @@
+[
+  {
+    "transaction_id": "MzQ0NjEzNzAyN2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-12-07",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12393849/filing-history/MzQ0NjEzNzAyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nmd9bbP83oSkhOo7DwCFlSEUWnNRpnjE_oLsiHW9q9c"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjEzNzAxMWFkaXF6a2N4",
+    "barcode": "XDHA4C0L",
+    "type": "CS01",
+    "date": "2024-12-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-09-07"
+    },
+    "pages": 3,
+    "action_date": "2024-09-07",
+    "links": {
+      "self": "/company/12393849/filing-history/MzQ0NjEzNzAxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HgIooL5JAeDwnym-vog_yGbIzk38FeViyxspT_IeEeI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzgwODI0M2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-11-26",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12393849/filing-history/MzQ0MzgwODI0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hQhqWoI4jNDE4Yo2Bd4kRYPBrMeL84fK38rvu4vu3o8"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDA5NDEzOGFkaXF6a2N4",
+    "barcode": "XCCMNI3S",
+    "type": "CS01",
+    "date": "2023-09-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-09-07"
+    },
+    "pages": 3,
+    "action_date": "2023-09-07",
+    "links": {
+      "self": "/company/12393849/filing-history/MzM5NDA5NDEzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZqApEZYV80THwZaerOGulvQzOkN1Mt4TPKE5ZvHjdEk"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODA2NDI5N2FkaXF6a2N4",
+    "barcode": "XC8U1B94",
+    "type": "AA",
+    "date": "2023-07-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-06-30"
+    },
+    "pages": 6,
+    "action_date": "2023-06-30",
+    "links": {
+      "self": "/company/12393849/filing-history/MzM4ODA2NDI5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sBsJsMxRVoZH4mUYVx9IQC4OA4qKWhjqJOZ5H-8nvpE"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjkxMTU1M2FkaXF6a2N4",
+    "barcode": "XBD9KWFL",
+    "type": "AA",
+    "date": "2022-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-06-30"
+    },
+    "pages": 6,
+    "action_date": "2022-06-30",
+    "links": {
+      "self": "/company/12393849/filing-history/MzM1MjkxMTU1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/l6AdolxSKWBvzjd0JCNEbtkihDojsQoFfXGLkrQh6Js"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTg2MjYxOWFkaXF6a2N4",
+    "barcode": "XBCIZBRM",
+    "type": "AD01",
+    "date": "2022-09-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-09-14",
+      "old_address": "14 Wilbraham Road Walsall WS2 9PT England",
+      "new_address": "7 Dorset Waye Hounslow TW5 0NF"
+    },
+    "pages": 1,
+    "action_date": "2022-09-14",
+    "links": {
+      "self": "/company/12393849/filing-history/MzM1MTg2MjYxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FLVekdaK2QXI36APk5ei3jwsb9h-1171Qx_e8B3CYlQ"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTExNDQyOGFkaXF6a2N4",
+    "barcode": "XBC0FZS1",
+    "type": "CS01",
+    "date": "2022-09-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-09-07"
+    },
+    "pages": 4,
+    "action_date": "2022-09-07",
+    "links": {
+      "self": "/company/12393849/filing-history/MzM1MTExNDQyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QwteO6BV4IxjPYOFn22F0wrIfpfa9NDng-BNXl9CVjw"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzU1MTA4N2FkaXF6a2N4",
+    "barcode": "XB6T1URN",
+    "type": "TM01",
+    "date": "2022-06-23",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Usman Qadeer",
+      "termination_date": "2022-01-13"
+    },
+    "pages": 1,
+    "action_date": "2022-01-13",
+    "links": {
+      "self": "/company/12393849/filing-history/MzM0MzU1MTA4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9uo9JvssweqPCyla4HqXovqJtfVR-4f3AD3KDP_YHIE"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzU1MTA4MWFkaXF6a2N4",
+    "barcode": "XB6T1URE",
+    "type": "PSC07",
+    "date": "2022-06-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Usman Qadeer",
+      "cessation_date": "2022-01-13"
+    },
+    "pages": 1,
+    "action_date": "2022-01-13",
+    "links": {
+      "self": "/company/12393849/filing-history/MzM0MzU1MTA4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T6QgVOfoVuF0lMPR-XixmooQ1Yfxv-t4cUmZctWUws0"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTY5NzUzNWFkaXF6a2N4",
+    "barcode": "XB49QC3E",
+    "type": "CS01",
+    "date": "2022-05-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-01-08"
+    },
+    "pages": 3,
+    "action_date": "2022-01-08",
+    "links": {
+      "self": "/company/12393849/filing-history/MzMzOTY5NzUzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bvAQ79wARaNoBxy4mDYrAvHnU5xe9uBPfKjGdrTFh_A"
+    }
+  },
+  {
+    "transaction_id": "MzMzNDkwMzg1MGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-04-01",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12393849/filing-history/MzMzNDkwMzg1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EiDzu98q5R4-NkmROQgzfNoztEsyZLXgDIYUwNo3JSE"
+    }
+  },
+  {
+    "transaction_id": "MzMzNDkwMzgzNmFkaXF6a2N4",
+    "barcode": "XB0XC7EI",
+    "type": "AA",
+    "date": "2022-03-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-06-30"
+    },
+    "pages": 6,
+    "action_date": "2021-06-30",
+    "links": {
+      "self": "/company/12393849/filing-history/MzMzNDkwMzgzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gyebR3VGgmqlK689aY_6q2bnFEQM952I7nVFAkRWM4s"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzU2MzU1MGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-03-29",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12393849/filing-history/MzMzMzU2MzU1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wb8wZqUVHITKp6OEgmgoyms5dkDDzftLvWuIak0rEuY"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjA2Mzg0MmFkaXF6a2N4",
+    "barcode": "XABQX2J6",
+    "type": "AA",
+    "date": "2021-08-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2020-06-30"
+    },
+    "pages": 2,
+    "action_date": "2020-06-30",
+    "links": {
+      "self": "/company/12393849/filing-history/MzMxMjA2Mzg0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OhQ8WuSLcaU45ci-N3Z5oNGfYHs5UQotL4PaMnDJoFc"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjQ4NjUwN2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2021-05-28",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12393849/filing-history/MzMwMjQ4NjUwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xUF4-Aw2OeQ0ot-xklkpLz772PovnTeKWXVU4zVseJY"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjQ4NzA1N2FkaXF6a2N4",
+    "barcode": "XA5F4VCO",
+    "type": "AA01",
+    "date": "2021-05-27",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2021-01-31",
+      "new_date": "2020-06-30"
+    },
+    "pages": 1,
+    "action_date": "2020-06-30",
+    "links": {
+      "self": "/company/12393849/filing-history/MzMwMjQ4NzA1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/R9w5YyL6wYwUxlk3CWTs2jY_I1-UrxG38WLFpGvWiws"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjQ4NjQyN2FkaXF6a2N4",
+    "barcode": "XA5F4SVC",
+    "type": "CS01",
+    "date": "2021-05-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-01-08"
+    },
+    "pages": 3,
+    "action_date": "2021-01-08",
+    "links": {
+      "self": "/company/12393849/filing-history/MzMwMjQ4NjQyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f8AbpRwm9pcwPfIEMjANtuElOLWJQK-wVgBrTl0fcPw"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODA4OTg1N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2021-04-27",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12393849/filing-history/MzI5ODA4OTg1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JiI8AI0lCEwYdfiaXw8KXuSUWQNtaZBUp9Qoe9aMmbc"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDg2MjM2MmFkaXF6a2N4",
+    "barcode": "X8WVRO5T",
+    "type": "AD01",
+    "date": "2020-01-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-17",
+      "old_address": "48 Frampton Road Hounslow TW4 5EX England",
+      "new_address": "14 Wilbraham Road Walsall WS2 9PT"
+    },
+    "pages": 1,
+    "action_date": "2020-01-17",
+    "links": {
+      "self": "/company/12393849/filing-history/MzI1NDg2MjM2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dSrLn6FlaVBk-t7ycOnn6_hqH7wEVHeqhduuhQkBIxc"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDE0NDQ1MmFkaXF6a2N4",
+    "barcode": "X8W7YUEA",
+    "type": "NEWINC",
+    "date": "2020-01-09",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-01-09",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-01-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-01-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2020-01-09"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/12393849/filing-history/MzI1NDE0NDQ1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-_OKMqZwXcW9DVpoZA_YT4xhvB2p-hsnVbF2BhC7aQI"
+    }
+  }
+]

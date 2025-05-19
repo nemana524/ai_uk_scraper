@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-20",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-03-20"
+    },
+    "next_due": "2025-12-20",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GPT LTD",
+  "company_number": "15579365",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-19",
+    "next_due": "2026-04-02",
+    "next_made_up_to": "2026-03-19",
+    "overdue": false
+  },
+  "date_of_creation": "2024-03-20",
+  "etag": "1641ac5add7a8bfdb1a849066615dfae42ac4b4d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15579365/persons-with-significant-control",
+    "self": "/company/15579365",
+    "filing_history": "/company/15579365/filing-history",
+    "officers": "/company/15579365/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "55 Kingston Avenue",
+    "country": "United Kingdom",
+    "locality": "Newcastle Upon Tyne",
+    "postal_code": "NE6 2SR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

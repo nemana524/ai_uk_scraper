@@ -1,0 +1,432 @@
+[
+  {
+    "transaction_id": "MzQ1MTc5NzIwNGFkaXF6a2N4",
+    "barcode": "XDUHCIZ4",
+    "type": "CS01",
+    "date": "2025-01-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-01"
+    },
+    "pages": 3,
+    "action_date": "2025-01-01",
+    "links": {
+      "self": "/company/10547822/filing-history/MzQ1MTc5NzIwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7H3SKtgpM4ouDiy2xVqf3j49P4blpDAJhdl30Q7evwg"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTU5NTE5M2FkaXF6a2N4",
+    "barcode": "XDEVICQQ",
+    "type": "AA",
+    "date": "2024-10-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 15,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/10547822/filing-history/MzQ0MTU5NTE5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6j6x2VjehgZtF-zHc2MBbT_pfsDMZ_1mXzNsC02RKQ4"
+    }
+  },
+  {
+    "transaction_id": "MzQwODMyOTk4MGFkaXF6a2N4",
+    "barcode": "XCVA9YCQ",
+    "type": "CS01",
+    "date": "2024-01-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-01-01"
+    },
+    "pages": 3,
+    "action_date": "2024-01-01",
+    "links": {
+      "self": "/company/10547822/filing-history/MzQwODMyOTk4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cpna-AWixid7AKfcKaHkZ9OLvBkbVSIe7Y5NwwSw5qU"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODUwMTk0OWFkaXF6a2N4",
+    "barcode": "XCFBZV56",
+    "type": "AA",
+    "date": "2023-10-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 11,
+    "links": {
+      "self": "/company/10547822/filing-history/MzM5ODUwMTk0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uvQbc1ESFpZ0X5cvxmVr3doFgBkpc2i9nIlcJjS2mVE"
+    }
+  },
+  {
+    "transaction_id": "MzM2OTQyNjIxMGFkaXF6a2N4",
+    "barcode": "XBXEA84Y",
+    "type": "AP01",
+    "date": "2023-02-15",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Shaun Andrews",
+      "appointment_date": "2023-02-12"
+    },
+    "pages": 2,
+    "action_date": "2023-02-12",
+    "links": {
+      "self": "/company/10547822/filing-history/MzM2OTQyNjIxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SoSQ4zPg5fYsk36MPujqrk74l2KQ5X7FcAIwdWSx900"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTY2Mjc0MmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-01-14",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10547822/filing-history/MzM2NTY2Mjc0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/piBSZlLSpaRUDxLtTgJ_FIja9yxcgmTJsAABc477Dzg"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTY2MjcwMmFkaXF6a2N4",
+    "barcode": "XBV398AB",
+    "type": "CS01",
+    "date": "2023-01-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-01-01"
+    },
+    "pages": 3,
+    "action_date": "2023-01-01",
+    "links": {
+      "self": "/company/10547822/filing-history/MzM2NTY2MjcwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AWLtOSSM0YZkoXP2buacnhwCMLqCrsIB2wcwQL58xDg"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTg3NzQ5NmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-12-20",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10547822/filing-history/MzM2MTg3NzQ5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qr_f4fZyxKFowK1DWI12uXsUlMJ5pNYwkmHoAXIuoGw"
+    }
+  },
+  {
+    "transaction_id": "MzM1Njg0MTI3N2FkaXF6a2N4",
+    "barcode": "XBFL9Q4X",
+    "type": "AA",
+    "date": "2022-10-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2022-01-31"
+    },
+    "pages": 11,
+    "links": {
+      "self": "/company/10547822/filing-history/MzM1Njg0MTI3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9M_3KDGVC5obO9_YntjqPk0Z2xEzPAhapAOCEolaj1k"
+    }
+  },
+  {
+    "transaction_id": "MzMzNDQyODY5MGFkaXF6a2N4",
+    "barcode": "XB0TXWOA",
+    "type": "TM01",
+    "date": "2022-03-29",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Shaun Andrews",
+      "termination_date": "2022-03-27"
+    },
+    "pages": 1,
+    "action_date": "2022-03-27",
+    "links": {
+      "self": "/company/10547822/filing-history/MzMzNDQyODY5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3Zq1yyrMe5YYSfcg22kC-0Z3x1d49noBIEkoMkjVh9c"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTQ1NDE4MmFkaXF6a2N4",
+    "barcode": "XAUSVBHV",
+    "type": "CS01",
+    "date": "2022-01-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-01-01"
+    },
+    "pages": 3,
+    "action_date": "2022-01-01",
+    "links": {
+      "self": "/company/10547822/filing-history/MzMyNTQ1NDE4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ze1NNcqmBIlj_JVwZ7T8it_3y6P-AsewkP8512jc0GU"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzAxNjEyNWFkaXF6a2N4",
+    "barcode": "XAF39R40",
+    "type": "AA",
+    "date": "2021-10-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-01-31"
+    },
+    "pages": 8,
+    "action_date": "2021-01-31",
+    "links": {
+      "self": "/company/10547822/filing-history/MzMxNzAxNjEyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6geS5b-iN0WUjo4qXCmv0a0IvMU871val8YJuAABm-s"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODY1MjkxN2FkaXF6a2N4",
+    "barcode": "X9W5M6M2",
+    "type": "AA",
+    "date": "2021-01-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-01-31"
+    },
+    "pages": 8,
+    "action_date": "2020-01-31",
+    "links": {
+      "self": "/company/10547822/filing-history/MzI4ODY1MjkxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QUoDB0z51GoF3aCUZKcs7Aoa3J6eriPxdDz24lzRKY8"
+    }
+  },
+  {
+    "transaction_id": "MzI4NzM5NjI0NWFkaXF6a2N4",
+    "barcode": "X9VC4WZE",
+    "type": "CS01",
+    "date": "2021-01-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-01-02"
+    },
+    "pages": 3,
+    "action_date": "2021-01-02",
+    "links": {
+      "self": "/company/10547822/filing-history/MzI4NzM5NjI0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mt88GNac2JVwioyAuNkeqopol4DodyeTjvYkPDcc5ak"
+    }
+  },
+  {
+    "transaction_id": "MzI1MzY4ODU3M2FkaXF6a2N4",
+    "barcode": "X8VURGK8",
+    "type": "CS01",
+    "date": "2020-01-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-01-02"
+    },
+    "pages": 3,
+    "action_date": "2020-01-02",
+    "links": {
+      "self": "/company/10547822/filing-history/MzI1MzY4ODU3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3YSCV8pfKrRKFFrIR_gjQ55oQ9r0zVCkOpoBZ4hhAJM"
+    }
+  },
+  {
+    "transaction_id": "MzI1MzY4NDE1M2FkaXF6a2N4",
+    "barcode": "X8VUR0JV",
+    "type": "AD01",
+    "date": "2020-01-03",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-03",
+      "old_address": "Unit 5, Osprey House Unit 5, Osprey House Trinity Business Park London E4 8TD England",
+      "new_address": "Osprey House Unit 5 Osprey House Unit 5 Trinity Park, Trinity Way London Chingford E4 8TD"
+    },
+    "pages": 1,
+    "action_date": "2020-01-03",
+    "links": {
+      "self": "/company/10547822/filing-history/MzI1MzY4NDE1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uIuWteGk3tY0usCah2LhXRnHURxCDMGUVWZSsam7dYA"
+    }
+  },
+  {
+    "transaction_id": "MzI1MzY4MTA2NmFkaXF6a2N4",
+    "barcode": "X8VUQOZC",
+    "type": "AD01",
+    "date": "2020-01-03",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-03",
+      "old_address": "85 Station Street Bloxwich Walsall WS3 2PG England",
+      "new_address": "Unit 5, Osprey House Unit 5, Osprey House Trinity Business Park London E4 8TD"
+    },
+    "pages": 1,
+    "action_date": "2020-01-03",
+    "links": {
+      "self": "/company/10547822/filing-history/MzI1MzY4MTA2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IiOd-Z4kMYj7dTOxGohufhZqmi9Wt97ZTg8itsiFqSI"
+    }
+  },
+  {
+    "transaction_id": "MzI0NzgwNzU1MmFkaXF6a2N4",
+    "barcode": "X8H2HG17",
+    "type": "AA",
+    "date": "2019-10-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-01-31"
+    },
+    "pages": 2,
+    "action_date": "2019-01-31",
+    "links": {
+      "self": "/company/10547822/filing-history/MzI0NzgwNzU1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TMb3MmCcPXIDIj9ZuAomLevcyMlaWPBhhvdOxNcHUFo"
+    }
+  },
+  {
+    "transaction_id": "MzIyNTYyMzI3MWFkaXF6a2N4",
+    "barcode": "X7Y5T049",
+    "type": "AD01",
+    "date": "2019-01-29",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-01-29",
+      "old_address": "Flat 4, Wickliffe, 4 Lake Street Dudley West Midlands DY3 2AU England",
+      "new_address": "85 Station Street Bloxwich Walsall WS3 2PG"
+    },
+    "pages": 1,
+    "action_date": "2019-01-29",
+    "links": {
+      "self": "/company/10547822/filing-history/MzIyNTYyMzI3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rekDn1qk9qQJa-02RRUg82yafbZKKQ29ICzaj8lSDmw"
+    }
+  },
+  {
+    "transaction_id": "MzIyNDc2MDQyN2FkaXF6a2N4",
+    "barcode": "X7XFEMTT",
+    "type": "CS01",
+    "date": "2019-01-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-01-02"
+    },
+    "pages": 3,
+    "action_date": "2019-01-02",
+    "links": {
+      "self": "/company/10547822/filing-history/MzIyNDc2MDQyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9cE6dXGIJCTknRzGylcy7SnbaHCSqhHSqXmc6MB9b6I"
+    }
+  },
+  {
+    "transaction_id": "MzIxNjQyMDEyOWFkaXF6a2N4",
+    "barcode": "X7G2MF9N",
+    "type": "AA",
+    "date": "2018-10-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-01-31"
+    },
+    "pages": 2,
+    "action_date": "2018-01-31",
+    "links": {
+      "self": "/company/10547822/filing-history/MzIxNjQyMDEyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wtJVMIJOZESuIAgzODZR0htsdL5l92rN21OCWmeSJDs"
+    }
+  },
+  {
+    "transaction_id": "MzE5NzM1MjU1MGFkaXF6a2N4",
+    "barcode": "X6ZFI9CB",
+    "type": "CS01",
+    "date": "2018-02-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2018-01-04"
+    },
+    "pages": 3,
+    "action_date": "2018-01-04",
+    "links": {
+      "self": "/company/10547822/filing-history/MzE5NzM1MjU1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S1nNK4r4Va3dq6ljr19gBN-lJKe5gpsmg0XhpHwpgFg"
+    }
+  },
+  {
+    "transaction_id": "MzE2Nzk2NTE4M2FkaXF6a2N4",
+    "barcode": "X5ZC30AA",
+    "type": "CH01",
+    "date": "2017-02-01",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2017-01-28",
+      "officer_name": "Mr Shaun Andrews"
+    },
+    "pages": 2,
+    "action_date": "2017-01-28",
+    "links": {
+      "self": "/company/10547822/filing-history/MzE2Nzk2NTE4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1r8rQsfds7dNrJpoXuKzT7cL_nfFwaQ3SA6_vcuWK28"
+    }
+  },
+  {
+    "transaction_id": "MzE2NTgyMjU1N2FkaXF6a2N4",
+    "barcode": "X5XFPXUP",
+    "type": "NEWINC",
+    "date": "2017-01-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2017-01-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2017-01-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-01-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2017-01-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/10547822/filing-history/MzE2NTgyMjU1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rxT5sHfE6Gh4SjZ-549Eq2BfupzV7bqE3n7owxCZNZs"
+    }
+  }
+]

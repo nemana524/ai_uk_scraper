@@ -1,0 +1,53 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "next_accounts": {
+      "due_on": "2025-02-20",
+      "overdue": true,
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-05-20"
+    },
+    "next_due": "2025-02-20",
+    "next_made_up_to": "2024-05-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH HEARING LIMITED",
+  "company_number": "14882939",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-19",
+    "next_due": "2025-06-02",
+    "next_made_up_to": "2025-05-19",
+    "overdue": false
+  },
+  "date_of_creation": "2023-05-20",
+  "etag": "60c7aa4c217419743ad4efe429da193b06f4b282",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14882939/persons-with-significant-control",
+    "self": "/company/14882939",
+    "filing_history": "/company/14882939/filing-history",
+    "officers": "/company/14882939/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "86-90 Paul Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2A 4NE",
+    "region": "England"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47749"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

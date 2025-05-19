@@ -1,0 +1,35 @@
+{
+  "company_number": "12214086",
+  "company_name": "TECH LOGISTICS IT CONSULTANCY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PEARSON, David Matthew",
+      "officer_role": "director",
+      "appointed_on": "2019-09-18",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Cedar Gardens",
+        "country": "England",
+        "locality": "Upminster",
+        "postal_code": "RM14 3DL",
+        "premises": "12"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1960
+      },
+      "links": {
+        "self": "/company/12214086/appointments/uWMynoEpL4sBvGlmY1AI9ixaobM",
+        "officer": {
+          "appointments": "/officers/HoHEkxQwQxHkkoS_4nHh-A2uKbE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

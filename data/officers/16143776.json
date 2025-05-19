@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Primley Park Road",
+      "country": "England",
+      "locality": "Leeds",
+      "postal_code": "LS17 7HR",
+      "premises": "23"
+    },
+    "appointed_on": "2024-12-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1976
+    },
+    "links": {
+      "self": "/company/16143776/appointments/SzQWUHyGj3RHAJ8cXs10ZX-3OQ8",
+      "officer": {
+        "appointments": "/officers/cb1w2ZLzaE_AZzdnS8A9uyPg1m8/appointments"
+      }
+    },
+    "name": "MANKAR, Smita",
+    "nationality": "British",
+    "occupation": "Solution Architect",
+    "officer_role": "director",
+    "person_number": "330502290001"
+  }
+]

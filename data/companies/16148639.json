@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-23",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2024-12-23"
+    },
+    "next_due": "2026-09-23",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FRONTIER.IO LTD",
+  "company_number": "16148639",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-01-05",
+    "next_made_up_to": "2025-12-22",
+    "overdue": false
+  },
+  "date_of_creation": "2024-12-23",
+  "etag": "96690f00c869bb69e1814e3918f7893cd033c3b2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16148639/persons-with-significant-control",
+    "self": "/company/16148639",
+    "filing_history": "/company/16148639/filing-history",
+    "officers": "/company/16148639/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Office 11006 182-184 High Street North",
+    "address_line_2": "East Ham",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E6 2JA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090",
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

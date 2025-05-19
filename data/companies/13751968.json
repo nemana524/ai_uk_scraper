@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FLUX LTD",
+  "company_number": "13751968",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-17",
+    "next_due": "2025-12-01",
+    "next_made_up_to": "2025-11-17",
+    "overdue": false
+  },
+  "date_of_creation": "2021-11-18",
+  "etag": "7a88ac692226a96a67ae6e6712e81a0957a3bce6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13751968/persons-with-significant-control",
+    "self": "/company/13751968",
+    "filing_history": "/company/13751968/filing-history",
+    "officers": "/company/13751968/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "298 A Bath Road",
+    "country": "United Kingdom",
+    "locality": "Hounslow",
+    "postal_code": "TW4 7DN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "transaction_id": "MzQ2NjQ0NjE2M2FkaXF6a2N4",
+    "barcode": "XE2MKXNL",
+    "type": "AA",
+    "date": "2025-05-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-08-31"
+    },
+    "pages": 2,
+    "action_date": "2024-08-31",
+    "links": {
+      "self": "/company/14287322/filing-history/MzQ2NjQ0NjE2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8YpL7lvLKSuf6Rjgz2H4Makj3gshv-EUr7GK6DmtoVI"
+    }
+  },
+  {
+    "transaction_id": "MzQzODE1NDQ3OGFkaXF6a2N4",
+    "barcode": "XDCUNGC2",
+    "type": "CS01",
+    "date": "2024-10-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-09"
+    },
+    "pages": 3,
+    "action_date": "2024-08-09",
+    "links": {
+      "self": "/company/14287322/filing-history/MzQzODE1NDQ3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/feXb-j3H6e0hbd8hFxmcEnJmEtVunAjG4gm6COllG68"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDU0NjczNmFkaXF6a2N4",
+    "barcode": "XD2AQMIQ",
+    "type": "AA",
+    "date": "2024-05-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-08-31"
+    },
+    "pages": 2,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/14287322/filing-history/MzQyMDU0NjczNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7G0FMUcF3sfrGThbyiYdaxRnYZHoPOzO1CCuK1HP5Co"
+    }
+  },
+  {
+    "transaction_id": "MzM5NjMwNjk4M2FkaXF6a2N4",
+    "barcode": "XCE2062G",
+    "type": "CS01",
+    "date": "2023-10-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-09"
+    },
+    "pages": 3,
+    "action_date": "2023-08-09",
+    "links": {
+      "self": "/company/14287322/filing-history/MzM5NjMwNjk4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8qZLsVzWzNY5sgYV0fhY_E45HU4o16GMdWMui1WC3u8"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODMxOTYzMmFkaXF6a2N4",
+    "barcode": "XBA2ZVMI",
+    "type": "NEWINC",
+    "date": "2022-08-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-08-10",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-08-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-08-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-08-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14287322/filing-history/MzM0ODMxOTYzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rJTjLr2XuUFAalUTkF1l4EUT1Qi-lHc9q2u8Kze_qzA"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "address": {
+      "address_line_1": "The Coach House",
+      "address_line_2": "Desford Hall",
+      "country": "England",
+      "locality": "Leicester",
+      "postal_code": "LE9 9JJ",
+      "premises": "Office 9",
+      "region": "Leicestershire"
+    },
+    "appointed_on": "2019-06-03",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/12030112/appointments/BwGdgDzW_d5fcdWu7oZzecURKuo",
+      "officer": {
+        "appointments": "/officers/Yh5p-Vvo8A_u4D4kocWqm0VJbTY/appointments"
+      }
+    },
+    "name": "BHATTI, Hassan",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "259104020001"
+  }
+]

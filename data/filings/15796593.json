@@ -1,0 +1,75 @@
+[
+  {
+    "transaction_id": "MzQzOTk1MzcwNGFkaXF6a2N4",
+    "barcode": "XDDWB70G",
+    "type": "CS01",
+    "date": "2024-10-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-16"
+    },
+    "pages": 4,
+    "action_date": "2024-10-16",
+    "links": {
+      "self": "/company/15796593/filing-history/MzQzOTk1MzcwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eAys89jieT6DfLI_J6E6QyXNIDfGWQXRHT_UuReKYMc"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTgyODc3MWFkaXF6a2N4",
+    "barcode": "XDDTKKER",
+    "type": "PSC03",
+    "date": "2024-10-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Eltona Ademaj",
+      "notification_date": "2024-08-01"
+    },
+    "pages": 1,
+    "action_date": "2024-08-01",
+    "links": {
+      "self": "/company/15796593/filing-history/MzQzOTgyODc3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J5IOtt1P2jeZnMdxqOY6oQ3l-gGjW0KYGw5JmjIH-fg"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjA0MDk1MmFkaXF6a2N4",
+    "barcode": "XD5NKA3M",
+    "type": "NEWINC",
+    "date": "2024-06-23",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-06-23",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-06-23",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-06-23",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2024-06-23"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 12,
+    "links": {
+      "self": "/company/15796593/filing-history/MzQyNjA0MDk1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8V8n2-BfQoYk1DItlFQnTZZ77cd44vUe-EozIPRgzCk"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "St. Leonards Road",
+      "country": "England",
+      "locality": "Windsor",
+      "postal_code": "SL4 3BB",
+      "premises": "Office 5, 24-28"
+    },
+    "appointed_on": "2015-09-03",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1984
+    },
+    "links": {
+      "self": "/company/09760629/appointments/NRsAaPtK0KwP7z7-SxK0neusoag",
+      "officer": {
+        "appointments": "/officers/4wGmu_I53DgZeS-7TKX8mD61R2I/appointments"
+      }
+    },
+    "name": "REED, Luke Charles",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "200664500004"
+  }
+]

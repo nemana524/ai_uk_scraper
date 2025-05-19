@@ -1,0 +1,35 @@
+{
+  "company_number": "16074654",
+  "company_name": "TECH EMPS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHAHZADA, Nawal Saeed",
+      "officer_role": "director",
+      "appointed_on": "2024-11-12",
+      "resigned_on": null,
+      "nationality": "English",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "124-128"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/16074654/appointments/UcjU5oZkDoMU9fu1jphXZH4rak8",
+        "officer": {
+          "appointments": "/officers/7m2C1McrF_WnAmq2MlIFWvS2CeY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

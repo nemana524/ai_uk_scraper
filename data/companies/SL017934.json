@@ -1,0 +1,32 @@
+{
+  "accounts": {
+    "last_accounts": {
+      "type": "null"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH COMMERCE LP",
+  "company_number": "SL017934",
+  "company_status": "active",
+  "date_of_creation": "2014-09-05",
+  "etag": "253283b39fbffa284ae2c416e39fb7f08066b6b1",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SL017934/persons-with-significant-control",
+    "self": "/company/SL017934",
+    "filing_history": "/company/SL017934/filing-history"
+  },
+  "registered_office_address": {
+    "address_line_1": "Suite 2 5 St Vincent Street",
+    "country": "Scotland",
+    "locality": "Edinburgh",
+    "postal_code": "EH3 6SW"
+  },
+  "registered_office_is_in_dispute": false,
+  "type": "limited-partnership",
+  "undeliverable_registered_office_address": true,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,65 @@
+{
+  "company_number": "12121364",
+  "company_name": "TECH AIR STREAM LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "REID, Emma Jane",
+      "officer_role": "director",
+      "appointed_on": "2019-07-24",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "London Road",
+        "address_line_2": "Binfield",
+        "country": "England",
+        "locality": "Bracknell",
+        "postal_code": "RG42 4AA",
+        "premises": "The Old Post Office"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1976
+      },
+      "links": {
+        "self": "/company/12121364/appointments/aeWcUNPjc9QN1cm_b5gj9V_K_yg",
+        "officer": {
+          "appointments": "/officers/NqPbbLH74sWnlGUeAzq5bB-jf9w/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "REID, Matthew Alan",
+      "officer_role": "director",
+      "appointed_on": "2019-07-24",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "London Road",
+        "address_line_2": "Binfield",
+        "country": "England",
+        "locality": "Bracknell",
+        "postal_code": "RG42 4AA",
+        "premises": "The Old Post Office"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/12121364/appointments/7XK9WH_KP-wWcNxG858Z1RQ3GqU",
+        "officer": {
+          "appointments": "/officers/K-barccof_l30icHX7Gqa-wx5Zk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

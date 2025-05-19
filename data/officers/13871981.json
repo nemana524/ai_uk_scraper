@@ -1,0 +1,113 @@
+[
+  {
+    "address": {
+      "address_line_1": "Bridge Street",
+      "country": "England",
+      "locality": "Hemel Hempstead",
+      "postal_code": "HP1 1FU",
+      "premises": "25"
+    },
+    "appointed_on": "2023-01-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1986
+    },
+    "links": {
+      "self": "/company/13871981/appointments/x-Owd5qx0Q0gfke4G2YH_VLjRUM",
+      "officer": {
+        "appointments": "/officers/moFk7gxv6fH1qdf7fMGFbu8MPEc/appointments"
+      }
+    },
+    "name": "IOAN, Ciprian Marian",
+    "nationality": "Romanian",
+    "occupation": "Bussines",
+    "officer_role": "director",
+    "person_number": "313761390001"
+  },
+  {
+    "address": {
+      "address_line_1": "Norwood Avenue",
+      "country": "England",
+      "locality": "Wembley",
+      "postal_code": "HA0 1LY",
+      "premises": "44"
+    },
+    "appointed_on": "2023-08-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1965
+    },
+    "links": {
+      "self": "/company/13871981/appointments/wr5UlkzNZr3Ek6dTiCoX573ZVMU",
+      "officer": {
+        "appointments": "/officers/FzqH6eUTCS00gVxRAOPat0Zwgyw/appointments"
+      }
+    },
+    "name": "GHEORGHE, Ontel",
+    "nationality": "Romanian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2023-08-02",
+    "person_number": "311955190001"
+  },
+  {
+    "address": {
+      "address_line_1": "Bridge Street",
+      "country": "England",
+      "locality": "Hemel Hempstead",
+      "postal_code": "HP1 1FU",
+      "premises": "25"
+    },
+    "appointed_on": "2023-07-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1986
+    },
+    "links": {
+      "self": "/company/13871981/appointments/lJblaUqnCCztEKTyKgBmm1Zewsw",
+      "officer": {
+        "appointments": "/officers/ZbiQq8Ly9fXFl1YJ2RWBVQ1DGOo/appointments"
+      }
+    },
+    "name": "MARIAN, Ioan Ciprian",
+    "nationality": "Romanian",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "resigned_on": "2023-08-02",
+    "person_number": "311466190001"
+  },
+  {
+    "address": {
+      "address_line_1": "Norwood Avenue",
+      "country": "England",
+      "locality": "Wembley",
+      "postal_code": "HA0 1LY",
+      "premises": "44"
+    },
+    "appointed_on": "2022-01-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1965
+    },
+    "links": {
+      "self": "/company/13871981/appointments/SNuMneoyvclyfu5WSMjiDdgVgsk",
+      "officer": {
+        "appointments": "/officers/15-QULOISGTh-fiUI9C9UAIm3ug/appointments"
+      }
+    },
+    "name": "ONTEL, Gheorghe",
+    "nationality": "Romanian",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "resigned_on": "2023-07-10",
+    "person_number": "291803080001"
+  }
+]

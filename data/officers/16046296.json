@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Paul Street",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC2A 4NE",
+      "premises": "3rd Floor, 86-90",
+      "region": "England"
+    },
+    "appointed_on": "2024-10-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/16046296/appointments/LdlcV3wA8u4LzUO7XxMvZXNAPEw",
+      "officer": {
+        "appointments": "/officers/b3IIJJrGLLk8Cex1ED1SGX5vgaA/appointments"
+      }
+    },
+    "name": "SIDDIQUE, Arslan",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "328714310001"
+  }
+]

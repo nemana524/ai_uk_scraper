@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "North End",
+      "country": "England",
+      "locality": "Croydon",
+      "postal_code": "CR0 1TN",
+      "premises": "141",
+      "region": "Surrey"
+    },
+    "appointed_on": "2019-06-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/12069502/appointments/S4Zkb65Da46Sm7gYDIQJBzikM4s",
+      "officer": {
+        "appointments": "/officers/5b5AVicZPD7GX2BJnQJ2TqqgSpk/appointments"
+      }
+    },
+    "name": "KHAN, Sherzaman",
+    "nationality": "British",
+    "occupation": "Businessman",
+    "officer_role": "director",
+    "person_number": "185557910002"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ILLUSION LTD",
+  "company_number": "13156530",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-23",
+    "next_due": "2025-12-07",
+    "next_made_up_to": "2025-11-23",
+    "overdue": false
+  },
+  "date_of_creation": "2021-01-25",
+  "etag": "25ab9c000f6da59fc456025ea82b04e11101cdf4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13156530/persons-with-significant-control",
+    "persons_with_significant_control_statements": "/company/13156530/persons-with-significant-control-statements",
+    "self": "/company/13156530",
+    "filing_history": "/company/13156530/filing-history",
+    "officers": "/company/13156530/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "13 Albion Street",
+    "country": "United Kingdom",
+    "locality": "Manchester",
+    "postal_code": "M16 9LZ",
+    "region": "Lancanshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,249 @@
+[
+  {
+    "transaction_id": "MzQyNDgzMTUwNmFkaXF6a2N4",
+    "barcode": "XD51TX9V",
+    "type": "CS01",
+    "date": "2024-06-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-02"
+    },
+    "pages": 3,
+    "action_date": "2024-06-02",
+    "links": {
+      "self": "/company/12030112/filing-history/MzQyNDgzMTUwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wDVNGE_pDFIqtUBuov43FnRT0ZR3LdOTmSnHCEy7p2Q"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDQ4MTE4OWFkaXF6a2N4",
+    "barcode": "XD4OR03S",
+    "type": "AA",
+    "date": "2024-06-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-06-30"
+    },
+    "pages": 7,
+    "action_date": "2023-06-30",
+    "links": {
+      "self": "/company/12030112/filing-history/MzQyNDQ4MTE4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/E06d0v_3tb-DhWxsOw2cG351Tkafj9bpsgcUjCxFmqs"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTg5NzU1M2FkaXF6a2N4",
+    "barcode": "XC50UZW0",
+    "type": "CS01",
+    "date": "2023-06-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-06-02"
+    },
+    "pages": 4,
+    "action_date": "2023-06-02",
+    "links": {
+      "self": "/company/12030112/filing-history/MzM4MTg5NzU1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JbFhYtlGfGTtQFBDl4FcCOuSPXOdCNZZSkD2Zsm2J6c"
+    }
+  },
+  {
+    "transaction_id": "MzM3MDYwMjAzMWFkaXF6a2N4",
+    "barcode": "XBY2GG22",
+    "type": "AA",
+    "date": "2023-02-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-06-30"
+    },
+    "pages": 9,
+    "action_date": "2022-06-30",
+    "links": {
+      "self": "/company/12030112/filing-history/MzM3MDYwMjAzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FSBfIwuTX0JlH8G3t0AgEfdKlcRYoM0rCcJmFIel9q8"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODE5ODU3NGFkaXF6a2N4",
+    "barcode": "XBA0D4DG",
+    "type": "AD01",
+    "date": "2022-08-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-08-09",
+      "old_address": "Whitehall House Feldspar Close Enderby Leicester LE19 4SD England",
+      "new_address": "Office 9 the Coach House Desford Hall Leicester Leicestershire LE9 9JJ"
+    },
+    "pages": 1,
+    "action_date": "2022-08-09",
+    "links": {
+      "self": "/company/12030112/filing-history/MzM0ODE5ODU3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hqYppzV8hKzL4NhNP0UcQBBGAi0uVsiY4wxnhANT46o"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjE1NjY5MGFkaXF6a2N4",
+    "barcode": "XB5WMNKA",
+    "type": "CS01",
+    "date": "2022-06-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-06-02"
+    },
+    "pages": 3,
+    "action_date": "2022-06-02",
+    "links": {
+      "self": "/company/12030112/filing-history/MzM0MjE1NjY5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Dd6s26nan-62pUk8omJdEUB4WYQTuIZzSXdY-4vvaDY"
+    }
+  },
+  {
+    "transaction_id": "MzMzODIyNzcyNmFkaXF6a2N4",
+    "barcode": "XB3AROEX",
+    "type": "MR01",
+    "date": "2022-05-04",
+    "category": "mortgage",
+    "subcategory": "create",
+    "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+    "description_values": {
+      "charge_number": "120301120001",
+      "charge_creation_date": "2022-04-28"
+    },
+    "pages": 24,
+    "action_date": "2022-04-28",
+    "links": {
+      "self": "/company/12030112/filing-history/MzMzODIyNzcyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kxmS8H99QGLnoyWk5Y-Ypi-cfmHHK0c1CTT5E-sJfPw"
+    }
+  },
+  {
+    "transaction_id": "MzMyODI5ODM4NGFkaXF6a2N4",
+    "barcode": "XAWVGFAZ",
+    "type": "AA",
+    "date": "2022-01-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-06-30"
+    },
+    "pages": 4,
+    "action_date": "2021-06-30",
+    "links": {
+      "self": "/company/12030112/filing-history/MzMyODI5ODM4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HLbT8d1cuUNPiYpGWGgB_S_4b0CvqCxYkCcwY9scN9U"
+    }
+  },
+  {
+    "transaction_id": "MzMwNDA2MjYzNGFkaXF6a2N4",
+    "barcode": "XA6BMW82",
+    "type": "CS01",
+    "date": "2021-06-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-06-02"
+    },
+    "pages": 3,
+    "action_date": "2021-06-02",
+    "links": {
+      "self": "/company/12030112/filing-history/MzMwNDA2MjYzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gZr3LaDGlQBis1go__DWD_vupkwQGaqFFbVP8uR2gJE"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODczMjU0NGFkaXF6a2N4",
+    "barcode": "X9W8AACG",
+    "type": "AA",
+    "date": "2021-01-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-06-30"
+    },
+    "pages": 7,
+    "action_date": "2020-06-30",
+    "links": {
+      "self": "/company/12030112/filing-history/MzI4ODczMjU0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VT-rtqrhkcQFoe-YDgaP3nCpAoHeN2j6xwa3pDIXecU"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODM2OTk2M2FkaXF6a2N4",
+    "barcode": "X9W07NXV",
+    "type": "AD01",
+    "date": "2021-01-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-01-12",
+      "old_address": "Unit 16C Iliffe House 12 Iliffe Ave, Oadby Leicester LE2 5LS United Kingdom",
+      "new_address": "Whitehall House Feldspar Close Enderby Leicester LE19 4SD"
+    },
+    "pages": 1,
+    "action_date": "2021-01-12",
+    "links": {
+      "self": "/company/12030112/filing-history/MzI4ODM2OTk2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nvT4zW6qQPoFtFCACejGoaaZa4dwwh7-KDKhcoerLO0"
+    }
+  },
+  {
+    "transaction_id": "MzI2NjY1MDMyMGFkaXF6a2N4",
+    "barcode": "X96LESVL",
+    "type": "CS01",
+    "date": "2020-06-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-06-02"
+    },
+    "pages": 5,
+    "action_date": "2020-06-02",
+    "links": {
+      "self": "/company/12030112/filing-history/MzI2NjY1MDMyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yrxbk2gLXFWzcXG33eds2NvFqT6xKXfHFDelCdCT0kg"
+    }
+  },
+  {
+    "transaction_id": "MzIzNTkxODI1NmFkaXF6a2N4",
+    "barcode": "X86S607E",
+    "type": "NEWINC",
+    "date": "2019-06-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-06-03",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-06-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-06-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2019-06-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12030112/filing-history/MzIzNTkxODI1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_bjuMpA86XBjnX32w7lvEeNu_mUf_ND3KR2hF4cxJUI"
+    }
+  }
+]

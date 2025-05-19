@@ -1,0 +1,34 @@
+{
+  "company_number": "15233722",
+  "company_name": "TECH IT FUTURE LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KRESIC, Luka",
+      "officer_role": "director",
+      "appointed_on": "2023-10-25",
+      "resigned_on": null,
+      "nationality": "German",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "locality": "Cardiff",
+        "po_box": "4385",
+        "postal_code": "CF14 8LH",
+        "premises": "15233722 - Companies House Default Address"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1991
+      },
+      "links": {
+        "self": "/company/15233722/appointments/lUZ02jI9sQBknJL25YK52Z5_YqM",
+        "officer": {
+          "appointments": "/officers/6yhOy7sdw5Twy4f4OcHdX70JzNs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "company_number": "14351489",
+  "company_name": "TECH LESS LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MANUKONDA, Bhageeradh Chowdary",
+      "officer_role": "director",
+      "appointed_on": "2025-04-15",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Regent Street",
+        "country": "England",
+        "locality": "Swindon",
+        "postal_code": "SN1 1JY",
+        "premises": "77"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/14351489/appointments/3CfwztZH3JtuKVF_kfpVc4cdvsQ",
+        "officer": {
+          "appointments": "/officers/PgqDT8Zfmd_QOe-O0vSLtIAyIJs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "WASEEM, Muhammad",
+      "officer_role": "director",
+      "appointed_on": "2022-09-12",
+      "resigned_on": "2025-04-15",
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Regent Street",
+        "country": "England",
+        "locality": "Swindon",
+        "postal_code": "SN1 1JY",
+        "premises": "77"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/14351489/appointments/uLAgAvCtjo3fNyVvUcOz-NaKd_k",
+        "officer": {
+          "appointments": "/officers/wGZV5Oufijl7xSu2qRal4P9WbN8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

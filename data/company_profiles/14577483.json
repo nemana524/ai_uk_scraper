@@ -1,0 +1,32 @@
+{
+  "company_number": "14577483",
+  "company_name": "TECH CONNECTED LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-01-08",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "59112"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "Flat 5 463 Brighton Road",
+    "country": "England",
+    "locality": "Lancing",
+    "postal_code": "BN15 8LF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "type": "null"
+    }
+  },
+  "etag": "962c292d9f31fbce5c72d3f2fde1be36f6644715"
+}

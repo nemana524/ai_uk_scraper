@@ -1,0 +1,31 @@
+[
+  {
+    "address": {
+      "address_line_1": "Main Street",
+      "address_line_2": "South Hiendley",
+      "country": "England",
+      "locality": "Barnsley",
+      "postal_code": "S72 9BS",
+      "premises": "23",
+      "region": "South Yorkshire"
+    },
+    "appointed_on": "2011-05-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1963
+    },
+    "links": {
+      "self": "/company/07630509/appointments/pmjxAGodbCocf0iNGdcDnN03pV4",
+      "officer": {
+        "appointments": "/officers/2YsNzfdplt2IQHM5FyI16JczMw0/appointments"
+      }
+    },
+    "name": "ADDISON, Gordon Robert",
+    "nationality": "British",
+    "occupation": "Sales Director",
+    "officer_role": "director",
+    "person_number": "53415920003"
+  }
+]

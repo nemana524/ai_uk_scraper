@@ -1,0 +1,36 @@
+{
+  "company_number": "15165738",
+  "company_name": "TECH BRAINS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ALI, Riaz",
+      "officer_role": "director",
+      "appointed_on": "2023-09-26",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Software Engineer",
+      "address": {
+        "address_line_1": "Rays House",
+        "address_line_2": "North Circular Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW10 7XP",
+        "premises": "Suite S 7"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/15165738/appointments/rU8vrSYZL-UluzDE5pnFIffNy-0",
+        "officer": {
+          "appointments": "/officers/k4dE7bjpOTnCLFLkxDrjJd5B_W0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INT'L INDUSTRIAL CO., LIMITED",
+  "company_number": "13621652",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-07",
+    "next_due": "2025-08-21",
+    "next_made_up_to": "2025-08-07",
+    "overdue": false
+  },
+  "date_of_creation": "2021-09-14",
+  "etag": "104fa15fc43959b679be4ec37c95f220a07b9bc3",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13621652/persons-with-significant-control",
+    "self": "/company/13621652",
+    "filing_history": "/company/13621652/filing-history",
+    "officers": "/company/13621652/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "53 Whateleys Drive",
+    "locality": "Kenilworth",
+    "postal_code": "CV8 2GY",
+    "region": "Warwickshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

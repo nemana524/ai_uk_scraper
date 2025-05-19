@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "950, Great West Road",
+      "country": "England",
+      "locality": "Brentford",
+      "postal_code": "TW8 9ES",
+      "premises": "Profile West"
+    },
+    "appointed_on": "2022-01-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/12054595/appointments/NwCI5FDfbe13FrGDnGrZDrFrUlM",
+      "officer": {
+        "appointments": "/officers/t0iqqSmETIF0ItJm6LC8Wn8giuc/appointments"
+      }
+    },
+    "name": "PALAPARTHI, Ramya",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "294322360001"
+  },
+  {
+    "address": {
+      "address_line_1": "Helix Court",
+      "address_line_2": "Hedera Place",
+      "country": "England",
+      "locality": "Hounslow",
+      "postal_code": "TW4 5BX",
+      "premises": "Flat 15"
+    },
+    "appointed_on": "2019-06-17",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/12054595/appointments/3Giocs3MyJ_0ZN5VkKaFzv4GmNQ",
+      "officer": {
+        "appointments": "/officers/Xv-g-Lwp6bS5RbHnYBHQcam_8hg/appointments"
+      }
+    },
+    "name": "ARE, Vamsidhar",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2022-01-01",
+    "person_number": "259558860001"
+  }
+]

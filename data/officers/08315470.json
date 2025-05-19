@@ -1,0 +1,58 @@
+[
+  {
+    "address": {
+      "address_line_1": "1 Cedar Office Park",
+      "address_line_2": "Cobham Road",
+      "country": "United Kingdom",
+      "locality": "Wimborne",
+      "postal_code": "BH21 7SB",
+      "premises": "C/O Sg Accounting"
+    },
+    "appointed_on": "2024-05-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1971
+    },
+    "links": {
+      "self": "/company/08315470/appointments/SagRySfSK2iDXuZay4A4o9FMd3o",
+      "officer": {
+        "appointments": "/officers/oBJmMtmyA4cfGEYCEeazNo_dtPA/appointments"
+      }
+    },
+    "name": "NAVTI, Beryl Bongkwati, Dr",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "90197810001"
+  },
+  {
+    "address": {
+      "address_line_1": "1 Cedar Office Park",
+      "address_line_2": "Cobham Road",
+      "country": "United Kingdom",
+      "locality": "Wimborne",
+      "postal_code": "BH21 7SB",
+      "premises": "C/O Sg Accounting"
+    },
+    "appointed_on": "2012-12-03",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1970
+    },
+    "links": {
+      "self": "/company/08315470/appointments/JzBMkbVBtJHvlX4o4P2_0SN_HiA",
+      "officer": {
+        "appointments": "/officers/jup_nTU9pi7BhFTXgn411AfBqOI/appointments"
+      }
+    },
+    "name": "NAVTI, Shiyghan Emmanuel, Dr",
+    "nationality": "British",
+    "occupation": "Information Technology Executive",
+    "officer_role": "director",
+    "person_number": "102068900001"
+  }
+]

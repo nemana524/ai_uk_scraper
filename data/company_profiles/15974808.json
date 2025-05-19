@@ -1,0 +1,39 @@
+{
+  "company_number": "15974808",
+  "company_name": "ON SITE SECURITY SYSTEMS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-09-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "80100",
+    "80200"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "82 Reddish Road",
+    "country": "England",
+    "locality": "Stockport",
+    "postal_code": "SK5 7QU"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-24",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-09-24"
+    },
+    "next_due": "2026-06-24",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "etag": "63d90bbb26b57f31de9750fcca0fa6a1efe143e4"
+}

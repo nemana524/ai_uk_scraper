@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-13",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-03-13"
+    },
+    "next_due": "2026-12-13",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DOCTOR SHAH LIMITED",
+  "company_number": "16312745",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-03-26",
+    "next_made_up_to": "2026-03-12",
+    "overdue": false
+  },
+  "date_of_creation": "2025-03-13",
+  "etag": "02dcb625836d8c3ee16f532d355687b1e4246c02",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16312745/persons-with-significant-control",
+    "self": "/company/16312745",
+    "filing_history": "/company/16312745/filing-history",
+    "officers": "/company/16312745/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "57 St. Marys Wharfe",
+    "country": "England",
+    "locality": "Blackburn",
+    "postal_code": "BB2 3AF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "95110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

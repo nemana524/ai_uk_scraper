@@ -1,0 +1,77 @@
+[
+  {
+    "transaction_id": "MzQ0MTMzNTg1OGFkaXF6a2N4",
+    "barcode": "XDESLE5L",
+    "type": "AD01",
+    "date": "2024-10-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-10-30",
+      "old_address": "71-75 Shelton Street London WC2H 9JQ England",
+      "new_address": "71-75 Shelton Street London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2024-10-30",
+    "links": {
+      "self": "/company/15984941/filing-history/MzQ0MTMzNTg1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AQIhQ5V96h3k3fNkSuveW_1TD7ro4ktW1Je75dw0ucw"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTMzNTg0N2FkaXF6a2N4",
+    "barcode": "XDESLE5D",
+    "type": "AD01",
+    "date": "2024-10-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-10-30",
+      "old_address": "109 Shortlands Road Kingston upon Thames KT2 6HF England",
+      "new_address": "71-75 Shelton Street London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2024-10-30",
+    "links": {
+      "self": "/company/15984941/filing-history/MzQ0MTMzNTg0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yxz_i8gLFso1FHTu7uYWk_K_4vdfPR4DPfiY6VN1V1I"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzYyNzA2MGFkaXF6a2N4",
+    "barcode": "XDCM4DX5",
+    "type": "NEWINC",
+    "date": "2024-09-28",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-09-28",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-09-28",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-09-28",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-09-28"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/15984941/filing-history/MzQzNzYyNzA2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/u22x6AmfQ51FmUlMf5Dlx8VsXRrepljF4DhVCKktWrU"
+    }
+  }
+]

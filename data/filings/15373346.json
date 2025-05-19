@@ -1,0 +1,75 @@
+[
+  {
+    "transaction_id": "MzQ1Njg2NDIxMmFkaXF6a2N4",
+    "barcode": "XDXCDLY9",
+    "type": "CS01",
+    "date": "2025-02-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-27"
+    },
+    "pages": 3,
+    "action_date": "2024-12-27",
+    "links": {
+      "self": "/company/15373346/filing-history/MzQ1Njg2NDIxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LsZbLpE90tKDqgjQOuBXNdORXJXtf9n7C7CZUFa-_sg"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MTg0NDM1N2FkaXF6a2N4",
+    "barcode": "XDUMGGWB",
+    "type": "AD01",
+    "date": "2025-01-20",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-01-20",
+      "old_address": "20 Wenlock Road London N1 7GU England",
+      "new_address": "13 Tewkesbury Gardens London NW9 0QU"
+    },
+    "pages": 1,
+    "action_date": "2025-01-20",
+    "links": {
+      "self": "/company/15373346/filing-history/MzQ1MTg0NDM1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Gc4RUVzSghPtkR5ZFHpamotoTUipf8BludgxcOIOCj0"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTQzODc2NGFkaXF6a2N4",
+    "barcode": "XCIVRK4G",
+    "type": "NEWINC",
+    "date": "2023-12-28",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-12-28",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-28",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-12-28",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-12-28"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15373346/filing-history/MzQwNTQzODc2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pToEYmbYAdqiYmYJ6_74B6juMaIcTRnuNygu1TwpOBY"
+    }
+  }
+]

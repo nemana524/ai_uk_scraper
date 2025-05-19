@@ -1,0 +1,46 @@
+{
+  "company_number": "10609635",
+  "company_name": "TECH DATA UK FINANCE PARTNER LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2017-02-08",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "64209"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Maplewood Crockford Lane",
+    "address_line_2": "Chineham Park",
+    "country": "United Kingdom",
+    "locality": "Basingstoke",
+    "postal_code": "RG24 8YB",
+    "region": "Hampshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "etag": "9903d12f3dab3a5d097e4b445613fe707bd7ca34"
+}

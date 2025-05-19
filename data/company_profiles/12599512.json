@@ -1,0 +1,46 @@
+{
+  "company_number": "12599512",
+  "company_name": "TECH DYNAMICS LTD",
+  "company_status": "active",
+  "date_of_creation": "2020-05-13",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "63990",
+    "82990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Business First",
+    "address_line_2": "25 Goodlass Road",
+    "country": "England",
+    "locality": "Liverpool",
+    "postal_code": "L24 9HJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "606d0e1d58f277aa81d276ef315856e4a0578e82"
+}

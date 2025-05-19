@@ -1,0 +1,129 @@
+[
+  {
+    "transaction_id": "MzQyMjczNDMxNGFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-05-28",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13344616/filing-history/MzQyMjczNDMxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gmpt5R0eafGHxZ4vr8Ohfbt_lWXyD1PMi75ZecDMwrY"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjgyNjI2NWFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-03-12",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13344616/filing-history/MzQxMjgyNjI2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JVVYmOXuMyNpBqTHtHXbmjLrTO2ghf3kksemk3XXg1M"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjgyNjAzNmFkaXF6a2N4",
+    "barcode": "XCXUK3TL",
+    "type": "DS01",
+    "date": "2024-02-28",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/13344616/filing-history/MzQxMjgyNjAzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tsitL0895uMiTnocHC_lasmRn7eZLyL4HKK_OXXK8so"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzUzMzI4NWFkaXF6a2N4",
+    "barcode": "XC62EQAW",
+    "type": "CS01",
+    "date": "2023-06-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-04-18"
+    },
+    "pages": 3,
+    "action_date": "2023-04-18",
+    "links": {
+      "self": "/company/13344616/filing-history/MzM4MzUzMzI4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pSUqSOh8GJ7AxsvvX60mab2dBCo1FD-Y2J5gw7claJ8"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjUyMjcwNGFkaXF6a2N4",
+    "barcode": "XBVJA7U2",
+    "type": "AA",
+    "date": "2023-01-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-04-30"
+    },
+    "pages": 3,
+    "action_date": "2022-04-30",
+    "links": {
+      "self": "/company/13344616/filing-history/MzM2NjUyMjcwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WcQK3WbRG8sTZIyFd3-VSw8MG-70w3XBijMqWeBmRec"
+    }
+  },
+  {
+    "transaction_id": "MzMzODYxMDA1NWFkaXF6a2N4",
+    "barcode": "XB3GCHVJ",
+    "type": "CS01",
+    "date": "2022-05-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-04-18"
+    },
+    "pages": 3,
+    "action_date": "2022-04-18",
+    "links": {
+      "self": "/company/13344616/filing-history/MzMzODYxMDA1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_SYPqhxlzOPZuIaCxIkVB0EQA3IBsHzYStTHGDzHCBM"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODA2ODAyOWFkaXF6a2N4",
+    "barcode": "XA2N8QLJ",
+    "type": "NEWINC",
+    "date": "2021-04-19",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-04-19",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-04-19",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-04-19",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-04-19"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13344616/filing-history/MzI5ODA2ODAyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/N-8PnoQAWtCvwOAGKDpYnbbCwmaeH1n5GVmSoc_aJTA"
+    }
+  }
+]

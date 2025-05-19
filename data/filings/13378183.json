@@ -1,0 +1,196 @@
+[
+  {
+    "transaction_id": "MzQ2NTAxNzA2NmFkaXF6a2N4",
+    "barcode": "XE1VL1MO",
+    "type": "CS01",
+    "date": "2025-05-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-05-04"
+    },
+    "pages": 3,
+    "action_date": "2025-05-04",
+    "links": {
+      "self": "/company/13378183/filing-history/MzQ2NTAxNzA2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CLr-xrXV-MAiHD1tLj0SIt0rCIN8S-uyAwvYIqi4jFY"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzM5MzA4NGFkaXF6a2N4",
+    "barcode": "XDCGOBRM",
+    "type": "AA",
+    "date": "2024-09-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 4,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/13378183/filing-history/MzQzNzM5MzA4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a5XBqmjGg1AgMsuaGFW8yvMTvYN_ZxDWjuMw1hG1uUs"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDgzOTc0NWFkaXF6a2N4",
+    "barcode": "XD2L7F16",
+    "type": "CS01",
+    "date": "2024-05-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-04"
+    },
+    "pages": 3,
+    "action_date": "2024-05-04",
+    "links": {
+      "self": "/company/13378183/filing-history/MzQyMDgzOTc0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZdjoVexuwAWUNVm2nWtsOuK_Kq28p8dqN-4Tz6VlwSM"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzI5NDc3OWFkaXF6a2N4",
+    "barcode": "XCY5CRCZ",
+    "type": "AD01",
+    "date": "2024-03-04",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-03-04",
+      "old_address": "Charter House 161 Newhall Street Birmingham West Midlands B3 1SW England",
+      "new_address": "Building 9, Hartley Farm Lifework Communities Winsley Bradford-on-Avon Wiltshire BA15 2JB"
+    },
+    "pages": 1,
+    "action_date": "2024-03-04",
+    "links": {
+      "self": "/company/13378183/filing-history/MzQxMzI5NDc3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4L1JKnVgm3rfCy_8f09q9vemoyYWSqkJy4wGWZDmK-U"
+    }
+  },
+  {
+    "transaction_id": "MzQwMDgwOTE5OGFkaXF6a2N4",
+    "barcode": "XCGO9LAZ",
+    "type": "AA",
+    "date": "2023-11-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 6,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/13378183/filing-history/MzQwMDgwOTE5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/64DFY2ETM0KynHpuzFQysM55YdXPK8JuhwP3_6UoO4w"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODUxMzg5MGFkaXF6a2N4",
+    "barcode": "XC2SITYW",
+    "type": "CS01",
+    "date": "2023-05-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-05-04"
+    },
+    "pages": 3,
+    "action_date": "2023-05-04",
+    "links": {
+      "self": "/company/13378183/filing-history/MzM3ODUxMzg5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xNu7la0SayrpoWSXyBSQl-e9JPLGq7qYTuG_Jlh60go"
+    }
+  },
+  {
+    "transaction_id": "MzM3Njg5MzU3MWFkaXF6a2N4",
+    "barcode": "XC1QYI49",
+    "type": "AD01",
+    "date": "2023-04-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-04-19",
+      "old_address": "Unit 3 1649 Pershore Road Kings Norton Birmingham B30 3DR England",
+      "new_address": "Charter House 161 Newhall Street Birmingham West Midlands B3 1SW"
+    },
+    "pages": 1,
+    "action_date": "2023-04-19",
+    "links": {
+      "self": "/company/13378183/filing-history/MzM3Njg5MzU3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EpMmanP1c4Lc7QLEsTxHfE7Vt6zFyEct_xJgtqW5DaQ"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDU2OTgxN2FkaXF6a2N4",
+    "barcode": "XBEBHGGI",
+    "type": "AA",
+    "date": "2022-10-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-05-31"
+    },
+    "pages": 5,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/13378183/filing-history/MzM1NDU2OTgxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/66g60vugGc-ilC2d8KLRH9l-Ub_QKqfBKwbB3tiegak"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTExNDY4N2FkaXF6a2N4",
+    "barcode": "XB3W6L6I",
+    "type": "CS01",
+    "date": "2022-05-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-05-04"
+    },
+    "pages": 3,
+    "action_date": "2022-05-04",
+    "links": {
+      "self": "/company/13378183/filing-history/MzMzOTExNDY4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/64MWa4QB87L8hT2PNBz52LteqyG7dx9doqo33qXr0Go"
+    }
+  },
+  {
+    "transaction_id": "MzI5OTg3MTMwM2FkaXF6a2N4",
+    "barcode": "XA3RW99E",
+    "type": "NEWINC",
+    "date": "2021-05-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-05-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-05-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-05-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-05-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13378183/filing-history/MzI5OTg3MTMwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MJbf-L4Wo8ysfqlsoYH_tue-0PCNNblwAxfV72a8Vyg"
+    }
+  }
+]

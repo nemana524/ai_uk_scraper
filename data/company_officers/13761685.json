@@ -1,0 +1,35 @@
+{
+  "company_number": "13761685",
+  "company_name": "TECH CO GROUP LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BAIG, Mohammed Shakeel",
+      "officer_role": "director",
+      "appointed_on": "2021-11-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Mill Street East",
+        "country": "England",
+        "locality": "Dewsbury",
+        "postal_code": "WF12 9AH",
+        "premises": "Savile Business Centre"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/13761685/appointments/rmFoa_8YtKjN1HC0UbToQAfB6c8",
+        "officer": {
+          "appointments": "/officers/63q-yg5Hi4BX52RqDH5wfR7qYTo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

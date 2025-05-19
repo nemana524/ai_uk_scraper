@@ -1,0 +1,94 @@
+{
+  "company_number": "07963317",
+  "company_name": "TECH HEALTH EUROPE LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "TWIST, Stuart Wayne",
+      "officer_role": "director",
+      "appointed_on": "2020-12-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "Cormallen Grove",
+        "address_line_2": "Failsworth",
+        "country": "England",
+        "locality": "Manchester",
+        "postal_code": "M35 9GJ",
+        "premises": "9"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/07963317/appointments/zesSSIvddQjhuvWFHRIE33QYSMw",
+        "officer": {
+          "appointments": "/officers/OKGaMyiPOKsbspl0vyKgGDBZrsE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "AKBAR, Mohammed Pervez",
+      "officer_role": "director",
+      "appointed_on": "2012-02-24",
+      "resigned_on": "2012-04-20",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Floor",
+        "address_line_2": "Blackfriars House",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M3 2JA",
+        "premises": "6th"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/07963317/appointments/Cu4xwa0miZqEZjieIXkOgf5hCds",
+        "officer": {
+          "appointments": "/officers/whpafViS-ug85kxzCaBe3kOAk9c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "RAJA, Javed Akhter",
+      "officer_role": "director",
+      "appointed_on": "2012-02-24",
+      "resigned_on": "2023-07-13",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Floor",
+        "address_line_2": "Blackfriars House",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M3 2JA",
+        "premises": "6th"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/07963317/appointments/hTXf_8egTkXxFTvDh3CWY0PY5ek",
+        "officer": {
+          "appointments": "/officers/opk7zkt7mMsE8M0S09gKDYtstoo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

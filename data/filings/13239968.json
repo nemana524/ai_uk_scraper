@@ -1,0 +1,365 @@
+[
+  {
+    "transaction_id": "MzQ1ODkxMTY2M2FkaXF6a2N4",
+    "barcode": "XDYJMQVC",
+    "type": "PSC05",
+    "date": "2025-03-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2025-03-17",
+      "psc_name": "Maldaba Limited"
+    },
+    "pages": 2,
+    "action_date": "2025-03-17",
+    "links": {
+      "self": "/company/13239968/filing-history/MzQ1ODkxMTY2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VKOhptATS1PLZzahDXfV6ONUOeQr1XTEXU_gC8loRVU"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODkxMTYzNWFkaXF6a2N4",
+    "barcode": "XDYJMQHU",
+    "type": "TM01",
+    "date": "2025-03-17",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Lorenzo Gordon",
+      "termination_date": "2025-02-28"
+    },
+    "pages": 1,
+    "action_date": "2025-02-28",
+    "links": {
+      "self": "/company/13239968/filing-history/MzQ1ODkxMTYzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GT7M1N57Zu9Kw3q0PmTALCPjtKfgMd0OlQLYim-DoZ8"
+    }
+  },
+  {
+    "transaction_id": "MzQ0ODEyMTY2NGFkaXF6a2N4",
+    "barcode": "XDI6SPVN",
+    "type": "AD01",
+    "date": "2024-12-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-18",
+      "old_address": "125 Charing Cross Road London WC2H 0EW England",
+      "new_address": "Devonshire House 582 Honeypot Lane Stanmore HA7 1JS"
+    },
+    "pages": 1,
+    "action_date": "2024-12-18",
+    "links": {
+      "self": "/company/13239968/filing-history/MzQ0ODEyMTY2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/omdsSdtL2eXOtAlfb53w415v2xKGpw5z2C9Zjf-1SO4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDkzMzgzMWFkaXF6a2N4",
+    "barcode": "XDEHPPFS",
+    "type": "CS01",
+    "date": "2024-10-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-25"
+    },
+    "pages": 3,
+    "action_date": "2024-10-25",
+    "links": {
+      "self": "/company/13239968/filing-history/MzQ0MDkzMzgzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QXbk41y7a5kC0p8L7LHn62phWVXIV1J-Ws9bQHwxw9Y"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDI1OTAzN2FkaXF6a2N4",
+    "barcode": "XDE6PW7U",
+    "type": "CH01",
+    "date": "2024-10-21",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-10-21",
+      "officer_name": "Mr Mark Richard Henry Clements"
+    },
+    "pages": 2,
+    "action_date": "2024-10-21",
+    "links": {
+      "self": "/company/13239968/filing-history/MzQ0MDI1OTAzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6Ghoy72bJMt8v-JHL_8fYiy3rheDrbhiEAFDenQIMy0"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzQ4NzY3M2FkaXF6a2N4",
+    "barcode": "XDCJB615",
+    "type": "AA",
+    "date": "2024-09-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 5,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13239968/filing-history/MzQzNzQ4NzY3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5o9Z6T-8vczOD5fKzXfdvrwz6AC76I8I_gUFUfjAX-c"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDIxNzExOWFkaXF6a2N4",
+    "barcode": "XCIETG60",
+    "type": "CS01",
+    "date": "2023-12-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-12-15"
+    },
+    "pages": 4,
+    "action_date": "2023-12-15",
+    "links": {
+      "self": "/company/13239968/filing-history/MzQwNDIxNzExOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xhO8nNciUwb-zcJFP7-QNXJAQc4R6Y6CkP01i6WavHc"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzkzMzY2NGFkaXF6a2N4",
+    "barcode": "XCCJS4KY",
+    "type": "AA",
+    "date": "2023-09-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 7,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/13239968/filing-history/MzM5MzkzMzY2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IUnst14rB8uSDSnPwsf9c2pwA3AtKc1y7_n_g6GZOmY"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTI2ODY5NWFkaXF6a2N4",
+    "barcode": "XCAZFY6W",
+    "type": "CH01",
+    "date": "2023-08-30",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-08-23",
+      "officer_name": "Mr Mark Richard Henry Clements"
+    },
+    "pages": 2,
+    "action_date": "2023-08-23",
+    "links": {
+      "self": "/company/13239968/filing-history/MzM5MTI2ODY5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mMVFLAtmB4Owb9BqzRcJKeMx7onxpivkyON7ZiLAPj4"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDU3MjI0MWFkaXF6a2N4",
+    "barcode": "XCAJIXG3",
+    "type": "PSC05",
+    "date": "2023-08-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-08-18",
+      "psc_name": "Maldaba Limited"
+    },
+    "pages": 2,
+    "action_date": "2023-08-18",
+    "links": {
+      "self": "/company/13239968/filing-history/MzM5MDU3MjI0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZR4MGx5VOQ5V6d9c8mZUqzUqk2MGHNgBaVyCrybTZjU"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDU3MTEwMGFkaXF6a2N4",
+    "barcode": "XCAJISLF",
+    "type": "TM01",
+    "date": "2023-08-23",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Guy Daniel Giles",
+      "termination_date": "2023-07-31"
+    },
+    "pages": 1,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/13239968/filing-history/MzM5MDU3MTEwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ISxqcO60ndsCpBjr7VqCYVCabHn9cl4dge3mJtYlO1E"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDU3MDM0MmFkaXF6a2N4",
+    "barcode": "XCAJIPFN",
+    "type": "AD01",
+    "date": "2023-08-23",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-23",
+      "old_address": "79a High Street Teddington TW11 8HG England",
+      "new_address": "125 Charing Cross Road London WC2H 0EW"
+    },
+    "pages": 1,
+    "action_date": "2023-08-23",
+    "links": {
+      "self": "/company/13239968/filing-history/MzM5MDU3MDM0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MD5RMojUP9SuhZX0-kbyiuxBruXyHvdDFBeH6dAUE6s"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg4MTg4OWFkaXF6a2N4",
+    "barcode": "AC9ORQZF",
+    "type": "AP01",
+    "date": "2023-08-18",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Mark Richard Henry Clements",
+      "appointment_date": "2023-08-01"
+    },
+    "pages": 2,
+    "action_date": "2023-08-01",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13239968/filing-history/MzM4OTg4MTg4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/b9edXGiTogMEuLUsh8mpxhbQNZqaBkB1G2tQV4F4sRc"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg2MTA0N2FkaXF6a2N4",
+    "barcode": "AC9OS16A",
+    "type": "PSC07",
+    "date": "2023-08-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Cc2I Limited",
+      "cessation_date": "2023-07-31"
+    },
+    "pages": 3,
+    "action_date": "2023-07-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13239968/filing-history/MzM4OTg2MTA0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cJBXDZFN9XnPUe7TxeL60lTR1WEsgvJRSKs4FO7bBII"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg2MTA0NmFkaXF6a2N4",
+    "barcode": "AC9OS162",
+    "type": "PSC05",
+    "date": "2023-08-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-07-31",
+      "psc_name": "Maldaba Limited"
+    },
+    "pages": 5,
+    "action_date": "2023-07-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13239968/filing-history/MzM4OTg2MTA0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4S1rGLP8l7H0dsZED2g9Jxvb7GAm2xrmJaA-5vmHMPY"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5NzA3NWFkaXF6a2N4",
+    "barcode": "XBYDJM00",
+    "type": "CS01",
+    "date": "2023-03-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-01"
+    },
+    "pages": 3,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/13239968/filing-history/MzM3MTE5NzA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t56U-EBN_e4bHnWYNq90VuTkZya0ILArfawp_D-T4E0"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTIyOTU5OWFkaXF6a2N4",
+    "barcode": "ABC0VAF6",
+    "type": "AA",
+    "date": "2022-09-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 12,
+    "action_date": "2022-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13239968/filing-history/MzM1MTIyOTU5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qk4IY1xyGljfKM21xnkivzP-5rpvnV_n-7_I-mxz2Dg"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjY3Nzc3MGFkaXF6a2N4",
+    "barcode": "XAZN55PV",
+    "type": "CS01",
+    "date": "2022-03-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-03-01"
+    },
+    "pages": 3,
+    "action_date": "2022-03-01",
+    "links": {
+      "self": "/company/13239968/filing-history/MzMzMjY3Nzc3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kZSkC6iH37tzOPJAPis62NO59rG2Q6XArAEt27nEDx8"
+    }
+  },
+  {
+    "transaction_id": "MzI5Mjk3ODEwMmFkaXF6a2N4",
+    "barcode": "X9ZFAAPU",
+    "type": "NEWINC",
+    "date": "2021-03-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2021-03-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-03-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "96"
+            }
+          ]
+        },
+        "action_date": "2021-03-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 26,
+    "links": {
+      "self": "/company/13239968/filing-history/MzI5Mjk3ODEwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/COEgojZ6UL4EWKE2ksNuEwB8dOEPAntUQECJNZuUGaU"
+    }
+  }
+]

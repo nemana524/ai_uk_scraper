@@ -1,0 +1,35 @@
+{
+  "company_number": "16053295",
+  "company_name": "TECH INNOVATORS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "WU, Huimin",
+      "officer_role": "director",
+      "appointed_on": "2024-10-31",
+      "resigned_on": null,
+      "nationality": "Chinese",
+      "country_of_residence": "China",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Aberdeen Avenue",
+        "country": "England",
+        "locality": "Cambridge",
+        "postal_code": "CB2 8DL",
+        "premises": "69"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/16053295/appointments/wogklcXmJuIWafDfcAch3uwK0A8",
+        "officer": {
+          "appointments": "/officers/GoxJbr7ntqjxyzzMCN7AAOGx6lQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

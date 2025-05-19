@@ -1,0 +1,510 @@
+[
+  {
+    "transaction_id": "MzQ1MTg0NTExMGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2025-01-21",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11652130/filing-history/MzQ1MTg0NTExMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ES6ndJRQKgO5fVGPQ0Q3dHP1xR6QYQUqOeYZ9y2dJ_I"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MTg0NTA0NGFkaXF6a2N4",
+    "barcode": "ADTYXLM3",
+    "type": "AD01",
+    "date": "2025-01-20",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-01-20",
+      "old_address": "PO Box 4385 11652130 - Companies House Default Address Cardiff CF14 8LH",
+      "new_address": "85 Great Portland Street First Floor London W1W 7LT"
+    },
+    "pages": 3,
+    "action_date": "2025-01-20",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11652130/filing-history/MzQ1MTg0NTA0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mtuVLbeK6IKqALp6RPzLFb7VdbvRh8rlylnKcoqeTXk"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NDcyNzU5N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-12-03",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11652130/filing-history/MzQ0NDcyNzU5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fWN8Pof7Td5JXEtIjCfBpJvY2hhjhQ5-Cr6LsdLgrlI"
+    }
+  },
+  {
+    "transaction_id": "MzQzODI3NjIzMmFkaXF6a2N4",
+    "barcode": "RDCZ28F7",
+    "type": "RP05",
+    "date": "2024-10-03",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2024-10-03",
+      "default_address": "PO Box 4385, 11652130 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2024-10-03",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11652130/filing-history/MzQzODI3NjIzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6nwU-95pozHnArg2LX5NkyjgVXS1E13VPo2VQTWJPjw"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDYxOTA3MmFkaXF6a2N4",
+    "barcode": "XD8FJE2G",
+    "type": "AA",
+    "date": "2024-07-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-10-31"
+    },
+    "pages": 3,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/11652130/filing-history/MzQzMDYxOTA3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f9CZu80QsiX5B9BEe0HKsNMQeIM6C_4OOOMXTcS00xI"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDY3NDA0N2FkaXF6a2N4",
+    "barcode": "XD4Z1X7F",
+    "type": "CS01",
+    "date": "2024-06-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-05-27"
+    },
+    "pages": 3,
+    "action_date": "2024-05-27",
+    "links": {
+      "self": "/company/11652130/filing-history/MzQyNDY3NDA0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gYBD4i7weHlPCgVr-A9jPomRQxvvuSEW-WChQTPKnbY"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTkyNTYwNGFkaXF6a2N4",
+    "barcode": "ACFTFIEA",
+    "type": "AD01",
+    "date": "2023-11-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-11-14",
+      "old_address": "PO Box 4385 11652130 - Companies House Default Address Cardiff CF14 8LH",
+      "new_address": "85 Great Portland Street First Floor London W1W 7LT"
+    },
+    "pages": 3,
+    "action_date": "2023-11-14",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11652130/filing-history/MzM5OTkyNTYwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kplu0qII6yGB0iJ97mIx4-I7855mLbcfz07uYYnKqUw"
+    }
+  },
+  {
+    "transaction_id": "MzM4Nzk5NTgxNmFkaXF6a2N4",
+    "barcode": "XC8OXFSG",
+    "type": "AA",
+    "date": "2023-07-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-10-31"
+    },
+    "pages": 3,
+    "action_date": "2022-10-31",
+    "links": {
+      "self": "/company/11652130/filing-history/MzM4Nzk5NTgxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/h0CkrlfNKOmxmo8SJwPWmQFzLDtsihh0oHBpjMY9Aio"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzU0NzcyNmFkaXF6a2N4",
+    "barcode": "RC61TD8A",
+    "type": "RP05",
+    "date": "2023-06-20",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2023-06-20",
+      "default_address": "PO Box 4385, 11652130 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2023-06-20",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11652130/filing-history/MzM4MzU0NzcyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4ppBRFlAv3rotw0mDvIA3S8pO-e5nHCmsOCttBvK7xU"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTU4NDkzMGFkaXF6a2N4",
+    "barcode": "XC4QCPAJ",
+    "type": "CS01",
+    "date": "2023-06-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-05-27"
+    },
+    "pages": 3,
+    "action_date": "2023-05-27",
+    "links": {
+      "self": "/company/11652130/filing-history/MzM4MTU4NDkzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QCcWgTdnKC7jXoaJYZQRm1ucLr3siYCDY1S8Zsh8Icw"
+    }
+  },
+  {
+    "transaction_id": "MzM0NzM1NzEzN2FkaXF6a2N4",
+    "barcode": "XB9CDID5",
+    "type": "AA",
+    "date": "2022-07-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-10-31"
+    },
+    "pages": 3,
+    "action_date": "2021-10-31",
+    "links": {
+      "self": "/company/11652130/filing-history/MzM0NzM1NzEzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vaT9xQ0oEzBwAnC4fb5FhHHZZQoNQIV8Xt2lfBnPM3k"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjA3ODI4NGFkaXF6a2N4",
+    "barcode": "XB5WJR9W",
+    "type": "PSC07",
+    "date": "2022-06-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mustafa Ahmed",
+      "cessation_date": "2022-05-01"
+    },
+    "pages": 1,
+    "action_date": "2022-05-01",
+    "links": {
+      "self": "/company/11652130/filing-history/MzM0MjA3ODI4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zWx0jROsd99_7tekqPuvgoAvVEfBOevoyix15eqxxFE"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjA3ODkxM2FkaXF6a2N4",
+    "barcode": "XB5WJTLS",
+    "type": "TM01",
+    "date": "2022-06-10",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mustafa Ahmed",
+      "termination_date": "2022-05-31"
+    },
+    "pages": 1,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/11652130/filing-history/MzM0MjA3ODkxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gNlCE5g6hhyHbLH32ZTv1G2HGT2DmPMdnJLrFgBP0M4"
+    }
+  },
+  {
+    "transaction_id": "MzM0MDc3NTc4M2FkaXF6a2N4",
+    "barcode": "XB4VCSTT",
+    "type": "CS01",
+    "date": "2022-05-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-05-27"
+    },
+    "pages": 4,
+    "action_date": "2022-05-27",
+    "links": {
+      "self": "/company/11652130/filing-history/MzM0MDc3NTc4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8kdXmuBLncSOIfnDDT1bUZC5t-EkFAt5IxVbTf-ppZM"
+    }
+  },
+  {
+    "transaction_id": "MzMwNzEzODcwM2FkaXF6a2N4",
+    "barcode": "XA89NGCY",
+    "type": "CS01",
+    "date": "2021-07-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-06-18"
+    },
+    "pages": 3,
+    "action_date": "2021-06-18",
+    "links": {
+      "self": "/company/11652130/filing-history/MzMwNzEzODcwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S4bviepb8IXOl3WOX6MgI6JyGwasfPXNYuzYQQEtQoA"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDc5MDQ2NmFkaXF6a2N4",
+    "barcode": "XA0JTV0X",
+    "type": "AA",
+    "date": "2021-03-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-10-31"
+    },
+    "pages": 3,
+    "action_date": "2020-10-31",
+    "links": {
+      "self": "/company/11652130/filing-history/MzI5NDc5MDQ2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jk-2JNiayWw0qC_0eEWduZ-IwdjKTHRzA8RtGvUiMl0"
+    }
+  },
+  {
+    "transaction_id": "MzI2Nzg3NTQ3OGFkaXF6a2N4",
+    "barcode": "X97MOLSI",
+    "type": "AA",
+    "date": "2020-06-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-10-31"
+    },
+    "pages": 3,
+    "action_date": "2019-10-31",
+    "links": {
+      "self": "/company/11652130/filing-history/MzI2Nzg3NTQ3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nm-eN9NEqlwhYr5n-w0NDqnPJb2v9iueEWVZttIo5DU"
+    }
+  },
+  {
+    "transaction_id": "MzI2NzY5NDQyNGFkaXF6a2N4",
+    "barcode": "X97HH8P7",
+    "type": "CS01",
+    "date": "2020-06-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-06-18"
+    },
+    "pages": 4,
+    "action_date": "2020-06-18",
+    "links": {
+      "self": "/company/11652130/filing-history/MzI2NzY5NDQyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NNuH2m2ZgN6nCP0A_ZGocI83qOfP9ZYUuHmurpyLABc"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjAwNTg4OGFkaXF6a2N4",
+    "barcode": "X8XRHNXT",
+    "type": "CS01",
+    "date": "2020-01-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-10-30"
+    },
+    "pages": 3,
+    "action_date": "2019-10-30",
+    "links": {
+      "self": "/company/11652130/filing-history/MzI1NjAwNTg4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gE9-07pnk9NT-26ryGUCWPqZJNeIDyUm_1MPRUnves4"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDA4NTA5N2FkaXF6a2N4",
+    "barcode": "A8W5C6U2",
+    "type": "AD01",
+    "date": "2020-01-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-08",
+      "old_address": "Unit 9 Liberty Centre Suite 8 Mount Pleasant Wembley HA0 1TX England",
+      "new_address": "85 Great Portland Street London W1W 7LT"
+    },
+    "pages": 2,
+    "action_date": "2020-01-08",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11652130/filing-history/MzI1NDA4NTA5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KFdphhs3u53iYHS4cBd5t0hER0N4FUpkRJQUvdiVhoY"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzg3Mjg4MGFkaXF6a2N4",
+    "barcode": "X7WMFJJN",
+    "type": "CH01",
+    "date": "2019-01-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-01-07",
+      "officer_name": "Mr Sayid Abubaker Abdirashid Hashi"
+    },
+    "pages": 2,
+    "action_date": "2019-01-07",
+    "links": {
+      "self": "/company/11652130/filing-history/MzIyMzg3Mjg4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oVu1goQYdYxHyGYeM1wsBo70bsT7lTAHhUxuXaOlAuk"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzc2NzUyMWFkaXF6a2N4",
+    "barcode": "X7WH92PN",
+    "type": "TM02",
+    "date": "2019-01-05",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Sayid Hashi",
+      "termination_date": "2019-01-05"
+    },
+    "pages": 1,
+    "action_date": "2019-01-05",
+    "links": {
+      "self": "/company/11652130/filing-history/MzIyMzc2NzUyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KFbQLLu1j_mPxOoKfGITT_lPJ45u9XG76xWp2T9RaHY"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzc2NzUxOWFkaXF6a2N4",
+    "barcode": "X7WH92RM",
+    "type": "CH01",
+    "date": "2019-01-05",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-01-05",
+      "officer_name": "Mr Sayid Hashi"
+    },
+    "pages": 2,
+    "action_date": "2019-01-05",
+    "links": {
+      "self": "/company/11652130/filing-history/MzIyMzc2NzUxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Zj5nLCN6DggsivSqV4j7l0d_7MHMH-JxDaEZolKh6Yc"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzc2NzUwNmFkaXF6a2N4",
+    "barcode": "X7WH92P7",
+    "type": "CH01",
+    "date": "2019-01-05",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-01-05",
+      "officer_name": "Mr Mustafa Ahmed"
+    },
+    "pages": 2,
+    "action_date": "2019-01-05",
+    "links": {
+      "self": "/company/11652130/filing-history/MzIyMzc2NzUwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bxChHuHr3thEzgTeoK4JEYP59zmob8HPR8zU5c36M8w"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzc2NzQ4OWFkaXF6a2N4",
+    "barcode": "X7WH92FK",
+    "type": "PSC04",
+    "date": "2019-01-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2019-01-05",
+      "psc_name": "Mr Sayid Hashi"
+    },
+    "pages": 2,
+    "action_date": "2019-01-05",
+    "links": {
+      "self": "/company/11652130/filing-history/MzIyMzc2NzQ4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cdakDtEH1EbEGIjnQeDxkjxGdpsFnG-Z1YO9Ia2Em7U"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzc2NzQyMWFkaXF6a2N4",
+    "barcode": "X7WH9281",
+    "type": "EH02",
+    "date": "2019-01-05",
+    "category": "officers",
+    "subcategory": "register",
+    "description": "elect-to-keep-the-directors-residential-address-register-information-on-the-public-register",
+    "pages": 1,
+    "links": {
+      "self": "/company/11652130/filing-history/MzIyMzc2NzQyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xf8rzZniO5fUzFXWOzkxBONlSxCNY9RBYwDJfubm3Hg"
+    }
+  },
+  {
+    "transaction_id": "MzIxODc3ODgyNGFkaXF6a2N4",
+    "barcode": "X7I58OUL",
+    "type": "AD01",
+    "date": "2018-11-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-11-06",
+      "old_address": "34 Galton Street London W10 4QW England",
+      "new_address": "Unit 9 Liberty Centre Suite 8 Mount Pleasant Wembley HA0 1TX"
+    },
+    "pages": 1,
+    "action_date": "2018-11-06",
+    "links": {
+      "self": "/company/11652130/filing-history/MzIxODc3ODgyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5EoQ07c6ff0u9BbKkE_GseA9Fhjigflg9YmFy1Ndjr0"
+    }
+  },
+  {
+    "transaction_id": "MzIxODIyOTY0MmFkaXF6a2N4",
+    "barcode": "X7HNIOAZ",
+    "type": "NEWINC",
+    "date": "2018-10-31",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2018-10-31",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-10-31",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": ".04"
+            }
+          ]
+        },
+        "action_date": "2018-10-31"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 30,
+    "links": {
+      "self": "/company/11652130/filing-history/MzIxODIyOTY0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SBiDTbdJhjRQOCqT-EuVEIOS4x2agLEx76z0lgH-TvA"
+    }
+  }
+]

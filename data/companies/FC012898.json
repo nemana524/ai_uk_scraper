@@ -1,0 +1,56 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2002-12-31",
+      "period_end_on": "2002-12-31",
+      "type": "full"
+    },
+    "next_accounts": {
+      "overdue": false,
+      "period_end_on": "2003-12-31"
+    },
+    "next_made_up_to": "2003-12-31",
+    "overdue": false
+  },
+  "can_file": false,
+  "company_name": "TECH INDUSTRIES U.K. LTD.",
+  "company_number": "FC012898",
+  "company_status": "active",
+  "date_of_creation": "1985-05-01",
+  "etag": "a4d654452293acd0580bfd26d18b4339a51eff71",
+  "foreign_company_details": {
+    "accounting_requirement": {
+      "foreign_account_type": "accounting-requirements-of-originating-country-do-not-apply",
+      "terms_of_account_publication": "accounting-reference-date-allocated-by-companies-house"
+    },
+    "is_a_credit_financial_institution": false,
+    "originating_registry": {
+      "country": "UNITED STATES"
+    }
+  },
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "united-kingdom",
+  "links": {
+    "self": "/company/FC012898",
+    "filing_history": "/company/FC012898/filing-history",
+    "officers": "/company/FC012898/officers",
+    "uk_establishments": "/company/FC012898/uk-establishments"
+  },
+  "registered_office_address": {
+    "address_line_1": "David Wood",
+    "address_line_2": "Wood & Company (Accountants) Ltd",
+    "locality": "3-4 Railway Street",
+    "postal_code": "ST16 2EA",
+    "region": "Stafford"
+  },
+  "registered_office_is_in_dispute": false,
+  "type": "oversea-company",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

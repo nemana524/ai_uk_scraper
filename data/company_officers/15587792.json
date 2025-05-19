@@ -1,0 +1,66 @@
+{
+  "company_number": "15587792",
+  "company_name": "TECH COUNTRY PEST CONTROL LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "WRIGHT, Michael",
+      "officer_role": "director",
+      "appointed_on": "2024-08-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Pest Controller",
+      "address": {
+        "address_line_1": "Basement Flat",
+        "address_line_2": "Pevensey Road",
+        "country": "England",
+        "locality": "Eastbourne",
+        "postal_code": "BN21 3HS",
+        "premises": "73"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/15587792/appointments/_P3FY1LRxS3B1ScteuKZE3uyQ2c",
+        "officer": {
+          "appointments": "/officers/HhJqdmh6BhN9oXVwZ80k0mzvPZY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SWINCHATT, Michael",
+      "officer_role": "director",
+      "appointed_on": "2024-03-23",
+      "resigned_on": "2024-08-28",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Accountant",
+      "address": {
+        "address_line_1": "Coachmakers",
+        "address_line_2": "116a Seaside",
+        "country": "United Kingdom",
+        "locality": "Eastbourne",
+        "postal_code": "BN22 7QP",
+        "premises": "Unit 2",
+        "region": "East Sussex"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1955
+      },
+      "links": {
+        "self": "/company/15587792/appointments/vfNf1p7ucbW2Gl3skA1dSKac50s",
+        "officer": {
+          "appointments": "/officers/UT1r_74xHdRYNZeAXIh4eXtL_hQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

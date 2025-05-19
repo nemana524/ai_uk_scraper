@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Burdiehouse Terrace",
+      "country": "Scotland",
+      "locality": "Edinburgh",
+      "postal_code": "EH17 8AJ",
+      "premises": "53"
+    },
+    "appointed_on": "2022-01-26",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Scotland",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/SC721054/appointments/GtRh_bvQVvndQpY_ZwYPcRB2xiw",
+      "officer": {
+        "appointments": "/officers/iXL_5tV0XBUH60pGEw4AmhgVw_Q/appointments"
+      }
+    },
+    "name": "ZAHID, Wahab",
+    "nationality": "British",
+    "occupation": "Retailer",
+    "officer_role": "director",
+    "person_number": "274489970001"
+  }
+]

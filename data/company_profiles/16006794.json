@@ -1,0 +1,38 @@
+{
+  "company_number": "16006794",
+  "company_name": "TECH ELITE AIO LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-10-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46900"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "16006794 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-09",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-10-09"
+    },
+    "next_due": "2026-07-09",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "etag": "286b6198b09831ad3c9e369ca70a9332edbcda43"
+}

@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-03-31",
+      "period_end_on": "2022-03-31",
+      "period_start_on": "2021-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2023-12-31",
+      "overdue": true,
+      "period_end_on": "2023-03-31",
+      "period_start_on": "2022-04-01"
+    },
+    "next_due": "2023-12-31",
+    "next_made_up_to": "2023-03-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH EFFICIENT LTD",
+  "company_number": "11395133",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-06-03",
+    "next_due": "2023-06-17",
+    "next_made_up_to": "2023-06-03",
+    "overdue": true
+  },
+  "date_of_creation": "2018-06-04",
+  "etag": "a879ab34cda281df89aec8985b0bd0802263af9a",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11395133/persons-with-significant-control",
+    "self": "/company/11395133",
+    "filing_history": "/company/11395133/filing-history",
+    "officers": "/company/11395133/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "778 Lea Bridge Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E17 9DN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

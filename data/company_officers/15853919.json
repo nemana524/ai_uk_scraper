@@ -1,0 +1,60 @@
+{
+  "company_number": "15853919",
+  "company_name": "TECH FINEST LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "ABDULLAH, Adil, Mr.",
+      "officer_role": "secretary",
+      "appointed_on": "2024-07-23",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "City Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "128"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15853919/appointments/siphcvUwHXs7fqNV2pH-GDErZc8",
+        "officer": {
+          "appointments": "/officers/iHrckRsvuejB1cC4GZlx1sMOzEM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ABDULLAH, Adil, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2024-07-23",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Ceo",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "128"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/15853919/appointments/rmXm_BtAt6LkE6zA1_36vDZ68Cs",
+        "officer": {
+          "appointments": "/officers/vYVmzuwVsg2MaU_EVFDW9gfAZNc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

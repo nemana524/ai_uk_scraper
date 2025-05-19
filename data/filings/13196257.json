@@ -1,0 +1,283 @@
+[
+  {
+    "transaction_id": "MzQ1NjU1NDM2M2FkaXF6a2N4",
+    "barcode": "XDX6ST4O",
+    "type": "AA",
+    "date": "2025-02-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-02-28"
+    },
+    "pages": 3,
+    "action_date": "2024-02-28",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ1NjU1NDM2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i6SyUAeyXyXjXeGv9djVSVj3IAciZqtodx1P1CM770E"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzYzNDk1MmFkaXF6a2N4",
+    "barcode": "XDI3W0QW",
+    "type": "CS01",
+    "date": "2024-12-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-12-16"
+    },
+    "pages": 5,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ0NzYzNDk1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1a0cTd0tmfFjj5U7iW_5zSdbrtPImFjxzAhyjyuqvQg"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzYzNDYzMWFkaXF6a2N4",
+    "barcode": "XDI3VYVM",
+    "type": "PSC01",
+    "date": "2024-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mohammed Shahzad Rashid",
+      "notification_date": "2024-12-16"
+    },
+    "pages": 2,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ0NzYzNDYzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Evg9Aac4t0rzeiZqKILi9WDGQ1yyX8ptB4fhSmd5vtw"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzYzNDUyOGFkaXF6a2N4",
+    "barcode": "XDI3VYO3",
+    "type": "PSC01",
+    "date": "2024-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Asif Mohammed Rashid",
+      "notification_date": "2024-12-16"
+    },
+    "pages": 2,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ0NzYzNDUyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4L0leGIO9LO47xOjSu5BPI86jzzQQNSO7iYOvtDypuM"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzYzNDQyOGFkaXF6a2N4",
+    "barcode": "XDI3VZ35",
+    "type": "PSC07",
+    "date": "2024-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ashfaq Mohammed Rashid",
+      "cessation_date": "2024-12-16"
+    },
+    "pages": 1,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ0NzYzNDQyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3LH_2DaeLwCkmK5D2SswoN9E25rD6cNmte486oSn2EY"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzYzMzA0M2FkaXF6a2N4",
+    "barcode": "XDI3VU3E",
+    "type": "AP01",
+    "date": "2024-12-16",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Mohammed Shahzad Rashid",
+      "appointment_date": "2024-12-16"
+    },
+    "pages": 2,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ0NzYzMzA0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xsXDCVAfs90bxC_pItJKztTFbqk2Eix7hrZNXrQ7H2g"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzYzMjk0NmFkaXF6a2N4",
+    "barcode": "XDI3VTMX",
+    "type": "TM01",
+    "date": "2024-12-16",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ashfaq Mohammed Rashid",
+      "termination_date": "2024-12-16"
+    },
+    "pages": 1,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ0NzYzMjk0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fJS2Ov4n76ywJCD6343fEfRoBiAO6vrEcQ2UC73UXnc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjQ5MDU5OWFkaXF6a2N4",
+    "barcode": "XDFH5T60",
+    "type": "CS01",
+    "date": "2024-11-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-17"
+    },
+    "pages": 3,
+    "action_date": "2024-10-17",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQ0MjQ5MDU5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/y2Olroha3GV37K4W8bIpDTXqlG-6y6M_6dEQmbKxr1U"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDcwNDYyM2FkaXF6a2N4",
+    "barcode": "XD8I2G6R",
+    "type": "TM01",
+    "date": "2024-07-31",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Kashif Mohammed Rashid",
+      "termination_date": "2024-07-30"
+    },
+    "pages": 1,
+    "action_date": "2024-07-30",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQzMDcwNDYyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aKfI3Y551biIjmJlkF5mp1D151bER0z2VvxDz4W_IB8"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTY4MjI0NWFkaXF6a2N4",
+    "barcode": "XCH9N2NF",
+    "type": "CS01",
+    "date": "2023-11-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-17"
+    },
+    "pages": 3,
+    "action_date": "2023-10-17",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQwMTY4MjI0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P4YQfeBqzYzZiFE9-so5dqA_03nCldys_6Q04SQXEYk"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTY4MjEwNWFkaXF6a2N4",
+    "barcode": "XCH9N1ZN",
+    "type": "AA",
+    "date": "2023-11-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-02-28"
+    },
+    "pages": 3,
+    "action_date": "2023-02-28",
+    "links": {
+      "self": "/company/13196257/filing-history/MzQwMTY4MjEwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lZi-pE1GBki43Hz2uslIsS3ZzigQWgv2tRgSCIfLYQA"
+    }
+  },
+  {
+    "transaction_id": "MzM1NzQ1MDg3MGFkaXF6a2N4",
+    "barcode": "XBFYXL5U",
+    "type": "AA",
+    "date": "2022-11-03",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-02-28"
+    },
+    "pages": 2,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/13196257/filing-history/MzM1NzQ1MDg3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pXCRJpqW6TdD2aae-HciBZxKaDOCkVKGZ5mV1vDnJ4I"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTUyMjYwM2FkaXF6a2N4",
+    "barcode": "XBEU92IA",
+    "type": "CS01",
+    "date": "2022-10-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-10-17"
+    },
+    "pages": 3,
+    "action_date": "2022-10-17",
+    "links": {
+      "self": "/company/13196257/filing-history/MzM1NTUyMjYwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HCNn0v1bKv0qaYrD36ta6A9pSCmyD6UbOCCJqHiycNo"
+    }
+  },
+  {
+    "transaction_id": "MzMyOTE5ODgwNmFkaXF6a2N4",
+    "barcode": "XAXEK7NV",
+    "type": "CS01",
+    "date": "2022-02-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-02-08"
+    },
+    "pages": 3,
+    "action_date": "2022-02-08",
+    "links": {
+      "self": "/company/13196257/filing-history/MzMyOTE5ODgwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/03obij4oG_0NRfm6KiUTXEy_EBj14-9eUpiK_7TtsIE"
+    }
+  },
+  {
+    "transaction_id": "MzI5MTEwNDgzNWFkaXF6a2N4",
+    "barcode": "X9Y0K5I0",
+    "type": "NEWINC",
+    "date": "2021-02-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2021-02-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-02-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2021-02-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 32,
+    "links": {
+      "self": "/company/13196257/filing-history/MzI5MTEwNDgzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-cmOSB0YTMA4gO-k4nR9izQVLqGcR1-fuHoBhleXBws"
+    }
+  }
+]

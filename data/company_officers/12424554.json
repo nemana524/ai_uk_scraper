@@ -1,0 +1,35 @@
+{
+  "company_number": "12424554",
+  "company_name": "TECH DRIVING LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "GILL, Lakhvir Singh",
+      "officer_role": "director",
+      "appointed_on": "2020-01-27",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Ashford Avenue",
+        "country": "England",
+        "locality": "Hayes",
+        "postal_code": "UB4 0ND",
+        "premises": "152"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/12424554/appointments/S6JuI6MitH2VpXJv0i9eGItbeJE",
+        "officer": {
+          "appointments": "/officers/_l0Yh8LD1AjIFjux9svIYhYyC80/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

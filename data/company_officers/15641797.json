@@ -1,0 +1,35 @@
+{
+  "company_number": "15641797",
+  "company_name": "TECH AND SECURITY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "GREGORY, Jonathan",
+      "officer_role": "director",
+      "appointed_on": "2024-04-13",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Events And Projects Manager",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "128"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/15641797/appointments/TqHjj0xC0SKdnAjQikFPnXUxFG4",
+        "officer": {
+          "appointments": "/officers/EyoXbDK7Ul3YHDg-S3jFIxdXffQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "company_number": "09194965",
+  "company_name": "TECH FORGE MEDIA LTD",
+  "company_status": "active",
+  "date_of_creation": "2014-08-29",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "58142"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Armada House",
+    "address_line_2": "Telephone Avenue",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS1 4BQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-03-31",
+      "period_end_on": "2023-03-31",
+      "period_start_on": "2022-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-12-31",
+      "overdue": true,
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01"
+    },
+    "next_due": "2024-12-31",
+    "next_made_up_to": "2024-03-31",
+    "overdue": true
+  },
+  "etag": "c2c68e306741f5bdcf3d280e22c43ff2d8de40bb"
+}

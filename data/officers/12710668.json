@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "Llantwit Fardre",
+      "country": "Wales",
+      "locality": "Pontypridd",
+      "postal_code": "CF38 2NJ",
+      "premises": "54 Chandlers Reach"
+    },
+    "appointed_on": "2020-07-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Wales",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1969
+    },
+    "links": {
+      "self": "/company/12710668/appointments/Ht3IdyHo_puhylg-uq_idBDvOPA",
+      "officer": {
+        "appointments": "/officers/uzyI9sZDGNFlvTjl-fXYX8ZrN1w/appointments"
+      }
+    },
+    "name": "PRITCHARD, Michael John",
+    "nationality": "Welsh",
+    "occupation": "Technical Consultant",
+    "officer_role": "director",
+    "person_number": "271421700001"
+  },
+  {
+    "address": {
+      "address_line_1": "Llantwit Fardre",
+      "country": "Wales",
+      "locality": "Pontypridd",
+      "postal_code": "CF38 2NJ",
+      "premises": "54 Chandlers Reach"
+    },
+    "appointed_on": "2023-05-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Wales",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1967
+    },
+    "links": {
+      "self": "/company/12710668/appointments/gcfGuT0sphy9yz4hFsGlYeCR3z0",
+      "officer": {
+        "appointments": "/officers/s8ALxb9Is_kbzFAN8xTliD372uI/appointments"
+      }
+    },
+    "name": "PRITCHARD, Sarah Jane",
+    "nationality": "British",
+    "occupation": "Administrator",
+    "officer_role": "director",
+    "person_number": "309520210001"
+  }
+]

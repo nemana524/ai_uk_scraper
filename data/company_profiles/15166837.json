@@ -1,0 +1,38 @@
+{
+  "company_number": "15166837",
+  "company_name": "TECH ACADEMIA LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-09-26",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "78109"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "8 Bebbington Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE18 1QX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-26",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-26"
+    },
+    "next_due": "2025-06-26",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "bf16ab711cf0f531123cb87f580ae894c8e73345"
+}

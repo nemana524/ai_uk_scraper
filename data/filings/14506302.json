@@ -1,0 +1,141 @@
+[
+  {
+    "transaction_id": "MzQ0MjY0NTQ0OGFkaXF6a2N4",
+    "barcode": "XDFMF862",
+    "type": "CS01",
+    "date": "2024-11-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-11"
+    },
+    "pages": 3,
+    "action_date": "2024-11-11",
+    "links": {
+      "self": "/company/14506302/filing-history/MzQ0MjY0NTQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iXmF6qdJ96pRCiZNle6JIaASe3d3Y6cCvX9DRjlQYdw"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjQ4NDY4OWFkaXF6a2N4",
+    "barcode": "XD9MECUG",
+    "type": "AA",
+    "date": "2024-08-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-11-30"
+    },
+    "pages": 2,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/14506302/filing-history/MzQzMjQ4NDY4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/V2oSSwxJEjSRnqPIYVrTOSIDr-Svpf5wnKjEkalB5Ps"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTU4NTM5NWFkaXF6a2N4",
+    "barcode": "XD1OVGYQ",
+    "type": "CH01",
+    "date": "2024-04-24",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-04-24",
+      "officer_name": "Mrs Richa Sharma"
+    },
+    "pages": 2,
+    "action_date": "2024-04-24",
+    "links": {
+      "self": "/company/14506302/filing-history/MzQxOTU4NTM5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0CJEIiM8yV9Jk4yNUqRWT6VNJ67Re3RqMcjXTWke-YY"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTU4NTEwNGFkaXF6a2N4",
+    "barcode": "XD1OVFKH",
+    "type": "PSC04",
+    "date": "2024-04-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-04-24",
+      "psc_name": "Mrs Richa Sharma"
+    },
+    "pages": 2,
+    "action_date": "2024-04-24",
+    "links": {
+      "self": "/company/14506302/filing-history/MzQxOTU4NTEwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3HG5ZpkjEE3-ocjQhh1C3H63Vn16wEJTbBW6ocphE2A"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTU4MzkzMWFkaXF6a2N4",
+    "barcode": "XD1OVB6Z",
+    "type": "AD01",
+    "date": "2024-04-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-04-24",
+      "old_address": ", 82 Surley Row Reading, RG4 8LP, England",
+      "new_address": "8 Pettit Place Shinfield Reading RG2 9SP"
+    },
+    "pages": 1,
+    "action_date": "2024-04-24",
+    "links": {
+      "self": "/company/14506302/filing-history/MzQxOTU4MzkzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4wGk5rIAApWmfEXsrglrsycMRo3gQMBZMQZJvtuTlts"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjQxNDQyNWFkaXF6a2N4",
+    "barcode": "XCTYAOFM",
+    "type": "CS01",
+    "date": "2024-01-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-24"
+    },
+    "pages": 3,
+    "action_date": "2023-11-24",
+    "links": {
+      "self": "/company/14506302/filing-history/MzQwNjQxNDQyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JsAXhk6ewVvT2vtRH_w97jgx3F8C0f7x9WSRyzaH3s0"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTY4NTc3NGFkaXF6a2N4",
+    "barcode": "XBHGDTAW",
+    "type": "NEWINC",
+    "date": "2022-11-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2022-11-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-11-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10,000"
+            }
+          ]
+        },
+        "action_date": "2022-11-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 27,
+    "links": {
+      "self": "/company/14506302/filing-history/MzM1OTY4NTc3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nYoPu1n7nX3sFDFgNlx4IBl1G6kouwMl6Fwf9llNnO8"
+    }
+  }
+]

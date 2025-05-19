@@ -1,0 +1,146 @@
+[
+  {
+    "transaction_id": "MzQ0NDk4Njk5M2FkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-12-03",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14433076/filing-history/MzQ0NDk4Njk5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xbv3xCe4MkhwZY22QF8M1mbnd4tbGZJRzpg6F6kRBLg"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTA0MjUzNWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-09-17",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14433076/filing-history/MzQzNTA0MjUzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kcb3InUUomUcwiLXD_EfclYPFxTS8AkZwxazHT5c6s0"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzc1Mzc5OGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-03-09",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14433076/filing-history/MzQxMzc1Mzc5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1BgCSGioKR4W5oSy8RmMfO5EmLovh0e6xILsAuPniLg"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzc1Mzc3M2FkaXF6a2N4",
+    "barcode": "XCYDMBZ6",
+    "type": "CS01",
+    "date": "2024-03-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-10-19"
+    },
+    "pages": 4,
+    "action_date": "2023-10-19",
+    "links": {
+      "self": "/company/14433076/filing-history/MzQxMzc1Mzc3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jJnhTu3MNUvfJ5yUXvZVSf9CA1a2iTXaYVdlNLskzko"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzc1MzUwMGFkaXF6a2N4",
+    "barcode": "XCYDMAQ1",
+    "type": "CH01",
+    "date": "2024-03-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-03-07",
+      "officer_name": "Mr James Andrew Anderson"
+    },
+    "pages": 2,
+    "action_date": "2024-03-07",
+    "links": {
+      "self": "/company/14433076/filing-history/MzQxMzc1MzUwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jZf7D6uZMjGlG2f4dofhDOlu_b7CILU4i5_wBhrztSk"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzc1MzIxNGFkaXF6a2N4",
+    "barcode": "XCYDM9C8",
+    "type": "AD01",
+    "date": "2024-03-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-03-07",
+      "old_address": "18 Lansdowne Road Hartlepool TS26 9JL England",
+      "new_address": "C/O Milner Smeaton Viking House, Falcon Court Preston Farm Stockton on Tees TS18 3TS"
+    },
+    "pages": 1,
+    "action_date": "2024-03-07",
+    "links": {
+      "self": "/company/14433076/filing-history/MzQxMzc1MzIxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1IrjapVjUWschHPtXOc8TFY2ixYyC1QDiktSupgYQvA"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTg4NDUwNWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-01-09",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14433076/filing-history/MzQwNTg4NDUwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/krKEQ4lcyCnLbMlmeauUb_gjFQHO2vLaJJOAAppNi3A"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTk2ODg2NmFkaXF6a2N4",
+    "barcode": "XBEZWY8J",
+    "type": "NEWINC",
+    "date": "2022-10-20",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-10-20",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-10-20",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-10-20",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2022-10-20"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14433076/filing-history/MzM1NTk2ODg2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ESSNE5N7YNGZCsKeRJWS89PnuBZbd03rNkK_XxW-wuc"
+    }
+  }
+]

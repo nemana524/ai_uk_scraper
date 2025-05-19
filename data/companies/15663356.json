@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-20",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-20"
+    },
+    "next_due": "2026-01-20",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GENI LTD",
+  "company_number": "15663356",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-05-03",
+    "next_made_up_to": "2025-04-19",
+    "overdue": true
+  },
+  "date_of_creation": "2024-04-20",
+  "etag": "1fd64278aff8a93feae5dfff05cf63efaf0838e0",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15663356/persons-with-significant-control",
+    "self": "/company/15663356",
+    "filing_history": "/company/15663356/filing-history",
+    "officers": "/company/15663356/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2024-04-23",
+      "effective_from": "2024-04-20",
+      "name": "SMART TECHS IT SOLUTIONS LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "209 Tulketh Road",
+    "address_line_2": "Ashton-On-Ribble",
+    "country": "England",
+    "locality": "Preston",
+    "postal_code": "PR2 1ES",
+    "region": "Lancashire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

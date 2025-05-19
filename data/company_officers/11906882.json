@@ -1,0 +1,35 @@
+{
+  "company_number": "11906882",
+  "company_name": "TECH AUTOMATION LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "IMMANDI, Eswar Kumar",
+      "officer_role": "director",
+      "appointed_on": "2019-03-26",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Malvern Avenue",
+        "country": "England",
+        "locality": "Harrow",
+        "postal_code": "HA2 9ER",
+        "premises": "99"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/11906882/appointments/Yvbb2Xc3Uw7d3TYl25hIThT6aYQ",
+        "officer": {
+          "appointments": "/officers/O9Wm259aq455mmmdefPiHqDvv6Y/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

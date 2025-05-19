@@ -1,0 +1,35 @@
+{
+  "company_number": "15909003",
+  "company_name": "TECH ALLIANCE 365 LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ANWAR, Syed Aitzaz",
+      "officer_role": "director",
+      "appointed_on": "2024-08-21",
+      "resigned_on": null,
+      "nationality": "Italian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Micawber Avenue",
+        "locality": "Uxbridge",
+        "postal_code": "UB8 3NY",
+        "premises": "20",
+        "region": "Middlesex"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15909003/appointments/jPNwh_Tmufmm6w1ugwvCtTZGsdQ",
+        "officer": {
+          "appointments": "/officers/rur1sVApSMxyGz75UL8Mr1f69Ek/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

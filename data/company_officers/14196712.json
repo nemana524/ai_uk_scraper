@@ -1,0 +1,35 @@
+{
+  "company_number": "14196712",
+  "company_name": "TECH LEGACY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KACA, Kreshnik",
+      "officer_role": "director",
+      "appointed_on": "2022-06-27",
+      "resigned_on": null,
+      "nationality": "Albanian",
+      "country_of_residence": "England",
+      "occupation": "Project Manager",
+      "address": {
+        "address_line_1": "4 Fairmont Avenue",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 9JB",
+        "premises": "Flat 1406 Ontario Tower"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/14196712/appointments/PywF7aROfug-f5BpRqNWX7JDb5c",
+        "officer": {
+          "appointments": "/officers/fAsNomyKZcKc-VriZCq7EyNvG_M/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

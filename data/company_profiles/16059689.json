@@ -1,0 +1,39 @@
+{
+  "company_number": "16059689",
+  "company_name": "TECH AUTO CONSULTING LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-11-04",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "70229"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Fourwinds Whitehorse Hill",
+    "address_line_2": "Snitterfield",
+    "country": "United Kingdom",
+    "locality": "Stratford-Upon-Avon, England",
+    "postal_code": "CV37 0LD"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-04",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-11-04"
+    },
+    "next_due": "2026-08-04",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "etag": "5a698c8f1ff3017d3aeb5dfb8a5cad43a207e3a5"
+}

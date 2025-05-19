@@ -1,0 +1,37 @@
+{
+  "company_number": "14251899",
+  "company_name": "TECH BOTANICA LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "CERMAK, Lukas",
+      "officer_role": "director",
+      "appointed_on": "2022-07-23",
+      "resigned_on": null,
+      "nationality": "Czech",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Ladyshot",
+        "address_line_2": "Flat 2",
+        "country": "United Kingdom",
+        "locality": "Harlow",
+        "postal_code": "CM20 3EW",
+        "premises": "104",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 2001
+      },
+      "links": {
+        "self": "/company/14251899/appointments/4hvM6LfCfWg3vMTcHPcdpX-c4pc",
+        "officer": {
+          "appointments": "/officers/yGoUsRn3jcL7wr0EuZyRWJt5lsQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "company_number": "08002135",
+  "company_name": "TECH IT LTD",
+  "company_status": "active",
+  "date_of_creation": "2012-03-22",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "68209"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "The Long Lodge",
+    "address_line_2": "265-269 Kingston Road",
+    "locality": "London",
+    "postal_code": "SW19 3FW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "35923e80a252d8302472d1b776920b69fcaeaea2"
+}

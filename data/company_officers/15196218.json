@@ -1,0 +1,35 @@
+{
+  "company_number": "15196218",
+  "company_name": "TECH ASSIST DIRECT LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "YOUSAF, Uzair",
+      "officer_role": "director",
+      "appointed_on": "2023-10-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Rosehill Garden",
+        "country": "United Kingdom",
+        "locality": "Sutton",
+        "postal_code": "SM1 3JZ",
+        "premises": "32"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/15196218/appointments/B2-tvNN8PsC4rGL2N860AYwNF4U",
+        "officer": {
+          "appointments": "/officers/vRscn4q9tFaEY080s8qridsiu4Q/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

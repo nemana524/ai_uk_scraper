@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Lodge Gate",
+      "address_line_2": "Great Linford",
+      "country": "England",
+      "locality": "Milton Keynes",
+      "postal_code": "MK14 5EW",
+      "premises": "15"
+    },
+    "appointed_on": "2020-03-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/12537898/appointments/QBXGBTwoTmZeJhvPE2kbGbUsUfA",
+      "officer": {
+        "appointments": "/officers/7kEgSgmySdTazUS8MndoNPiNTKY/appointments"
+      }
+    },
+    "name": "RAWNSLEY, Janine",
+    "nationality": "British",
+    "occupation": "Computer Programmer",
+    "officer_role": "director",
+    "person_number": "268514950001"
+  }
+]

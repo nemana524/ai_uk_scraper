@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-29",
+      "period_end_on": "2024-02-29",
+      "period_start_on": "2023-02-15",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-03-01"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH HUB PAIGNTON LTD",
+  "company_number": "14664901",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-02-14",
+    "next_due": "2025-02-28",
+    "next_made_up_to": "2025-02-14",
+    "overdue": true
+  },
+  "date_of_creation": "2023-02-15",
+  "etag": "d0da97ec706dc6f1bec1c45c2ab835da860194a4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14664901/persons-with-significant-control",
+    "self": "/company/14664901",
+    "filing_history": "/company/14664901/filing-history",
+    "officers": "/company/14664901/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "35 Victoria Street",
+    "country": "England",
+    "locality": "Paignton",
+    "postal_code": "TQ4 5DD"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

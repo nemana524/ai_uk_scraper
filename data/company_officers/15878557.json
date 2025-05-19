@@ -1,0 +1,35 @@
+{
+  "company_number": "15878557",
+  "company_name": "TECH AFFAIRS & CRAFTS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "RAHIL, Abdul",
+      "officer_role": "director",
+      "appointed_on": "2024-08-05",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "Hornchurch Road",
+        "country": "England",
+        "locality": "Hornchurch",
+        "postal_code": "RM11 1QH",
+        "premises": "156"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/15878557/appointments/EqpCFt37ZezNhwpixvqdHSicwdw",
+        "officer": {
+          "appointments": "/officers/9F2BNbkE4kBz25M4ymVM6ztDq1g/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

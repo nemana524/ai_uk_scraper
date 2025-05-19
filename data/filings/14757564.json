@@ -1,0 +1,223 @@
+[
+  {
+    "transaction_id": "MzQ2MTY2MTI1MmFkaXF6a2N4",
+    "barcode": "XDZZYEWK",
+    "type": "CS01",
+    "date": "2025-04-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-24"
+    },
+    "pages": 4,
+    "action_date": "2025-03-24",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQ2MTY2MTI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f-rw8lK52xkvl1ZR82Hq0zhx9xOlKewV5Z0QA4jqclk"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Njc4OTY0OWFkaXF6a2N4",
+    "barcode": "XDHNO6MH",
+    "type": "AA",
+    "date": "2024-12-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 2,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQ0Njc4OTY0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0HvbsQeYj1yS4tsxsLboE-QT6BAOg3uH6RHOoN7jK3Q"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzY2MzUyOGFkaXF6a2N4",
+    "barcode": "XD6MUKFL",
+    "type": "PSC04",
+    "date": "2024-07-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-06-24",
+      "psc_name": "Mr Christian Michael Sait"
+    },
+    "pages": 2,
+    "action_date": "2024-06-24",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQyNzY2MzUyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vr3x75Xsjqi2gPh6nNUuFyaTVCtQiy7vn2Ra9x7iYo8"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzY2MzUyMWFkaXF6a2N4",
+    "barcode": "XD6MUK2Y",
+    "type": "PSC04",
+    "date": "2024-07-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-06-24",
+      "psc_name": "Mrs Jeanette Caroline Pemberton"
+    },
+    "pages": 2,
+    "action_date": "2024-06-24",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQyNzY2MzUyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HVj5moUperwtWrudaOgoAMo_ur6AIhkoT-wXk4xp06M"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzY2MzUxNmFkaXF6a2N4",
+    "barcode": "XD6MUK42",
+    "type": "CH01",
+    "date": "2024-07-04",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-06-24",
+      "officer_name": "Mr Christian Michael Sait"
+    },
+    "pages": 2,
+    "action_date": "2024-06-24",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQyNzY2MzUxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ic1-XGMl_vIBqt-WQ6uuSyD-75mNpLzBlltR4cWjsyY"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzY2MzUxMWFkaXF6a2N4",
+    "barcode": "XD6MUK03",
+    "type": "CH01",
+    "date": "2024-07-04",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-06-24",
+      "officer_name": "Mrs Jeanette Caroline Pemberton"
+    },
+    "pages": 2,
+    "action_date": "2024-06-24",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQyNzY2MzUxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S2qej-3iSZ5CLcEhSM2Io3Cxdvk3CE17102_D2FPox0"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTAwODM0MGFkaXF6a2N4",
+    "barcode": "XD54J2UB",
+    "type": "PSC04",
+    "date": "2024-06-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-06-04",
+      "psc_name": "Mrs Jeanette Caroline Pemberton"
+    },
+    "pages": 2,
+    "action_date": "2024-06-04",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQyNTAwODM0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6StNmh17QPr2PGnjnsslbbdyOAHMVOwfWsVct8jxsNU"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTAwODI2MmFkaXF6a2N4",
+    "barcode": "XD54J2E8",
+    "type": "CH01",
+    "date": "2024-06-12",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-06-04",
+      "officer_name": "Mrs Jeanette Caroline Pemberton"
+    },
+    "pages": 2,
+    "action_date": "2024-06-04",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQyNTAwODI2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mmLkFlDVSRdFdUCwCSkllH1cyWjJXnfrn98YSJtp9tw"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzI5MTI5MmFkaXF6a2N4",
+    "barcode": "XD0EWZPE",
+    "type": "CS01",
+    "date": "2024-04-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-03-24"
+    },
+    "pages": 4,
+    "action_date": "2024-03-24",
+    "links": {
+      "self": "/company/14757564/filing-history/MzQxNzI5MTI5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3h6Lg3cU4Zbzxlp5opAzP0ZkamKh6VI4GYkKI6SZlMw"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzA0ODE5NmFkaXF6a2N4",
+    "barcode": "XCEFGOKB",
+    "type": "AD01",
+    "date": "2023-10-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-10-18",
+      "old_address": "Wework 1 Spinningfields Quay Street Manchester M3 3JE England",
+      "new_address": "36 Byron Road Sheffield Choose County S7 1RY"
+    },
+    "pages": 1,
+    "action_date": "2023-10-18",
+    "links": {
+      "self": "/company/14757564/filing-history/MzM5NzA0ODE5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dM7dNGdqtTlKaA8Zoa4aBeq2a05Sw8ocdqmNE4RoMbI"
+    }
+  },
+  {
+    "transaction_id": "MzM3Mzg5MzQ3M2FkaXF6a2N4",
+    "barcode": "XBZY6MF5",
+    "type": "NEWINC",
+    "date": "2023-03-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-03-25",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-03-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-03-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/14757564/filing-history/MzM3Mzg5MzQ3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bZRN1P0n_3fl04gvc5HXFVoH0BjthrN6xaFr11rpTXk"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "company_number": "14125408",
+  "company_name": "TECH ECOSYSTEM LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "DAVEY, Lisa Victoria",
+      "officer_role": "director",
+      "appointed_on": "2022-05-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Arena Court",
+        "address_line_2": "Crown Lane",
+        "country": "United Kingdom",
+        "locality": "Maidenhead",
+        "postal_code": "SL6 8QZ",
+        "premises": "The Ground Floor"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/14125408/appointments/j3FD_9aVp2dziBbxI6cwokL6CXA",
+        "officer": {
+          "appointments": "/officers/ajIZKvBYn0zraIQ3JWGMKCSfHig/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "14776862",
+  "company_name": "TECH GO LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ISMAIL CARVER, River Pheonix, Ms.",
+      "officer_role": "director",
+      "appointed_on": "2023-04-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Great West Road",
+        "country": "United Kingdom",
+        "locality": "Brentford",
+        "postal_code": "TW8 9DN",
+        "premises": "24 Tax Suite 137b Westlink House 981"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1998
+      },
+      "links": {
+        "self": "/company/14776862/appointments/CGZxkgTxM80TD5CImWGvKt3O2no",
+        "officer": {
+          "appointments": "/officers/qzv4zkoDiy__pQpDHWQZue5JdU0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

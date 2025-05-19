@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Outram Street",
+      "country": "England",
+      "locality": "Middlesbrough",
+      "postal_code": "TS1 4EG",
+      "premises": "84"
+    },
+    "appointed_on": "2025-02-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/16245642/appointments/2dxhuKIfo4neILiUeGgGCra_aUU",
+      "officer": {
+        "appointments": "/officers/L4rNX37fa02S7u_YNKCmp0Hyqls/appointments"
+      }
+    },
+    "name": "DUGGINENI, Nagaraju",
+    "nationality": "Indian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "332247230001"
+  }
+]

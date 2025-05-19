@@ -1,0 +1,63 @@
+{
+  "company_number": "09022567",
+  "company_name": "TECH ELEMENTS LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "OLUBANJOKO, Tolu",
+      "officer_role": "director",
+      "appointed_on": "2014-05-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "124"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/09022567/appointments/1oFnco5CwTcC6zSC3UyBMyYiDhE",
+        "officer": {
+          "appointments": "/officers/hbewevSWByPJJoE6zSiB1HFbwME/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "OLUBANJOKO, Olufemi",
+      "officer_role": "director",
+      "appointed_on": "2014-05-02",
+      "resigned_on": "2022-06-21",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Support",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "Kemp House"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/09022567/appointments/PuzLpRDZpMaHcedOqy2iE6epWlU",
+        "officer": {
+          "appointments": "/officers/nNQLY_y3LcVtvSct7PqiLlgeNBw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

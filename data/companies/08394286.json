@@ -1,0 +1,67 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-28",
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-29"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DATA CONSULTING LIMITED",
+  "company_number": "08394286",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-08",
+    "next_due": "2025-11-22",
+    "next_made_up_to": "2025-11-08",
+    "overdue": false
+  },
+  "date_of_creation": "2013-02-07",
+  "etag": "cde3b03e864fbb733f1be11056fc7a87836d224e",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-02-07",
+  "links": {
+    "persons_with_significant_control": "/company/08394286/persons-with-significant-control",
+    "self": "/company/08394286",
+    "filing_history": "/company/08394286/filing-history",
+    "officers": "/company/08394286/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2013-02-11",
+      "effective_from": "2013-02-07",
+      "name": "TECH DATA CONSULTANCY LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "9 Divine Way",
+    "country": "England",
+    "locality": "Hayes",
+    "postal_code": "UB3 2FE",
+    "region": "Middlesex"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

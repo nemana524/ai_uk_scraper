@@ -1,0 +1,29 @@
+{
+  "company_number": "15491101",
+  "company_name": "TECH BLISS LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2024-02-15",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47890"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "Flat 5 177 Washwood Heath Road",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B8 1RW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    }
+  },
+  "etag": "33fd593aadc956a42ca940877be13d7d94b22f9a"
+}

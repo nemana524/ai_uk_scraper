@@ -1,0 +1,40 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "type": "null"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH GGC MEDIA LTD",
+  "company_number": "14640391",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-07-09",
+  "date_of_creation": "2023-02-06",
+  "etag": "e0f07c4c227e963a597872e45195f6eee4423fa2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14640391/persons-with-significant-control",
+    "self": "/company/14640391",
+    "filing_history": "/company/14640391/filing-history",
+    "officers": "/company/14640391/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20-22 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73200"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

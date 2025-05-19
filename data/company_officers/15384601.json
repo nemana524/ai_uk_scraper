@@ -1,0 +1,36 @@
+{
+  "company_number": "15384601",
+  "company_name": "TECH CATALYST LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "YATES, Jethro Philip",
+      "officer_role": "director",
+      "appointed_on": "2024-01-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Silk Mill Industrial Estate",
+        "address_line_2": "Brook Street",
+        "country": "United Kingdom",
+        "locality": "Tring",
+        "postal_code": "HP23 5EF",
+        "premises": "Unit 36"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/15384601/appointments/BFT1xdEpHL7BPJnlL2-AMb5L0k4",
+        "officer": {
+          "appointments": "/officers/viK4Y5qzxdkh1sYmHnJoa_EC0KQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

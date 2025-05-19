@@ -1,0 +1,203 @@
+{
+  "company_number": "06092375",
+  "company_name": "TECH ENGINEERING (UK) LTD",
+  "total_officers": 7,
+  "officers": [
+    {
+      "name": "GILLANI, Syed Abid",
+      "officer_role": "secretary",
+      "appointed_on": "2007-02-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "36 Agnes Avenue",
+        "locality": "Ilford",
+        "postal_code": "IG1 2EE",
+        "region": "Essex"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/06092375/appointments/rfd1oi59eolzZVCUU0_R-PQQzJk",
+        "officer": {
+          "appointments": "/officers/Ket3D_XFG5MU6XNB_y_1pFXjgfI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "WASTI, Syed Furqan Hussain",
+      "officer_role": "director",
+      "appointed_on": "2023-10-31",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Ilford Lane",
+        "country": "England",
+        "locality": "Ilford",
+        "postal_code": "IG1 2RP",
+        "premises": "Unit 2 133b"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/06092375/appointments/6tyak-u0Gm4TzPRt7YrG8QyM21c",
+        "officer": {
+          "appointments": "/officers/QbHl0RPDgjnOikqTFCK-0IsZ0V4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GILLANI, Syed",
+      "officer_role": "director",
+      "appointed_on": "2007-02-09",
+      "resigned_on": "2013-04-06",
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "46",
+        "address_line_2": "Ilford Lane",
+        "country": "England",
+        "locality": "Ilford",
+        "postal_code": "IG1 2JY",
+        "premises": "Unit 4",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/06092375/appointments/XO8L2YvngHESAUuzdrh_m3PD2Ok",
+        "officer": {
+          "appointments": "/officers/XTYCGK6SR5MUwcXANsMYxqgggR0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHAHZAD, Shagufta",
+      "officer_role": "director",
+      "appointed_on": "2007-02-09",
+      "resigned_on": "2008-09-28",
+      "nationality": "Pakistani",
+      "country_of_residence": null,
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "19 Rutland Road",
+        "locality": "Ilford",
+        "postal_code": "IG1 1EN",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1965
+      },
+      "links": {
+        "self": "/company/06092375/appointments/VVMEAuN6b86voaW5G6cxvVSdkh4",
+        "officer": {
+          "appointments": "/officers/Siw2fqIHSmqqXgUN6C2iyjfmCZQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "WASTI, Syed Zahir",
+      "officer_role": "director",
+      "appointed_on": "2017-03-18",
+      "resigned_on": "2023-10-31",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Ilford Lane",
+        "country": "England",
+        "locality": "Ilford",
+        "postal_code": "IG1 2RP",
+        "premises": "Unit 2 133b"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/06092375/appointments/Ov5e2oSbbUHTZQ7qlQaMca_2nIc",
+        "officer": {
+          "appointments": "/officers/KKKI_GSoS4cEBxC7EKWCChRJP4E/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "WASTI, Syed Furqan",
+      "officer_role": "director",
+      "appointed_on": "2012-05-01",
+      "resigned_on": "2017-03-18",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Engineer",
+      "address": {
+        "address_line_1": "46",
+        "address_line_2": "Ilford Lane",
+        "country": "England",
+        "locality": "Ilford",
+        "postal_code": "IG1 2JY",
+        "premises": "Unit 4",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/06092375/appointments/4POki3XeVQFQye4YvVEqkdPxr7Q",
+        "officer": {
+          "appointments": "/officers/4uqm9Q4QM-Ao_wbRDXxjaAE602Y/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "WASTI, Zahir",
+      "officer_role": "director",
+      "appointed_on": "2016-09-01",
+      "resigned_on": "2017-02-15",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Certified Chartered Accountant",
+      "address": {
+        "address_line_1": "46",
+        "address_line_2": "Ilford Lane",
+        "locality": "Ilford",
+        "postal_code": "IG1 2JY",
+        "premises": "Unit 4",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/06092375/appointments/hh5Uqep_g4DxXo2OQ73rc1t548o",
+        "officer": {
+          "appointments": "/officers/E01lHRDcAVMww1OYP_jvYCr5m0U/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

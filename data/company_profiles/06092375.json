@@ -1,0 +1,44 @@
+{
+  "company_number": "06092375",
+  "company_name": "TECH ENGINEERING (UK) LTD",
+  "company_status": "active",
+  "date_of_creation": "2007-02-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "82990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 2 133b Ilford Lane",
+    "country": "England",
+    "locality": "Ilford",
+    "postal_code": "IG1 2RP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-29",
+      "period_end_on": "2024-02-29",
+      "period_start_on": "2023-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-03-01"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "etag": "e4741bfbe8acb16dead9e83c3b19f6f4fd64a6ea"
+}

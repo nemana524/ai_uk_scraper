@@ -1,0 +1,65 @@
+{
+  "company_number": "08972051",
+  "company_name": "TECH DATACENTRE LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "ANDREWS, Katherine Alice",
+      "officer_role": "director",
+      "appointed_on": "2014-04-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Vanderbreen Street",
+        "address_line_2": "Bisley",
+        "country": "United Kingdom",
+        "locality": "Stroud",
+        "postal_code": "GL6 7BN",
+        "premises": "Highridge",
+        "region": "Gloucestershire"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/08972051/appointments/I5ViBO-LpgnunsPSnjDJGyq4Iis",
+        "officer": {
+          "appointments": "/officers/JREUTVQrp_7LKRjhaMYYgEIOWMY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JAGO, Nicholas",
+      "officer_role": "director",
+      "appointed_on": "2014-04-02",
+      "resigned_on": null,
+      "nationality": "United Kingdom",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "country": "United Kingdom",
+        "locality": "Swindon",
+        "postal_code": "SN3 1NP",
+        "premises": "294 Marlborough Road",
+        "region": "Wiltshire"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/08972051/appointments/FPQoEHVeYeJrNIn_r62ublZm8EI",
+        "officer": {
+          "appointments": "/officers/v0NoW8Si4G2FSb_FsRCYc82v0gg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

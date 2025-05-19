@@ -1,0 +1,32 @@
+{
+  "company_number": "14919305",
+  "company_name": "TECH BEES LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ISMAIL, Elyas Ali Mohmed",
+      "officer_role": "director",
+      "appointed_on": "2023-06-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Elgar Close",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E13 9EW",
+        "premises": "3"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/14919305/appointments/hXR-PXTXTRq-Us3xbtPkkIeB2SE",
+        "officer": {
+          "appointments": "/officers/Zz37qD3blL8sc4YSmwdlb9niyVw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

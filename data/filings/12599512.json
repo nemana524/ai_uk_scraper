@@ -1,0 +1,541 @@
+[
+  {
+    "transaction_id": "MzQ2NDA1MTYwNmFkaXF6a2N4",
+    "barcode": "XE17ESRS",
+    "type": "CS01",
+    "date": "2025-04-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-26"
+    },
+    "pages": 3,
+    "action_date": "2025-02-26",
+    "links": {
+      "self": "/company/12599512/filing-history/MzQ2NDA1MTYwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C__Pe9wRcREWI62aU-qFOI3jSA9B-dQW2_7pCOrBPV8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTg0NzA0MmFkaXF6a2N4",
+    "barcode": "XDZ03KO2",
+    "type": "AA",
+    "date": "2025-03-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 3,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/12599512/filing-history/MzQ1OTg0NzA0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MomWKud7oQeFBSaXoOmF0a4Xk4HVIGxGVc60czUi420"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzAxMjcyNmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-05-25",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12599512/filing-history/MzQyMzAxMjcyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Iem-VgNfoNjzjUT4OfLYMYmjZzxhrR1t0radJsKdNJY"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzAxMjc3OWFkaXF6a2N4",
+    "barcode": "XD3PRMB4",
+    "type": "AA",
+    "date": "2024-05-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 3,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/12599512/filing-history/MzQyMzAxMjc3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/y9hkfPVUabsVOnEzkP6zh8CrIr8DBxCc1z4QceY6C48"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzAxMjcwMGFkaXF6a2N4",
+    "barcode": "XD3PRLV6",
+    "type": "CS01",
+    "date": "2024-05-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-02-26"
+    },
+    "pages": 3,
+    "action_date": "2024-02-26",
+    "links": {
+      "self": "/company/12599512/filing-history/MzQyMzAxMjcwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zYU3CXz9fadMeamw834UPGXbf0Oa8lh5K7oQAN7h6pY"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTMxNTk3NGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-04-30",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12599512/filing-history/MzQxOTMxNTk3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8OMZYV0CVyWgBU759AGk3dqQmY5am6_vD0uvfKFQHQY"
+    }
+  },
+  {
+    "transaction_id": "MzM3MjUzNTA5OGFkaXF6a2N4",
+    "barcode": "XBZ9RGRU",
+    "type": "CS01",
+    "date": "2023-03-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-02-26"
+    },
+    "pages": 3,
+    "action_date": "2023-02-26",
+    "links": {
+      "self": "/company/12599512/filing-history/MzM3MjUzNTA5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RDyWzReDHBrsWaapU8FQbtrOVMAe_O4wK1V5fp_iFM4"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTA0NjAxNmFkaXF6a2N4",
+    "barcode": "XBYAW1OO",
+    "type": "AA",
+    "date": "2023-02-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-05-31"
+    },
+    "pages": 7,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/12599512/filing-history/MzM3MTA0NjAxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GHO9Ian_xav76YvM2KCwBEcVyDL0f478vPQwgSKpVZQ"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzU5OTMyOGFkaXF6a2N4",
+    "barcode": "XB0B7T4Q",
+    "type": "CS01",
+    "date": "2022-03-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-02-26"
+    },
+    "pages": 3,
+    "action_date": "2022-02-26",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMzMzU5OTMyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hKdKpbCuYJnisRhKyfXLIL9ALdd-Foeq1YYitlmNsEg"
+    }
+  },
+  {
+    "transaction_id": "MzMyOTMxNzUxOWFkaXF6a2N4",
+    "barcode": "XAXH6N3M",
+    "type": "AA",
+    "date": "2022-02-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-05-31"
+    },
+    "pages": 7,
+    "action_date": "2021-05-31",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMyOTMxNzUxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vt-51YuHbeZwkfGew7rkwY89-LoFALNjdNxedlrr_Qs"
+    }
+  },
+  {
+    "transaction_id": "MzMxODUwMzE4MGFkaXF6a2N4",
+    "barcode": "XAG26QIR",
+    "type": "PSC01",
+    "date": "2021-10-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Alvaru Tumba",
+      "notification_date": "2021-10-25"
+    },
+    "pages": 2,
+    "action_date": "2021-10-25",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMxODUwMzE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/V1i8WxBgWTaMHU_t3RxTrZj8GFdPG6mS2V7aDPwrA_I"
+    }
+  },
+  {
+    "transaction_id": "MzMxODUwMzAzOGFkaXF6a2N4",
+    "barcode": "XAG26PGY",
+    "type": "TM01",
+    "date": "2021-10-28",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Maruf Miah",
+      "termination_date": "2021-10-25"
+    },
+    "pages": 1,
+    "action_date": "2021-10-25",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMxODUwMzAzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wtmU-aFjqwhQb8r_TWGSiEwqFGzy76fqJDcfbp3S3Xo"
+    }
+  },
+  {
+    "transaction_id": "MzMxODUwMjUxM2FkaXF6a2N4",
+    "barcode": "XAG26MXL",
+    "type": "AP01",
+    "date": "2021-10-28",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Alvaro Tumba",
+      "appointment_date": "2021-10-25"
+    },
+    "pages": 2,
+    "action_date": "2021-10-25",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMxODUwMjUxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jn78TB_KW_gKSqUfXHnnnGUpV2JyoaiiNyDQC1igAGI"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDQxODY2NGFkaXF6a2N4",
+    "barcode": "XADIJN0A",
+    "type": "AP01",
+    "date": "2021-09-21",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Maruf Miah",
+      "appointment_date": "2021-09-17"
+    },
+    "pages": 2,
+    "action_date": "2021-09-17",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMxNDQxODY2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j2sbm6FfX36-QzNRVxQR7XVhGCmUZkeAN_I0df1pjHk"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDQxNzk5NmFkaXF6a2N4",
+    "barcode": "XADIJKSA",
+    "type": "TM01",
+    "date": "2021-09-21",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Virgil Zabava",
+      "termination_date": "2021-09-14"
+    },
+    "pages": 1,
+    "action_date": "2021-09-14",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMxNDQxNzk5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7ZXpLjYxfA8DtkdHcF3JUMYetx_99jG5WcSGpul-XEA"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDQxNzk5MGFkaXF6a2N4",
+    "barcode": "XADIJKO2",
+    "type": "PSC07",
+    "date": "2021-09-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Virgil Zabava",
+      "cessation_date": "2021-09-15"
+    },
+    "pages": 1,
+    "action_date": "2021-09-15",
+    "links": {
+      "self": "/company/12599512/filing-history/MzMxNDQxNzk5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SMk78-yfAmjaLWV02nRKbI3_RE797JW29d_-WPDLZGE"
+    }
+  },
+  {
+    "transaction_id": "MzI5NzQxMDA2MmFkaXF6a2N4",
+    "barcode": "XA24L0A9",
+    "type": "PSC01",
+    "date": "2021-04-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Virgil Zabava",
+      "notification_date": "2021-04-09"
+    },
+    "pages": 2,
+    "action_date": "2021-04-09",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI5NzQxMDA2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eXN6JjGcPIxhP70J0Zs_buV0CqxGtPMlTV5mT1ZZA5Y"
+    }
+  },
+  {
+    "transaction_id": "MzI5NzQxMDAxNGFkaXF6a2N4",
+    "barcode": "XA24L00A",
+    "type": "AP01",
+    "date": "2021-04-10",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Virgil Zabava",
+      "appointment_date": "2021-04-09"
+    },
+    "pages": 2,
+    "action_date": "2021-04-09",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI5NzQxMDAxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/G0sYhgpjBUHzCOjS089Iv5xJQ40TRI9BJkiPpIM4mcI"
+    }
+  },
+  {
+    "transaction_id": "MzI5NzQwOTk4NmFkaXF6a2N4",
+    "barcode": "XA24KZUB",
+    "type": "TM01",
+    "date": "2021-04-10",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Md Samsuddin Tipu",
+      "termination_date": "2021-04-08"
+    },
+    "pages": 1,
+    "action_date": "2021-04-08",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI5NzQwOTk4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_IK7bXcWVZNB_kIAD_A8HDv5NUukxhZHBq5f5Knq_Tc"
+    }
+  },
+  {
+    "transaction_id": "MzI5NzQwOTk4MmFkaXF6a2N4",
+    "barcode": "XA24KZVV",
+    "type": "PSC07",
+    "date": "2021-04-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Md Samsuddin Tipu",
+      "cessation_date": "2021-04-09"
+    },
+    "pages": 1,
+    "action_date": "2021-04-09",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI5NzQwOTk4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7F1m0zgzNUw7wwUwZmaqCS-kDe1VxEbqEAC0I_J1uT8"
+    }
+  },
+  {
+    "transaction_id": "MzI5NzQwOTkyNmFkaXF6a2N4",
+    "barcode": "XA24KZEX",
+    "type": "AD01",
+    "date": "2021-04-10",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-04-10",
+      "old_address": "Office 223 58 Peregrine Road Hainault Ilford Essex IG6 3SZ England",
+      "new_address": "Business First 25 Goodlass Road Liverpool L24 9HJ"
+    },
+    "pages": 1,
+    "action_date": "2021-04-10",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI5NzQwOTkyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SX5dEm_MJTLawagPgJVZf7SG6z8GOBIRHvpeXj_PIdI"
+    }
+  },
+  {
+    "transaction_id": "MzI5Mjc2NzcxMWFkaXF6a2N4",
+    "barcode": "X9Z4TY56",
+    "type": "CS01",
+    "date": "2021-02-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-02-26"
+    },
+    "pages": 4,
+    "action_date": "2021-02-26",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI5Mjc2NzcxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/M5RT5WsZqSh2W5FBqaCaBKTqVcHFlKOGxCATJvgjRNg"
+    }
+  },
+  {
+    "transaction_id": "MzI5Mjc2NzY4OGFkaXF6a2N4",
+    "barcode": "X9Z4TXWW",
+    "type": "PSC04",
+    "date": "2021-02-26",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-02-15",
+      "psc_name": "Mr Md Samsuddin Tipu"
+    },
+    "pages": 2,
+    "action_date": "2021-02-15",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI5Mjc2NzY4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BUdkwkFcPE21WSR-r_LEVg9i2nMJyCkjROEXBhhImcI"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjE1OTI3OGFkaXF6a2N4",
+    "barcode": "X9K18TP6",
+    "type": "PSC01",
+    "date": "2020-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Md Samsuddin Tipu",
+      "notification_date": "2020-12-16"
+    },
+    "pages": 2,
+    "action_date": "2020-12-16",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI4NjE1OTI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1df6zMNcSax9p1ztLRivDHc_No5IE7q7wtbLtYiO3kE"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjE1ODQ1NmFkaXF6a2N4",
+    "barcode": "X9K18QRT",
+    "type": "AP01",
+    "date": "2020-12-16",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Md Samsuddin Tipu",
+      "appointment_date": "2020-12-16"
+    },
+    "pages": 2,
+    "action_date": "2020-12-16",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI4NjE1ODQ1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5IrQZWQVs44S_w7SsY26AImaQh4cq8k9NrsaTHa-wxo"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjE1NzY2MWFkaXF6a2N4",
+    "barcode": "X9K18NSO",
+    "type": "AD01",
+    "date": "2020-12-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-12-16",
+      "old_address": "20-22 Wenlock Road London N1 7GU England",
+      "new_address": "Office 223 58 Peregrine Road Hainault Ilford Essex IG6 3SZ"
+    },
+    "pages": 1,
+    "action_date": "2020-12-16",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI4NjE1NzY2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sFAUdMeYOKra5wQI1A5r689vNk20pwTF3UteR9kPoEM"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjE1Njk5MGFkaXF6a2N4",
+    "barcode": "X9K18KEH",
+    "type": "PSC07",
+    "date": "2020-12-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nominee Solutions Limited",
+      "cessation_date": "2020-12-16"
+    },
+    "pages": 1,
+    "action_date": "2020-12-16",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI4NjE1Njk5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VQrpQZTfizIGTeOSpLobY2fNiG_ja4slndIs5Ycto2M"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjE1Njk3MGFkaXF6a2N4",
+    "barcode": "X9K18K57",
+    "type": "TM01",
+    "date": "2020-12-16",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mladen Blaga",
+      "termination_date": "2020-12-16"
+    },
+    "pages": 1,
+    "action_date": "2020-12-16",
+    "links": {
+      "self": "/company/12599512/filing-history/MzI4NjE1Njk3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VlS0UnxDRR_FSTPzOLAieG0lhFR5BG_XMvAwNY2YxG8"
+    }
+  },
+  {
+    "transaction_id": "MzI2NDU2MTk5OWFkaXF6a2N4",
+    "barcode": "X94WA0UY",
+    "type": "NEWINC",
+    "date": "2020-05-13",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-05-13",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-05-13",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-05-13",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-05-13"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12599512/filing-history/MzI2NDU2MTk5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RbRvyXUmWoU8Vd8erJEyEQKkEPF206hOjh2uo4ET25E"
+    }
+  }
+]

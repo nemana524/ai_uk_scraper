@@ -1,0 +1,35 @@
+{
+  "company_number": "15820375",
+  "company_name": "TECH GENESIS INNOVATORS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "RANA, Aman",
+      "officer_role": "director",
+      "appointed_on": "2024-07-04",
+      "resigned_on": null,
+      "nationality": "Nepalese",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Commercial Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E1 1NL",
+        "premises": "150d"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/15820375/appointments/KASLbyAvvcbnezGJq_YDblf8yYk",
+        "officer": {
+          "appointments": "/officers/QnfIXz4VM9PkKquDoGAMI2x-l4w/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

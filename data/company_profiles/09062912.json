@@ -1,0 +1,45 @@
+{
+  "company_number": "09062912",
+  "company_name": "TECH CORPORATION (GB) LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2014-05-30",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "71 Arthur Road",
+    "country": "England",
+    "locality": "Windsor",
+    "postal_code": "SL4 1RT",
+    "region": "Berkshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "936dc554cb78345b069bfb0267a7d32dd7d909a9"
+}

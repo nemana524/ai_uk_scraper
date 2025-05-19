@@ -1,0 +1,75 @@
+[
+  {
+    "transaction_id": "MzQzNjg3ODUwMmFkaXF6a2N4",
+    "barcode": "XDC8EPOA",
+    "type": "CS01",
+    "date": "2024-09-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-09-10"
+    },
+    "pages": 3,
+    "action_date": "2024-09-10",
+    "links": {
+      "self": "/company/15130972/filing-history/MzQzNjg3ODUwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wjnC99LSWvecCBfC5Rvrqig3zrTZ8zD089RzmJxciKo"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjU1MDYwN2FkaXF6a2N4",
+    "barcode": "XCBT10FL",
+    "type": "CH01",
+    "date": "2023-09-11",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-09-11",
+      "officer_name": "Mr Mitchell Paul Harrison"
+    },
+    "pages": 2,
+    "action_date": "2023-09-11",
+    "links": {
+      "self": "/company/15130972/filing-history/MzM5MjU1MDYwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s_7kbIpshxG_swqXrmWhgSyK_6n8aUNcCFjb2dmf1Wk"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjQ2NTAyNmFkaXF6a2N4",
+    "barcode": "XCBSUJ88",
+    "type": "NEWINC",
+    "date": "2023-09-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-09-11",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-09-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-09-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/15130972/filing-history/MzM5MjQ2NTAyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-JH-oT3hY2E3uN57WjELd1EDddpzkgeIB1l2sRXN3MA"
+    }
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "transaction_id": "MzQ1NTk1ODE1MGFkaXF6a2N4",
+    "barcode": "XDWVTU1M",
+    "type": "CS01",
+    "date": "2025-02-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-09"
+    },
+    "pages": 3,
+    "action_date": "2025-02-09",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQ1NTk1ODE1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/79ZWaEZ0NxJ0EYc0nrVA6WmavlLCfAb07JvDYRsxmKg"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTY3Nzk1N2FkaXF6a2N4",
+    "barcode": "XDWQFG3V",
+    "type": "TM01",
+    "date": "2025-02-19",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Muhammad Jamshad Ashraf",
+      "termination_date": "2025-02-18"
+    },
+    "pages": 1,
+    "action_date": "2025-02-18",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQ1NTY3Nzk1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FWUxYl6R2go8Vx4n6UQjM97otZjRXxpSpJASS0RnZfs"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDAxMjI3MWFkaXF6a2N4",
+    "barcode": "XDTNLA3M",
+    "type": "AD01",
+    "date": "2025-01-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-01-06",
+      "old_address": "23 Northbrook Street Newbury RG14 1DJ England",
+      "new_address": "Unit 11 14 Orchard Street Didcot OX11 7LG"
+    },
+    "pages": 1,
+    "action_date": "2025-01-06",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQ1MDAxMjI3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aVjnAZcDmoNFB_nNOQ8U9hANEAOUBfddJrB5Xf63M2o"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzE1NTU3NGFkaXF6a2N4",
+    "barcode": "XDCDQ5A0",
+    "type": "AA",
+    "date": "2024-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 7,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQzNzE1NTU3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jlM3FL1KTWp2anCBWfJ6PFY-4fjvXhMUCw-0tCKcxSI"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDYyMDA1NmFkaXF6a2N4",
+    "barcode": "XCWHXLEZ",
+    "type": "CS01",
+    "date": "2024-02-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-02-09"
+    },
+    "pages": 4,
+    "action_date": "2024-02-09",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQxMDYyMDA1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kaHp3-Kgac-I3E7a8XFTroe0THoT2t7FHYioqtre0nM"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDU1OTc0MmFkaXF6a2N4",
+    "barcode": "XCWHXJP6",
+    "type": "AP01",
+    "date": "2024-02-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Shmail Mukhtar Cheema",
+      "appointment_date": "2024-02-09"
+    },
+    "pages": 2,
+    "action_date": "2024-02-09",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQxMDU1OTc0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NjgSdRHYZFTXtGO-0lSrJ-P5UlxhM3r45fJlmwLxm5Q"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDI4OTU2OWFkaXF6a2N4",
+    "barcode": "XCWCINKI",
+    "type": "CS01",
+    "date": "2024-02-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-02-07"
+    },
+    "pages": 4,
+    "action_date": "2024-02-07",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQxMDI4OTU2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zCUSKYnlCU_T8VHHWT_Q3NmrtHjhXj-jSdSKXcmBfxQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDIyODQ5OGFkaXF6a2N4",
+    "barcode": "XCWCIHYH",
+    "type": "AP01",
+    "date": "2024-02-07",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Muhammad Jamshad Ashraf",
+      "appointment_date": "2024-02-01"
+    },
+    "pages": 2,
+    "action_date": "2024-02-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQxMDIyODQ5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zeUkMLNyr-1fSEcnfd4ycVBVJEZbziRCoEvNZbrOzso"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDIyODQwOWFkaXF6a2N4",
+    "barcode": "XCWCIGVN",
+    "type": "TM01",
+    "date": "2024-02-07",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Shmail Mukhtar Cheema",
+      "termination_date": "2024-02-01"
+    },
+    "pages": 1,
+    "action_date": "2024-02-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQxMDIyODQwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OcLWUfnnp6s4pztc_d5rgmXHJC1RSVjrOB35IIoD3gU"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzQzMDI3NGFkaXF6a2N4",
+    "barcode": "XCUMI2F7",
+    "type": "CS01",
+    "date": "2024-01-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-01-13"
+    },
+    "pages": 4,
+    "action_date": "2024-01-13",
+    "links": {
+      "self": "/company/11714067/filing-history/MzQwNzQzMDI3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wGUSxlN6bHrybsH6rBcYWipdEDa05x2LzjsNppUJ2Z8"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzgyNTY5NGFkaXF6a2N4",
+    "barcode": "XCCH43JF",
+    "type": "AA",
+    "date": "2023-09-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 7,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/11714067/filing-history/MzM5MzgyNTY5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j9U4fgsiJ1mYkK9CsOHjk8KZxAX5sxJJ27qeJfKuWW4"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjI3ODUwN2FkaXF6a2N4",
+    "barcode": "XC58X7J7",
+    "type": "CS01",
+    "date": "2023-06-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-06-01"
+    },
+    "pages": 3,
+    "action_date": "2023-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzM4MjI3ODUwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lHzyguiZJZbAi7xAShL9xgyL22lpRXx5-dqHCTd-wgg"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzU3MTI4MWFkaXF6a2N4",
+    "barcode": "XBJHGGNE",
+    "type": "AP01",
+    "date": "2022-12-23",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Shmail Mukhtar Cheema",
+      "appointment_date": "2022-12-23"
+    },
+    "pages": 2,
+    "action_date": "2022-12-23",
+    "links": {
+      "self": "/company/11714067/filing-history/MzM2MzU3MTI4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZkjTs6sGObsOZxN6Zn3Pe70ZQCgD5aIIGJ6ttDCBoQY"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjIyNTc1M2FkaXF6a2N4",
+    "barcode": "XBIVO3EW",
+    "type": "AD01",
+    "date": "2022-12-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-12-15",
+      "old_address": "6 Sadler Street Wells Somerset BA5 2SE United Kingdom",
+      "new_address": "23 Northbrook Street Newbury RG14 1DJ"
+    },
+    "pages": 1,
+    "action_date": "2022-12-15",
+    "links": {
+      "self": "/company/11714067/filing-history/MzM2MjIyNTc1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cjqMscshjV5lSlSdj1gd_48N8RyvaZEbVEXixr1itqo"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzEyMDczOWFkaXF6a2N4",
+    "barcode": "XBDEWK34",
+    "type": "AA",
+    "date": "2022-09-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-12-31"
+    },
+    "pages": 7,
+    "action_date": "2021-12-31",
+    "links": {
+      "self": "/company/11714067/filing-history/MzM1MzEyMDczOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TZy9QuOKQrE9UDXijSgoWd0ECWRHJ3JJR6id4s3CR10"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjY3NTU1OWFkaXF6a2N4",
+    "barcode": "XB67O9QC",
+    "type": "CS01",
+    "date": "2022-06-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-06-01"
+    },
+    "pages": 3,
+    "action_date": "2022-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzM0MjY3NTU1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8LewU9w5536kNLQOrAjmh2dR4AXeuwk3JTjFvt98Qg8"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzYyNTkzMWFkaXF6a2N4",
+    "barcode": "XACX4697",
+    "type": "AA",
+    "date": "2021-09-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-12-31"
+    },
+    "pages": 3,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/11714067/filing-history/MzMxMzYyNTkzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JLvlcrTnizgQoZ1-Z5CdIsyJZl1-m8Rex8TD73SlJYk"
+    }
+  },
+  {
+    "transaction_id": "MzMwNDI4NDY5MGFkaXF6a2N4",
+    "barcode": "XA6LZTOW",
+    "type": "CS01",
+    "date": "2021-06-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-06-01"
+    },
+    "pages": 3,
+    "action_date": "2021-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzMwNDI4NDY5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/z8ohHfGnL4Mf_bdnwtLxTatmGMeMhW-ydcL7NqyVZfQ"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTE3NjYzM2FkaXF6a2N4",
+    "barcode": "X9J7WOMJ",
+    "type": "AA",
+    "date": "2020-12-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-12-31"
+    },
+    "pages": 7,
+    "action_date": "2019-12-31",
+    "links": {
+      "self": "/company/11714067/filing-history/MzI4NTE3NjYzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HGCN3UAtrRH1LrzeMYKGS_ovhTGxakAP_uy5Han2zCA"
+    }
+  },
+  {
+    "transaction_id": "MzI2NzEyNzY2NWFkaXF6a2N4",
+    "barcode": "X96YUT14",
+    "type": "CS01",
+    "date": "2020-06-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-06-01"
+    },
+    "pages": 3,
+    "action_date": "2020-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzI2NzEyNzY2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cyD0_5BYr6HUEvKClDFpka_RmzCvg5mVfsg5LsLmf14"
+    }
+  },
+  {
+    "transaction_id": "MzI2NzEyNzUwN2FkaXF6a2N4",
+    "barcode": "X96YUSCX",
+    "type": "PSC04",
+    "date": "2020-06-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-06-01",
+      "psc_name": "Mr Ahmad Fraz"
+    },
+    "pages": 2,
+    "action_date": "2020-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzI2NzEyNzUwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qi8P11faIiat2nj-A_FmaI-XGaXv3v29zfiQKNzvlIM"
+    }
+  },
+  {
+    "transaction_id": "MzI2NzEyNzM5N2FkaXF6a2N4",
+    "barcode": "X96YURZN",
+    "type": "CH01",
+    "date": "2020-06-11",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2020-06-01",
+      "officer_name": "Mr Ahmad Fraz"
+    },
+    "pages": 2,
+    "action_date": "2020-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzI2NzEyNzM5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gAl3uPYIA7BPultCDNQROcM7JHi7E3zDMZngGL5PsHM"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjE3NzYwOWFkaXF6a2N4",
+    "barcode": "X8704C57",
+    "type": "CS01",
+    "date": "2019-06-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-06-01"
+    },
+    "pages": 5,
+    "action_date": "2019-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzIzNjE3NzYwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3jr_cZfghB5U8amy4qyIwUwfU8K7tD6DLZciKt6Fs4s"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjE3NDkzMGFkaXF6a2N4",
+    "barcode": "X87044VV",
+    "type": "AP01",
+    "date": "2019-06-05",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Ahmad Fraz",
+      "appointment_date": "2019-06-01"
+    },
+    "pages": 2,
+    "action_date": "2019-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzIzNjE3NDkzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zV4OL_hvtNcHyHWdXgMsEtLNhYZAhR7xiFykhmAibsE"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjE3NDc1NGFkaXF6a2N4",
+    "barcode": "X8704460",
+    "type": "PSC01",
+    "date": "2019-06-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ahmad Fraz",
+      "notification_date": "2019-06-01"
+    },
+    "pages": 2,
+    "action_date": "2019-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzIzNjE3NDc1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j4dOvPwSjxxTM2KOCwAfNmDkerS2qUTTMJx36WG0lDM"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjE3NDMzM2FkaXF6a2N4",
+    "barcode": "X87042SP",
+    "type": "PSC07",
+    "date": "2019-06-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Shmail Mukhtar Cheema",
+      "cessation_date": "2019-06-01"
+    },
+    "pages": 1,
+    "action_date": "2019-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzIzNjE3NDMzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qaMuRyKh6HH6udlSIckG0LuF5dGQg9SfQJmeNjpHd2o"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjE3NDMxN2FkaXF6a2N4",
+    "barcode": "X87042P4",
+    "type": "TM01",
+    "date": "2019-06-05",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Shmail Mukhtar Cheema",
+      "termination_date": "2019-06-01"
+    },
+    "pages": 1,
+    "action_date": "2019-06-01",
+    "links": {
+      "self": "/company/11714067/filing-history/MzIzNjE3NDMxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/11_5PCdFluxr3L-ZYlVg4Ca581VHrDwE3PD652c5tDY"
+    }
+  },
+  {
+    "transaction_id": "MzIyMTI0NTcyMmFkaXF6a2N4",
+    "barcode": "X7K53UYY",
+    "type": "NEWINC",
+    "date": "2018-12-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2018-12-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-12-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2018-12-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 39,
+    "links": {
+      "self": "/company/11714067/filing-history/MzIyMTI0NTcyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/66IfXqjrO1vNKBZU1mBxMOQYkq_NOPW-wZ1Btg4yMIU"
+    }
+  }
+]

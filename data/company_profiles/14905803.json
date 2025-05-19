@@ -1,0 +1,44 @@
+{
+  "company_number": "14905803",
+  "company_name": "TECH 4 TITANS LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-05-31",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "61100"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "64 Cranworth Gardens",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW9 0NR"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-05-31",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "b61ba2efe3aa1a3906548f0c15e76a2c58ae3870"
+}

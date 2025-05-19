@@ -1,0 +1,35 @@
+{
+  "company_number": "15728877",
+  "company_name": "TECH CHOICE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BABAR, Ameer Hamza Khan",
+      "officer_role": "director",
+      "appointed_on": "2024-05-19",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Ullathorne Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW16 1SL",
+        "premises": "11"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1997
+      },
+      "links": {
+        "self": "/company/15728877/appointments/lS1LRjybE_WJo2UwovZ_WnF8oC4",
+        "officer": {
+          "appointments": "/officers/6xRlgr8C9MOS3iLCgUJoyuTCKcA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

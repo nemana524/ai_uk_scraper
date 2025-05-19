@@ -1,0 +1,39 @@
+[
+  {
+    "transaction_id": "MzQ1NzI0MDA5MmFkaXF6a2N4",
+    "barcode": "XDXN5X0P",
+    "type": "NEWINC",
+    "date": "2025-03-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2025-03-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2025-03-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2025-03-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2025-03-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/16293551/filing-history/MzQ1NzI0MDA5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ctNanKMMxYDvPMfm0Zb594sbCbzZnoU0R21-bekjkIU"
+    }
+  }
+]

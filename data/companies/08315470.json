@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-01-31",
+      "period_end_on": "2024-01-31",
+      "period_start_on": "2023-01-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-31",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-02-01"
+    },
+    "next_due": "2025-10-31",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EQUITY LTD",
+  "company_number": "08315470",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-30",
+    "next_due": "2025-06-13",
+    "next_made_up_to": "2025-05-30",
+    "overdue": false
+  },
+  "date_of_creation": "2012-12-03",
+  "etag": "307ab4a39214172ef8763ee8a11bb66c6badffd3",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-04-20",
+  "links": {
+    "persons_with_significant_control": "/company/08315470/persons-with-significant-control",
+    "self": "/company/08315470",
+    "filing_history": "/company/08315470/filing-history",
+    "officers": "/company/08315470/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "C/O Sg Accounting 1 Cedar Office Park",
+    "address_line_2": "Cobham Road",
+    "country": "United Kingdom",
+    "locality": "Wimborne",
+    "postal_code": "BH21 7SB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

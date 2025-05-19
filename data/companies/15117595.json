@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-05",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-05"
+    },
+    "next_due": "2025-06-05",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FORTY TWO HOLDINGS LIMITED",
+  "company_number": "15117595",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-29",
+    "next_due": "2025-11-12",
+    "next_made_up_to": "2025-10-29",
+    "overdue": false
+  },
+  "date_of_creation": "2023-09-05",
+  "etag": "05f4541f6f9b9e0d42103630c24dd24b25fb616f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15117595/persons-with-significant-control",
+    "self": "/company/15117595",
+    "filing_history": "/company/15117595/filing-history",
+    "officers": "/company/15117595/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Twelve Quays House",
+    "address_line_2": "Egerton Wharf",
+    "country": "England",
+    "locality": "Wirral",
+    "postal_code": "CH41 1LD"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "64209"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

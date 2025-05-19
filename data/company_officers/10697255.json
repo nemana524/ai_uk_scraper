@@ -1,0 +1,36 @@
+{
+  "company_number": "10697255",
+  "company_name": "TECH CITY VENTURES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "JOHNSTON, George Noel",
+      "officer_role": "director",
+      "appointed_on": "2017-03-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Totman Crescent",
+        "country": "England",
+        "locality": "Rayleigh",
+        "postal_code": "SS6 7UY",
+        "premises": "3",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/10697255/appointments/mkCLVi-FWnB-impdAy2aZW9UaCs",
+        "officer": {
+          "appointments": "/officers/xPCfaZusDc4chpucR-zUMPq61q0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

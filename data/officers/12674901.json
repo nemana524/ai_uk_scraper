@@ -1,0 +1,85 @@
+[
+  {
+    "address": {
+      "address_line_1": "Watling Avenue",
+      "country": "England",
+      "locality": "Edgware",
+      "postal_code": "HA8 0NG",
+      "premises": "369"
+    },
+    "appointed_on": "2020-06-16",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/12674901/appointments/kxgnoGN6cYeGDJtB6wDd_YL2TPE",
+      "officer": {
+        "appointments": "/officers/ihslMHpTqgkdh6zttTSJ5Z_BEdE/appointments"
+      }
+    },
+    "name": "KARKI, Ayush",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "124388840005"
+  },
+  {
+    "address": {
+      "address_line_1": "Watling Avenue",
+      "country": "England",
+      "locality": "Edgware",
+      "postal_code": "HA8 0NG",
+      "premises": "369"
+    },
+    "appointed_on": "2023-09-17",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/12674901/appointments/7QWEMQIPapT2knsyjEQo8MH8hWk",
+      "officer": {
+        "appointments": "/officers/0SLgq9IcpoD_zLApsWiopfg0VwA/appointments"
+      }
+    },
+    "name": "KARKI, Sajada Sharma",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "313590450001"
+  },
+  {
+    "address": {
+      "address_line_1": "Pentax House",
+      "address_line_2": "South Hill Avenue",
+      "country": "England",
+      "locality": "Harrow",
+      "postal_code": "HA2 0DU",
+      "premises": "401-402"
+    },
+    "appointed_on": "2020-06-16",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/12674901/appointments/5v-i7hlMYfdMiE0P23JlHpxs_lY",
+      "officer": {
+        "appointments": "/officers/dBfbC5YhZu2YbtzIwSMaCuoFgiQ/appointments"
+      }
+    },
+    "name": "NEPAL, Basanta",
+    "nationality": "British",
+    "occupation": "Consultant",
+    "officer_role": "director",
+    "resigned_on": "2023-09-17",
+    "person_number": "187713800001"
+  }
+]

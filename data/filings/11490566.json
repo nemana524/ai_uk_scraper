@@ -1,0 +1,459 @@
+[
+  {
+    "transaction_id": "MzQ2MTMxNzI2MGFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2025-04-15",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11490566/filing-history/MzQ2MTMxNzI2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XXsjoIcKM2dUIpL6ObFYEC7MCWCjYUTgdzIp9LHKM_0"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTMxNjQ4N2FkaXF6a2N4",
+    "barcode": "XDZP6OJ7",
+    "type": "DS01",
+    "date": "2025-04-03",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/11490566/filing-history/MzQ2MTMxNjQ4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m0aSqGWfxSifKrUSpLQWTgrqecXEYdB3xN-marv38tU"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjYxOTUxOGFkaXF6a2N4",
+    "barcode": "XDFMCESI",
+    "type": "AA",
+    "date": "2024-11-11",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 4,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/11490566/filing-history/MzQ0MjYxOTUxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9QPD2JiO0WBnImmMmrCMDOyHNFsh-eGvo4V6qCn5CDc"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDU3MzcyM2FkaXF6a2N4",
+    "barcode": "XD8FGPW0",
+    "type": "CS01",
+    "date": "2024-07-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-07-29"
+    },
+    "pages": 4,
+    "action_date": "2024-07-29",
+    "links": {
+      "self": "/company/11490566/filing-history/MzQzMDU3MzcyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/b6IVuBKW05uETGSW8nd10PD1WEcnS-9VDvHoQeQIAfY"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDE2MzYwNWFkaXF6a2N4",
+    "barcode": "XCYQVDQQ",
+    "type": "AA",
+    "date": "2024-03-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 4,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/11490566/filing-history/MzQxNDE2MzYwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hYPcutZC79HKb3uENOewVzthLUBhHu6KgxJeN6n2VEU"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTcyNDUyMGFkaXF6a2N4",
+    "barcode": "XCBCSKYR",
+    "type": "CS01",
+    "date": "2023-09-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-07-29"
+    },
+    "pages": 5,
+    "action_date": "2023-07-29",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM5MTcyNDUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rEl3jqri2aUKL2mYyrBmosojTFcF6Oo29w-c5Z81bzE"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzkzOTExNWFkaXF6a2N4",
+    "barcode": "XC8OQTBK",
+    "type": "AA",
+    "date": "2023-07-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-07-31"
+    },
+    "pages": 4,
+    "action_date": "2022-07-31",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM4NzkzOTExNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0-KRNkFInUIndWZY7sA7EWO1DUHcQwzSY430ee0AQ84"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjQyNTY5M2FkaXF6a2N4",
+    "barcode": "XC5BPHIJ",
+    "type": "CH01",
+    "date": "2023-06-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-06-08",
+      "officer_name": "Mr Romain Biros"
+    },
+    "pages": 2,
+    "action_date": "2023-06-08",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM4MjQyNTY5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zXetiqXhgWxYDI2Mkdbj-PXqsUCh-t3n0BBKwypRPlA"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjQyNTM1N2FkaXF6a2N4",
+    "barcode": "XC5BPH9M",
+    "type": "PSC04",
+    "date": "2023-06-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-06-08",
+      "psc_name": "Mr Romain Biros"
+    },
+    "pages": 2,
+    "action_date": "2023-06-08",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM4MjQyNTM1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jlKbqOr-s4T3_OhXl1hkcEj52CyveXhz1eTBv1do9YU"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjQyNDc4M2FkaXF6a2N4",
+    "barcode": "XC5BPGS8",
+    "type": "AD01",
+    "date": "2023-06-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-06-09",
+      "old_address": "52 Hindmans Road London SE22 9NG England",
+      "new_address": "73 Iliffe Street London SE17 3LL"
+    },
+    "pages": 1,
+    "action_date": "2023-06-09",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM4MjQyNDc4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NrTmJNY26NCVdgBnh_Hsq_6cN1Qt_c8U_zmBA8Z06IE"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTYyNjA3N2FkaXF6a2N4",
+    "barcode": "XBB1LP56",
+    "type": "AA",
+    "date": "2022-08-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-07-31"
+    },
+    "pages": 4,
+    "action_date": "2021-07-31",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM0OTYyNjA3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X_uPWyzjFXHZPBvbxMPkXQVoP3cUgT---NquCO3dSag"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODMzNzE5MGFkaXF6a2N4",
+    "barcode": "XBA31TVC",
+    "type": "CS01",
+    "date": "2022-08-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-07-29"
+    },
+    "pages": 3,
+    "action_date": "2022-07-29",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM0ODMzNzE5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cHzA9KvkzZkuqfuyQ_UZeuoZ38-f49Zbx1JWnPkbE-Q"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjI4OTIyN2FkaXF6a2N4",
+    "barcode": "XB61TN8Z",
+    "type": "PSC04",
+    "date": "2022-06-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-06-07",
+      "psc_name": "Mr Romain Biros"
+    },
+    "pages": 2,
+    "action_date": "2022-06-07",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM0MjI4OTIyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6Ef9WNfH8VWwROPjNMI8lfU4YyOc0llWgfR3UGezu-4"
+    }
+  },
+  {
+    "transaction_id": "MzM0MjI4OTA5MWFkaXF6a2N4",
+    "barcode": "XB61TMX6",
+    "type": "CH01",
+    "date": "2022-06-13",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-06-07",
+      "officer_name": "Mr Romain Biros"
+    },
+    "pages": 2,
+    "action_date": "2022-06-07",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM0MjI4OTA5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Sq-Y9VMuXEea-FUqEQ6-faBY1J2FtVYttlkQ4imJK-0"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTM4MTEwM2FkaXF6a2N4",
+    "barcode": "XB5BFA7S",
+    "type": "AD01",
+    "date": "2022-06-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-06-02",
+      "old_address": "47 Muschamp Road London SE15 4EG England",
+      "new_address": "52 Hindmans Road London SE22 9NG"
+    },
+    "pages": 1,
+    "action_date": "2022-06-02",
+    "links": {
+      "self": "/company/11490566/filing-history/MzM0MTM4MTEwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NbSLYZKXtKDCOBiI2d5RFryQ94HgRzX7caA87rtzEoY"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDg1NTg1OWFkaXF6a2N4",
+    "barcode": "XAB2L5SR",
+    "type": "CS01",
+    "date": "2021-08-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-07-29"
+    },
+    "pages": 4,
+    "action_date": "2021-07-29",
+    "links": {
+      "self": "/company/11490566/filing-history/MzMxMDg1NTg1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SAktIUoxwYDnXfRDxwzj_26FNzabYmXCjf4TA61Re74"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODk4NjY0MGFkaXF6a2N4",
+    "barcode": "XA38T5QQ",
+    "type": "AA",
+    "date": "2021-04-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-07-31"
+    },
+    "pages": 3,
+    "action_date": "2020-07-31",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI5ODk4NjY0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cXaw_13ymRV0bn1E_r48y2b7HLDMkMGNUqm1mrbBH9c"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODQ5NTc3NmFkaXF6a2N4",
+    "barcode": "XA2VH1K9",
+    "type": "CH01",
+    "date": "2021-04-21",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-04-20",
+      "officer_name": "Mr Romain Biros"
+    },
+    "pages": 2,
+    "action_date": "2021-04-20",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI5ODQ5NTc3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AOi_ehJYb907_4I74VtzCPV6S5xWW1Fxnzxo0OSlSZY"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODQ5NTgwMmFkaXF6a2N4",
+    "barcode": "XA2VH1FS",
+    "type": "PSC04",
+    "date": "2021-04-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-04-20",
+      "psc_name": "Mr Romain Biros"
+    },
+    "pages": 2,
+    "action_date": "2021-04-20",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI5ODQ5NTgwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LGshghQtb77w-wEO2YAdYws32rHhRqXEe8SEAewYkT8"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODQ5NTU4NGFkaXF6a2N4",
+    "barcode": "XA2VH0P4",
+    "type": "AD01",
+    "date": "2021-04-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-04-21",
+      "old_address": "59 Athenlay Road London England SE15 3EN United Kingdom",
+      "new_address": "47 Muschamp Road London SE15 4EG"
+    },
+    "pages": 1,
+    "action_date": "2021-04-21",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI5ODQ5NTU4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EjGhFKJ3VW29DX4EMYBoct2fnDb69MJmaFkwVjylItw"
+    }
+  },
+  {
+    "transaction_id": "MzI3NTM3NTk0MmFkaXF6a2N4",
+    "barcode": "X9BGIKOJ",
+    "type": "CS01",
+    "date": "2020-08-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-07-29"
+    },
+    "pages": 3,
+    "action_date": "2020-07-29",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI3NTM3NTk0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LlGQEEi7Lex5r71xMDN8H0Xb1ajS8azHmBi5KdbPeDU"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjcxMzA1NmFkaXF6a2N4",
+    "barcode": "X8YACSNK",
+    "type": "AA",
+    "date": "2020-02-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2019-07-31"
+    },
+    "pages": 2,
+    "action_date": "2019-07-31",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI1NjcxMzA1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KFAjykEgQGhRIgLfb9Jc3NagDDo4VeE1M9-gMe6A8WM"
+    }
+  },
+  {
+    "transaction_id": "MzI0MTYwMTg4OGFkaXF6a2N4",
+    "barcode": "X8BS1HEI",
+    "type": "AD01",
+    "date": "2019-08-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-08-14",
+      "old_address": "134 Bryant Court Whiston Road London E2 8EQ United Kingdom",
+      "new_address": "59 Athenlay Road London England SE15 3EN"
+    },
+    "pages": 1,
+    "action_date": "2019-08-14",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI0MTYwMTg4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hdeJ46uqxniHAER5UXyFv5_ctMAM5EamqKuE9dEoxe0"
+    }
+  },
+  {
+    "transaction_id": "MzI0MTYwMjI3OGFkaXF6a2N4",
+    "barcode": "X8BS1IU1",
+    "type": "CS01",
+    "date": "2019-08-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-07-29"
+    },
+    "pages": 3,
+    "action_date": "2019-07-29",
+    "links": {
+      "self": "/company/11490566/filing-history/MzI0MTYwMjI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nGsedTq5NHqZOI-P3KL0i9LX1O1DRhdzRaHC1VKLcGM"
+    }
+  },
+  {
+    "transaction_id": "MzIxMDg1OTY2MWFkaXF6a2N4",
+    "barcode": "X7B6EU5N",
+    "type": "NEWINC",
+    "date": "2018-07-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-07-30",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-07-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-07-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-07-30"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11490566/filing-history/MzIxMDg1OTY2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p_jzH-Z1sKsiW_qimp60dC3TGITmVMkyRT3Tt64_StI"
+    }
+  }
+]

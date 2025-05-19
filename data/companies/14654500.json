@@ -1,0 +1,40 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "type": "null"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH FAST LTD",
+  "company_number": "14654500",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-07-16",
+  "date_of_creation": "2023-02-10",
+  "etag": "168939c8a7cf2df895b7ab6be688ae7382b19fd8",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14654500/persons-with-significant-control",
+    "self": "/company/14654500",
+    "filing_history": "/company/14654500/filing-history",
+    "officers": "/company/14654500/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "128 City Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

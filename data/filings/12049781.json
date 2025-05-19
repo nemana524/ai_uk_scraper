@@ -1,0 +1,338 @@
+[
+  {
+    "transaction_id": "MzM4NjE1NDk0OWFkaXF6a2N4",
+    "barcode": "XC7N21PS",
+    "type": "TM01",
+    "date": "2023-07-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Muhammad Jumshaid Rafique",
+      "termination_date": "2023-02-01"
+    },
+    "pages": 1,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM4NjE1NDk0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xwfw6Q5r_I7v19BRDsDDqtG4rMkrX7vLpld1p0Zlv5g"
+    }
+  },
+  {
+    "transaction_id": "MzM4NjEyMjc3MGFkaXF6a2N4",
+    "barcode": "XC7MY6RT",
+    "type": "AD01",
+    "date": "2023-07-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-07-12",
+      "old_address": "49 Greengate Street Stafford ST16 2JA England",
+      "new_address": "Unit 3 Castle Walk Newcastle ST5 1AN"
+    },
+    "pages": 1,
+    "action_date": "2023-07-12",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM4NjEyMjc3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cHtrE2L-4LjWwbNVbqnBsa9et1naoxgX2Yq01EQ3cw4"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTUyMTI0M2FkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2023-07-07",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12049781/filing-history/MzM4NTUyMTI0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tZraiwlGAvEkYIYpZRvZr9gd0Aad8HNDcMlhg_zvyLs"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjIyMzgwN2FkaXF6a2N4",
+    "barcode": "XC56EDSZ",
+    "type": "PSC07",
+    "date": "2023-06-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Shehzad Hameed",
+      "cessation_date": "2023-02-01"
+    },
+    "pages": 1,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM4MjIyMzgwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j2x77T0wlOTJp6BHvLyJKBYqIIvJjd9uan4uW6rXsBs"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjIyMzgwMWFkaXF6a2N4",
+    "barcode": "XC56EDUB",
+    "type": "PSC01",
+    "date": "2023-06-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Jumshaid Rafique",
+      "notification_date": "2023-02-01"
+    },
+    "pages": 2,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM4MjIyMzgwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yGyeY4UP0GkVb5DJSRJ71wRO5d_n74z3dLr2SFVM1jU"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjIyMzY0N2FkaXF6a2N4",
+    "barcode": "XC56ED3F",
+    "type": "AP01",
+    "date": "2023-06-07",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Muhammad Jumshaid Rafique",
+      "appointment_date": "2023-02-01"
+    },
+    "pages": 2,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM4MjIyMzY0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t3AL8sZMcn3NcgUSfCYu_N0RfV62XiDAPKDu3h4Gv14"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDYzNjUxNGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-06-06",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12049781/filing-history/MzM4MDYzNjUxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Rxf7_1iLTAX5a7FDCU4GC_hNWMX2kehw_BTiL8uqWT0"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODI5MTM5NGFkaXF6a2N4",
+    "barcode": "XBWQ63MA",
+    "type": "CS01",
+    "date": "2023-02-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-02-05"
+    },
+    "pages": 4,
+    "action_date": "2023-02-05",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM2ODI5MTM5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7c_1VMhqKRry9MI82xFAn6gNLxB3Ym2MxlXv-_EFh9Q"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODI5MTI3NGFkaXF6a2N4",
+    "barcode": "XBWQ6380",
+    "type": "AP01",
+    "date": "2023-02-05",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Muhammad Shehzad Hameed",
+      "appointment_date": "2023-02-01"
+    },
+    "pages": 2,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM2ODI5MTI3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yG9xSOqYUjRiSrFBIFzmA9JCOsYzB4_oJ1srK9tpsms"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODI5MTIyM2FkaXF6a2N4",
+    "barcode": "XBWQ632G",
+    "type": "TM01",
+    "date": "2023-02-05",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Muhammad Jumshaid Rafique",
+      "termination_date": "2023-02-01"
+    },
+    "pages": 1,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM2ODI5MTIyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OgV-AH3NfqdEdDT6WyixuHNBNkEqO-GE-kBEOC0Cz0Y"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODI5MTIwMmFkaXF6a2N4",
+    "barcode": "XBWQ62YH",
+    "type": "PSC01",
+    "date": "2023-02-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Shehzad Hameed",
+      "notification_date": "2023-02-01"
+    },
+    "pages": 2,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM2ODI5MTIwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sGblvyqzBxwbgMrYzPrK8GE7YfJWUOLFlulhuYHuH9w"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODI5MTE2NWFkaXF6a2N4",
+    "barcode": "XBWQ62PE",
+    "type": "PSC07",
+    "date": "2023-02-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Jumshaid Rafique",
+      "cessation_date": "2023-02-01"
+    },
+    "pages": 1,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM2ODI5MTE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VRuI6MBYR3jKoxpNdYq4gpQiuloT-Mi4J4Cpc1-BcK4"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTkwOTYwOGFkaXF6a2N4",
+    "barcode": "XB8II6MX",
+    "type": "CS01",
+    "date": "2022-07-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-06-12"
+    },
+    "pages": 3,
+    "action_date": "2022-06-12",
+    "links": {
+      "self": "/company/12049781/filing-history/MzM0NTkwOTYwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9Os57VV3sZ1hsQOixYm6fp4gbH3fVrgHG3jirFVJu0U"
+    }
+  },
+  {
+    "transaction_id": "MzMzNDkwNTIzMWFkaXF6a2N4",
+    "barcode": "XB0XFH40",
+    "type": "AA",
+    "date": "2022-03-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-06-30"
+    },
+    "pages": 5,
+    "action_date": "2021-06-30",
+    "links": {
+      "self": "/company/12049781/filing-history/MzMzNDkwNTIzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/E5UMV0ENg_tURJ4KfHQrisxIPwDoaL7LTXa_zNaNiFA"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjYzNTE1N2FkaXF6a2N4",
+    "barcode": "XA81E0FM",
+    "type": "CS01",
+    "date": "2021-07-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-06-12"
+    },
+    "pages": 3,
+    "action_date": "2021-06-12",
+    "links": {
+      "self": "/company/12049781/filing-history/MzMwNjYzNTE1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J9LIl9ucdBHFMHqYxF1jDhvV_Xl5PtK6HBiq9OYHSIo"
+    }
+  },
+  {
+    "transaction_id": "MzMwNDI2ODE2NGFkaXF6a2N4",
+    "barcode": "XA6JGX7M",
+    "type": "AA",
+    "date": "2021-06-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-06-30"
+    },
+    "pages": 3,
+    "action_date": "2020-06-30",
+    "links": {
+      "self": "/company/12049781/filing-history/MzMwNDI2ODE2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FdknsAbgqZ22cmHtkAzs4FqXthl6-17tMyg0sk5H31g"
+    }
+  },
+  {
+    "transaction_id": "MzI3MzE3ODc0M2FkaXF6a2N4",
+    "barcode": "X99C0AZT",
+    "type": "CS01",
+    "date": "2020-07-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-06-12"
+    },
+    "pages": 3,
+    "action_date": "2020-06-12",
+    "links": {
+      "self": "/company/12049781/filing-history/MzI3MzE3ODc0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p06HMukxQa8xVVVizPWoWu8V_sQHdlCsbSIDQaspw6A"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjc1ODg4NGFkaXF6a2N4",
+    "barcode": "X87G4LOQ",
+    "type": "NEWINC",
+    "date": "2019-06-13",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-06-13",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-06-13",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-06-13",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2019-06-13"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12049781/filing-history/MzIzNjc1ODg4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p_jupgoQiobrz-ctDMuHU7zhTycZCJo2WC-igQ3GWl8"
+    }
+  }
+]

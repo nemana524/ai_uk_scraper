@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "45 Fitzroy Street",
+      "address_line_2": "Fitzrovia",
+      "country": "United Kingdom",
+      "locality": "London,",
+      "postal_code": "W1T 6EB",
+      "premises": "4th Floor, Silverstream House"
+    },
+    "appointed_on": "2023-11-29",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/15316023/appointments/JfKyxdzPrZ6_N31stnL-aZZk0OI",
+      "officer": {
+        "appointments": "/officers/pCcVUdMyLD1pyhvvVpOn0D_OQ3o/appointments"
+      }
+    },
+    "name": "COSTLEY WHITE, Theodora",
+    "nationality": "Italian",
+    "occupation": "Director And Founder",
+    "officer_role": "director",
+    "person_number": "316472520001"
+  }
+]

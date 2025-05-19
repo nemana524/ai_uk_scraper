@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Rays House",
+      "address_line_2": "North Circular Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "NW10 7XP",
+      "premises": "Suite S 7"
+    },
+    "appointed_on": "2023-09-26",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/15165738/appointments/rU8vrSYZL-UluzDE5pnFIffNy-0",
+      "officer": {
+        "appointments": "/officers/k4dE7bjpOTnCLFLkxDrjJd5B_W0/appointments"
+      }
+    },
+    "name": "ALI, Riaz",
+    "nationality": "Pakistani",
+    "occupation": "Software Engineer",
+    "officer_role": "director",
+    "person_number": "313946750001"
+  }
+]

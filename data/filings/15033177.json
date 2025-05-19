@@ -1,0 +1,149 @@
+[
+  {
+    "transaction_id": "MzQ2MTgwNzMzNGFkaXF6a2N4",
+    "barcode": "XE02NOD4",
+    "type": "AA",
+    "date": "2025-04-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 2,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/15033177/filing-history/MzQ2MTgwNzMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hIGVQNovsvK3FDfR_AOfQfFr785akaXydlTWmdDhBsY"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTAxMDAzNWFkaXF6a2N4",
+    "barcode": "XDBBXWU8",
+    "type": "CS01",
+    "date": "2024-09-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-07-26"
+    },
+    "pages": 4,
+    "action_date": "2024-07-26",
+    "links": {
+      "self": "/company/15033177/filing-history/MzQzNTAxMDAzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Y6Mxcjtwp0n6ISDDUChP3NVViog4fC7wgwtuZc-l8Bc"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzg0OTM3NGFkaXF6a2N4",
+    "barcode": "XDAIK4VS",
+    "type": "PSC01",
+    "date": "2024-08-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Wajeeha Islam",
+      "notification_date": "2024-08-29"
+    },
+    "pages": 2,
+    "action_date": "2024-08-29",
+    "links": {
+      "self": "/company/15033177/filing-history/MzQzMzg0OTM3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VRdzmykFBGg7t16VTzMSUCskyC_ZX6eWH4m1hVRhUCo"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzg0OTE5MGFkaXF6a2N4",
+    "barcode": "XDAIK46B",
+    "type": "AP01",
+    "date": "2024-08-29",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Wajeeha Islam",
+      "appointment_date": "2024-08-29"
+    },
+    "pages": 2,
+    "action_date": "2024-08-29",
+    "links": {
+      "self": "/company/15033177/filing-history/MzQzMzg0OTE5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Iuijh8G1Dd2dgvHGbZaSodJ-S3DgREv8b3rlEd_S8Wo"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzg0ODk5N2FkaXF6a2N4",
+    "barcode": "XDAIK3F7",
+    "type": "TM01",
+    "date": "2024-08-29",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mohammad Saeed",
+      "termination_date": "2024-08-29"
+    },
+    "pages": 1,
+    "action_date": "2024-08-29",
+    "links": {
+      "self": "/company/15033177/filing-history/MzQzMzg0ODk5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vy5sJ85NoDXhYvnPXSiqLxDkBqJb9zaZ6jryjQyu4zY"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzg0ODkzM2FkaXF6a2N4",
+    "barcode": "XDAIK2YP",
+    "type": "PSC07",
+    "date": "2024-08-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mohammad Saeed",
+      "cessation_date": "2024-08-29"
+    },
+    "pages": 1,
+    "action_date": "2024-08-29",
+    "links": {
+      "self": "/company/15033177/filing-history/MzQzMzg0ODkzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KavQvVSSV2BkNxZ376AoLDgvc-D2fjA4EWDkidUBWiI"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzcyNzM5MWFkaXF6a2N4",
+    "barcode": "XC8LXQ7U",
+    "type": "NEWINC",
+    "date": "2023-07-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-07-27",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-07-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-07-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15033177/filing-history/MzM4NzcyNzM5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m1QRXTCnUOpcQXx7hIruhtz3Vbtg6GRgcFdQoMNy70Q"
+    }
+  }
+]

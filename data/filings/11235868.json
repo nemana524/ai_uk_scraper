@@ -1,0 +1,511 @@
+[
+  {
+    "transaction_id": "MzQ1NzczODA5NmFkaXF6a2N4",
+    "barcode": "XDXSYUU2",
+    "type": "CS01",
+    "date": "2025-03-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-05"
+    },
+    "pages": 3,
+    "action_date": "2025-03-05",
+    "links": {
+      "self": "/company/11235868/filing-history/MzQ1NzczODA5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cBGxdKKG4HHYQ09CyS6NQtpBzbfC3YsifyBNob276Go"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzM0OTU1NGFkaXF6a2N4",
+    "barcode": "XDVE4NA3",
+    "type": "AA",
+    "date": "2025-01-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/11235868/filing-history/MzQ1MzM0OTU1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dmpaSzDNSZ8jEm3CHctfggRQVNJqTEwV3OQbukQSH94"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDE2MzQzMGFkaXF6a2N4",
+    "barcode": "XCYQVCVF",
+    "type": "CS01",
+    "date": "2024-03-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-05"
+    },
+    "pages": 3,
+    "action_date": "2024-03-05",
+    "links": {
+      "self": "/company/11235868/filing-history/MzQxNDE2MzQzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lxU2UuwPA_tHT5YawSxpIy1TCIdPgdG69KBctpSocgQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjczNTI3MmFkaXF6a2N4",
+    "barcode": "XCU6CMIB",
+    "type": "AA",
+    "date": "2024-01-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 3,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/11235868/filing-history/MzQwNjczNTI3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/87JEyslZx0PZAMzGGokTxX4a81jB-wepN-pONceCwwM"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTkzNTIyNmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-05-24",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11235868/filing-history/MzM3OTkzNTIyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q59ZMHB8dT6sn-mkst-9JklhbZY9khd7xg7M0iZiltY"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTYzMjQ5NWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-05-23",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11235868/filing-history/MzM3OTYzMjQ5NWFkaXF6a2N4"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDE3MTczMGFkaXF6a2N4",
+    "barcode": "XC3U27VL",
+    "type": "CH01",
+    "date": "2023-05-19",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-05-01",
+      "officer_name": "Mr Stephen James Kent"
+    },
+    "pages": 2,
+    "action_date": "2022-05-01",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM4MDE3MTczMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c4XDjn6hY0AVC5b5p3LBYPKSD5A1p0edhsFpjBscawE"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTk0MTc1NmFkaXF6a2N4",
+    "barcode": "XC3R45BT",
+    "type": "PSC04",
+    "date": "2023-05-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-05-01",
+      "psc_name": "Mr Stephen James Kent"
+    },
+    "pages": 2,
+    "action_date": "2022-05-01",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM3OTk0MTc1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j9P1AEfKB9kUUVtEW_eMEA-Eny-kkmnfUsKLAfCBGns"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTk0MTM1OWFkaXF6a2N4",
+    "barcode": "XC3R438B",
+    "type": "CH01",
+    "date": "2023-05-17",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-02-01",
+      "officer_name": "Mr Adam Jonathan Fox"
+    },
+    "pages": 2,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM3OTk0MTM1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cmJ2-SNK59nfXwS7Z6UF_JQsaTHw7znXj9sDeCLAB0Q"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTkzNTE1NGFkaXF6a2N4",
+    "barcode": "XC3R3SS0",
+    "type": "CS01",
+    "date": "2023-05-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-05"
+    },
+    "pages": 3,
+    "action_date": "2023-03-05",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM3OTkzNTE1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tDd7HwXSBRffFgYQhlGXOEnbNOBQS3stNJwbZDmrJbs"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTkzMzkxN2FkaXF6a2N4",
+    "barcode": "XC3R3OI2",
+    "type": "PSC04",
+    "date": "2023-05-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-02-01",
+      "psc_name": "Mr Adam Jonathan Fox"
+    },
+    "pages": 2,
+    "action_date": "2023-02-01",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM3OTkzMzkxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rQmOIGxB8A8DFN50ZzcFq-um-3nuwgcty0X4dcHWcfY"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTkzMzM5MWFkaXF6a2N4",
+    "barcode": "XC3R3MIW",
+    "type": "AD01",
+    "date": "2023-05-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-17",
+      "old_address": "44 Southcourt Avenue Leighton Buzzard LU7 2QD England",
+      "new_address": "1 Jakeman Edge Leighton Buzzard LU7 3QB"
+    },
+    "pages": 1,
+    "action_date": "2023-05-17",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM3OTkzMzM5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/87mwlTlQRSzJrI7RzPXVamshxk7IX8byurmppDHmuJk"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDMzNDA0NGFkaXF6a2N4",
+    "barcode": "XBK02AY1",
+    "type": "AA",
+    "date": "2022-12-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 3,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM2NDMzNDA0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Y-S9czhwYpIm5sa99WnF-J2uI6T3A6ETTjgiFG4iqNA"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDQyMTQ5OWFkaXF6a2N4",
+    "barcode": "XBE3Q0CY",
+    "type": "AD01",
+    "date": "2022-10-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-10-07",
+      "old_address": "30 Wendover Heights Old Tring Road Wendover HP22 6PH United Kingdom",
+      "new_address": "44 Southcourt Avenue Leighton Buzzard LU7 2QD"
+    },
+    "pages": 1,
+    "action_date": "2022-10-07",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM1NDQyMTQ5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WC8JqZhuq3t4WoXEaH3Xf5uVk-3JSqm75HlQivyvK1M"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDQyMTM2NWFkaXF6a2N4",
+    "barcode": "XBE3Q03V",
+    "type": "CH01",
+    "date": "2022-10-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-10-06",
+      "officer_name": "Mr Adam Jonathan Fox"
+    },
+    "pages": 2,
+    "action_date": "2022-10-06",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM1NDQyMTM2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SAQXwHlai-jHmOT25HVmZuQgstLT02OPbu4-0pHyxWY"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDQyMTI2M2FkaXF6a2N4",
+    "barcode": "XBE3PZFF",
+    "type": "PSC04",
+    "date": "2022-10-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-10-06",
+      "psc_name": "Mr Adam Jonathan Fox"
+    },
+    "pages": 2,
+    "action_date": "2022-10-06",
+    "links": {
+      "self": "/company/11235868/filing-history/MzM1NDQyMTI2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_YjOWxdVRL-qgi-D3u2v5FYrCB86qHhEOHGiY7tJXkE"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjAwMTkxMGFkaXF6a2N4",
+    "barcode": "XAZ4GIVF",
+    "type": "CS01",
+    "date": "2022-03-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-03-05"
+    },
+    "pages": 3,
+    "action_date": "2022-03-05",
+    "links": {
+      "self": "/company/11235868/filing-history/MzMzMjAwMTkxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_i74h8ekvoiXFwvzejlHm9xilm7vTj66YfVcs94iRAA"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTQzNDc5NmFkaXF6a2N4",
+    "barcode": "XAKJA5P5",
+    "type": "AA",
+    "date": "2021-12-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 3,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/11235868/filing-history/MzMyNTQzNDc5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gzUHxxUSMAQHXMBV5z2pQ78UDCdMyjYa5k6znqbvXGM"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTMxNTg2NWFkaXF6a2N4",
+    "barcode": "XA4QSS20",
+    "type": "CS01",
+    "date": "2021-05-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-03-05"
+    },
+    "pages": 3,
+    "action_date": "2021-03-05",
+    "links": {
+      "self": "/company/11235868/filing-history/MzMwMTMxNTg2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Dc12hXRALVd_j-jEPhKfHfUSu9-yoC57FFBx26iy2g"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTMxMzI1MGFkaXF6a2N4",
+    "barcode": "XA4QSNQ9",
+    "type": "PSC01",
+    "date": "2021-05-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Stephen James Kent",
+      "notification_date": "2021-05-17"
+    },
+    "pages": 2,
+    "action_date": "2021-05-17",
+    "links": {
+      "self": "/company/11235868/filing-history/MzMwMTMxMzI1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OYscZBFIDLCsLzOk_cF4uSmck1z0pPt0rFAji3mJZBk"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTMxMjg0NmFkaXF6a2N4",
+    "barcode": "XA4QSM89",
+    "type": "PSC01",
+    "date": "2021-05-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Adam Jonathan Fox",
+      "notification_date": "2021-05-17"
+    },
+    "pages": 2,
+    "action_date": "2021-05-17",
+    "links": {
+      "self": "/company/11235868/filing-history/MzMwMTMxMjg0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tnHV0m5qmkjVi_2XwfVLEynRvHS_bdmhWj6Nrnr2968"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTMwOTQ1OGFkaXF6a2N4",
+    "barcode": "XA4QSA5C",
+    "type": "PSC09",
+    "date": "2021-05-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement",
+    "description_values": {
+      "withdrawal_date": "2021-05-18"
+    },
+    "pages": 2,
+    "action_date": "2021-05-18",
+    "links": {
+      "self": "/company/11235868/filing-history/MzMwMTMwOTQ1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6rW1fVFqQiiAnEdc9MeG4oSls2mPM1IEDKUN7jyQA60"
+    }
+  },
+  {
+    "transaction_id": "MzMwMDk4MDk4M2FkaXF6a2N4",
+    "barcode": "XA4DPYIW",
+    "type": "CH01",
+    "date": "2021-05-13",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-05-13",
+      "officer_name": "Mr Stephen James Kent"
+    },
+    "pages": 2,
+    "action_date": "2021-05-13",
+    "links": {
+      "self": "/company/11235868/filing-history/MzMwMDk4MDk4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BXvn8uObWCravb_h68w80sSVP98mdqJShIecyUO8FPU"
+    }
+  },
+  {
+    "transaction_id": "MzI5NTA0MDI0N2FkaXF6a2N4",
+    "barcode": "XA0RMC4Y",
+    "type": "AA",
+    "date": "2021-03-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 3,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/11235868/filing-history/MzI5NTA0MDI0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/l8Fo4Nik91qFwhuliQheLqfx2hXm84a_oy77W4rkQOA"
+    }
+  },
+  {
+    "transaction_id": "MzI2Mjc0NDY2N2FkaXF6a2N4",
+    "barcode": "X93CRF34",
+    "type": "CS01",
+    "date": "2020-04-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-03-05"
+    },
+    "pages": 3,
+    "action_date": "2020-03-05",
+    "links": {
+      "self": "/company/11235868/filing-history/MzI2Mjc0NDY2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j3OYF-Zq9pAbMKT4bne3mvvWwAciqEYS2sRHzErMbv0"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTY1NDQ5MGFkaXF6a2N4",
+    "barcode": "X8JYG7M0",
+    "type": "AA",
+    "date": "2019-12-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 2,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/11235868/filing-history/MzI1MTY1NDQ5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GR-1_9B7P_unPb1MK4VcV5oBNWiGPWrwn1zV_sedkxI"
+    }
+  },
+  {
+    "transaction_id": "MzIzMDE3MzQwOGFkaXF6a2N4",
+    "barcode": "X81UNTWX",
+    "type": "CS01",
+    "date": "2019-03-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-03-05"
+    },
+    "pages": 3,
+    "action_date": "2019-03-05",
+    "links": {
+      "self": "/company/11235868/filing-history/MzIzMDE3MzQwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sAGfU565CCPKoQpTMDpDXyADoe15S-7HAZRcn3fUqzU"
+    }
+  },
+  {
+    "transaction_id": "MzE5OTE2MTk2MGFkaXF6a2N4",
+    "barcode": "X70UHXQW",
+    "type": "NEWINC",
+    "date": "2018-03-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-03-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-03-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-03-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2018-03-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 9,
+    "links": {
+      "self": "/company/11235868/filing-history/MzE5OTE2MTk2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5yYfMJiUBtBhKIFTK7O6zbvg56Cl3rxasx-O30Fw7JA"
+    }
+  }
+]

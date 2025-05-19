@@ -1,0 +1,37 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH EMBASSY UK LTD.",
+  "company_number": "15280297",
+  "company_status": "dissolved",
+  "date_of_cessation": "2025-02-18",
+  "date_of_creation": "2023-11-13",
+  "etag": "bee555a2e56ccf82c9934be0298cb2d33a0e0aae",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15280297/persons-with-significant-control",
+    "self": "/company/15280297",
+    "filing_history": "/company/15280297/filing-history",
+    "officers": "/company/15280297/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "15280297 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "registered_office_is_in_dispute": true,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

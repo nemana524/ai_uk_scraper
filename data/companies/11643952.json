@@ -1,0 +1,64 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-10-31",
+      "period_end_on": "2023-10-31",
+      "period_start_on": "2022-11-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-31",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-11-01"
+    },
+    "next_due": "2025-07-31",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EXCHANGE ENTERPRISE LTD",
+  "company_number": "11643952",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-25",
+    "next_due": "2025-11-08",
+    "next_made_up_to": "2025-10-25",
+    "overdue": false
+  },
+  "date_of_creation": "2018-10-26",
+  "etag": "baa42ea9d996422c8b97f7fd472479901276992e",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11643952/persons-with-significant-control",
+    "self": "/company/11643952",
+    "filing_history": "/company/11643952/filing-history",
+    "officers": "/company/11643952/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2025-01-07",
+      "effective_from": "2018-10-26",
+      "name": "LEVEL UP GAMING LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "37 Delves Crescent",
+    "country": "England",
+    "locality": "Walsall",
+    "postal_code": "WS5 4LS"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

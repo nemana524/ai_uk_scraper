@@ -1,0 +1,44 @@
+{
+  "company_number": "07248755",
+  "company_name": "TECH CLEANING & GUARDING LTD.",
+  "company_status": "liquidation",
+  "date_of_creation": "2010-05-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "96090"
+  ],
+  "has_insolvency_history": true,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Office 9  Stonecross House Doncaster Road",
+    "address_line_2": "Kirk Sandall",
+    "locality": "Doncaster",
+    "postal_code": "DN3 1QS"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-05-31",
+      "period_end_on": "2021-05-31",
+      "period_start_on": "2020-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-02-28",
+      "overdue": true,
+      "period_end_on": "2022-05-31",
+      "period_start_on": "2021-06-01"
+    },
+    "next_due": "2023-02-28",
+    "next_made_up_to": "2022-05-31",
+    "overdue": true
+  },
+  "etag": "6d6868d9d9ccbc8f28560248e3e46027cdcab7b8"
+}

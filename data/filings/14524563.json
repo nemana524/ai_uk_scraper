@@ -1,0 +1,49 @@
+[
+  {
+    "transaction_id": "MzQyMDkyMzE5MWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-05-14",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14524563/filing-history/MzQyMDkyMzE5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/E-H1uKCXrd2whzOWm6fCRu5RVP2ALtSG2OEutTjeQjo"
+    }
+  },
+  {
+    "transaction_id": "MzQxMTI2NDk5M2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-02-27",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14524563/filing-history/MzQxMTI2NDk5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ug_WozHhcT6J2CiHal-vpzR-9bZ90KWcsYXa3jU6JOA"
+    }
+  },
+  {
+    "transaction_id": "MzM2MDk3MzM5NWFkaXF6a2N4",
+    "barcode": "XBI7BPV7",
+    "type": "NEWINC",
+    "date": "2022-12-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-12-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 9,
+    "links": {
+      "self": "/company/14524563/filing-history/MzM2MDk3MzM5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ypWNCB41cstuF-FwEtjX1bATAbg-2iixcVUdwg7Ku3Y"
+    }
+  }
+]

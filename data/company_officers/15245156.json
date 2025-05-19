@@ -1,0 +1,35 @@
+{
+  "company_number": "15245156",
+  "company_name": "TECH EXPRESSO LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PANTUCZEK, Kamil Przemyslaw",
+      "officer_role": "director",
+      "appointed_on": "2023-10-30",
+      "resigned_on": null,
+      "nationality": "Polish",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Rutland Street",
+        "country": "England",
+        "locality": "Leicester",
+        "postal_code": "LE1 1RE",
+        "premises": "31"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 2000
+      },
+      "links": {
+        "self": "/company/15245156/appointments/dYZunKF-U2FcQ2rNTwnbza_-rJ4",
+        "officer": {
+          "appointments": "/officers/hI4DuQ9AL4J7Imrb9InkJcYf1So/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

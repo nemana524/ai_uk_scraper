@@ -1,0 +1,271 @@
+[
+  {
+    "transaction_id": "MzQzMjc0OTI2NmFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-08-27",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14102338/filing-history/MzQzMjc0OTI2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DkMMXhhWApuvYTXjAeEhhmXG4d6g6SvADn4wcfKAU8s"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzIzNjg4MGFkaXF6a2N4",
+    "barcode": "XD403WUJ",
+    "type": "TM02",
+    "date": "2024-05-27",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Form Online Limited",
+      "termination_date": "2024-05-11"
+    },
+    "pages": 1,
+    "action_date": "2024-05-11",
+    "links": {
+      "self": "/company/14102338/filing-history/MzQyMzIzNjg4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LKQyTzqEpWi6c3O8-cAXEzI393uAGuWy4NA8Z-9zwNM"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjgxNDY0N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-04-09",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14102338/filing-history/MzQxNjgxNDY0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/giaH_-Pwv3NF33NtCmAJKKTmyIMsxkSRJ8wkMdd4YiI"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTY2MTAxNWFkaXF6a2N4",
+    "barcode": "XC3ODF3K",
+    "type": "CS01",
+    "date": "2023-05-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-05-12"
+    },
+    "pages": 3,
+    "action_date": "2023-05-12",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3OTY2MTAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UYVczcyCoBJGg7cTBmqtAezIij61SxRuwazH29o5H3Q"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTM3OTEwM2FkaXF6a2N4",
+    "barcode": "XBYDJLER",
+    "type": "CERTNM",
+    "date": "2023-03-02",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2023-03-01"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2023-03-02",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed mainbrain consult LTD.\\certificate issued on 02/03/23"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTM3OTEwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0HodAQihg62flSo_E2CijBF1TER0c1cX3CpqhFFKE3Y"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5ODA2OWFkaXF6a2N4",
+    "barcode": "XBYDJPUX",
+    "type": "CS01",
+    "date": "2023-03-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-03-01"
+    },
+    "pages": 4,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTE5ODA2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gMlqhyWYfEWpwSm0fLzUrrIbfhHzBm-iYWUpK6El-AA"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5NTUyOGFkaXF6a2N4",
+    "barcode": "XBYDJGVE",
+    "type": "AD01",
+    "date": "2023-03-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-03-01",
+      "old_address": "Enterprise House 2 Pass Street Oldham Manchester OL9 6HZ United Kingdom",
+      "new_address": "3rd Floor 207 Regent Street London W1B 3HH"
+    },
+    "pages": 1,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTE5NTUyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/e4uJiA-gKHzmCD7PD4ot4-8vBc4B-kTOFTRU3JRBbTY"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5NTM1NGFkaXF6a2N4",
+    "barcode": "XBYDJG95",
+    "type": "SH01",
+    "date": "2023-03-01",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2023-03-01",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "300,000"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTE5NTM1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7MQKmFTXUsmIGdZ9qzpGSpTT1W1Ugpin7rlFQEkMSZo"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5NDg0MGFkaXF6a2N4",
+    "barcode": "XBYDJE60",
+    "type": "PSC01",
+    "date": "2023-03-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Martin Figura",
+      "notification_date": "2023-03-01"
+    },
+    "pages": 2,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTE5NDg0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ydQ7SJ0g6uHAODg87CCzLA_p7m2Kh3GYLySKu7AmIXE"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5NDUyOGFkaXF6a2N4",
+    "barcode": "XBYDJCTB",
+    "type": "AP01",
+    "date": "2023-03-01",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Martin Figura",
+      "appointment_date": "2023-03-01"
+    },
+    "pages": 2,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTE5NDUyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MW99pjYI6EEN0AvE-ndgtYf8gbG-Rfx6M6_n6srzOSA"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5NDE0OGFkaXF6a2N4",
+    "barcode": "XBYDJBAJ",
+    "type": "PSC09",
+    "date": "2023-03-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement",
+    "description_values": {
+      "withdrawal_date": "2023-03-01"
+    },
+    "pages": 2,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTE5NDE0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nk1oRJ4uYh7w1LbeBZbv4pbOLR9svwoZZuUiGaPaDkY"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTE5NDEwOGFkaXF6a2N4",
+    "barcode": "XBYDJAW9",
+    "type": "TM01",
+    "date": "2023-03-01",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Peter Martin Doyle",
+      "termination_date": "2023-03-01"
+    },
+    "pages": 1,
+    "action_date": "2023-03-01",
+    "links": {
+      "self": "/company/14102338/filing-history/MzM3MTE5NDEwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wg1w7aVWicVOdaRBX-NcHMtP4rcdiLDsboKsXU74aQc"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTAwMzI5NWFkaXF6a2N4",
+    "barcode": "XB3TIVI3",
+    "type": "NEWINC",
+    "date": "2022-05-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-05-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-05-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-05-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-05-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 9,
+    "links": {
+      "self": "/company/14102338/filing-history/MzMzOTAwMzI5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HB8FqtqLknhv44g4S8lkyrzeZBYc6u4eKq1UUqqVhj0"
+    }
+  }
+]

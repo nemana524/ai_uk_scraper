@@ -1,0 +1,59 @@
+[
+  {
+    "address": {
+      "address_line_1": "45 Holyhead  Road",
+      "country": "United Kingdom",
+      "locality": "Bangor",
+      "postal_code": "LL57 2EU",
+      "premises": "Flat C",
+      "region": "Gwynedd"
+    },
+    "appointed_on": "2024-08-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/15085286/appointments/UJHtLXWTAXNZ1wXceYrbExHq8p0",
+      "officer": {
+        "appointments": "/officers/Xn8BjoakxTRIL7YPmfC_OeUq9_g/appointments"
+      }
+    },
+    "name": "MEHMOOD, Abid",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "312635360001"
+  },
+  {
+    "address": {
+      "address_line_1": "45 Holyhead  Road",
+      "country": "United Kingdom",
+      "locality": "Bangor",
+      "postal_code": "LL57 2EU",
+      "premises": "Flat C",
+      "region": "Gwynedd"
+    },
+    "appointed_on": "2023-08-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/15085286/appointments/2YlICxUAARfn-T_YVUhKDmDYc_Y",
+      "officer": {
+        "appointments": "/officers/Xn8BjoakxTRIL7YPmfC_OeUq9_g/appointments"
+      }
+    },
+    "name": "MEHMOOD, Abid",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2024-03-18",
+    "person_number": "312635360001"
+  }
+]

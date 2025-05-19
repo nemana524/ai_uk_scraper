@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-01-31",
+      "period_end_on": "2023-01-31",
+      "period_start_on": "2022-02-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-10-29",
+      "overdue": true,
+      "period_end_on": "2024-01-29",
+      "period_start_on": "2023-02-01"
+    },
+    "next_due": "2024-10-29",
+    "next_made_up_to": "2024-01-29",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH ALUMINIUM SYSTEMS LTD",
+  "company_number": "09387095",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-10-28",
+    "next_due": "2024-11-11",
+    "next_made_up_to": "2024-10-28",
+    "overdue": true
+  },
+  "date_of_creation": "2015-01-13",
+  "etag": "1d70d062135f300659b7a8a891d4f31df9c55100",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-01-13",
+  "links": {
+    "persons_with_significant_control": "/company/09387095/persons-with-significant-control",
+    "self": "/company/09387095",
+    "filing_history": "/company/09387095/filing-history",
+    "officers": "/company/09387095/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "68 Yardley Road",
+    "address_line_2": "Acocks Green",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B27 6LG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "transaction_id": "MzQ0MjY5ODI3OGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-11-12",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15043065/filing-history/MzQ0MjY5ODI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fWSt0hqtL-jULr3SgPvPtRW40hrQ4CDyfLOuUNBnHZ0"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjY5ODI4NmFkaXF6a2N4",
+    "barcode": "XDFMJ3X5",
+    "type": "AD01",
+    "date": "2024-11-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-11-11",
+      "old_address": "92 Tolworth Broadway Surbiton KT6 7HT United Kingdom",
+      "new_address": "25 Canada Square London E14 5LB"
+    },
+    "pages": 1,
+    "action_date": "2024-11-11",
+    "links": {
+      "self": "/company/15043065/filing-history/MzQ0MjY5ODI4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wsphl1Tt05QHFVZD-WxY9oH_8Iy6SNywg44pOZ00Tnk"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjY5ODI1NmFkaXF6a2N4",
+    "barcode": "XDFMJ3GJ",
+    "type": "CS01",
+    "date": "2024-11-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 3,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/15043065/filing-history/MzQ0MjY5ODI1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZNcpPm_ozuT93wxDiYJqPMD7GzyzqlOY0Ole1uZWAoI"
+    }
+  },
+  {
+    "transaction_id": "MzQzODk5NzI5NWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-10-22",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15043065/filing-history/MzQzODk5NzI5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AQ1BGKFSt82sCzI5RQK5Z6vBBpUsbfW2P-0OfedOsTY"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTExNDkzNGFkaXF6a2N4",
+    "barcode": "XCZ738CJ",
+    "type": "AD01",
+    "date": "2024-03-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-03-19",
+      "old_address": "40 Bank Street London E14 5NR England",
+      "new_address": "92 Tolworth Broadway Surbiton KT6 7HT"
+    },
+    "pages": 1,
+    "action_date": "2024-03-19",
+    "links": {
+      "self": "/company/15043065/filing-history/MzQxNTExNDkzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YkPqI2HJ273jpFANCXuDHCectloZhRMUT7LrqMBiKEY"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzQyNDI3OGFkaXF6a2N4",
+    "barcode": "XCY833ZD",
+    "type": "AD01",
+    "date": "2024-03-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-03-05",
+      "old_address": "92 Tolworth Broadway Surbiton KT6 7HT England",
+      "new_address": "40 Bank Street London E14 5NR"
+    },
+    "pages": 1,
+    "action_date": "2024-03-05",
+    "links": {
+      "self": "/company/15043065/filing-history/MzQxMzQyNDI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MWt10qJ_MOPynVM-O2HKPCV2tnFQVsgvtwcWOGcoJxc"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODE3NDM4M2FkaXF6a2N4",
+    "barcode": "XC8WVS3V",
+    "type": "NEWINC",
+    "date": "2023-08-01",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-08-01",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-01",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-08-01",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-08-01"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15043065/filing-history/MzM4ODE3NDM4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v3q9XaJaybBw_9entaPTVfWCYkR7qgmY3g6EWr-_pKc"
+    }
+  }
+]

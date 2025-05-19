@@ -1,0 +1,35 @@
+{
+  "company_number": "15680497",
+  "company_name": "TECH BITE LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BUKHARI, Syed Ali Raza",
+      "officer_role": "director",
+      "appointed_on": "2024-04-25",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "The Mall",
+        "country": "United Kingdom",
+        "locality": "Luton",
+        "postal_code": "LU1 2TJ",
+        "premises": "140b"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/15680497/appointments/qrS5w8AQKeO7v9tlI2bBi5pLcb0",
+        "officer": {
+          "appointments": "/officers/Gu73eDCWnWUD4USyf2wWPkpS3-s/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

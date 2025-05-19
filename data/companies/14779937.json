@@ -1,0 +1,38 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH INSIDE LTD",
+  "company_number": "14779937",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-09-10",
+  "date_of_creation": "2023-04-04",
+  "etag": "9dff433f46e147231a1107ba7c07992c33b8b449",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14779937/persons-with-significant-control",
+    "self": "/company/14779937",
+    "filing_history": "/company/14779937/filing-history",
+    "officers": "/company/14779937/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Flat 59 Cathedral Court",
+    "address_line_2": "Wideford Drive",
+    "country": "England",
+    "locality": "Romford",
+    "postal_code": "RM7 0GU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

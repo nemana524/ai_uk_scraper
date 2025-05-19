@@ -1,0 +1,86 @@
+[
+  {
+    "transaction_id": "MzQ2MzcwNzgzN2FkaXF6a2N4",
+    "barcode": "XE14CIWP",
+    "type": "AA",
+    "date": "2025-04-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-06-30"
+    },
+    "pages": 3,
+    "action_date": "2024-06-30",
+    "links": {
+      "self": "/company/14919305/filing-history/MzQ2MzcwNzgzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fbzrZzgjk-DHSwC3QFOg9Q9ZFW5QXy_rU2WsI9_1Pxk"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTIwODYwNGFkaXF6a2N4",
+    "barcode": "XD7J4FCQ",
+    "type": "CS01",
+    "date": "2024-07-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-05"
+    },
+    "pages": 3,
+    "action_date": "2024-06-05",
+    "links": {
+      "self": "/company/14919305/filing-history/MzQyOTIwODYwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JbdLD_USfVGfgj_udZd2i-xN8_vZVMztykUIbN1otoE"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjA1NTcwMmFkaXF6a2N4",
+    "barcode": "XC53NWCW",
+    "type": "NEWINC",
+    "date": "2023-06-06",
+    "category": "incorporation",
+    "annotations": [
+      {
+        "annotation": "Part Rectified The director's date of birth on the IN01 was removed from the public register on 03/01/2024 as it was invalid or ineffective.",
+        "date": "2024-01-03",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Rectified The director's date of birth on the IN01 was removed from the public register on 03/01/2024 as it was invalid or ineffective."
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-06-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-06-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-06-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14919305/filing-history/MzM4MjA1NTcwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ubxf-Q1nCpMmWcDij9SnaYQbE408xzL1aUi_EmqYWt0"
+    }
+  }
+]

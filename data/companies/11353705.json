@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DEMAND LIMITED",
+  "company_number": "11353705",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-31",
+    "next_due": "2025-06-14",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "date_of_creation": "2018-05-10",
+  "etag": "37ac9c076bd948c93dca1a982ec040dc74cef7aa",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11353705/persons-with-significant-control",
+    "self": "/company/11353705",
+    "filing_history": "/company/11353705/filing-history",
+    "officers": "/company/11353705/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20-22 Wenlock Road Wenlock Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73200"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,36 @@
+{
+  "company_number": "15291828",
+  "company_name": "TECH FOLIO LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SANKALE, Neha",
+      "officer_role": "director",
+      "appointed_on": "2023-11-17",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "High Street",
+        "address_line_2": "Golborne",
+        "country": "England",
+        "locality": "Warrington",
+        "postal_code": "WA3 3DA",
+        "premises": "82"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/15291828/appointments/iTmUSBwCqkqHpVkcRUvqOtINGJ8",
+        "officer": {
+          "appointments": "/officers/avxUXxH800u80Szl9xArkKG-GTw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

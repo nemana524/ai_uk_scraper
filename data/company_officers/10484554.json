@@ -1,0 +1,65 @@
+{
+  "company_number": "10484554",
+  "company_name": "TECH EXCHANGE LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "HASSAN, Jama Hussein",
+      "officer_role": "director",
+      "appointed_on": "2019-10-11",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Self Employed",
+      "address": {
+        "address_line_1": "Old Kent Road",
+        "address_line_2": "Unit 1",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SE1 5LU",
+        "premises": "255"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1967
+      },
+      "links": {
+        "self": "/company/10484554/appointments/OFvWqkRpwkEn7tBILyAYoChMTbc",
+        "officer": {
+          "appointments": "/officers/OsvlC_38lJ6L_f1DvWXfmIo0kmE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "HASSAN, Jama Hussein",
+      "officer_role": "director",
+      "appointed_on": "2016-11-17",
+      "resigned_on": "2019-10-10",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "It Engineer",
+      "address": {
+        "address_line_1": "Old Kent Road",
+        "address_line_2": "Unit 1",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SE1 5LU",
+        "premises": "255"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1967
+      },
+      "links": {
+        "self": "/company/10484554/appointments/gMwj_sIJr6qUiQv0NV5vPRTpFug",
+        "officer": {
+          "appointments": "/officers/u7gyHOesrMnKmqLxjg6AacgtbkU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

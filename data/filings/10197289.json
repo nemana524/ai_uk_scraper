@@ -1,0 +1,451 @@
+[
+  {
+    "transaction_id": "MzQ1ODY0NzM4OGFkaXF6a2N4",
+    "barcode": "XDYBNQ82",
+    "type": "AP01",
+    "date": "2025-03-14",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Brandon Anthony Davis",
+      "appointment_date": "2025-03-01"
+    },
+    "pages": 2,
+    "action_date": "2025-03-01",
+    "links": {
+      "self": "/company/10197289/filing-history/MzQ1ODY0NzM4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ha7ULO-7uLcobX4G3A7zYxyNgUE8yMLpadJGBUdiATo"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODY0NzA1N2FkaXF6a2N4",
+    "barcode": "XDYBNOKI",
+    "type": "PSC07",
+    "date": "2025-03-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Hassan Al Laban",
+      "cessation_date": "2025-03-01"
+    },
+    "pages": 1,
+    "action_date": "2025-03-01",
+    "links": {
+      "self": "/company/10197289/filing-history/MzQ1ODY0NzA1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/U4rliP2TVDaKcCYXUyn4ffBA3sNcTqc8CoUU2hFt7ms"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODY0NzA1NWFkaXF6a2N4",
+    "barcode": "XDYBNOLM",
+    "type": "TM01",
+    "date": "2025-03-14",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Hassan Al Laban",
+      "termination_date": "2025-03-01"
+    },
+    "pages": 1,
+    "action_date": "2025-03-01",
+    "links": {
+      "self": "/company/10197289/filing-history/MzQ1ODY0NzA1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PVtcm-XE3QAzQ9sWTWYO5blWHMr0N7PShN3lvvMIEnk"
+    }
+  },
+  {
+    "transaction_id": "MzQ1ODY0Njk0MWFkaXF6a2N4",
+    "barcode": "XDYBNO3T",
+    "type": "AD01",
+    "date": "2025-03-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-03-14",
+      "old_address": "1 Alperton Lane Perivale Greenford UB6 8DH England",
+      "new_address": "1 Lymington Road London NW6 1HX"
+    },
+    "pages": 1,
+    "action_date": "2025-03-14",
+    "links": {
+      "self": "/company/10197289/filing-history/MzQ1ODY0Njk0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mHYNQkiEDgZcjk6HVwIOauIdUiNgGhZQ7sxXtbg4keE"
+    }
+  },
+  {
+    "transaction_id": "MzMzODUwNDk2M2FkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2022-05-07",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10197289/filing-history/MzMzODUwNDk2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ro4kblWcfR8ojatiHasYCCfngacE8F9Ife-HuOn1wTY"
+    }
+  },
+  {
+    "transaction_id": "MzMzNjUwNzE4MmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-04-26",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10197289/filing-history/MzMzNjUwNzE4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gZKNxd1LK2Xwr5xG1psV1-sJ2-AUu0M1qomqahuddAc"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjg0NTg0MmFkaXF6a2N4",
+    "barcode": "XA86UCAB",
+    "type": "CS01",
+    "date": "2021-07-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-05-23"
+    },
+    "pages": 3,
+    "action_date": "2021-05-23",
+    "links": {
+      "self": "/company/10197289/filing-history/MzMwNjg0NTg0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/grVo6bIIw9IfAMR6epjHC2-cCsDCR0o_zyswBt_X29k"
+    }
+  },
+  {
+    "transaction_id": "MzI3MzI3MDg0NmFkaXF6a2N4",
+    "barcode": "X99EO2YP",
+    "type": "AA",
+    "date": "2020-07-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2020-05-31"
+    },
+    "pages": 2,
+    "action_date": "2020-05-31",
+    "links": {
+      "self": "/company/10197289/filing-history/MzI3MzI3MDg0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/u31Ow1m9y1rLYwtCRyIEaWJQA71McirhsSCpWHtqhI0"
+    }
+  },
+  {
+    "transaction_id": "MzI3MzI3MDM0NGFkaXF6a2N4",
+    "barcode": "X99EO02A",
+    "type": "CS01",
+    "date": "2020-07-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-05-23"
+    },
+    "pages": 3,
+    "action_date": "2020-05-23",
+    "links": {
+      "self": "/company/10197289/filing-history/MzI3MzI3MDM0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VaycA2kidHpzImvBL08fgFd_S-te19EPDmHO8VWuVgI"
+    }
+  },
+  {
+    "transaction_id": "MzI3MzI2OTYyM2FkaXF6a2N4",
+    "barcode": "X99ENYL2",
+    "type": "AD01",
+    "date": "2020-07-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-07-16",
+      "old_address": "162a Willesden Lane London NW6 7PQ",
+      "new_address": "1 Alperton Lane Perivale Greenford UB6 8DH"
+    },
+    "pages": 1,
+    "action_date": "2020-07-16",
+    "links": {
+      "self": "/company/10197289/filing-history/MzI3MzI2OTYyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VvaXXpX1e26pG_jedgBJzC6p-rhlsUfPsoqk0bRF2XA"
+    }
+  },
+  {
+    "transaction_id": "MzI2NTAxOTMxM2FkaXF6a2N4",
+    "barcode": "A9570KK9",
+    "type": "DS02",
+    "date": "2020-05-19",
+    "category": "dissolution",
+    "description": "dissolution-withdrawal-application-strike-off-company",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10197289/filing-history/MzI2NTAxOTMxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ao4TsK18BAgQQ3KDdoF_OrXTfVDj9VPXZdwwDLyeVbw"
+    }
+  },
+  {
+    "transaction_id": "MzI2NTAxNzQ5OWFkaXF6a2N4",
+    "barcode": "A9570KKH",
+    "type": "AD01",
+    "date": "2020-05-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-05-19",
+      "old_address": "1 Alperton Lane Perivale Greenford Middlesex UB6 8DH England",
+      "new_address": "162a Willesden Lane London NW6 7PQ"
+    },
+    "pages": 1,
+    "action_date": "2020-05-19",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10197289/filing-history/MzI2NTAxNzQ5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I9fL2u0uNJ6JZJWpJ8AYj2YIX4TQdSNbaVfH-XckQ8w"
+    }
+  },
+  {
+    "transaction_id": "MzI2NTAxNzQ5OGFkaXF6a2N4",
+    "barcode": "A9570KGO",
+    "type": "AA",
+    "date": "2020-05-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2019-05-31"
+    },
+    "pages": 2,
+    "action_date": "2019-05-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10197289/filing-history/MzI2NTAxNzQ5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wYZTORO1Dv-fNpUSfIHWjmSEvc1LF1jP-AQ4MIVbF0g"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTMyOTc3OWFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2020-04-07",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10197289/filing-history/MzI2MTMyOTc3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fgSX0-xWqR505YtF8ChY6dO32r3L1t1UiFs2mAZXLMU"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTE2NTEyOGFkaXF6a2N4",
+    "barcode": "A91O6BHN",
+    "type": "DS01",
+    "date": "2020-03-31",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10197289/filing-history/MzI2MTE2NTEyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T_tFVtYENk8gsJVFfiZEkpVpfZnf607UCl9ixkOUGB0"
+    }
+  },
+  {
+    "transaction_id": "MzI0MDQwNzI0OGFkaXF6a2N4",
+    "barcode": "X8AOCFUP",
+    "type": "CS01",
+    "date": "2019-07-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-05-23"
+    },
+    "pages": 3,
+    "action_date": "2019-05-23",
+    "links": {
+      "self": "/company/10197289/filing-history/MzI0MDQwNzI0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/unwOK1my_xKDds-5eI58mON_RUNAesr8QkvvHp5_0Sw"
+    }
+  },
+  {
+    "transaction_id": "MzIyODAzMTA3NWFkaXF6a2N4",
+    "barcode": "X802VWXU",
+    "type": "AA",
+    "date": "2019-02-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2018-05-31"
+    },
+    "pages": 7,
+    "action_date": "2018-05-31",
+    "links": {
+      "self": "/company/10197289/filing-history/MzIyODAzMTA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xD2OLvB2dLunRnzP6IQt7Fw3cDaNYHdMIPE1EKoZgto"
+    }
+  },
+  {
+    "transaction_id": "MzIwNjUxMjYyNGFkaXF6a2N4",
+    "barcode": "X77BPRUH",
+    "type": "CS01",
+    "date": "2018-06-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-05-23"
+    },
+    "pages": 3,
+    "action_date": "2018-05-23",
+    "links": {
+      "self": "/company/10197289/filing-history/MzIwNjUxMjYyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rYwRFgsmJMLWFOA-I_IZuB8zXjyarLBPSmmKNimXJ7Q"
+    }
+  },
+  {
+    "transaction_id": "MzE5NzUzMDYzMWFkaXF6a2N4",
+    "barcode": "X6ZLL5GA",
+    "type": "AA",
+    "date": "2018-02-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2017-05-31"
+    },
+    "pages": 2,
+    "action_date": "2017-05-31",
+    "links": {
+      "self": "/company/10197289/filing-history/MzE5NzUzMDYzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wh2_zRce8ZfV5_DUJDRL8TJArTT6-cf-lk1Kvy0eWmY"
+    }
+  },
+  {
+    "transaction_id": "MzE4MDgzMzQ2OGFkaXF6a2N4",
+    "barcode": "X6AWZQG8",
+    "type": "CS01",
+    "date": "2017-07-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-05-23"
+    },
+    "pages": 4,
+    "action_date": "2017-05-23",
+    "links": {
+      "self": "/company/10197289/filing-history/MzE4MDgzMzQ2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TRgzH-v--RfdTv_v2vwpIgnUpQxKG4DGytyrNOjHp2g"
+    }
+  },
+  {
+    "transaction_id": "MzE4MDgzMzQzN2FkaXF6a2N4",
+    "barcode": "X6AWZOWO",
+    "type": "PSC01",
+    "date": "2017-07-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Hassan Al Laban",
+      "notification_date": "2017-06-06"
+    },
+    "pages": 2,
+    "action_date": "2017-06-06",
+    "links": {
+      "self": "/company/10197289/filing-history/MzE4MDgzMzQzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yWmRpkd6XYDsS6tU27YQfi1o3jfqJ8CwIDoJJdh66mQ"
+    }
+  },
+  {
+    "transaction_id": "MzE1NjAxMDgzOGFkaXF6a2N4",
+    "barcode": "X5E7HZOG",
+    "type": "CH01",
+    "date": "2016-08-26",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2016-05-24",
+      "officer_name": "Mr Hassan Al Laban"
+    },
+    "pages": 2,
+    "action_date": "2016-05-24",
+    "links": {
+      "self": "/company/10197289/filing-history/MzE1NjAxMDgzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jhw3t3tZWnRIbjxW_Tkf5eA9BDRc653uHp9Enc3h3OE"
+    }
+  },
+  {
+    "transaction_id": "MzE1NDc4MTU5MWFkaXF6a2N4",
+    "barcode": "X5D1N8R7",
+    "type": "AD01",
+    "date": "2016-08-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2016-08-09",
+      "old_address": "214 Tooting High Street London SW17 0SG United Kingdom",
+      "new_address": "1 Alperton Lane Perivale Greenford Middlesex UB6 8DH"
+    },
+    "pages": 1,
+    "action_date": "2016-08-09",
+    "links": {
+      "self": "/company/10197289/filing-history/MzE1NDc4MTU5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cg1XNrWg7MbJW8cKKw7PYXGVGOr8NWVPuJL4uGV2ekY"
+    }
+  },
+  {
+    "transaction_id": "MzE0OTcyMTY4M2FkaXF6a2N4",
+    "barcode": "X5862QIW",
+    "type": "CH01",
+    "date": "2016-05-31",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2016-05-24",
+      "officer_name": "Mr Hassan Al Laban"
+    },
+    "pages": 2,
+    "action_date": "2016-05-24",
+    "links": {
+      "self": "/company/10197289/filing-history/MzE0OTcyMTY4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KOyfaRVwySbO6URG5Px8T9gxaIxGH2fyopZo37FC6aY"
+    }
+  },
+  {
+    "transaction_id": "MzE0OTE2MTA0NmFkaXF6a2N4",
+    "barcode": "X57L8VGQ",
+    "type": "NEWINC",
+    "date": "2016-05-24",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2016-05-24",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2016-05-24",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-05-24",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2016-05-24"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 7,
+    "links": {
+      "self": "/company/10197289/filing-history/MzE0OTE2MTA0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EYwWWiRdzFwd4utd_14K-UcO-mzrWB-e93SDh9i_miE"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "company_number": "SC613688",
+  "company_name": "TECH DRAWING LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "WILSON, Martin",
+      "officer_role": "director",
+      "appointed_on": "2018-11-14",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Scotland",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "West George Street",
+        "country": "Scotland",
+        "locality": "Glasgow",
+        "postal_code": "G2 1BP",
+        "premises": "Suite 2/3, 2nd Floor"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/SC613688/appointments/2EH5q-ZAHMpGO01dH4egORR6Rl8",
+        "officer": {
+          "appointments": "/officers/V8bKIkcWE6tTKsxaUDwfGtYVN7o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

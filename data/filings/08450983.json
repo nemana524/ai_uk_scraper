@@ -1,0 +1,829 @@
+[
+  {
+    "transaction_id": "MzQ2MjY5MzI2NGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2025-04-16",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ2MjY5MzI2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DB36nnUrevixQXJcRmplVlM8MKKqG1sbKFfLqVOjPlE"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjY5MzA0NGFkaXF6a2N4",
+    "barcode": "ADZLB4IZ",
+    "type": "AD01",
+    "date": "2025-04-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-04-15",
+      "old_address": "PO Box 4385 08450983 - Companies House Default Address Cardiff CF14 8LH",
+      "new_address": "222 Southside St. John's Walk Birmingham West Midlands B5 4TJ"
+    },
+    "pages": 3,
+    "action_date": "2025-04-15",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ2MjY5MzA0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dmsq58q40zC-G_fIqb3b_Pe8-0y1hyGvG3LAncvKoMg"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTcyNTk5OGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-04-01",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ1OTcyNTk5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_KPJE8x3xbtNLsA5CPGPIZ7LeI-sbsVv2-LfOyQLi3A"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTA3MDg5M2FkaXF6a2N4",
+    "barcode": "XDWD76WH",
+    "type": "RP10",
+    "date": "2025-02-14",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-psc",
+    "description_values": {
+      "change_date": "2025-02-14",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "08450983",
+      "psc_name": "Xiaochuan Ke"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ1NTA3MDg5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/88aFAeUtzes-8i50wqk5PFg3PIjVqNZj0yDej1DY1I4"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTA3MDc4NWFkaXF6a2N4",
+    "barcode": "XDWD76CQ",
+    "type": "RP09",
+    "date": "2025-02-14",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-officer",
+    "description_values": {
+      "change_date": "2025-02-14",
+      "officer_name": "Dongming Zhao",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "08450983"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ1NTA3MDc4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HW0Hxso8VOZpM1EqSg12e7bmk4vshvZosMnbYFktZ8I"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTA3MDY4NmFkaXF6a2N4",
+    "barcode": "XDWD75WO",
+    "type": "RP09",
+    "date": "2025-02-14",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-officer",
+    "description_values": {
+      "change_date": "2025-02-14",
+      "officer_name": "Xiaochuan Ke",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "08450983"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ1NTA3MDY4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I0XoplgNIG37gY4vOWez7EN31cY86-kimp3c7MnnRFQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTA3MDU0M2FkaXF6a2N4",
+    "barcode": "UDWCEU2X",
+    "type": "RP05",
+    "date": "2025-02-14",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2025-02-14",
+      "default_address": "PO Box 4385, 08450983 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2025-02-14",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ1NTA3MDU0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KkVC5u3Pw-rPK_xhiQu45Evb-3MkaXBReONVcXfMHUE"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTk3MDM0M2FkaXF6a2N4",
+    "barcode": "XDTKZQJD",
+    "type": "CS01",
+    "date": "2025-01-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-22"
+    },
+    "pages": 3,
+    "action_date": "2024-12-22",
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ0OTk3MDM0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dZO0CPUd7Xx2Zy_y46RhBdxfPMvUh1s5m7Jd2dfc3gI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzA4NTU1NGFkaXF6a2N4",
+    "barcode": "XDHT2WRD",
+    "type": "AA",
+    "date": "2024-12-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 2,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzQ0NzA4NTU1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KdF4aUMMEGEq1tVUG-XiSJMGQ743Wl9CCe_2ZH50Qx4"
+    }
+  },
+  {
+    "transaction_id": "MzQzNjQwNTQ4N2FkaXF6a2N4",
+    "barcode": "XDBXLAK3",
+    "type": "AP01",
+    "date": "2024-09-18",
+    "category": "officers",
+    "annotations": [
+      {
+        "annotation": "Part Admin Removed The service address of the director on the AP01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered.",
+        "date": "2025-02-14",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Admin Removed The service address of the director on the AP01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered."
+        }
+      }
+    ],
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Dongming Zhao",
+      "appointment_date": "2013-03-20"
+    },
+    "pages": 2,
+    "action_date": "2013-03-20",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzQzNjQwNTQ4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bbKL5K15arWmYFNhhs06h-Zca3QCaJCt9D5F4_sPD8U"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjcyMjUwM2FkaXF6a2N4",
+    "barcode": "XCU6BQSJ",
+    "type": "CS01",
+    "date": "2024-01-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-22"
+    },
+    "pages": 3,
+    "action_date": "2023-12-22",
+    "links": {
+      "self": "/company/08450983/filing-history/MzQwNjcyMjUwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TmKSLVRlYV5O_2x8uI2_WjX9TFSqzZmGyzX0YKriXuk"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTUxOTUxOGFkaXF6a2N4",
+    "barcode": "XCJ0XIRS",
+    "type": "AA",
+    "date": "2023-12-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 2,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzQwNTUxOTUxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nWPlEArCZKt43S4CN7KRrCsEYVGQI-rDqaajfYMSTTY"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDY1NjYzM2FkaXF6a2N4",
+    "barcode": "XBUHQEK1",
+    "type": "CS01",
+    "date": "2023-01-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-12-22"
+    },
+    "pages": 3,
+    "action_date": "2022-12-22",
+    "links": {
+      "self": "/company/08450983/filing-history/MzM2NDY1NjYzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2prKLPgbP8YIqNZdXyFrO7rCbzaQPpS-gZ3uagZuql8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzkzOTI2N2FkaXF6a2N4",
+    "barcode": "XBJUICGB",
+    "type": "AA",
+    "date": "2022-12-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 2,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzM2MzkzOTI2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SlMJnDdEritv3xixA3q9p1nS6jRGKXiBPpUDDhc5wvI"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTQ1Mzk0NWFkaXF6a2N4",
+    "barcode": "XAUSVB01",
+    "type": "CS01",
+    "date": "2022-01-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-12-22"
+    },
+    "pages": 3,
+    "action_date": "2021-12-22",
+    "links": {
+      "self": "/company/08450983/filing-history/MzMyNTQ1Mzk0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sDllmPHyfi5VHSqHZUIGfUOvcFCpSUzB1XM2BxuxY-o"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTQzNTI2NmFkaXF6a2N4",
+    "barcode": "XAKJA7WI",
+    "type": "AA",
+    "date": "2021-12-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 2,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzMyNTQzNTI2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/23J4ZeXEUuLUwOWCg9NZyuTXVCrhE7j1qplVAh3enj4"
+    }
+  },
+  {
+    "transaction_id": "MzI5NjI0OTY4NWFkaXF6a2N4",
+    "barcode": "XA1DLIWY",
+    "type": "AA",
+    "date": "2021-03-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2020-03-30"
+    },
+    "pages": 2,
+    "action_date": "2020-03-30",
+    "links": {
+      "self": "/company/08450983/filing-history/MzI5NjI0OTY4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cxbN05jsnu3KmofHmWbA7TkGBdj3u64EXea1LvX3Vpg"
+    }
+  },
+  {
+    "transaction_id": "MzI5MDk3ODg5MGFkaXF6a2N4",
+    "barcode": "X9XXUGNL",
+    "type": "CS01",
+    "date": "2021-02-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-12-22"
+    },
+    "pages": 3,
+    "action_date": "2020-12-22",
+    "links": {
+      "self": "/company/08450983/filing-history/MzI5MDk3ODg5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dDEoOUaeYLlzKn8WpRejffRFvVg5w8ciUG1DKOsCQ4M"
+    }
+  },
+  {
+    "transaction_id": "MzI1Mjg1NDM2NmFkaXF6a2N4",
+    "barcode": "X8KURGL6",
+    "type": "AA",
+    "date": "2019-12-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 2,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzI1Mjg1NDM2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IZ1eHuYgIChTVKkkajHcMUq-7YVecSwaS3i5DTJWxRQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1Mjg1NDE4NGFkaXF6a2N4",
+    "barcode": "X8KURFSQ",
+    "type": "CS01",
+    "date": "2019-12-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-12-22"
+    },
+    "pages": 3,
+    "action_date": "2019-12-22",
+    "links": {
+      "self": "/company/08450983/filing-history/MzI1Mjg1NDE4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QeenLgSQg2zgGqkGzWk6B3uN4iSBAhxQnlQ1BB8ZgiY"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDc3NTM1MGFkaXF6a2N4",
+    "barcode": "X85WBPWQ",
+    "type": "CS01",
+    "date": "2019-05-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-05-20"
+    },
+    "pages": 4,
+    "action_date": "2019-05-20",
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzNDc3NTM1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hsh-RUED-MocBtcbHBTS3VJiqLC6sOsECJx6Yp-WXlE"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDc0NTk1OGFkaXF6a2N4",
+    "barcode": "X85OMUCG",
+    "type": "RESOLUTIONS",
+    "date": "2019-05-20",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2019-05-17"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2019-05-20",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzNDc0NTk1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uO3_zto_pXCK0v82cZHG5-rQwSU-eUlB8WYlkd9cg4Q"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDY4OTI3MGFkaXF6a2N4",
+    "barcode": "X85OMUGO",
+    "type": "PSC01",
+    "date": "2019-05-17",
+    "category": "persons-with-significant-control",
+    "annotations": [
+      {
+        "annotation": "Part Admin Removed The service address of the person with significant control on the PSC01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered.",
+        "date": "2025-02-14",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Admin Removed The service address of the person with significant control on the PSC01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered."
+        }
+      }
+    ],
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Xiaochuan Ke",
+      "notification_date": "2019-05-17"
+    },
+    "pages": 2,
+    "action_date": "2019-05-17",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzNDY4OTI3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DLn7ee-r-eAoc81H-NqAD_PLo4jNeta2lZQ-dSWYXCY"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDY4OTIyOGFkaXF6a2N4",
+    "barcode": "X85OMUD4",
+    "type": "PSC07",
+    "date": "2019-05-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Dongming Zhao",
+      "cessation_date": "2019-05-17"
+    },
+    "pages": 1,
+    "action_date": "2019-05-17",
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzNDY4OTIyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZYrdqYKYFlfW6RtUqxVoDBC5_KU1xB1EEurxOtVmqYI"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDY4OTIwN2FkaXF6a2N4",
+    "barcode": "X85OMU6X",
+    "type": "TM01",
+    "date": "2019-05-17",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Dongming Zhao",
+      "termination_date": "2019-05-17"
+    },
+    "pages": 1,
+    "action_date": "2019-05-17",
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzNDY4OTIwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5-BdII4EfRsqL7_wPRzcqXqOWmm8xH1vC86nJavuEac"
+    }
+  },
+  {
+    "transaction_id": "MzIzNDY4OTIwNWFkaXF6a2N4",
+    "barcode": "X85OMU3E",
+    "type": "AP01",
+    "date": "2019-05-17",
+    "category": "officers",
+    "annotations": [
+      {
+        "annotation": "Part Admin Removed The service address of the director on the AP01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered.",
+        "date": "2025-02-14",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Admin Removed The service address of the director on the AP01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered."
+        }
+      }
+    ],
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Xiaochuan Ke",
+      "appointment_date": "2019-05-17"
+    },
+    "pages": 2,
+    "action_date": "2019-05-17",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzNDY4OTIwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4hcDxtGe4sk7uZ0Z2n66cjyHrtFJRkylJjErGCa8WLg"
+    }
+  },
+  {
+    "transaction_id": "MzIzMDkwNzY4OWFkaXF6a2N4",
+    "barcode": "X82G2IQG",
+    "type": "AD01",
+    "date": "2019-04-01",
+    "category": "address",
+    "annotations": [
+      {
+        "annotation": "Part Admin Removed The registered office address on the AD01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered.",
+        "date": "2025-02-14",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Admin Removed The registered office address on the AD01 was administratively removed from the public register on 14/02/2025 as the material was not properly delivered."
+        }
+      }
+    ],
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-04-01",
+      "old_address": ", Room42 43 George Street, Birmingham, B3 1QA",
+      "new_address": "Room222 Southside St. John's Walk Birmingham B5 4TJ"
+    },
+    "pages": 1,
+    "action_date": "2019-04-01",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzMDkwNzY4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1HYXhp4UM92dj8eJa-WRm5hRyfZJZKxZOGi9crkSbM0"
+    }
+  },
+  {
+    "transaction_id": "MzIzMDE3NDg2MmFkaXF6a2N4",
+    "barcode": "X81UO1DN",
+    "type": "CS01",
+    "date": "2019-03-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-03-19"
+    },
+    "pages": 3,
+    "action_date": "2019-03-19",
+    "links": {
+      "self": "/company/08450983/filing-history/MzIzMDE3NDg2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GSy1ItomKkTMvPu5RzPahqimkGZ8s24Pv5qsp32k9Ic"
+    }
+  },
+  {
+    "transaction_id": "MzIyMTQzOTcwMmFkaXF6a2N4",
+    "barcode": "X7KAGXYD",
+    "type": "AA",
+    "date": "2018-12-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2018-03-31"
+    },
+    "pages": 2,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzIyMTQzOTcwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5h7vdZRZcL_JtWtTjx19sfSjjo9NsZjmvJjCwjwqULI"
+    }
+  },
+  {
+    "transaction_id": "MzIwMDg0NzQ2OWFkaXF6a2N4",
+    "barcode": "X72BCTRU",
+    "type": "CS01",
+    "date": "2018-03-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-03-19"
+    },
+    "pages": 3,
+    "action_date": "2018-03-19",
+    "links": {
+      "self": "/company/08450983/filing-history/MzIwMDg0NzQ2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Cgpwh56XQoFitFyJB3Kk0faZ-BjG9kBNHNnDTLnk2ks"
+    }
+  },
+  {
+    "transaction_id": "MzE5MzcxMjM3NmFkaXF6a2N4",
+    "barcode": "X6M1IRBE",
+    "type": "AA",
+    "date": "2017-12-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2017-03-31"
+    },
+    "pages": 2,
+    "action_date": "2017-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzE5MzcxMjM3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_xAYvlEl7Hs0AdTKCMutvw7kkwWLckxlo-s0wfA-Ivw"
+    }
+  },
+  {
+    "transaction_id": "MzE3MjYyODE2NGFkaXF6a2N4",
+    "barcode": "X63HZ71C",
+    "type": "CS01",
+    "date": "2017-04-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-03-19"
+    },
+    "pages": 5,
+    "action_date": "2017-03-19",
+    "links": {
+      "self": "/company/08450983/filing-history/MzE3MjYyODE2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X3fHBohVe25e0kLFsni9ng5_khk4d-0rpBdTdHeWjK8"
+    }
+  },
+  {
+    "transaction_id": "MzE2NTMxNjA3NWFkaXF6a2N4",
+    "barcode": "X5MQBIF7",
+    "type": "AA",
+    "date": "2016-12-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2016-03-31"
+    },
+    "pages": 2,
+    "action_date": "2016-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzE2NTMxNjA3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OlGJo72mp3WJrSk6INvMKfLSBv0V4uPLOVJQjddzFQM"
+    }
+  },
+  {
+    "transaction_id": "MzE0NDQzODM0NGFkaXF6a2N4",
+    "barcode": "X5358DJK",
+    "type": "AR01",
+    "date": "2016-03-20",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-03-20",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-03-20",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "500"
+            }
+          ]
+        },
+        "action_date": "2016-03-20"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2016-03-19"
+    },
+    "pages": 3,
+    "action_date": "2016-03-19",
+    "links": {
+      "self": "/company/08450983/filing-history/MzE0NDQzODM0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-TWfZ9fyOvat3jEXd2TqZ8n5-5c37VkkKC87vTSxL8k"
+    }
+  },
+  {
+    "transaction_id": "MzEzOTE0MTQ4M2FkaXF6a2N4",
+    "barcode": "X4Y23VU2",
+    "type": "AA",
+    "date": "2016-01-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2015-03-31"
+    },
+    "pages": 2,
+    "action_date": "2015-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzEzOTE0MTQ4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IsC-LvWtrAA2wAd_nKXEx_Od69JUw9si5ydkct5LzxU"
+    }
+  },
+  {
+    "transaction_id": "MzEyMTQ2NDM0NmFkaXF6a2N4",
+    "barcode": "X45O3SG0",
+    "type": "AR01",
+    "date": "2015-04-19",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-04-19",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-04-19",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "500"
+            }
+          ]
+        },
+        "action_date": "2015-04-19"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2015-03-19"
+    },
+    "pages": 3,
+    "action_date": "2015-03-19",
+    "links": {
+      "self": "/company/08450983/filing-history/MzEyMTQ2NDM0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K0uqknswk2SpIzQmgGwl3tQbTcXcenpN4VficnwiYCE"
+    }
+  },
+  {
+    "transaction_id": "MzExNjkwMDUyMmFkaXF6a2N4",
+    "barcode": "X40TEH1K",
+    "type": "AD01",
+    "date": "2015-02-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2015-02-08",
+      "old_address": ", 20 Latitude, 155 Bromsgrove Street, Birmingham, B5 6AB",
+      "new_address": "Room222 Southside St. John's Walk Birmingham B5 4TJ"
+    },
+    "pages": 1,
+    "action_date": "2015-02-08",
+    "links": {
+      "self": "/company/08450983/filing-history/MzExNjkwMDUyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wMtOV3__KJUDtP1Mk21-p_GpHNJV1oruabQCnuVzS2M"
+    }
+  },
+  {
+    "transaction_id": "MzExNjkwMDUyMGFkaXF6a2N4",
+    "barcode": "X40TEH08",
+    "type": "AA",
+    "date": "2015-02-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2014-03-31"
+    },
+    "pages": 2,
+    "action_date": "2014-03-31",
+    "links": {
+      "self": "/company/08450983/filing-history/MzExNjkwMDUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XSBEMzPrT3KDiE0QgYdABpdkoyZtJ1hrBmPOAUDQb1M"
+    }
+  },
+  {
+    "transaction_id": "MzA5NzEzNzQ3M2FkaXF6a2N4",
+    "barcode": "X34JB046",
+    "type": "AR01",
+    "date": "2014-03-27",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2014-03-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2014-03-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "500"
+            }
+          ]
+        },
+        "action_date": "2014-03-27"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2014-03-19"
+    },
+    "pages": 3,
+    "action_date": "2014-03-19",
+    "links": {
+      "self": "/company/08450983/filing-history/MzA5NzEzNzQ3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WiVKmfcm15_NWWw31-F5GKGkgylcDYy22oF0TpEtfJg"
+    }
+  },
+  {
+    "transaction_id": "MzA3NDY1NzE2OGFkaXF6a2N4",
+    "barcode": "X24FK6LK",
+    "type": "NEWINC",
+    "date": "2013-03-19",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2013-03-19",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 7,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08450983/filing-history/MzA3NDY1NzE2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ykLxTcTXblAWNHKs3ArXOY2hPX7FEI0bm5r3N-Gevfw"
+    }
+  }
+]

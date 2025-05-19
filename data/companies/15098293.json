@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2025-05-27",
+      "overdue": false,
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-08-27"
+    },
+    "next_due": "2025-05-27",
+    "next_made_up_to": "2024-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ARENA LIMITED",
+  "company_number": "15098293",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-26",
+    "next_due": "2025-09-09",
+    "next_made_up_to": "2025-08-26",
+    "overdue": false
+  },
+  "date_of_creation": "2023-08-27",
+  "etag": "f8fea43be528e46bc813270a0a0fdd5c3246a8d2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15098293/persons-with-significant-control",
+    "self": "/company/15098293",
+    "filing_history": "/company/15098293/filing-history",
+    "officers": "/company/15098293/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "4 Lexicon View",
+    "address_line_2": "Daventry Court",
+    "country": "England",
+    "locality": "Bracknell",
+    "postal_code": "RG42 2BH"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

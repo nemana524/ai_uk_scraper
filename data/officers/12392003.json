@@ -1,0 +1,49 @@
+[
+  {
+    "address": {
+      "address_line_1": "Elms Parade",
+      "country": "United Kingdom",
+      "locality": "Oxford",
+      "postal_code": "OX2 9LG",
+      "premises": "Oxford Tech Team"
+    },
+    "appointed_on": "2020-01-08",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/12392003/appointments/xmJcRJUwBdydAWfhSElNqYc4Aug",
+      "officer": {
+        "appointments": "/officers/h_UTS1NQQ6qYE9htzaEnibF2Gww/appointments"
+      }
+    },
+    "name": "ANDREAS, Nathan Paul",
+    "officer_role": "secretary",
+    "person_number": "265865700001"
+  },
+  {
+    "address": {
+      "address_line_1": "Elms Parade",
+      "country": "United Kingdom",
+      "locality": "Oxford",
+      "postal_code": "OX2 9LG",
+      "premises": "Oxford Tech Team"
+    },
+    "appointed_on": "2020-01-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1986
+    },
+    "links": {
+      "self": "/company/12392003/appointments/yET0RK_SBZe5un_8RT2E263dL94",
+      "officer": {
+        "appointments": "/officers/dTXfmuSuXO9hLU12P2zXsal8M_s/appointments"
+      }
+    },
+    "name": "ANDREAS, Nathan Paul",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "118675700002"
+  }
+]

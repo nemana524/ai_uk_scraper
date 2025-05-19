@@ -1,0 +1,31 @@
+[
+  {
+    "address": {
+      "address_line_1": "Stowe Court",
+      "address_line_2": "Stowe Street",
+      "country": "England",
+      "locality": "Lichfield",
+      "postal_code": "WS13 6AQ",
+      "premises": "Advantage House",
+      "region": "Staffordshire"
+    },
+    "appointed_on": "2020-09-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/12866156/appointments/razS5B3qYS02LRzaAvPl8ibGyF8",
+      "officer": {
+        "appointments": "/officers/owTQGpkbHEwynpGvRI0esgs_KL0/appointments"
+      }
+    },
+    "name": "ROSE, Charlotte Edith",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "273969700002"
+  }
+]

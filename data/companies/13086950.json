@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH BIZ SERVICES LTD",
+  "company_number": "13086950",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-12-16",
+    "next_due": "2025-12-30",
+    "next_made_up_to": "2025-12-16",
+    "overdue": false
+  },
+  "date_of_creation": "2020-12-17",
+  "etag": "d8868b4bb2f82503292f2c2a28cf0871a52af9ba",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13086950/persons-with-significant-control",
+    "self": "/company/13086950",
+    "filing_history": "/company/13086950/filing-history",
+    "officers": "/company/13086950/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "84 Tooting High Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW17 0RN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

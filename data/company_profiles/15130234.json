@@ -1,0 +1,39 @@
+{
+  "company_number": "15130234",
+  "company_name": "TECH CONTRACTS ONLINE LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-09-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "63120"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "4 Newmans Row, Lincolns Inn, Lincoln Road",
+    "address_line_2": "Cressex Business Park",
+    "country": "England",
+    "locality": "High Wycombe",
+    "postal_code": "HP12 3RE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-11",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-11"
+    },
+    "next_due": "2025-06-11",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "912b0c1db1a65a4c85da1e12bfb19788547ba22c"
+}

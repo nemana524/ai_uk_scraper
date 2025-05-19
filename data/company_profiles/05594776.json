@@ -1,0 +1,48 @@
+{
+  "company_number": "05594776",
+  "company_name": "TECH 4 OFFICE SOLUTIONS LIMITED",
+  "company_status": "liquidation",
+  "date_of_creation": "2005-10-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "7133"
+  ],
+  "has_insolvency_history": true,
+  "has_charges": false,
+  "has_super_secure_pscs": null,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Suite 1 Telford House",
+    "address_line_2": "Riverside Warwick Road",
+    "locality": "Carlisle",
+    "postal_code": "CA1 2BT",
+    "region": "Cumbria"
+  },
+  "annual_return": {
+    "last_made_up_to": "2010-10-17",
+    "overdue": true
+  },
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2009-10-31",
+      "period_end_on": "2009-10-31",
+      "period_start_on": "2008-11-01",
+      "type": "total-exemption-small"
+    },
+    "next_accounts": {
+      "due_on": "2011-07-31",
+      "overdue": true,
+      "period_end_on": "2010-10-31",
+      "period_start_on": "2009-11-01"
+    },
+    "next_due": "2011-07-31",
+    "next_made_up_to": "2010-10-31",
+    "overdue": true
+  },
+  "etag": "dfd96e52c511605714a753f061384d0165a2ad60"
+}

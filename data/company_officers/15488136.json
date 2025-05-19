@@ -1,0 +1,35 @@
+{
+  "company_number": "15488136",
+  "company_name": "TECH GURU SERVICES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KHIZAR, Usman",
+      "officer_role": "director",
+      "appointed_on": "2024-02-14",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "More Close",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "W14 9BN",
+        "premises": "19"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1991
+      },
+      "links": {
+        "self": "/company/15488136/appointments/D675OqLy6Jn4reV8M65UOroywv4",
+        "officer": {
+          "appointments": "/officers/EjQLNzyZww_bO5UYkuWCVLCNMJA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "company_number": "15194070",
+  "company_name": "TECH IN FINANCE LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2023-10-06",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "69201"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "55 Gladstone Road",
+    "country": "England",
+    "locality": "Surbiton",
+    "postal_code": "KT6 5DD"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-06",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-06"
+    },
+    "next_due": "2025-07-06",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "etag": "0deb0a02943eaa8a9ec8e1c314362493093fd252"
+}

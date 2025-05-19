@@ -1,0 +1,45 @@
+{
+  "company_number": "10350001",
+  "company_name": "TECH FLINT LTD",
+  "company_status": "active",
+  "date_of_creation": "2016-08-27",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "71121"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "7 Walkley Lane",
+    "address_line_2": "Flat 7 Sailsbury Court",
+    "country": "England",
+    "locality": "Sheffield",
+    "postal_code": "S6 2NX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "3bb8445059c79f70f089f160edbd7b8c30c8bf78"
+}

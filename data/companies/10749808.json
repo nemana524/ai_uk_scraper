@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GAS LTD",
+  "company_number": "10749808",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-24",
+    "next_due": "2025-11-07",
+    "next_made_up_to": "2025-10-24",
+    "overdue": false
+  },
+  "date_of_creation": "2017-05-02",
+  "etag": "ac30469960804c9da96d3df0663bd1cd47a30ce4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10749808/persons-with-significant-control",
+    "self": "/company/10749808",
+    "filing_history": "/company/10749808/filing-history",
+    "officers": "/company/10749808/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "65 Slate Drive",
+    "country": "England",
+    "locality": "Burbage",
+    "postal_code": "LE10 2QP",
+    "region": "Leicestershire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43290",
+    "43999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

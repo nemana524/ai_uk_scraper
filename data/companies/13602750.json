@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-23",
+      "period_end_on": "2023-09-23",
+      "period_start_on": "2022-10-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-24"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GIANT NW LTD",
+  "company_number": "13602750",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-23",
+    "next_due": "2025-10-07",
+    "next_made_up_to": "2025-09-23",
+    "overdue": false
+  },
+  "date_of_creation": "2021-09-04",
+  "etag": "f8d89bec3c6ebfc29a757223a12c43e2d5013076",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13602750/persons-with-significant-control",
+    "self": "/company/13602750",
+    "filing_history": "/company/13602750/filing-history",
+    "officers": "/company/13602750/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "175 Mauldeth Road West",
+    "address_line_2": "Withington",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M20 1BJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,36 @@
+{
+  "company_number": "10498117",
+  "company_name": "TECH GENIUS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ARFARAS, Stephane",
+      "officer_role": "director",
+      "appointed_on": "2016-11-25",
+      "resigned_on": null,
+      "nationality": "United Kingdom",
+      "country_of_residence": "England",
+      "occupation": "It Engineer",
+      "address": {
+        "address_line_1": "Buckthorn Row",
+        "country": "United Kingdom",
+        "locality": "Corsham",
+        "postal_code": "SN13 9WE",
+        "premises": "7",
+        "region": "Wiltshire"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1964
+      },
+      "links": {
+        "self": "/company/10498117/appointments/CVEesPwRPihiOskpzc7cgHaaHYU",
+        "officer": {
+          "appointments": "/officers/8xXKIa1pR2EL8kv6nWPastVowyw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

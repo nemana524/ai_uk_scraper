@@ -1,0 +1,377 @@
+{
+  "company_number": "09997111",
+  "company_name": "TECH EAST LIMITED",
+  "total_officers": 13,
+  "officers": [
+    {
+      "name": "SUFFOLK CHAMBER OF COMMERCE LTD.",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2016-02-10",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Felaw Street",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 8SQ",
+        "premises": "42"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/09997111/appointments/bFZuBZOqHnrdGXoCYWFywg5wv2g",
+        "officer": {
+          "appointments": "/officers/j1q2QQJJWFIY3q6zr2zDud5rQl4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "0020194"
+      }
+    },
+    {
+      "name": "DUGMORE, John Matthew",
+      "officer_role": "director",
+      "appointed_on": "2016-02-10",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Ceo",
+      "address": {
+        "address_line_1": "Long Street",
+        "country": "England",
+        "locality": "Ipswich",
+        "postal_code": "IP4 1LQ",
+        "premises": "1st Floor The Atrium Building"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1968
+      },
+      "links": {
+        "self": "/company/09997111/appointments/OO6eSNiRh1PBc2gli4hjzKZuWkI",
+        "officer": {
+          "appointments": "/officers/VU2KkeQvLDi4ASrrzKsKWW9WFSc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JAGPAL, Gurpreet Singh, Professor",
+      "officer_role": "director",
+      "appointed_on": "2024-02-16",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Pro Vice-Chancellor",
+      "address": {
+        "address_line_1": "Long Street",
+        "country": "England",
+        "locality": "Ipswich",
+        "postal_code": "IP4 1LQ",
+        "premises": "1st Floor The Atrium Building"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/09997111/appointments/DiEj9SbQjsV1hFtFXCoA8iP1CPw",
+        "officer": {
+          "appointments": "/officers/WVeWQUiYFQYTIqzy1jLk1kKxOs8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "LETTICE, Fiona Elaine, Professor",
+      "officer_role": "director",
+      "appointed_on": "2016-06-16",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Professor",
+      "address": {
+        "address_line_1": "Long Street",
+        "country": "England",
+        "locality": "Ipswich",
+        "postal_code": "IP4 1LQ",
+        "premises": "1st Floor The Atrium Building"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1967
+      },
+      "links": {
+        "self": "/company/09997111/appointments/Kh7H9jv1wbU7RXYZFpot4tFUY8E",
+        "officer": {
+          "appointments": "/officers/vMH9AXtmT29UugVIgCAExSXGHgI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MILES, Neil David",
+      "officer_role": "director",
+      "appointed_on": "2016-06-16",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Long Street",
+        "country": "England",
+        "locality": "Ipswich",
+        "postal_code": "IP4 1LQ",
+        "premises": "1st Floor The Atrium Building"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1965
+      },
+      "links": {
+        "self": "/company/09997111/appointments/smd6gmryWzUpBLgShkmGPZ5P_Tc",
+        "officer": {
+          "appointments": "/officers/tFaQTbso-I-K1RybjIVb5jM6ipc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PERKINS, Lisa Jane",
+      "officer_role": "director",
+      "appointed_on": "2018-03-07",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Telecommunications Director",
+      "address": {
+        "address_line_1": "Long Street",
+        "country": "England",
+        "locality": "Ipswich",
+        "postal_code": "IP4 1LQ",
+        "premises": "1st Floor The Atrium Building"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/09997111/appointments/ZEk8dIKaZi8t8mNRpd_AgoDVlok",
+        "officer": {
+          "appointments": "/officers/JTTpeHc0GlOjJk134cJXRtG1I4g/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SARGISSON, Christopher Hugh",
+      "officer_role": "director",
+      "appointed_on": "2023-03-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Long Street",
+        "country": "England",
+        "locality": "Ipswich",
+        "postal_code": "IP4 1LQ",
+        "premises": "1st Floor The Atrium Building"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1967
+      },
+      "links": {
+        "self": "/company/09997111/appointments/PORULlc_YiEtUuI4RB094Rt4TQY",
+        "officer": {
+          "appointments": "/officers/WYE4h08PcjrQp5B0nWtZNqvXOuU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BOWSER, Marlon Simon",
+      "officer_role": "director",
+      "appointed_on": "2016-06-16",
+      "resigned_on": "2021-03-16",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Felaw Street",
+        "care_of": "Suffolk Chamber Of Commerce",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 8SQ",
+        "premises": "42"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/09997111/appointments/diy20xsegmcPnvfJp0KoPx39zrM",
+        "officer": {
+          "appointments": "/officers/YSyVOQSp-vjMagoRuV5dV5zVWJc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GARNER, Neil Robert, Dr",
+      "officer_role": "director",
+      "appointed_on": "2016-06-16",
+      "resigned_on": "2017-08-25",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Felaw Street",
+        "care_of": "Suffolk Chamber Of Commerce",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 8SQ",
+        "premises": "42"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/09997111/appointments/xGZY9eqnI6LBNNlc70YjSGJ2Zg4",
+        "officer": {
+          "appointments": "/officers/OFdZroxrn4NzjXGiEJneW7O1WoQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JOHNSON, Hayley Dee",
+      "officer_role": "director",
+      "appointed_on": "2018-01-08",
+      "resigned_on": "2020-01-29",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Chief Operating Officer",
+      "address": {
+        "address_line_1": "Felaw Street",
+        "care_of": "Suffolk Chamber Of Commerce",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 8SQ",
+        "premises": "42"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/09997111/appointments/ZcxwLqbdXxZgcNP29BI2m7Dfo7M",
+        "officer": {
+          "appointments": "/officers/st3-hS44ry8vHVcPi1KW439fOBk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KINGSTON, Mike Gordon Richard",
+      "officer_role": "director",
+      "appointed_on": "2016-06-16",
+      "resigned_on": "2020-05-04",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Head Of It",
+      "address": {
+        "address_line_1": "Felaw Street",
+        "care_of": "Suffolk Chamber Of Commerce",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 8SQ",
+        "premises": "42"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/09997111/appointments/FGG3kMaL5aO5BkVqIXqBKUYKIaE",
+        "officer": {
+          "appointments": "/officers/dophBL4z3WOZz60MaXkJMkAJ8Pw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MARSHALL, James Nicholas",
+      "officer_role": "director",
+      "appointed_on": "2021-03-16",
+      "resigned_on": "2023-01-26",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Strategy Consultant",
+      "address": {
+        "address_line_1": "Felaw Street",
+        "care_of": "Suffolk Chamber Of Commerce",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 8SQ",
+        "premises": "42"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/09997111/appointments/5AdZDlU0G1Qrkz_iLOch6TTZuB0",
+        "officer": {
+          "appointments": "/officers/1wHiaNHpNrZhyzVonT1ugbZn77A/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MASTERSON, Graham Robert",
+      "officer_role": "director",
+      "appointed_on": "2016-06-16",
+      "resigned_on": "2021-03-16",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Head Of Consulting",
+      "address": {
+        "address_line_1": "Felaw Street",
+        "care_of": "Suffolk Chamber Of Commerce",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 8SQ",
+        "premises": "42"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1965
+      },
+      "links": {
+        "self": "/company/09997111/appointments/zOaD2Judb5QQ9llfWnjH7tsba04",
+        "officer": {
+          "appointments": "/officers/YPOpUwNfrPfGErdgYItS_z2TlT8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

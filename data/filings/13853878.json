@@ -1,0 +1,292 @@
+[
+  {
+    "transaction_id": "MzQ2MzA5NjM0OGFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2025-04-29",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MzA5NjM0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3fM2wiWZUz7KJNyqWFjrZ8-v2Z2Dm9K7OQI9dT0rCHA"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MzA5NTcyOWFkaXF6a2N4",
+    "barcode": "XE0OJK8B",
+    "type": "DS01",
+    "date": "2025-04-17",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MzA5NTcyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/L4Vpks4fARVYjmghc_6oUb3zx7IWDjEirbA6s8IqnG8"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MzA4ODM0N2FkaXF6a2N4",
+    "barcode": "XE0OISXK",
+    "type": "AA",
+    "date": "2025-04-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2025-01-31"
+    },
+    "pages": 8,
+    "action_date": "2025-01-31",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MzA4ODM0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C9exkqCBL6BM74-GuY0pm3QClsux2bAq7cBpfRTmTIQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjczMzMyMmFkaXF6a2N4",
+    "barcode": "XE0J4FLU",
+    "type": "CS01",
+    "date": "2025-04-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-04-15"
+    },
+    "pages": 4,
+    "action_date": "2025-04-15",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MjczMzMyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Sjm2TkOSa2t5UugrYsYaQ3G2NSMWgzPbPf01_DLm0iU"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjczMjI2MmFkaXF6a2N4",
+    "barcode": "XE0J4ASJ",
+    "type": "PSC07",
+    "date": "2025-04-15",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Shujaul Arefeen",
+      "cessation_date": "2025-04-02"
+    },
+    "pages": 1,
+    "action_date": "2025-04-02",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MjczMjI2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q4Q--XoA-DFDUy86kIZNe9eKJltlK2lUbjJrujSe1uo"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjczMTk3OGFkaXF6a2N4",
+    "barcode": "XE0J49G2",
+    "type": "PSC01",
+    "date": "2025-04-15",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Yamna Maqbool",
+      "notification_date": "2025-04-02"
+    },
+    "pages": 2,
+    "action_date": "2025-04-02",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MjczMTk3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CBBV9IcrlN-zvwqlrmj5ylWjI1qXRpyDP1xOap1_-6w"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjczMDQzMmFkaXF6a2N4",
+    "barcode": "XE0J423F",
+    "type": "TM01",
+    "date": "2025-04-15",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Shujaul Arefeen",
+      "termination_date": "2025-04-02"
+    },
+    "pages": 1,
+    "action_date": "2025-04-02",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MjczMDQzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I1jwKOCZJDvJgw-I4BmNgdp-so5LrTdDHOz61wp-oaM"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjczMDM1OWFkaXF6a2N4",
+    "barcode": "XE0J41RT",
+    "type": "AP01",
+    "date": "2025-04-15",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Ms Yamna Maqbool",
+      "appointment_date": "2025-04-02"
+    },
+    "pages": 2,
+    "action_date": "2025-04-02",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MjczMDM1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TPuGFZ8hn0Il62DlUjSTIRWDsCt18X9ZidNvIgfOey8"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MjczMDIzOWFkaXF6a2N4",
+    "barcode": "XE0J410G",
+    "type": "TM02",
+    "date": "2025-04-15",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Shujaul Arefeen",
+      "termination_date": "2025-04-02"
+    },
+    "pages": 1,
+    "action_date": "2025-04-02",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ2MjczMDIzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2DhtvcTKIvzRUN-GGPfpbqGxKRQuC3o4XTJlWIZw8hU"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzI5MDM4M2FkaXF6a2N4",
+    "barcode": "XDVDXGQY",
+    "type": "CS01",
+    "date": "2025-01-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-16"
+    },
+    "pages": 3,
+    "action_date": "2025-01-16",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ1MzI5MDM4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JdA5kBtRBurAeY37PZBFT50LbSq-6D-t8ZJtl9pjtKs"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTYyMDg0M2FkaXF6a2N4",
+    "barcode": "XDEVLFGW",
+    "type": "AA",
+    "date": "2024-10-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 8,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQ0MTYyMDg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FqorZV4v7urjOIaxxP8fXAANmnx8Vwm53EWOxvKu96Y"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzkxNTU1OWFkaXF6a2N4",
+    "barcode": "XCUX3PPV",
+    "type": "CS01",
+    "date": "2024-01-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-01-16"
+    },
+    "pages": 3,
+    "action_date": "2024-01-16",
+    "links": {
+      "self": "/company/13853878/filing-history/MzQwNzkxNTU1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YFIurpbJBNwU3wCiC2Xv7ksQXUMvXSPCfSkoZtk7OeI"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTczMDk1NmFkaXF6a2N4",
+    "barcode": "XCDR7S34",
+    "type": "AA",
+    "date": "2023-10-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 8,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/13853878/filing-history/MzM5NTczMDk1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W2S64CD7uMjHzXS6bDjklYtwWEC8cNLWk0h04C0mesM"
+    }
+  },
+  {
+    "transaction_id": "MzM2Njc3MzI1MWFkaXF6a2N4",
+    "barcode": "XBVTKYZL",
+    "type": "CS01",
+    "date": "2023-01-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-01-16"
+    },
+    "pages": 3,
+    "action_date": "2023-01-16",
+    "links": {
+      "self": "/company/13853878/filing-history/MzM2Njc3MzI1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-jjX4spMbQXdXkImlyVKJR8E2z5UjS4aX7gxKnlpTd8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjgzNzY4M2FkaXF6a2N4",
+    "barcode": "XBJ65YLS",
+    "type": "AD01",
+    "date": "2022-12-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-12-19",
+      "old_address": "32 Forresters 42 Linton Road Barking IG11 8FS United Kingdom",
+      "new_address": "114 Colman Road London E16 3LZ"
+    },
+    "pages": 1,
+    "action_date": "2022-12-19",
+    "links": {
+      "self": "/company/13853878/filing-history/MzM2MjgzNzY4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/E-lTmFtTuxk_-aWmZ59CspRM-uZR3pMxJIzGncqKhIw"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjc5NTc0OGFkaXF6a2N4",
+    "barcode": "XAVWJEHV",
+    "type": "NEWINC",
+    "date": "2022-01-17",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2022-01-17",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-01-17",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-01-17"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/13853878/filing-history/MzMyNjc5NTc0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W11y7d4-L0WR504XBDlU9sl2RzrUP-8f65Pjmh56bUg"
+    }
+  }
+]

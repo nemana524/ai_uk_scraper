@@ -1,0 +1,415 @@
+[
+  {
+    "transaction_id": "MzQyNjI4NDYxN2FkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-06-23",
+    "category": "gazette",
+    "description": "gazette-dissolved-liquidation",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzQyNjI4NDYxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w2MhSfo6esIZjYF3XZ1oJ-Oj3E0SzFvhjU58gEHNAr8"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDY3MTk4MWFkaXF6a2N4",
+    "barcode": "YCYWMC4O",
+    "type": "LIQ14",
+    "date": "2024-03-23",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-creditors-return-of-final-meeting",
+    "pages": 26,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzQxNDY3MTk4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6tTYofPaQ-m_gBh_mzEoTRjn0kJftlxtpOVzfTdXvIg"
+    }
+  },
+  {
+    "transaction_id": "MzQwMDE4NDM4M2FkaXF6a2N4",
+    "barcode": "YCGDJIJE",
+    "type": "LIQ03",
+    "date": "2023-11-17",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+    "description_values": {
+      "brought_down_date": "2023-09-20"
+    },
+    "pages": 24,
+    "action_date": "2023-09-20",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzQwMDE4NDM4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5Bz7yJ_uBpI2G2iFqpSuKwors6A10YIVw8LiBkB5IXE"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzE3MTM1NGFkaXF6a2N4",
+    "barcode": "YBDF1O1L",
+    "type": "AD01",
+    "date": "2022-10-04",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-10-04",
+      "old_address": "Bryant House Bryant Road Strood Rochester Kent ME2 3EW England",
+      "new_address": "1 Castle Hill Court Castle Hill Rochester Kent ME1 1LF"
+    },
+    "pages": 2,
+    "action_date": "2022-10-04",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzM1MzE3MTM1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ppNWoju3CFDrdBT0LsAJ5mSQnr5oC0NalPrcF8aaiHQ"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzE3MTM2MmFkaXF6a2N4",
+    "barcode": "YBDF1NWX",
+    "type": "LIQ02",
+    "date": "2022-10-04",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-statement-of-affairs",
+    "pages": 9,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzM1MzE3MTM2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JnIgKduA8ZOBkmwkda8LWf3qY1z-rowP2C9CixS6Hoc"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzE3MTM1MmFkaXF6a2N4",
+    "barcode": "YBDF1NUI",
+    "type": "600",
+    "date": "2022-10-04",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-appointment-of-liquidator",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzM1MzE3MTM1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zTW1dmxxlYu72wshYcsIAoTQTaRafcqgXKsgWDqX57M"
+    }
+  },
+  {
+    "transaction_id": "WUJERjFOU0FhZGlxemtjeA",
+    "type": "RESOLUTIONS",
+    "date": "2022-10-04",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "liquidation",
+        "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+        "type": "LRESEX",
+        "subcategory": [
+          "voluntary",
+          "resolution"
+        ],
+        "description_values": {
+          "case_start_date": "2022-09-21"
+        },
+        "original_description": "Extraordinary resolution to wind up"
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/WUJERjFOU0FhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wqpyxrtASEGigBq80O-NLPjerrk1W_HPbTMPfoVlOi8"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTQ0MDU5NWFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2022-07-13",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzM0NTQ0MDU5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/M8IgpHPl0G8aPVnzBgfdmueJoxmlXPYVGbTVc0f-Fv0"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzEwODk0OGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-06-28",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12121392/filing-history/MzM0MzEwODk0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JVM8znSA507gqEFv95w-FtcVQFU7xaki8gPBWYICMuw"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjI5NDM1NmFkaXF6a2N4",
+    "barcode": "XAC17WLD",
+    "type": "CS01",
+    "date": "2021-08-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-07-23"
+    },
+    "pages": 4,
+    "action_date": "2021-07-23",
+    "links": {
+      "self": "/company/12121392/filing-history/MzMxMjI5NDM1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GYp0AjUIndzSvAyWHUyDPDZ4l47ZXgEZq2uMuCh9x3I"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODc3NzU1NWFkaXF6a2N4",
+    "barcode": "XA30VJYQ",
+    "type": "AA",
+    "date": "2021-04-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-07-31"
+    },
+    "pages": 5,
+    "action_date": "2020-07-31",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI5ODc3NzU1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3VtgwYX8golSjtYaikFkPiR_IiLa2R9meW7QofYCZwo"
+    }
+  },
+  {
+    "transaction_id": "MzI3NTI0Njg4NGFkaXF6a2N4",
+    "barcode": "X9BDTFGQ",
+    "type": "CS01",
+    "date": "2020-08-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-07-23"
+    },
+    "pages": 5,
+    "action_date": "2020-07-23",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI3NTI0Njg4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wHx8IVbDPzZInWob8NDeQu0zeUqvpTOJ9MqS2glmyI4"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjYwNDU5OWFkaXF6a2N4",
+    "barcode": "X8Y7NX7D",
+    "type": "TM01",
+    "date": "2020-02-06",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Deborah Summers",
+      "termination_date": "2020-02-03"
+    },
+    "pages": 1,
+    "action_date": "2020-02-03",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI1NjYwNDU5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lUSEXGR47PVyLYim6RhzZnwfo-NQzXtL6arUuGZPSPE"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjYwNDYwOWFkaXF6a2N4",
+    "barcode": "X8Y7NX2H",
+    "type": "TM01",
+    "date": "2020-02-06",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Brian Leslie Summers",
+      "termination_date": "2020-02-03"
+    },
+    "pages": 1,
+    "action_date": "2020-02-03",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI1NjYwNDYwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/La-7mhYeY8lV2I_3pVAHsbDaNQW02DhniCS4c5E53ns"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjExNzYxNGFkaXF6a2N4",
+    "barcode": "X8XU9G1V",
+    "type": "AP01",
+    "date": "2020-01-31",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Deborah Summers",
+      "appointment_date": "2020-01-30"
+    },
+    "pages": 2,
+    "action_date": "2020-01-30",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI1NjExNzYxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dTi-AHhlG34ZrjYKbnugm-zieVuDE4ncnc3WhnylTXQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjA1NjE3MmFkaXF6a2N4",
+    "barcode": "X8XRN0ZK",
+    "type": "AP01",
+    "date": "2020-01-30",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Brian Leslie Summers",
+      "appointment_date": "2020-01-30"
+    },
+    "pages": 2,
+    "action_date": "2020-01-30",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI1NjA1NjE3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7PDzrjfpwEEkGVNT1aBO9WooKAJ1CcHGnzqVKG4owFk"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc0OTc0N2FkaXF6a2N4",
+    "barcode": "X8G1Q2UC",
+    "type": "PSC01",
+    "date": "2019-10-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "James Nicholas Summers",
+      "notification_date": "2019-09-23"
+    },
+    "pages": 2,
+    "action_date": "2019-09-23",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI0Njc0OTc0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f5mGuPtMMi1AN1ExcXN4lkp0nQROVUT7wYwjevD9VgQ"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc0OTczNGFkaXF6a2N4",
+    "barcode": "X8G1Q32I",
+    "type": "AD01",
+    "date": "2019-10-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-10-14",
+      "old_address": "41 Twydall Lane Gillingham ME8 6JE England",
+      "new_address": "Bryant House Bryant Road Strood Rochester Kent ME2 3EW"
+    },
+    "pages": 1,
+    "action_date": "2019-10-14",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI0Njc0OTczNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yp97jB4XWmD3oKbsiz0P4-FJXZa3nnoRuyRhoICdcNY"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc0OTczN2FkaXF6a2N4",
+    "barcode": "X8G1Q2WB",
+    "type": "PSC07",
+    "date": "2019-10-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Eleanor May Summers",
+      "cessation_date": "2019-09-23"
+    },
+    "pages": 1,
+    "action_date": "2019-09-23",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI0Njc0OTczN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8MWTGEhasY2rNXNda0FlfayKQehQjzvD-NaiZuGvItY"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc0OTY0N2FkaXF6a2N4",
+    "barcode": "X8G1Q2PK",
+    "type": "AP01",
+    "date": "2019-10-14",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr James Nicholas Summers",
+      "appointment_date": "2019-09-23"
+    },
+    "pages": 2,
+    "action_date": "2019-09-23",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI0Njc0OTY0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/u5NRvk0CppK0DgoJRtLYWasSx_lEJKquCET-3kOdbGw"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc0OTYzM2FkaXF6a2N4",
+    "barcode": "X8G1Q2ND",
+    "type": "TM01",
+    "date": "2019-10-14",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Eleanor May Summers",
+      "termination_date": "2019-09-23"
+    },
+    "pages": 1,
+    "action_date": "2019-09-23",
+    "links": {
+      "self": "/company/12121392/filing-history/MzI0Njc0OTYzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YWj--kOvA6ePK2YAvfeb9C1tIZ3Gohm1U9GconLj7gA"
+    }
+  },
+  {
+    "transaction_id": "MzI0MDExMTM4NWFkaXF6a2N4",
+    "barcode": "X8ADV71F",
+    "type": "NEWINC",
+    "date": "2019-07-24",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-07-24",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-07-24",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-07-24",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2019-07-24"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12121392/filing-history/MzI0MDExMTM4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AYo5r_K7IeBJPjW4SDvQ86TD73wP9UbUT5jNdQfCNJI"
+    }
+  }
+]

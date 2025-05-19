@@ -1,0 +1,684 @@
+{
+  "company_number": "00500106",
+  "company_name": "BORGWARNER GATESHEAD LIMITED",
+  "total_officers": 24,
+  "officers": [
+    {
+      "name": "BIRD & BIRD COMPANY SECRETARIES LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2024-09-19",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "New Fetter Lane",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC4A 1JP",
+        "premises": "12"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/00500106/appointments/SuYFNIWMa7AyAMGr9mMT1FCagTY",
+        "officer": {
+          "appointments": "/officers/z6p_1g5dy2UiAzT8mQHS4fxU3og/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "03952862"
+      }
+    },
+    {
+      "name": "ERRINGTON, Darren Craig",
+      "officer_role": "director",
+      "appointed_on": "2020-10-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Senior Director Information Technology",
+      "address": {
+        "address_line_1": "Hammersmith Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "W6 8PW",
+        "premises": "245"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/00500106/appointments/FW4hAzh6e6WVIuMsSgBKXFiQGD0",
+        "officer": {
+          "appointments": "/officers/_WjMEYIht_KOJZ2KbrMHm3Q2Fsc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KOESTER, Benedikt",
+      "officer_role": "director",
+      "appointed_on": "2020-07-29",
+      "resigned_on": null,
+      "nationality": "German",
+      "country_of_residence": "Germany",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Euroway Industrial Estate",
+        "country": "England",
+        "locality": "Bradford",
+        "postal_code": "BD4 6SE",
+        "premises": "Roydsdale Way",
+        "region": "West Yorkshire"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/00500106/appointments/9-WzUgbCFHkI3vpMWTIvrKqiF94",
+        "officer": {
+          "appointments": "/officers/f20cyWAEMIMRfVpsknCWMWIUpE8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "UHRIG, Matthias Theo",
+      "officer_role": "director",
+      "appointed_on": "2024-09-25",
+      "resigned_on": null,
+      "nationality": "German",
+      "country_of_residence": "Germany",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Hammersmith Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "W6 8PW",
+        "premises": "245"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1964
+      },
+      "links": {
+        "self": "/company/00500106/appointments/NHKVNynTT6hMCj34RRuHJETshhs",
+        "officer": {
+          "appointments": "/officers/5DgVi1Q_P6EXtXaC5rVMqKQKKuc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "FARQUHAR, Paul Neil",
+      "officer_role": "secretary",
+      "appointed_on": "2008-01-31",
+      "resigned_on": "2018-01-15",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": "Chief Financial Officer",
+      "address": {
+        "address_line_1": "Bramhall Drive",
+        "address_line_2": "High Generals Wood",
+        "country": "United Kingdom",
+        "locality": "Washington",
+        "postal_code": "NE38 9DB",
+        "premises": "62",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/00500106/appointments/YO8dLjmxaKOfCPj2ZGeQ_i2c9Qk",
+        "officer": {
+          "appointments": "/officers/y_IFJEBfbQ5XVMsXjuk2mors8RM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MCPARTLIN, Paul Anthony",
+      "officer_role": "secretary",
+      "appointed_on": null,
+      "resigned_on": "2008-01-31",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "The Dene 11 Cade Hill Road",
+        "locality": "Stocksfield",
+        "postal_code": "NE43 7PB",
+        "region": "Northumberland"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/00500106/appointments/typb4ZjA0QbGYHadqbUF4SFGYRo",
+        "officer": {
+          "appointments": "/officers/G5sz1olRXbAxAxt7wO6fOLuxHYw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BOYLE, Matthew",
+      "officer_role": "director",
+      "appointed_on": "2000-10-16",
+      "resigned_on": "2018-01-15",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Chief Executive Officer",
+      "address": {
+        "address_line_1": "9 Park Drive",
+        "address_line_2": "Hepscott Park, Stannington",
+        "locality": "Morpeth",
+        "postal_code": "NE61 6QA",
+        "region": "Northumberland"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/00500106/appointments/R9yLp9vOWOpmXiWtGmvZbmnFcvk",
+        "officer": {
+          "appointments": "/officers/64sz8_AghIWzc4NOWqLQGK8fmXE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "FARQUHAR, Paul Neil",
+      "officer_role": "director",
+      "appointed_on": "2008-01-31",
+      "resigned_on": "2018-01-15",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Chief Financial Officer",
+      "address": {
+        "address_line_1": "Bramhall Drive",
+        "country": "United Kingdom",
+        "locality": "Washington",
+        "postal_code": "NE38 9DB",
+        "premises": "62",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/00500106/appointments/fWAqdpKp26NuJFANrcM0SWrUOok",
+        "officer": {
+          "appointments": "/officers/y_IFJEBfbQ5XVMsXjuk2mors8RM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "HELMSLEY, Maarten",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2016-02-02",
+      "nationality": "British",
+      "country_of_residence": "United States",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Washington Street",
+        "address_line_2": "Duxbury",
+        "country": "Usa",
+        "locality": "Massachusets",
+        "postal_code": "MA 02332",
+        "premises": "265"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1949
+      },
+      "links": {
+        "self": "/company/00500106/appointments/coGI96upCceqZbAnsvaH6rvI97M",
+        "officer": {
+          "appointments": "/officers/ymb-MtsfmuvmKVfgMJOcP4bPUrU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KAEMPFER, Peter",
+      "officer_role": "director",
+      "appointed_on": "2018-01-02",
+      "resigned_on": "2024-06-05",
+      "nationality": "American",
+      "country_of_residence": "United States",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "3800 Automation Avenue",
+        "country": "United States",
+        "locality": "Auburn Hills",
+        "premises": "Borgwarner Hq",
+        "region": "Michigan"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/00500106/appointments/PHeBjnp8w-4EeopcIfxxPOrygGk",
+        "officer": {
+          "appointments": "/officers/PElG9z-4AxVa5g23eC6ESplK2z8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KETELHUT, William",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2017-09-23",
+      "nationality": "American",
+      "country_of_residence": "Usa",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Princesway",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Eighth Avenue"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1952
+      },
+      "links": {
+        "self": "/company/00500106/appointments/_yyrELHoDe50qK0NJdkVRYnaOoY",
+        "officer": {
+          "appointments": "/officers/B4Z9TJLkKqRcs_t1HvCgUR86iRM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MCPARTLIN, Paul Anthony",
+      "officer_role": "director",
+      "appointed_on": "1995-07-27",
+      "resigned_on": "2008-01-31",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Chartered Accountant",
+      "address": {
+        "address_line_1": "The Dene 11 Cade Hill Road",
+        "locality": "Stocksfield",
+        "postal_code": "NE43 7PB",
+        "region": "Northumberland"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1945
+      },
+      "links": {
+        "self": "/company/00500106/appointments/sYqVLCKWEVWs8t-xCskP7quvQVc",
+        "officer": {
+          "appointments": "/officers/G5sz1olRXbAxAxt7wO6fOLuxHYw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ROSENBERG, Paul",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2015-03-16",
+      "nationality": "American",
+      "country_of_residence": "Usa",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Kingsway South",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Sevcon Limited",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1932
+      },
+      "links": {
+        "self": "/company/00500106/appointments/QLFlgzhW1-l2ZwmayrJWMde7Jv0",
+        "officer": {
+          "appointments": "/officers/4afwOSBw-iJe90-m33OXu5N61yU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ROSENBERG, Paul Bayard",
+      "officer_role": "director",
+      "appointed_on": null,
+      "resigned_on": "2006-05-02",
+      "nationality": "Usa",
+      "country_of_residence": null,
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "155 Northboro Road",
+        "country": "Usa",
+        "locality": "Southborough",
+        "region": "Ma 01772"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1932
+      },
+      "links": {
+        "self": "/company/00500106/appointments/cMsjYYIoCK9csnGPv_oKPB9MUZg",
+        "officer": {
+          "appointments": "/officers/EGIjiqG6PXYS4UbaGa2CxaOQmOc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SCHORR, Marvin",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2016-02-02",
+      "nationality": "American",
+      "country_of_residence": "Usa",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Kingsway South",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Sevcon Limited",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1925
+      },
+      "links": {
+        "self": "/company/00500106/appointments/UQkNAYFnZtjWG-tOwniQoXvFF5I",
+        "officer": {
+          "appointments": "/officers/BBDEE7eQOjUTxXL1ray5O-B6yAs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SCHORR, Marvin Gerald, Dr",
+      "officer_role": "director",
+      "appointed_on": null,
+      "resigned_on": "2006-05-02",
+      "nationality": "Usa",
+      "country_of_residence": null,
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "155 Northboro Road",
+        "country": "Usa",
+        "locality": "Southborough",
+        "region": "Ma 01772"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1925
+      },
+      "links": {
+        "self": "/company/00500106/appointments/jBAjfDKP6GgDnbp0V_ajA_WFZHU",
+        "officer": {
+          "appointments": "/officers/Dc6FvWNm8oKjTjE2Gojk7m_jxCQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SIDLOW, David John",
+      "officer_role": "director",
+      "appointed_on": "2017-12-20",
+      "resigned_on": "2019-03-12",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Eighth Avenue",
+        "address_line_2": "Pricesway",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Borgwarner Pds Uk",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1964
+      },
+      "links": {
+        "self": "/company/00500106/appointments/fX1DDZEkPvqHnd_KYenNUFVst3c",
+        "officer": {
+          "appointments": "/officers/PVCh37lM32HNcam4PT6yeYS6kfo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "START, Bernard",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2015-03-16",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Kingsway South",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Sevcon Limited",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1938
+      },
+      "links": {
+        "self": "/company/00500106/appointments/luN9tylNo-DL_zLZa_-oSR6SZqM",
+        "officer": {
+          "appointments": "/officers/3ZlbHMX8939fs84FimZEWu87SBs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "START, Bernard",
+      "officer_role": "director",
+      "appointed_on": null,
+      "resigned_on": "1995-02-28",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Dotland Grange",
+        "locality": "Hexham",
+        "region": "Northumberland"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/00500106/appointments/uGjkUG-daQaXN6fYOcvqVWEqKyA",
+        "officer": {
+          "appointments": "/officers/68hgc4pYGTXAf79CQjEHf5E7kRQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "STEADMAN, David",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2016-02-02",
+      "nationality": "British",
+      "country_of_residence": "Usa",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Kingsway South",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Sevcon Limited",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1937
+      },
+      "links": {
+        "self": "/company/00500106/appointments/FyttEYvsSEN71JAqvM15qP2KT1s",
+        "officer": {
+          "appointments": "/officers/nm3RaX8lulG5OgR27p42xjWh4LA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "STUMP, Paul",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2017-09-22",
+      "nationality": "American",
+      "country_of_residence": "United States",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Princesway",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Eighth Avenue"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1952
+      },
+      "links": {
+        "self": "/company/00500106/appointments/5_jY1X5bzIl-k4XjY6DluYWUEiI",
+        "officer": {
+          "appointments": "/officers/8jIRC3T4MYa0Or6XJQcv4CbYdmA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "UHRIG, Matthias Theo",
+      "officer_role": "director",
+      "appointed_on": "2020-07-29",
+      "resigned_on": "2024-06-05",
+      "nationality": "German",
+      "country_of_residence": "Germany",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Euroway Industrial Estate",
+        "country": "England",
+        "locality": "Bradford",
+        "postal_code": "BD4 6SE",
+        "premises": "Roydsdale Way"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1964
+      },
+      "links": {
+        "self": "/company/00500106/appointments/8Qn386yvcOnr6444A1MtsPyFDas",
+        "officer": {
+          "appointments": "/officers/PI5wGo1Xv53cTEMaq0UNuLqdhyA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "WANG, Frederick",
+      "officer_role": "director",
+      "appointed_on": "2011-09-19",
+      "resigned_on": "2016-03-16",
+      "nationality": "American",
+      "country_of_residence": "United States",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Kingsway South",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Sevcon Limited",
+        "region": "Tyne And Wear"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1950
+      },
+      "links": {
+        "self": "/company/00500106/appointments/yZr3RCIh1ubAWBv47n-kSpZohPE",
+        "officer": {
+          "appointments": "/officers/Gy5eycY8SbD3b45M5lPTmFtk4HM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ZOBRIST, James Anthony",
+      "officer_role": "director",
+      "appointed_on": "2019-03-05",
+      "resigned_on": "2021-03-09",
+      "nationality": "American",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director Global Supply Management",
+      "address": {
+        "address_line_1": "Princesway",
+        "address_line_2": "Team Valley Trading Estate",
+        "country": "United Kingdom",
+        "locality": "Gateshead",
+        "postal_code": "NE11 0QA",
+        "premises": "Eighth Avenue"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/00500106/appointments/_9tErLTtDgdibFJRlNBmVaIpDo0",
+        "officer": {
+          "appointments": "/officers/N1QkbnERH1iK_jxP3iEHvWOKqlE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

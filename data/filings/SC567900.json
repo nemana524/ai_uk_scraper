@@ -1,0 +1,407 @@
+[
+  {
+    "transaction_id": "MzQ2MDQ0OTQyMGFkaXF6a2N4",
+    "barcode": "XDZ8HAJS",
+    "type": "AA",
+    "date": "2025-03-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-06-30"
+    },
+    "pages": 8,
+    "action_date": "2024-06-30",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzQ2MDQ0OTQyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5SfRATvR0Vum-W_bvWOtdysbdNQHXg45idmrUB6sHFA"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDgyNTgzM2FkaXF6a2N4",
+    "barcode": "XD51T70O",
+    "type": "CS01",
+    "date": "2024-06-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-06-04"
+    },
+    "pages": 4,
+    "action_date": "2024-06-04",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzQyNDgyNTgzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mV_Yr65cmzGD4mXeOFhnah86ywGrqkddl_ZNQ3tP0bw"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTc1ODUwNWFkaXF6a2N4",
+    "barcode": "XCZFGDCP",
+    "type": "AA",
+    "date": "2024-03-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-06-30"
+    },
+    "pages": 8,
+    "action_date": "2023-06-30",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzQxNTc1ODUwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QSpoyOSiMjUr2W64w3Ke46G-NxOycZrkFlX2crpxGHQ"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDUwODc5NGFkaXF6a2N4",
+    "barcode": "XC6NXRBN",
+    "type": "AA",
+    "date": "2023-06-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-06-30"
+    },
+    "pages": 8,
+    "action_date": "2022-06-30",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM4NDUwODc5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UqdGVViAP7yPZ5NyEZSfk6VRKjEsdyKFta94J1TQTQI"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjY5NDkxMWFkaXF6a2N4",
+    "barcode": "XC5M4QKZ",
+    "type": "CS01",
+    "date": "2023-06-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-06-04"
+    },
+    "pages": 4,
+    "action_date": "2023-06-04",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM4MjY5NDkxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wgn-KWkJtAEZgjO10kTS-7wiIKq8J86yLh8WBXnbAz8"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjY5NDYwOGFkaXF6a2N4",
+    "barcode": "XC5M4P1F",
+    "type": "PSC04",
+    "date": "2023-06-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-05-23",
+      "psc_name": "Mr Jacek Michal Gajewicz"
+    },
+    "pages": 2,
+    "action_date": "2023-05-23",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM4MjY5NDYwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QD80Yuyzw1gi7B2daJc6An_8NHLJohU0KHBz8HqN1I8"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjY5NDU3MmFkaXF6a2N4",
+    "barcode": "XC5M4PII",
+    "type": "CH01",
+    "date": "2023-06-13",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-23",
+      "officer_name": "Mr Jacek Michal Gajewicz"
+    },
+    "pages": 2,
+    "action_date": "2023-05-23",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM4MjY5NDU3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IosjSqyT5PxN1A2vnJmpm37ABsXpn4IRHWQr57TO_no"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODY4MTkzN2FkaXF6a2N4",
+    "barcode": "XC2VD4GY",
+    "type": "PSC04",
+    "date": "2023-05-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-05-05",
+      "psc_name": "Mr Jacek Michal Gajewicz"
+    },
+    "pages": 2,
+    "action_date": "2023-05-05",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM3ODY4MTkzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qS1AFZdv0zF2ZqyLRZ8pYHKt0Ekx_bXI7YIGQPObAoU"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODY4MTYwMWFkaXF6a2N4",
+    "barcode": "XC2VD2YR",
+    "type": "CH01",
+    "date": "2023-05-05",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-05",
+      "officer_name": "Mr Jacek Michal Gajewicz"
+    },
+    "pages": 2,
+    "action_date": "2023-05-05",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM3ODY4MTYwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w2PuZ2HN8lAIMi4FlpnH7Kf-7zSWi5EUs_cBoAEMIOI"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODY3NzU3NWFkaXF6a2N4",
+    "barcode": "XC2VCLKR",
+    "type": "AD01",
+    "date": "2023-05-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-05",
+      "old_address": "101 Rose Street South Lane Edinburgh EH2 3JG Scotland",
+      "new_address": "Robertson House Shore Street Inverness IV1 1NF"
+    },
+    "pages": 1,
+    "action_date": "2023-05-05",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM3ODY3NzU3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oCwIeSQDivtQbdFmZ2s4C8Q3Fwk99kVBPBq5YddKekU"
+    }
+  },
+  {
+    "transaction_id": "MzM0NDAxODAxMGFkaXF6a2N4",
+    "barcode": "XB73U3PU",
+    "type": "AA",
+    "date": "2022-06-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-06-30"
+    },
+    "pages": 8,
+    "action_date": "2021-06-30",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM0NDAxODAxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t96DnqMY4Q9vN193avUdd6ATODQ0ci_1aA0uIp-bBM8"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTM4NjE5NmFkaXF6a2N4",
+    "barcode": "XB5BFYVM",
+    "type": "CS01",
+    "date": "2022-06-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-06-02"
+    },
+    "pages": 3,
+    "action_date": "2022-06-02",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzM0MTM4NjE5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jkIzuoVGThSAMECMu0Q877YEbK3u_bkiKnjFMvcRALE"
+    }
+  },
+  {
+    "transaction_id": "MzMwNDI5ODg0M2FkaXF6a2N4",
+    "barcode": "XA6M1GJV",
+    "type": "CS01",
+    "date": "2021-06-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-06-04"
+    },
+    "pages": 4,
+    "action_date": "2021-06-04",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzMwNDI5ODg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Oc4UbvWmb-08AYMoA9Ka9SS2H1wl_6Bttn3zmCgzP2E"
+    }
+  },
+  {
+    "transaction_id": "MzI5Nzg4OTAxNmFkaXF6a2N4",
+    "barcode": "XA2HY1K1",
+    "type": "AA",
+    "date": "2021-04-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-06-30"
+    },
+    "pages": 8,
+    "action_date": "2020-06-30",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzI5Nzg4OTAxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uM1xYlrS-Cqy3CE4boftOzMUJRCPFi816HRWTzCRzVs"
+    }
+  },
+  {
+    "transaction_id": "MzI2NjgwNjYzN2FkaXF6a2N4",
+    "barcode": "X96QQEV7",
+    "type": "CS01",
+    "date": "2020-06-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-06-04"
+    },
+    "pages": 3,
+    "action_date": "2020-06-04",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzI2NjgwNjYzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1_gabl6rLNlzaf600T4HitCiJrijlRC9T9DY8jBM9KQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1Nzc3MjE4MmFkaXF6a2N4",
+    "barcode": "X8Z8MFVS",
+    "type": "AA",
+    "date": "2020-02-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2019-06-30"
+    },
+    "pages": 8,
+    "links": {
+      "self": "/company/SC567900/filing-history/MzI1Nzc3MjE4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c79H4ZDHt2RcNunCF9flTjhQYWW4IBlUXYaReTjh3xU"
+    }
+  },
+  {
+    "transaction_id": "MzIzNjg5OTQyMGFkaXF6a2N4",
+    "barcode": "X87LDM6X",
+    "type": "CS01",
+    "date": "2019-06-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-06-04"
+    },
+    "pages": 3,
+    "action_date": "2019-06-04",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzIzNjg5OTQyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vMyWiL_eN64e8wtjYJ3PTXZOC0eg-MD_8V878XvpSpc"
+    }
+  },
+  {
+    "transaction_id": "MzIxODc2OTg0MmFkaXF6a2N4",
+    "barcode": "X7I4ZX3T",
+    "type": "AA",
+    "date": "2018-11-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2018-06-30"
+    },
+    "pages": 8,
+    "action_date": "2018-06-30",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzIxODc2OTg0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KYZp1IGwQglW08zV5CjSnmjGbjyIJNAvCsZsUYxnWA4"
+    }
+  },
+  {
+    "transaction_id": "MzIwNzM4MzYxNWFkaXF6a2N4",
+    "barcode": "X783P9LK",
+    "type": "CS01",
+    "date": "2018-06-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-06-04"
+    },
+    "pages": 3,
+    "action_date": "2018-06-04",
+    "links": {
+      "self": "/company/SC567900/filing-history/MzIwNzM4MzYxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Pz_OYVDE4y7E_b9fc15LqcM4U4ijcGMi2hrcudGG30"
+    }
+  },
+  {
+    "transaction_id": "MzE5MTU2MDEzOWFkaXF6a2N4",
+    "barcode": "X6K8JA9N",
+    "type": "RESOLUTIONS",
+    "date": "2017-11-30",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2017-11-29"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2017-11-30",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/SC567900/filing-history/MzE5MTU2MDEzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5ItTUGGWItaUXQOwlf7vuk8z3JV4sdVyNvZQx-2VtlI"
+    }
+  },
+  {
+    "transaction_id": "MzE3NzM2NjA1NWFkaXF6a2N4",
+    "barcode": "X67Y1SEH",
+    "type": "NEWINC",
+    "date": "2017-06-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2017-06-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2017-06-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-06-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2017-06-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/SC567900/filing-history/MzE3NzM2NjA1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7UulZhRYWMxP8Ct3vTq1hJQPzJsiTwzHxRxnW1j5UEE"
+    }
+  }
+]

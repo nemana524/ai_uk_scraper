@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-31",
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-08-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-08-01"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH HOSE LIMITED",
+  "company_number": "13435929",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-02",
+    "next_due": "2025-06-16",
+    "next_made_up_to": "2025-06-02",
+    "overdue": false
+  },
+  "date_of_creation": "2021-06-03",
+  "etag": "6818c29917c708e512c8ae0aa158ba7e0a24b1e2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13435929/persons-with-significant-control",
+    "self": "/company/13435929",
+    "charges": "/company/13435929/charges",
+    "filing_history": "/company/13435929/filing-history",
+    "officers": "/company/13435929/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Unit 14 Tarsmill Court",
+    "address_line_2": "Rotherwas Industrial Estate",
+    "country": "United Kingdom",
+    "locality": "Hereford",
+    "postal_code": "HR2 6JZ",
+    "region": "Herefordshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "22210"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

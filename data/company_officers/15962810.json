@@ -1,0 +1,35 @@
+{
+  "company_number": "15962810",
+  "company_name": "TECH ESTABLISHMENT LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AHMAD, Naveed",
+      "officer_role": "director",
+      "appointed_on": "2024-09-17",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Lower Broughton Road",
+        "country": "England",
+        "locality": "Salford",
+        "postal_code": "M7 2LH",
+        "premises": "319"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1999
+      },
+      "links": {
+        "self": "/company/15962810/appointments/wqXzmL3lj4Oz1KP-77haUTVt7wQ",
+        "officer": {
+          "appointments": "/officers/zJtXHn0678DlSC4LStahsbp9ogk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

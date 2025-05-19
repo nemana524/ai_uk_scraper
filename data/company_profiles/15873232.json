@@ -1,0 +1,39 @@
+{
+  "company_number": "15873232",
+  "company_name": "TECH GB FUSION LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-08-02",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "241e High Street North",
+    "address_line_2": "Office 17",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E12 6SJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-02",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-08-02"
+    },
+    "next_due": "2026-05-02",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "etag": "7c63fe0a1d8436c6231ae0d62d9a47876c3ee560"
+}

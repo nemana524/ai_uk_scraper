@@ -1,0 +1,35 @@
+{
+  "company_number": "15895993",
+  "company_name": "TECH EDGE MARKETING LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BERNDORFLER, Manuel Thomas",
+      "officer_role": "director",
+      "appointed_on": "2024-08-14",
+      "resigned_on": null,
+      "nationality": "German",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "St. Johns Road",
+        "country": "United Kingdom",
+        "locality": "Tunbridge Wells",
+        "postal_code": "TN4 9PH",
+        "premises": "76"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/15895993/appointments/r8xSj-UBVHESCwjsxOGf4AeP6oo",
+        "officer": {
+          "appointments": "/officers/GqwgDtNlex2_hicg357xHnLHwSg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "company_number": "11353705",
+  "company_name": "TECH DEMAND LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "MERCHANT, Alireza Zahidhussein, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2018-07-20",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "India",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22 Wenlock Road"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/11353705/appointments/_xdzRADNWSCaItRlAd6_OVWBMCo",
+        "officer": {
+          "appointments": "/officers/7ZA4deBOUkASdgHq8iuMlTxFuUI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PIRVANI, Aspak Harunbhai, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2018-07-20",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "India",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22 Wenlock Road"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1987
+      },
+      "links": {
+        "self": "/company/11353705/appointments/HEOUxFPI_Ut5pNmULjywT3LUqcg",
+        "officer": {
+          "appointments": "/officers/1sEQPVToaAVdx6nwtCSu8hseE0E/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PARWANI, Neeraj Rajkumar, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2018-05-10",
+      "resigned_on": "2018-07-20",
+      "nationality": "Indian",
+      "country_of_residence": "India",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22 Wenlock Road"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/11353705/appointments/EOM-Qr1uQ_mmijlRtgKvFUa6Nbo",
+        "officer": {
+          "appointments": "/officers/_f5WBKO6hh9qqlePYE5V6tCSBt8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

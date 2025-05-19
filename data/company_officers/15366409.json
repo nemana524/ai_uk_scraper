@@ -1,0 +1,34 @@
+{
+  "company_number": "15366409",
+  "company_name": "TECH HAPPY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ABDI, Ahmed Mohamed",
+      "officer_role": "director",
+      "appointed_on": "2023-12-21",
+      "resigned_on": null,
+      "nationality": "English",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "locality": "Cardiff",
+        "po_box": "4385",
+        "postal_code": "CF14 8LH",
+        "premises": "15366409 - Companies House Default Address"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/15366409/appointments/Hm1WdIZXTu14N759IBgfV1VUJIs",
+        "officer": {
+          "appointments": "/officers/HnN0fAw6TPZ_5_TR7biM4n47IKI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

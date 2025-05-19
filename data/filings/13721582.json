@@ -1,0 +1,190 @@
+[
+  {
+    "transaction_id": "MzQ0MzUzNjUzNmFkaXF6a2N4",
+    "barcode": "XDFXA0WY",
+    "type": "CS01",
+    "date": "2024-11-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-02"
+    },
+    "pages": 3,
+    "action_date": "2024-11-02",
+    "links": {
+      "self": "/company/13721582/filing-history/MzQ0MzUzNjUzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mghD5LvJ11tUC8NNVImQAmKGyDpuZ2aHtyDnt7ToY20"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDAzNzQ1OGFkaXF6a2N4",
+    "barcode": "XDDYX7EB",
+    "type": "AD01",
+    "date": "2024-10-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-10-18",
+      "old_address": "19 Cave Road Brough Hull HU15 1HA United Kingdom",
+      "new_address": "Kingston House Myton Street Hull East Yorkshire HU1 2PS"
+    },
+    "pages": 1,
+    "action_date": "2024-10-18",
+    "links": {
+      "self": "/company/13721582/filing-history/MzQ0MDAzNzQ1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3HdSSRUWX6GTNu_iD5mx8wlvvGIaUETD6uXZ35nsIdc"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjQyOTQzOWFkaXF6a2N4",
+    "barcode": "XD3HGUT6",
+    "type": "AA",
+    "date": "2024-05-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-11-30"
+    },
+    "pages": 4,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/13721582/filing-history/MzQyMjQyOTQzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0wIG3APxvxAD4c7HQArEGesSZngJQmF5LZGatSPvK3Y"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTMwOTIzNWFkaXF6a2N4",
+    "barcode": "XCFUW362",
+    "type": "CS01",
+    "date": "2023-11-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-02"
+    },
+    "pages": 3,
+    "action_date": "2023-11-02",
+    "links": {
+      "self": "/company/13721582/filing-history/MzM5OTMwOTIzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ucVJ2uQ3K8b-cniDPZfvMthwKoxSar-umMh_zy9HMqA"
+    }
+  },
+  {
+    "transaction_id": "MzM4Nzc5MDEwMmFkaXF6a2N4",
+    "barcode": "XC8OGUAB",
+    "type": "AA",
+    "date": "2023-07-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-11-30"
+    },
+    "pages": 4,
+    "action_date": "2022-11-30",
+    "links": {
+      "self": "/company/13721582/filing-history/MzM4Nzc5MDEwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_U30hAJnfMRoaB8YTzfRCJcin_bjEJzxBR3tr2Dmpgw"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTA0NjE1NmFkaXF6a2N4",
+    "barcode": "XBH0HNSW",
+    "type": "CS01",
+    "date": "2022-11-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-11-02"
+    },
+    "pages": 4,
+    "action_date": "2022-11-02",
+    "links": {
+      "self": "/company/13721582/filing-history/MzM1OTA0NjE1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/abSX0_SN8e4pMYyjvVnlscZ0Y9X7QpS2TClo7WShBUQ"
+    }
+  },
+  {
+    "transaction_id": "WUJEQzZFVVlhZGlxemtjeA",
+    "type": "RESOLUTIONS",
+    "date": "2022-09-29",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "capital",
+        "description": "resolution-removal-pre-emption",
+        "type": "RES11",
+        "subcategory": "resolution"
+      },
+      {
+        "category": "capital",
+        "description": "resolution-securities",
+        "type": "RES10",
+        "subcategory": "resolution"
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13721582/filing-history/WUJEQzZFVVlhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i1TxrQopl2kbvX30O3FuVtgDxoocmNzG3g02jaP9nBc"
+    }
+  },
+  {
+    "transaction_id": "MzM1MjkyODU2MWFkaXF6a2N4",
+    "barcode": "XBDC4NGB",
+    "type": "SH01",
+    "date": "2022-09-26",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2022-09-23",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "300"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2022-09-23",
+    "links": {
+      "self": "/company/13721582/filing-history/MzM1MjkyODU2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YRIV9rMWkjlngiuCVQlC_w6zyzdnBBzt2EtTuiu_vK4"
+    }
+  },
+  {
+    "transaction_id": "MzMxOTA3NDY1NmFkaXF6a2N4",
+    "barcode": "XAGI55ZN",
+    "type": "NEWINC",
+    "date": "2021-11-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2021-11-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-11-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2021-11-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 34,
+    "links": {
+      "self": "/company/13721582/filing-history/MzMxOTA3NDY1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3HTHwk72MTH50byv-xXuLlUV0SZnhEME5dpUzDI_rzQ"
+    }
+  }
+]

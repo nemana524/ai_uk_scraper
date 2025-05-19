@@ -1,0 +1,52 @@
+[
+  {
+    "transaction_id": "MzQ2NDMzNDM4NGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-05-06",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15501447/filing-history/MzQ2NDMzNDM4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EyU1fMP5Y0tlQy8dM_7QKILhojAdY6WFnyqazXMmnio"
+    }
+  },
+  {
+    "transaction_id": "MzQxMTUyNzc4NWFkaXF6a2N4",
+    "barcode": "XCX5V9RC",
+    "type": "NEWINC",
+    "date": "2024-02-18",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-02-18",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-02-18",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-02-18",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2024-02-18"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/15501447/filing-history/MzQxMTUyNzc4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t9fEjECo4PFBzMq15MYpIoKvQ7WOWnVC2QPfXe_pwj0"
+    }
+  }
+]

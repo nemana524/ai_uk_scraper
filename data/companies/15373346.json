@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-28",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2023-12-28"
+    },
+    "next_due": "2025-09-28",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH LEAD INSIGHTS LTD",
+  "company_number": "15373346",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-12-27",
+    "next_due": "2026-01-10",
+    "next_made_up_to": "2025-12-27",
+    "overdue": false
+  },
+  "date_of_creation": "2023-12-28",
+  "etag": "43c6d0676d900c037bf1eecf6fcdb0c1bf789e81",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15373346/persons-with-significant-control",
+    "self": "/company/15373346",
+    "filing_history": "/company/15373346/filing-history",
+    "officers": "/company/15373346/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "13 Tewkesbury Gardens",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW9 0QU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

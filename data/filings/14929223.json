@@ -1,0 +1,67 @@
+[
+  {
+    "transaction_id": "MzQ0MDgxOTEwNWFkaXF6a2N4",
+    "barcode": "XDEF17IP",
+    "type": "AA",
+    "date": "2024-10-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-06-30"
+    },
+    "pages": 4,
+    "action_date": "2024-06-30",
+    "links": {
+      "self": "/company/14929223/filing-history/MzQ0MDgxOTEwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PKJdPbvubGNjUYawKIWQwCdPKECMuwUEa3W5uoIVVNw"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTY5NTI0OGFkaXF6a2N4",
+    "barcode": "XD5I2K17",
+    "type": "CS01",
+    "date": "2024-06-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-11"
+    },
+    "pages": 3,
+    "action_date": "2024-06-11",
+    "links": {
+      "self": "/company/14929223/filing-history/MzQyNTY5NTI0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Idy9dJ0riQh9jpKRL-1H8BQC6Yzso19actBtjoQs2fY"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjIwNDQ2NmFkaXF6a2N4",
+    "barcode": "XC56C1FL",
+    "type": "NEWINC",
+    "date": "2023-06-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-06-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-06-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2023-06-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/14929223/filing-history/MzM4MjIwNDQ2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VanFlg_ymvWHV8pSdepNk-jqgoDcxHc51BFY-EJmmls"
+    }
+  }
+]

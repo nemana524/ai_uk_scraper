@@ -1,0 +1,85 @@
+[
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "128"
+    },
+    "appointed_on": "2021-10-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Brazil",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/12579053/appointments/krNjZH14ra2atqFTEcPnIRzdQDY",
+      "officer": {
+        "appointments": "/officers/k8JJnSUqa3TsrD7o1Rcpr2YYz5o/appointments"
+      }
+    },
+    "name": "DA SILVA, Rafaela Luiza, Ms.",
+    "nationality": "Brazilian",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "person_number": "288241440002"
+  },
+  {
+    "address": {
+      "address_line_1": "5 Cullen Way",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "NW10 6JZ",
+      "premises": "First Floor, London, England"
+    },
+    "appointed_on": "2021-09-22",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Brazil",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/12579053/appointments/nS9mp8jHmhrqgb675neqYZrOtLk",
+      "officer": {
+        "appointments": "/officers/1ApM98pfT7saZBpPRVSp8PjIcYE/appointments"
+      }
+    },
+    "name": "DA SILVA, Rafaela Luiza",
+    "nationality": "Brazilian",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "resigned_on": "2021-09-22",
+    "person_number": "287563740001"
+  },
+  {
+    "address": {
+      "address_line_1": "Jouret El Ballout",
+      "country": "Lebanon",
+      "locality": "Metn",
+      "postal_code": "0000",
+      "premises": "Villa A.J Midan Str"
+    },
+    "appointed_on": "2020-04-29",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Lebanon",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/12579053/appointments/QeHLd6oEIX1nALfeZTaOt0zpjtQ",
+      "officer": {
+        "appointments": "/officers/b0CscFSqEEpGOXAcgwK2t1OHV0M/appointments"
+      }
+    },
+    "name": "JAOUDE, Philippe Abou",
+    "nationality": "Lebanese",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2021-11-16",
+    "person_number": "269263730001"
+  }
+]

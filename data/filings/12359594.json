@@ -1,0 +1,369 @@
+[
+  {
+    "transaction_id": "MzQ1NzU0ODA5N2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2025-03-08",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12359594/filing-history/MzQ1NzU0ODA5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7uvLIB-K_eTD2KxIJb1YSIudml_t5sA6A-uKEqIS1N8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NzU0ODAwN2FkaXF6a2N4",
+    "barcode": "XDXSLN8O",
+    "type": "CS01",
+    "date": "2025-03-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-10"
+    },
+    "pages": 3,
+    "action_date": "2024-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzQ1NzU0ODAwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RGeZ1EpxnSVSKm44l8wrIy5eubEEmfpOywqNpgCYmnI"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTkxNTc1N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-03-04",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12359594/filing-history/MzQ1NTkxNTc1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MHyYrl9Dd0wnGgxdnsKZ5Y-93AQ7VWKoodKAxS8y27w"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjU5NjEwMWFkaXF6a2N4",
+    "barcode": "AD9MTA4H",
+    "type": "AA",
+    "date": "2024-08-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 8,
+    "action_date": "2023-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12359594/filing-history/MzQzMjU5NjEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uHOkuXJKh-Us0dCwmX33Q9-UJy3kMIosxlj0Guw4u_I"
+    }
+  },
+  {
+    "transaction_id": "MzQwNzkwNDMzNGFkaXF6a2N4",
+    "barcode": "XCUX2FDM",
+    "type": "CS01",
+    "date": "2024-01-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-10"
+    },
+    "pages": 3,
+    "action_date": "2023-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzQwNzkwNDMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wH8qZie0zaPZiZfcwqdois2uZmP4k6CIY0fpQWKXZlg"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDAzOTk4NGFkaXF6a2N4",
+    "barcode": "ACC5DUUI",
+    "type": "AA",
+    "date": "2023-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 8,
+    "action_date": "2022-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12359594/filing-history/MzM5NDAzOTk4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uCJExHkW2kKoshvqrh7cg9Tz7hB0sjY0yeKjXa4HiPM"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTk1NjEwMWFkaXF6a2N4",
+    "barcode": "XBISSY0J",
+    "type": "CS01",
+    "date": "2022-12-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-12-10"
+    },
+    "pages": 3,
+    "action_date": "2022-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzM2MTk1NjEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QnwDdLNWJtr1LCwFw7dflGjLALogcy8VgP4bdyqAzKI"
+    }
+  },
+  {
+    "transaction_id": "MzMzOTEzNDIyMWFkaXF6a2N4",
+    "barcode": "AB3UE1MP",
+    "type": "AA",
+    "date": "2022-05-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-12-31"
+    },
+    "pages": 9,
+    "action_date": "2021-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12359594/filing-history/MzMzOTEzNDIyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mjewsPgsZ04huJLwZNkROR2CaGDEzAY2JDUdMuDH1uU"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTg4NzM3NWFkaXF6a2N4",
+    "barcode": "XAV3LQYA",
+    "type": "CS01",
+    "date": "2022-01-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-12-10"
+    },
+    "pages": 5,
+    "action_date": "2021-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzMyNTg4NzM3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ck5Q5-b0G4bSqZMfi6da-9qZgfF6kzag28e1l1a4JKc"
+    }
+  },
+  {
+    "transaction_id": "MzMxMTE1Mzk5N2FkaXF6a2N4",
+    "barcode": "XAB83CEQ",
+    "type": "TM01",
+    "date": "2021-08-19",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Derek James Abbass",
+      "termination_date": "2021-08-19"
+    },
+    "pages": 1,
+    "action_date": "2021-08-19",
+    "links": {
+      "self": "/company/12359594/filing-history/MzMxMTE1Mzk5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EvGitPOrvih_NduOB8UNOkc8ym7MZaEtojzhP_z9koY"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDAxMzAxNGFkaXF6a2N4",
+    "barcode": "AAA8GUTD",
+    "type": "AA",
+    "date": "2021-08-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-12-31"
+    },
+    "pages": 8,
+    "action_date": "2020-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12359594/filing-history/MzMxMDAxMzAxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NN4Z2RRe0_Hizwrr_CQ4AO2UTVXGHbK3SnWEeKEGIFQ"
+    }
+  },
+  {
+    "transaction_id": "MzI5MDU5MDQxOGFkaXF6a2N4",
+    "barcode": "X9XN3IJC",
+    "type": "CS01",
+    "date": "2021-02-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-12-10"
+    },
+    "pages": 3,
+    "action_date": "2020-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzI5MDU5MDQxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PkDRsKGKX3YiJUGHBmLM5Qwj4cI1Ig25wj0iF1bryvU"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTY1MTg0M2FkaXF6a2N4",
+    "barcode": "X9JLAJ9S",
+    "type": "CH01",
+    "date": "2020-12-10",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2020-12-10",
+      "officer_name": "Mr Michael Alexander Rubin"
+    },
+    "pages": 2,
+    "action_date": "2020-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzI4NTY1MTg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ONtajq2kQrPNC7EvVIhEAQ9iigXCvm7Er1Ho9cd6JY8"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTY1MTgxMmFkaXF6a2N4",
+    "barcode": "X9JLAIX2",
+    "type": "CH01",
+    "date": "2020-12-10",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2020-12-10",
+      "officer_name": "Mr Derek James Abbass"
+    },
+    "pages": 2,
+    "action_date": "2020-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzI4NTY1MTgxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xtDz2ErnUjSFzQa7JbUyykYX9ALeMJV22Va5WNAhVUM"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTY1MTc4OWFkaXF6a2N4",
+    "barcode": "X9JLAJ6P",
+    "type": "PSC04",
+    "date": "2020-12-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-12-10",
+      "psc_name": "Mr Michael Alexander Rubin"
+    },
+    "pages": 2,
+    "action_date": "2020-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzI4NTY1MTc4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sKhesRW6Qu018eXJsAPciKCR0VqBXzjFED_O1jSlYRI"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTY1MTYyOGFkaXF6a2N4",
+    "barcode": "X9JLAIAP",
+    "type": "PSC04",
+    "date": "2020-12-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-12-10",
+      "psc_name": "Ms Veronica Zuluaga"
+    },
+    "pages": 2,
+    "action_date": "2020-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzI4NTY1MTYyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-Dguq_G5knXuyoT998QGBUGetZqEWmjOF05mrW5Sx6M"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTY1MTQ2M2FkaXF6a2N4",
+    "barcode": "X9JLAHU0",
+    "type": "PSC04",
+    "date": "2020-12-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-12-10",
+      "psc_name": "Mr Derek James Abbass"
+    },
+    "pages": 2,
+    "action_date": "2020-12-10",
+    "links": {
+      "self": "/company/12359594/filing-history/MzI4NTY1MTQ2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J0ugSet_nLbj94GW-wsdMkuuE_kUp7DgrFjk1j-85Y4"
+    }
+  },
+  {
+    "transaction_id": "MzI4MzQ4Mzg2M2FkaXF6a2N4",
+    "barcode": "X9HY88X4",
+    "type": "TM02",
+    "date": "2020-11-16",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Veronica Zuluaga",
+      "termination_date": "2020-11-16"
+    },
+    "pages": 1,
+    "action_date": "2020-11-16",
+    "links": {
+      "self": "/company/12359594/filing-history/MzI4MzQ4Mzg2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ROqLe7ul-1ZE7l9HCvjVJh1fUjFfK_MzC_aEAHXSxW8"
+    }
+  },
+  {
+    "transaction_id": "MzI3NzExOTU0OGFkaXF6a2N4",
+    "barcode": "A9CT5SKB",
+    "type": "AD01",
+    "date": "2020-09-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-09-09",
+      "old_address": "Woodberry House 2 Woodberry Grove Finchley London N12 0DR United Kingdom",
+      "new_address": "13 Rossall Road Thornton-Cleveleys Lancashire FY5 1AP"
+    },
+    "pages": 2,
+    "action_date": "2020-09-09",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12359594/filing-history/MzI3NzExOTU0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/llyUr9HnT-5mNF5xq8hTCsG2H5vCg1mYujutFuPv5Ew"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTg5MjQ3OGFkaXF6a2N4",
+    "barcode": "X8K3QLN4",
+    "type": "NEWINC",
+    "date": "2019-12-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2019-12-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-12-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2019-12-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 35,
+    "links": {
+      "self": "/company/12359594/filing-history/MzI1MTg5MjQ3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0q2ViM0dP6oHEssPnXz7IprUxF0o5lmEgjaoXXAoi6o"
+    }
+  }
+]

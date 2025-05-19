@@ -1,0 +1,73 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "small"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INTERNATIONAL (LISBURN) LIMITED",
+  "company_number": "NI026025",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-05",
+    "next_due": "2025-11-19",
+    "next_made_up_to": "2025-11-05",
+    "overdue": false
+  },
+  "date_of_creation": "1991-10-28",
+  "etag": "d467e93c18a5246cc0e5e8e06dad6d9bb2c188d1",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "last_full_members_list_date": "2015-10-28",
+  "links": {
+    "persons_with_significant_control": "/company/NI026025/persons-with-significant-control",
+    "self": "/company/NI026025",
+    "charges": "/company/NI026025/charges",
+    "filing_history": "/company/NI026025/filing-history",
+    "officers": "/company/NI026025/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2015-02-24",
+      "effective_from": "1991-12-18",
+      "name": "AROMET GROUP LIMITED"
+    },
+    {
+      "ceased_on": "1991-12-18",
+      "effective_from": "1991-10-28",
+      "name": "CONDUCIVE PROMOTIONS LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Scottish Provident Building",
+    "address_line_2": "7 Donegall Square West",
+    "country": "Northern Ireland",
+    "locality": "Belfast",
+    "postal_code": "BT1 6JH"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "82990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

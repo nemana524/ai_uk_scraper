@@ -1,0 +1,73 @@
+[
+  {
+    "transaction_id": "MzQ0NjU5ODkzNmFkaXF6a2N4",
+    "barcode": "XDHKV4SH",
+    "type": "AA",
+    "date": "2024-12-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-06-30"
+    },
+    "pages": 5,
+    "action_date": "2024-06-30",
+    "links": {
+      "self": "/company/14964782/filing-history/MzQ0NjU5ODkzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iMcbSQOsebyjQSlmrZdNL0K5va1a9uqaBmAW_jYnDIk"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTE3OTA2N2FkaXF6a2N4",
+    "barcode": "XD7J18T4",
+    "type": "CS01",
+    "date": "2024-07-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-26"
+    },
+    "pages": 3,
+    "action_date": "2024-06-26",
+    "links": {
+      "self": "/company/14964782/filing-history/MzQyOTE3OTA2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fkCexXmpVou5lPFZtzFUYMJ4-TRXj9JlIdqoGy4Psqk"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDE5NzExNGFkaXF6a2N4",
+    "barcode": "XC6IFUYB",
+    "type": "NEWINC",
+    "date": "2023-06-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-06-27",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-06-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-06-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/14964782/filing-history/MzM4NDE5NzExNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ckIZBr8PpioQtt974WIU-i4wrBz4B6oGfBAOeLR5FGA"
+    }
+  }
+]

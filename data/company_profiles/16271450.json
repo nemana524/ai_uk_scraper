@@ -1,0 +1,39 @@
+{
+  "company_number": "16271450",
+  "company_name": "TECH COACH LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2025-02-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "9 Bowling Green Road",
+    "address_line_2": "Stainland",
+    "country": "England",
+    "locality": "Halifax",
+    "postal_code": "HX4 9PF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2026-11-24",
+      "overdue": false,
+      "period_end_on": "2026-02-28",
+      "period_start_on": "2025-02-24"
+    },
+    "next_due": "2026-11-24",
+    "next_made_up_to": "2026-02-28",
+    "overdue": false
+  },
+  "etag": "37181647ef4af5a031e2b9813c75272c34676d41"
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "16131236",
+  "company_name": "TECH FOR GOOD CONSULTING LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "COHEN, Yasmeen Kristel",
+      "officer_role": "director",
+      "appointed_on": "2024-12-11",
+      "resigned_on": null,
+      "nationality": "Austrian",
+      "country_of_residence": "England",
+      "occupation": "Management Consultant",
+      "address": {
+        "address_line_1": "Rubens Place",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW4 7RB",
+        "premises": "Flat 7 Vickery House"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/16131236/appointments/CutIlVW9_C7dYzvE8o810oC7Oxk",
+        "officer": {
+          "appointments": "/officers/VA5kWRmMi_NVY9oo-cL4_wPX0Fk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-20",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-20"
+    },
+    "next_due": "2026-01-20",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GUARDIANS LIMITED",
+  "company_number": "15662942",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2025-05-03",
+    "next_made_up_to": "2025-04-19",
+    "overdue": true
+  },
+  "date_of_creation": "2024-04-20",
+  "etag": "be74ada33aa6ebb23766ca8ef20e126ff8aa1405",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15662942/persons-with-significant-control",
+    "self": "/company/15662942",
+    "filing_history": "/company/15662942/filing-history",
+    "officers": "/company/15662942/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Suite G04 1 Quality Court, Chancery Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2A 1HR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

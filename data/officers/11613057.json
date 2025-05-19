@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Bridge Street",
+      "country": "England",
+      "locality": "St Helens",
+      "postal_code": "WA10 1NW",
+      "premises": "18"
+    },
+    "appointed_on": "2018-10-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/11613057/appointments/iYgdA-rP7txNmLJ-QvAVCYndRU4",
+      "officer": {
+        "appointments": "/officers/i2O6Z3z0U8UfCQUlhrNtp-WtMh4/appointments"
+      }
+    },
+    "name": "RASHEED, Faisal",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "251247310001"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "company_number": "SC765107",
+  "company_name": "TECH GIANT SCOTLAND LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AYUB, Mohammed Naveed",
+      "officer_role": "director",
+      "appointed_on": "2023-04-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Scotland",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Westland Drive",
+        "country": "United Kingdom",
+        "locality": "Glasgow",
+        "postal_code": "G14 9PF",
+        "premises": "77"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/SC765107/appointments/5Q2JVsFEpU4I4bT_380URCJUOiA",
+        "officer": {
+          "appointments": "/officers/xjkN89U5cBs18iGUs4nI2a1aOJ8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

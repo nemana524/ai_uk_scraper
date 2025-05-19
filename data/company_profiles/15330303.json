@@ -1,0 +1,40 @@
+{
+  "company_number": "15330303",
+  "company_name": "TECH DRIVE SOLUTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-12-05",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "56290",
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "68 View Road",
+    "address_line_2": "Cliffe Woods",
+    "country": "England",
+    "locality": "Rochester",
+    "postal_code": "ME3 8UG"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-05",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2023-12-05"
+    },
+    "next_due": "2025-09-05",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "etag": "8aaf82fc6aecb44072c7bf25a90f0e907c6d5d1e"
+}

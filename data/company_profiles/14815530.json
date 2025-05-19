@@ -1,0 +1,29 @@
+{
+  "company_number": "14815530",
+  "company_name": "TECH CONNECTS LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-04-19",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47910"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "26 Sydney Road",
+    "country": "England",
+    "locality": "Watford",
+    "postal_code": "WD18 7PX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    }
+  },
+  "etag": "1174ce7a0b4008cf65a967d8db33b88765bec50e"
+}

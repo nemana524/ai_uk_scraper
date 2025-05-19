@@ -1,0 +1,436 @@
+[
+  {
+    "transaction_id": "MzQ1MzIwMDc4MGFkaXF6a2N4",
+    "barcode": "XDVBC725",
+    "type": "CS01",
+    "date": "2025-01-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-01-30"
+    },
+    "pages": 4,
+    "action_date": "2025-01-30",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQ1MzIwMDc4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DrfKL5baX-QQTVb0bRDnzyEyJ32l7Upy42sPv6w0Gp8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzA1NjMwNmFkaXF6a2N4",
+    "barcode": "XDV8K0RC",
+    "type": "PSC01",
+    "date": "2025-01-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ali Hassan",
+      "notification_date": "2025-01-29"
+    },
+    "pages": 2,
+    "action_date": "2025-01-29",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQ1MzA1NjMwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rOwS_V10MTopTUbAqY2V6DRGK6GnUPGBa7JiG0DUBkU"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzA1NjA1OWFkaXF6a2N4",
+    "barcode": "XDV8JZVC",
+    "type": "PSC07",
+    "date": "2025-01-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Aleena Nisar",
+      "cessation_date": "2025-01-29"
+    },
+    "pages": 1,
+    "action_date": "2025-01-29",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQ1MzA1NjA1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1-4Hnnv-Er97_WIUPfyiANaBvNPv2k_Zcr2TlfC-md8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MTk1MDczN2FkaXF6a2N4",
+    "barcode": "XDUMP64B",
+    "type": "AP01",
+    "date": "2025-01-20",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Ali Hassan",
+      "appointment_date": "2025-01-20"
+    },
+    "pages": 2,
+    "action_date": "2025-01-20",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQ1MTk1MDczN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uLLfz9dByBqb-zTQnDKY6BYRisFlZ6yLKTgyCETPRlA"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MTk1MDY2OGFkaXF6a2N4",
+    "barcode": "XDUMP5IO",
+    "type": "TM01",
+    "date": "2025-01-20",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Aleena Nisar",
+      "termination_date": "2025-01-20"
+    },
+    "pages": 1,
+    "action_date": "2025-01-20",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQ1MTk1MDY2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JLJbQ0PwrF9uvJLQWyC1FU7GvFFjEBwgR2qQIJ-eBn0"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTYxOTE2NmFkaXF6a2N4",
+    "barcode": "XDDQXE0X",
+    "type": "CH01",
+    "date": "2024-10-15",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-10-15",
+      "officer_name": "Miss Aleena Nisar"
+    },
+    "pages": 2,
+    "action_date": "2024-10-15",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQzOTYxOTE2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LSFc9dSO8hcE-MZtG7HPq_TDnvSS0Iz-XeU4OgE8jl8"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTM5MjIwM2FkaXF6a2N4",
+    "barcode": "XD8YAHZC",
+    "type": "AD01",
+    "date": "2024-08-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-08-06",
+      "old_address": "31 Mulberry Street Huddersfield HD5 9AR England",
+      "new_address": "Office 5690 182-184 High Street North East Ham London E6 2JA"
+    },
+    "pages": 1,
+    "action_date": "2024-08-06",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQzMTM5MjIwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oRhtcUXldKx-D7nsDFNDrsy-DbkgUtOTE7xtyeetnW0"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDMyOTQ0OWFkaXF6a2N4",
+    "barcode": "XD87FD2Z",
+    "type": "PSC04",
+    "date": "2024-07-27",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-07-27",
+      "psc_name": "Miss Aleena Nisar"
+    },
+    "pages": 2,
+    "action_date": "2024-07-27",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQzMDMyOTQ0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sKehjHlOyAM7TwQ4N4Gucwj0VcbXFN2F9TdW-i751ZI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDMyOTM3NGFkaXF6a2N4",
+    "barcode": "XD87FCRC",
+    "type": "PSC07",
+    "date": "2024-07-27",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Talha Liaqat",
+      "cessation_date": "2024-07-27"
+    },
+    "pages": 1,
+    "action_date": "2024-07-27",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQzMDMyOTM3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XICJF0IL4R8pL71KAqtVb5NVWPSmCn1WpNXui4dPUPE"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDIwMTgxMmFkaXF6a2N4",
+    "barcode": "XD84ON2G",
+    "type": "TM01",
+    "date": "2024-07-26",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Talha Liaqat",
+      "termination_date": "2024-07-25"
+    },
+    "pages": 1,
+    "action_date": "2024-07-25",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQzMDIwMTgxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mbnP_8rnnmOYT_NVItnWrHbgM1cfF5RirNAHw14qT_g"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDIwMTgwNmFkaXF6a2N4",
+    "barcode": "XD84ON1S",
+    "type": "PSC01",
+    "date": "2024-07-26",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Aleena Nisar",
+      "notification_date": "2024-07-25"
+    },
+    "pages": 2,
+    "action_date": "2024-07-25",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQzMDIwMTgwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YkKHB_sn-ONkzvMWWdxmxBzdy1rfi7LstRX4bvd4ur4"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDIwMDQ3NmFkaXF6a2N4",
+    "barcode": "XD84OMNM",
+    "type": "AP01",
+    "date": "2024-07-26",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Aleena Nisar",
+      "appointment_date": "2024-07-25"
+    },
+    "pages": 2,
+    "action_date": "2024-07-25",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQzMDIwMDQ3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gvZerVEKUOHw5n1u4EvbsuWrNbflHOwPjR-LndEyM7U"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzMxMTAwNGFkaXF6a2N4",
+    "barcode": "XD0EZDYQ",
+    "type": "PSC01",
+    "date": "2024-04-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Talha Liaqat",
+      "notification_date": "2024-04-05"
+    },
+    "pages": 2,
+    "action_date": "2024-04-05",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNzMxMTAwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DRp9NO7OonsIeZ6daWH1pDqG36Fjgsu6G9xSpOtZdz4"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzMxMDYxMmFkaXF6a2N4",
+    "barcode": "XD0EZBU9",
+    "type": "PSC07",
+    "date": "2024-04-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Anand Bansal",
+      "cessation_date": "2024-04-05"
+    },
+    "pages": 1,
+    "action_date": "2024-04-05",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNzMxMDYxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jGQ6NbnkssQji9wokKgCh-TX4gMJfEbqf0PBQAdiIyc"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzMxMDUwMWFkaXF6a2N4",
+    "barcode": "XD0EZBFN",
+    "type": "TM01",
+    "date": "2024-04-05",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Anand Bansal",
+      "termination_date": "2024-04-05"
+    },
+    "pages": 1,
+    "action_date": "2024-04-05",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNzMxMDUwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/G5nmjJTI2iUpjeo3zs9wMQd2eMueeMpGshj1VsmUJ5c"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzMwOTk3NWFkaXF6a2N4",
+    "barcode": "XD0EZ8H6",
+    "type": "AP01",
+    "date": "2024-04-05",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Talha Liaqat",
+      "appointment_date": "2024-04-05"
+    },
+    "pages": 2,
+    "action_date": "2024-04-05",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNzMwOTk3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1vmP1ONaKMwPn97q_Ka88ncoCAMuAZknbg_Hx4h9-Ns"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTg5MTg0NmFkaXF6a2N4",
+    "barcode": "XCZKQ755",
+    "type": "PSC04",
+    "date": "2024-03-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-03-24",
+      "psc_name": "Mr Anand Bansal"
+    },
+    "pages": 2,
+    "action_date": "2024-03-24",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNTg5MTg0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CwWrWMF822vI58y4HYZiSjDshlC7NDANp0WPZSb_Dc8"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTg5MTY3N2FkaXF6a2N4",
+    "barcode": "XCZKQ6G8",
+    "type": "PSC01",
+    "date": "2024-03-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Anand Bansal",
+      "notification_date": "2024-03-24"
+    },
+    "pages": 2,
+    "action_date": "2024-03-24",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNTg5MTY3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0ev16EF6R-SpNQwQlwFDmHcr8pJjt0-I-Xl6uFMNK78"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTg5MDIwNmFkaXF6a2N4",
+    "barcode": "XCZKPZI0",
+    "type": "PSC07",
+    "date": "2024-03-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Talha Liaqat",
+      "cessation_date": "2024-03-24"
+    },
+    "pages": 1,
+    "action_date": "2024-03-24",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNTg5MDIwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rB2XBfCFn9fq_Tu7NcJUwYa65Jp9pv-MrFOSpBtXHyE"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTg5MDE4N2FkaXF6a2N4",
+    "barcode": "XCZKPZNN",
+    "type": "TM01",
+    "date": "2024-03-24",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Talha Liaqat",
+      "termination_date": "2024-03-24"
+    },
+    "pages": 1,
+    "action_date": "2024-03-24",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNTg5MDE4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/g__CN396cvpPkeHIttW-ZLOT9WhQHggSl4_qw9gh1zo"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTg5MDA2NGFkaXF6a2N4",
+    "barcode": "XCZKPYZM",
+    "type": "AP01",
+    "date": "2024-03-24",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Anand Bansal",
+      "appointment_date": "2024-03-24"
+    },
+    "pages": 2,
+    "action_date": "2024-03-24",
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNTg5MDA2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WVnVVTZdEu37NwKuNz9t6WOcESydwj-VlZZBQijmGOU"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDk2MjcyMWFkaXF6a2N4",
+    "barcode": "XCZ4KGUX",
+    "type": "NEWINC",
+    "date": "2024-03-18",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-03-18",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-03-18",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-03-18",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-03-18"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/15574544/filing-history/MzQxNDk2MjcyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ukxcYZvhcwVZCm2L5CqVbO-kRFCNHN6my2o5ywxKRic"
+    }
+  }
+]

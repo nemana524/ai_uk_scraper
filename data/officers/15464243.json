@@ -1,0 +1,135 @@
+[
+  {
+    "address": {
+      "address_line_1": "113 -115 Fonthill Road",
+      "address_line_2": "Finsbury Park",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "N4 3HH",
+      "premises": "Space4,  Fonthill House"
+    },
+    "appointed_on": "2024-02-04",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15464243/appointments/JChP0bQf-vRdD-njEWdAyTIAqgo",
+      "officer": {
+        "appointments": "/officers/M4GNt1pP6dL6G9BqghqWO6Cfdhc/appointments"
+      }
+    },
+    "name": "ANIFOWOSE, Omowunmi",
+    "officer_role": "secretary",
+    "person_number": "318919700001"
+  },
+  {
+    "address": {
+      "address_line_1": "113 -115 Fonthill Road",
+      "address_line_2": "Finsbury Park",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "N4 3HH",
+      "premises": "Space4,  Fonthill House"
+    },
+    "appointed_on": "2024-02-04",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1972
+    },
+    "links": {
+      "self": "/company/15464243/appointments/GiCsaYq9uwWxOZ6jypfevLZVerg",
+      "officer": {
+        "appointments": "/officers/B69OzRHjizkQlN9VCTdwfmGT0Xc/appointments"
+      }
+    },
+    "name": "AKINWANDE, Adenike",
+    "nationality": "British",
+    "occupation": "Business Analyst",
+    "officer_role": "director",
+    "person_number": "265791410001"
+  },
+  {
+    "address": {
+      "address_line_1": "113 -115 Fonthill Road",
+      "address_line_2": "Finsbury Park",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "N4 3HH",
+      "premises": "Space4,  Fonthill House"
+    },
+    "appointed_on": "2024-02-04",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/15464243/appointments/wh4SCvIZf8IVK6SEhQMCauKP8DU",
+      "officer": {
+        "appointments": "/officers/0rL_O3nYHhfI7cWkw2nqPX8h7Ig/appointments"
+      }
+    },
+    "name": "ANIFOWOSE, Omowunmi",
+    "nationality": "Nigerian",
+    "occupation": "Data Analyst",
+    "officer_role": "director",
+    "person_number": "318919670001"
+  },
+  {
+    "address": {
+      "address_line_1": "113 -115 Fonthill Road",
+      "address_line_2": "Finsbury Park",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "N4 3HH",
+      "premises": "Space4,  Fonthill House"
+    },
+    "appointed_on": "2024-02-04",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1974
+    },
+    "links": {
+      "self": "/company/15464243/appointments/tGrMwslpaXPmULQbGOIHPoVbtWU",
+      "officer": {
+        "appointments": "/officers/ctlcjiaTOimdOiOQTS9pKzoyTS4/appointments"
+      }
+    },
+    "name": "DAODU, Ayodele Olutayo",
+    "nationality": "British",
+    "occupation": "Project Manager",
+    "officer_role": "director",
+    "person_number": "180026510002"
+  },
+  {
+    "address": {
+      "address_line_1": "113-115 Fonthill Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "N4 3HH",
+      "premises": "Space 4, Fonthill House"
+    },
+    "appointed_on": "2024-03-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 4,
+      "year": 2001
+    },
+    "links": {
+      "self": "/company/15464243/appointments/gJfFFSSHFO7Q4_YoYQr1JiaD48o",
+      "officer": {
+        "appointments": "/officers/8kX7NZMGwnstPmKVEZGrGTgM56Q/appointments"
+      }
+    },
+    "name": "KITOVA, Jasmine Habib",
+    "nationality": "Tanzanian",
+    "occupation": "Business Consultant",
+    "officer_role": "director",
+    "resigned_on": "2024-04-11",
+    "person_number": "320202720001"
+  }
+]

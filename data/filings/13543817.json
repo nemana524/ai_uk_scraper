@@ -1,0 +1,178 @@
+[
+  {
+    "transaction_id": "MzQ2NDE4ODk5NmFkaXF6a2N4",
+    "barcode": "XE179NGI",
+    "type": "CERTNM",
+    "date": "2025-04-28",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2025-04-25"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2025-04-28",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed copia plus LIMITED\\certificate issued on 28/04/25"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/13543817/filing-history/MzQ2NDE4ODk5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OF8ea62rt238XLNqEr4j02F4yctx9Z9T8LuVkRkeFgI"
+    }
+  },
+  {
+    "transaction_id": "MzQzNjg0OTIxMGFkaXF6a2N4",
+    "barcode": "XDC8BGZM",
+    "type": "AA",
+    "date": "2024-09-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 2,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/13543817/filing-history/MzQzNjg0OTIxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ogAUuXDhkvJZG7U5VE20vLvAOjyLFZeckcNdrlr4i7o"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTE3Mjc3OWFkaXF6a2N4",
+    "barcode": "XD8VH1Q2",
+    "type": "CS01",
+    "date": "2024-08-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-01"
+    },
+    "pages": 3,
+    "action_date": "2024-08-01",
+    "links": {
+      "self": "/company/13543817/filing-history/MzQzMTE3Mjc3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9-91uQDCgfZ2RNMGRfqFxaKLqMzbNbQLAyTlbL5IBHk"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODI3OTI1OGFkaXF6a2N4",
+    "barcode": "XC8ZGBBL",
+    "type": "CS01",
+    "date": "2023-08-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-01"
+    },
+    "pages": 3,
+    "action_date": "2023-08-01",
+    "links": {
+      "self": "/company/13543817/filing-history/MzM4ODI3OTI1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5BtGjrziCluH2oQ1_FP2QwVvivuZLlviapPtZHHDAro"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDgzODQyMmFkaXF6a2N4",
+    "barcode": "XC6QVUN4",
+    "type": "AA",
+    "date": "2023-06-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 2,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/13543817/filing-history/MzM4NDgzODQyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kTjhg9bFrAq8mKZw04-gPHCr0o9QSXQNN3mzEwRDKSo"
+    }
+  },
+  {
+    "transaction_id": "MzM1NzcxMTIwMWFkaXF6a2N4",
+    "barcode": "XBG9F0NV",
+    "type": "AA01",
+    "date": "2022-11-07",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2022-08-31",
+      "new_date": "2022-12-31"
+    },
+    "pages": 1,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/13543817/filing-history/MzM1NzcxMTIwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zAwjyGlhMT-kMaoAPDy8Z7lXDc9IjNA8XEVIWuPDr4E"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODQ2NjM4MmFkaXF6a2N4",
+    "barcode": "XBA5SC6R",
+    "type": "CS01",
+    "date": "2022-08-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-08-01"
+    },
+    "pages": 3,
+    "action_date": "2022-08-01",
+    "links": {
+      "self": "/company/13543817/filing-history/MzM0ODQ2NjM4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mz3i18DA6j-eAKeeYGX4zC8EtCf32X33Pi39SdfmuC0"
+    }
+  },
+  {
+    "transaction_id": "MzMwOTQ3MDA3NGFkaXF6a2N4",
+    "barcode": "XAA1HNDM",
+    "type": "NEWINC",
+    "date": "2021-08-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-08-02",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-08-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-08-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-08-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/13543817/filing-history/MzMwOTQ3MDA3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fvkiMfpYZ0f8K7n8Qj_Fd0UYNj9A319kx9wYmvvD09U"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "company_number": "15207020",
+  "company_name": "TECH LINK RETAIL LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "CHUNG, Clarence",
+      "officer_role": "director",
+      "appointed_on": "2023-10-12",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Britannia Road",
+        "country": "United Kingdom",
+        "locality": "Doc Penfro",
+        "postal_code": "SA72 6QE",
+        "premises": "1",
+        "region": "Sir Benfro"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/15207020/appointments/MjRSfOLesmtB_9qfS8IccmEV2nA",
+        "officer": {
+          "appointments": "/officers/UxyS_00oUobQI5Dd9HTROu0d4vg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

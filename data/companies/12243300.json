@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH IT OUT LTD",
+  "company_number": "12243300",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-27",
+    "next_due": "2025-12-11",
+    "next_made_up_to": "2025-11-27",
+    "overdue": false
+  },
+  "date_of_creation": "2019-10-04",
+  "etag": "931ef1ea7ca7cabf569ecc8a3d9679e5eb90ec40",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12243300/persons-with-significant-control",
+    "self": "/company/12243300",
+    "filing_history": "/company/12243300/filing-history",
+    "officers": "/company/12243300/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "6 Gaen Street",
+    "country": "Wales",
+    "locality": "Abertillery",
+    "postal_code": "NP13 1PT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

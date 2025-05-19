@@ -1,0 +1,38 @@
+{
+  "company_number": "15091767",
+  "company_name": "TECH EXPORTS LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-08-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46900"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "20 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2025-05-23",
+      "overdue": false,
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-08-23"
+    },
+    "next_due": "2025-05-23",
+    "next_made_up_to": "2024-08-31",
+    "overdue": false
+  },
+  "etag": "995184c1c1036633e68b51e454c30e5da6a976f4"
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "address": {
+      "address_line_1": "Fourseas Building 208-212",
+      "address_line_2": "Nathan Road",
+      "country": "Hong Kong",
+      "locality": "Kowloon",
+      "postal_code": "999077",
+      "premises": "Unit 702"
+    },
+    "appointed_on": "2022-07-14",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/14234976/appointments/Xa-veZ8nxLQabIRS5U5FCDm8_oc",
+      "officer": {
+        "appointments": "/officers/xA8D_-5sGI27FyaHum3lo0BKfPU/appointments"
+      }
+    },
+    "name": "TANNETSEC LIMITED",
+    "officer_role": "corporate-secretary",
+    "identification": {
+      "identification_type": "uk-limited-company",
+      "registration_number": "12069857"
+    },
+    "person_number": "214704330017"
+  },
+  {
+    "address": {
+      "address_line_1": "Bell Yard",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "WC2A 2JR",
+      "premises": "7"
+    },
+    "appointed_on": "2022-07-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/14234976/appointments/YDqboHNji4mM-BMh4tzYCIgUois",
+      "officer": {
+        "appointments": "/officers/SpdPyOWiFnqjCVnz282tCIhMoSU/appointments"
+      }
+    },
+    "name": "HE, Gang",
+    "nationality": "Chinese",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "person_number": "328807730001"
+  },
+  {
+    "address": {
+      "address_line_1": "Shelton Street",
+      "address_line_2": "Covent Garden",
+      "locality": "London",
+      "postal_code": "WC2H 9JQ",
+      "premises": "71-75"
+    },
+    "appointed_on": "2024-07-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/14234976/appointments/V71rJ9UTvz5acMwOpwzepE4Y4-8",
+      "officer": {
+        "appointments": "/officers/SpdPyOWiFnqjCVnz282tCIhMoSU/appointments"
+      }
+    },
+    "name": "HE, Gang",
+    "nationality": "Chinese",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "resigned_on": "2024-07-14",
+    "person_number": "328807730001"
+  },
+  {
+    "address": {
+      "address_line_1": "Station Group, Puwan Village, Zhuting Town,",
+      "address_line_2": "Zhuzhou County,",
+      "country": "China",
+      "locality": "Hunan Province,",
+      "postal_code": "412000",
+      "premises": "No. 16,"
+    },
+    "appointed_on": "2022-07-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "China",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/14234976/appointments/yjqd0xT062e5nedZ4ZtUTtXoTQQ",
+      "officer": {
+        "appointments": "/officers/gN8A6PsYDHgyASuf20_WzzeHTck/appointments"
+      }
+    },
+    "name": "HE, Gang",
+    "nationality": "Chinese",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2022-07-14",
+    "person_number": "298013720001"
+  },
+  {
+    "address": {
+      "address_line_1": "Shelton Street",
+      "address_line_2": "Covent Garden",
+      "locality": "London",
+      "postal_code": "WC2H 9JQ",
+      "premises": "71-75"
+    },
+    "appointed_on": "2022-07-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1989
+    },
+    "links": {
+      "self": "/company/14234976/appointments/NheJJ81F8iHhG9miMGASantV7Xo",
+      "officer": {
+        "appointments": "/officers/hoZrfKS6HLQrkAJzxSxlPebinuY/appointments"
+      }
+    },
+    "name": "IBLYAL, Asghar",
+    "nationality": "British",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "resigned_on": "2022-07-14",
+    "person_number": "327957590001"
+  }
+]

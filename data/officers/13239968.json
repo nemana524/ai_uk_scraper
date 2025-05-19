@@ -1,0 +1,85 @@
+[
+  {
+    "address": {
+      "address_line_1": "582 Honeypot Lane",
+      "country": "United Kingdom",
+      "locality": "Stanmore",
+      "postal_code": "HA7 1JS",
+      "premises": "Devonshire House"
+    },
+    "appointed_on": "2023-08-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1976
+    },
+    "links": {
+      "self": "/company/13239968/appointments/7_zdhTA0ywSsqFjR1Ct15P4hB2E",
+      "officer": {
+        "appointments": "/officers/4C6QXi_2aqhH4HK7FuvgZnTyB4A/appointments"
+      }
+    },
+    "name": "CLEMENTS, Mark Richard Henry",
+    "nationality": "British",
+    "occupation": "None",
+    "officer_role": "director",
+    "person_number": "211924580002"
+  },
+  {
+    "address": {
+      "address_line_1": "Charing Cross Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "WC2H 0EW",
+      "premises": "125"
+    },
+    "appointed_on": "2021-03-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1972
+    },
+    "links": {
+      "self": "/company/13239968/appointments/ZctWjF6UxFMQ10zN56PudKlU6Ms",
+      "officer": {
+        "appointments": "/officers/9aAp-AnyJPGbznkcDze-2qMjpvs/appointments"
+      }
+    },
+    "name": "GILES, Guy Daniel",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "resigned_on": "2023-07-31",
+    "person_number": "209774060001"
+  },
+  {
+    "address": {
+      "address_line_1": "582 Honeypot Lane",
+      "country": "United Kingdom",
+      "locality": "Stanmore",
+      "postal_code": "HA7 1JS",
+      "premises": "Devonshire House"
+    },
+    "appointed_on": "2021-03-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/13239968/appointments/uYMYwLqUxo2h-_pnpJrZ2IkKgnw",
+      "officer": {
+        "appointments": "/officers/at_v5B2DVhAefbClNuty8CrYymg/appointments"
+      }
+    },
+    "name": "GORDON, Lorenzo",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "resigned_on": "2025-02-28",
+    "person_number": "280228860001"
+  }
+]

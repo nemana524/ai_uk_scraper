@@ -1,0 +1,399 @@
+[
+  {
+    "transaction_id": "MzQzMDkwNjc3N2FkaXF6a2N4",
+    "barcode": "XD8KZQDD",
+    "type": "CS01",
+    "date": "2024-08-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-01"
+    },
+    "pages": 3,
+    "action_date": "2024-08-01",
+    "links": {
+      "self": "/company/10350001/filing-history/MzQzMDkwNjc3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vRj9y5ljyFv8SuNcnQZlMZ7FcOJN_9OCbYPYm9GiiY0"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzAzOTQ4NWFkaXF6a2N4",
+    "barcode": "XD695XI8",
+    "type": "AA",
+    "date": "2024-06-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 5,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzQyNzAzOTQ4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZPH0OHvR_KgQcbHJPVDQC9kcRC4wU7QvaXrgjB9AvhQ"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODk3MjYwNWFkaXF6a2N4",
+    "barcode": "XCFPA5QR",
+    "type": "AD01",
+    "date": "2023-11-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-11-06",
+      "old_address": "59 Doveholes Drive Sheffield S13 9DP England",
+      "new_address": "7 Walkley Lane Flat 7 Sailsbury Court Sheffield S6 2NX"
+    },
+    "pages": 1,
+    "action_date": "2023-11-06",
+    "links": {
+      "self": "/company/10350001/filing-history/MzM5ODk3MjYwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QuURtYkAgQZkm76yJmsCJOiCBVu5dJ6OFrM5U3iNSWo"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjI4NDY3OGFkaXF6a2N4",
+    "barcode": "XCBNMMZN",
+    "type": "CS01",
+    "date": "2023-09-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-10"
+    },
+    "pages": 3,
+    "action_date": "2023-08-10",
+    "links": {
+      "self": "/company/10350001/filing-history/MzM5MjI4NDY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6s_xj5rpAtZCPkr9K9wZu_RT2QQ5t5Xj-rx6hyTgnH4"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjE5ODQyNGFkaXF6a2N4",
+    "barcode": "XCBKXHQA",
+    "type": "AA",
+    "date": "2023-09-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 5,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzM5MjE5ODQyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3-zWcaQ0BwUuBCrR2b8Q3KQQPC8BEVq2LUbTqZuaTlY"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjkwMDU2OGFkaXF6a2N4",
+    "barcode": "XBJ6CMYQ",
+    "type": "AA",
+    "date": "2022-12-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 5,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzM2MjkwMDU2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qukRtYmbEZ73MYpdfSQYaMkOY_CUaW6b_Ife_OTtqQ4"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODQzNTI0M2FkaXF6a2N4",
+    "barcode": "XBA5P4YI",
+    "type": "CS01",
+    "date": "2022-08-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-08-10"
+    },
+    "pages": 3,
+    "action_date": "2022-08-10",
+    "links": {
+      "self": "/company/10350001/filing-history/MzM0ODQzNTI0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X-sOTPxNopJJGaFr3sMauIKcMaWzFlHhwp5t08zX2kM"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDU1ODYzMmFkaXF6a2N4",
+    "barcode": "XAHJKFDD",
+    "type": "AA",
+    "date": "2021-11-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 5,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzMyMDU1ODYzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-0hpPSpWcCBHOkaA4ybwsvn2ihk9S8qiPTJ2rR8gom4"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzgwNzk3NWFkaXF6a2N4",
+    "barcode": "XAD00X0J",
+    "type": "CS01",
+    "date": "2021-09-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-08-10"
+    },
+    "pages": 3,
+    "action_date": "2021-08-10",
+    "links": {
+      "self": "/company/10350001/filing-history/MzMxMzgwNzk3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6uU_Tuc1aLxEd65XkPUIsnvpuwArLbLwiI7PVpWLXGo"
+    }
+  },
+  {
+    "transaction_id": "MzI3NDk0NzI4N2FkaXF6a2N4",
+    "barcode": "X9B5QQEH",
+    "type": "CS01",
+    "date": "2020-08-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-08-10"
+    },
+    "pages": 3,
+    "action_date": "2020-08-10",
+    "links": {
+      "self": "/company/10350001/filing-history/MzI3NDk0NzI4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CJKijMZZ7Nq7vtiWkYAFnii6h6fFzIhuSQHt34V-AG8"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzY1NTE2NWFkaXF6a2N4",
+    "barcode": "X943AEV4",
+    "type": "AA",
+    "date": "2020-04-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 5,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzI2MzY1NTE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RCidXh_ZlG7dzFrKBlgYk4RvmsbYnZcUKmRQqbYrbWY"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTE0MzY0N2FkaXF6a2N4",
+    "barcode": "X8EPQ008",
+    "type": "AA",
+    "date": "2019-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 5,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzI0NTE0MzY0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T2PCcHYPlQF2th0KvgCbNgsZFOgFALG0JeCEMfagVuM"
+    }
+  },
+  {
+    "transaction_id": "MzI0MjkwMzk3OWFkaXF6a2N4",
+    "barcode": "X8CVKCU1",
+    "type": "CS01",
+    "date": "2019-08-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-08-26"
+    },
+    "pages": 3,
+    "action_date": "2019-08-26",
+    "links": {
+      "self": "/company/10350001/filing-history/MzI0MjkwMzk3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YYIS_DV4KWxiWLUVs7sLq_ddUx2pwPW0pqBClf9JakI"
+    }
+  },
+  {
+    "transaction_id": "MzIyNjI2ODM5MmFkaXF6a2N4",
+    "barcode": "X7YOIFUA",
+    "type": "AD01",
+    "date": "2019-02-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-02-05",
+      "old_address": "1st Floor 2 Woodberry Grove Finchley London N12 0DR England",
+      "new_address": "59 Doveholes Drive Sheffield S13 9DP"
+    },
+    "pages": 1,
+    "action_date": "2019-02-05",
+    "links": {
+      "self": "/company/10350001/filing-history/MzIyNjI2ODM5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ypBKeRs9_lwAakv69sFxlExtzWGAcedKc7Yqo_0TsL4"
+    }
+  },
+  {
+    "transaction_id": "MzIxODMzNjgzOGFkaXF6a2N4",
+    "barcode": "X7HPNXYZ",
+    "type": "AA",
+    "date": "2018-10-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-03-31"
+    },
+    "pages": 5,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzIxODMzNjgzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wgAOP2GCTTuvBv1nP_0UA8Z8QMK83RA-6ndf7Qgvmno"
+    }
+  },
+  {
+    "transaction_id": "MzIxMzAzOTYxM2FkaXF6a2N4",
+    "barcode": "X7D9GDEH",
+    "type": "CS01",
+    "date": "2018-08-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-08-26"
+    },
+    "pages": 3,
+    "action_date": "2018-08-26",
+    "links": {
+      "self": "/company/10350001/filing-history/MzIxMzAzOTYxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/x9UHFRHWXhHuKwbftzWs8X5QnPuLWrZWZWUWG2Won5w"
+    }
+  },
+  {
+    "transaction_id": "MzE5MzM0MDc4MGFkaXF6a2N4",
+    "barcode": "X6LORB7U",
+    "type": "AA",
+    "date": "2017-12-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-03-31"
+    },
+    "pages": 5,
+    "action_date": "2017-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzE5MzM0MDc4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sjHgIeO8zzynpRz4kdPIgagvhAJwfeB3r7wAr-34xuo"
+    }
+  },
+  {
+    "transaction_id": "MzE4NDEzNDUzOGFkaXF6a2N4",
+    "barcode": "X6DWC7MJ",
+    "type": "CS01",
+    "date": "2017-08-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2017-08-26"
+    },
+    "pages": 3,
+    "action_date": "2017-08-26",
+    "links": {
+      "self": "/company/10350001/filing-history/MzE4NDEzNDUzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qNKHlYqQhfMxIV0HG4mUae__1POk5jvl4BtLy5-_i7o"
+    }
+  },
+  {
+    "transaction_id": "MzE4NDEwMjYyM2FkaXF6a2N4",
+    "barcode": "X6DXVWHP",
+    "type": "AD01",
+    "date": "2017-08-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2017-08-30",
+      "old_address": "64 Birklands Avenue Sheffield S13 8JH England",
+      "new_address": "1st Floor 2 Woodberry Grove Finchley London N12 0DR"
+    },
+    "pages": 1,
+    "action_date": "2017-08-30",
+    "links": {
+      "self": "/company/10350001/filing-history/MzE4NDEwMjYyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DoVRG3IPuBuQ_LnkAorbdsoGM1KGMX0nn46bijNHO14"
+    }
+  },
+  {
+    "transaction_id": "MzE1OTAyMzkwMmFkaXF6a2N4",
+    "barcode": "X5GZ34CW",
+    "type": "AA01",
+    "date": "2016-10-05",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-shortened",
+    "description_values": {
+      "made_up_date": "2017-08-31",
+      "new_date": "2017-03-31"
+    },
+    "pages": 1,
+    "action_date": "2017-03-31",
+    "links": {
+      "self": "/company/10350001/filing-history/MzE1OTAyMzkwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4Ac0FeolJvkf1kgagWR5XYkNvMvJRjZRgLjWyVEWZNk"
+    }
+  },
+  {
+    "transaction_id": "MzE1ODkwMjYxM2FkaXF6a2N4",
+    "barcode": "X5GWD369",
+    "type": "AD01",
+    "date": "2016-10-04",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2016-10-04",
+      "old_address": "1st Floor 2 Woodberry Grove Finchley London N12 0DR England",
+      "new_address": "64 Birklands Avenue Sheffield S13 8JH"
+    },
+    "pages": 1,
+    "action_date": "2016-10-04",
+    "links": {
+      "self": "/company/10350001/filing-history/MzE1ODkwMjYxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nh8Igr9NwVSDnMQ0tx0ojBH4bOcunUL9lgfxUGbGOEk"
+    }
+  },
+  {
+    "transaction_id": "MzE1NTk5MDQwMmFkaXF6a2N4",
+    "barcode": "X5E7G1C3",
+    "type": "NEWINC",
+    "date": "2016-08-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-08-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-08-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2016-08-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 39,
+    "links": {
+      "self": "/company/10350001/filing-history/MzE1NTk5MDQwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AK6R7r8hNTPnTUwv2s3ftfSKPCwNxD3lKw0-AotYe58"
+    }
+  }
+]

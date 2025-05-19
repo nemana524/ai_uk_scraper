@@ -1,0 +1,45 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-03-31",
+      "period_end_on": "2023-03-31",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH DATE LIMITED",
+  "company_number": "13285188",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-03-22"
+  },
+  "date_of_cessation": "2024-12-31",
+  "date_of_creation": "2021-03-23",
+  "etag": "130ed9ed728b5554f83b1041ed93d849da1bc15b",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13285188/persons-with-significant-control",
+    "self": "/company/13285188",
+    "filing_history": "/company/13285188/filing-history",
+    "officers": "/company/13285188/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "504 Olympic House 28-42 Clements Road",
+    "country": "England",
+    "locality": "Ilford",
+    "postal_code": "IG1 1BA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

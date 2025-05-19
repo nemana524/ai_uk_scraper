@@ -1,0 +1,35 @@
+{
+  "company_number": "14071774",
+  "company_name": "TECH AVENUE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "FAKI, Waheed Imtiaz",
+      "officer_role": "director",
+      "appointed_on": "2022-04-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Salesman",
+      "address": {
+        "address_line_1": "Linton Street",
+        "country": "United Kingdom",
+        "locality": "Leicester",
+        "postal_code": "LE5 5JA",
+        "premises": "2a"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/14071774/appointments/fojVXwPs3gNThsFINof50Atbl6M",
+        "officer": {
+          "appointments": "/officers/4X6Qe48CwgoT9Qd6S3xW1ghyeIc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

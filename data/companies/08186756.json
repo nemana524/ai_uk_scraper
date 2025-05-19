@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-08-31",
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-31",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01"
+    },
+    "next_due": "2026-05-31",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ANVIL LIMITED",
+  "company_number": "08186756",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-10",
+    "next_due": "2025-08-24",
+    "next_made_up_to": "2025-08-10",
+    "overdue": false
+  },
+  "date_of_creation": "2012-08-21",
+  "etag": "c750731d7229f4e686eb456fd07ce3beb5cb2e81",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-08-21",
+  "links": {
+    "persons_with_significant_control": "/company/08186756/persons-with-significant-control",
+    "self": "/company/08186756",
+    "filing_history": "/company/08186756/filing-history",
+    "officers": "/company/08186756/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "W8a Knoll Business Centre",
+    "address_line_2": "325-327 Old Shoreham Road",
+    "country": "United Kingdom",
+    "locality": "Hove",
+    "postal_code": "BN3 7GS"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

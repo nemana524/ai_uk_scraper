@@ -1,0 +1,320 @@
+[
+  {
+    "transaction_id": "MzQ2MTQ4NTA1M2FkaXF6a2N4",
+    "barcode": "XDZS2OTD",
+    "type": "AD01",
+    "date": "2025-04-04",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-04-04",
+      "old_address": "New Derwent House 69-73 Theobalds Road London London WC1X 8TA England",
+      "new_address": "3rd Floor 86 - 90 Paul Street London EC2A 4NE"
+    },
+    "pages": 1,
+    "action_date": "2025-04-04",
+    "links": {
+      "self": "/company/11705783/filing-history/MzQ2MTQ4NTA1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4M9J-60RHxIsVPYMiVI3R4hmYzxF7u3qBfEPl4McvtM"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzkyMTAyOGFkaXF6a2N4",
+    "barcode": "XDI6GXW2",
+    "type": "AA",
+    "date": "2024-12-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 10,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/11705783/filing-history/MzQ0NzkyMTAyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/G46YHoWICupPq4giq2AFCxvHImjNkPIjMXGc1xL_OA4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTczMTA2M2FkaXF6a2N4",
+    "barcode": "XDH4KC49",
+    "type": "CS01",
+    "date": "2024-12-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-29"
+    },
+    "pages": 3,
+    "action_date": "2024-11-29",
+    "links": {
+      "self": "/company/11705783/filing-history/MzQ0NTczMTA2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NDEPFmpEenFuL254GNyEdkdiU5Ef0Os4KfBOz_e4FG0"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTQ0Mjg0NWFkaXF6a2N4",
+    "barcode": "XCIVS1K8",
+    "type": "AA",
+    "date": "2023-12-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 10,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/11705783/filing-history/MzQwNTQ0Mjg0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VNCJNNXDJi4O6NsRRTqKJLeY2FduFkvQNil057qpICQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjc5NTM2MWFkaXF6a2N4",
+    "barcode": "XCHSXNL5",
+    "type": "CS01",
+    "date": "2023-12-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-11-29"
+    },
+    "pages": 4,
+    "action_date": "2023-11-29",
+    "links": {
+      "self": "/company/11705783/filing-history/MzQwMjc5NTM2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9EdjVHfaY0mIQQfr2MfE61EaTgH0ZjWaI5zsvT3X4NM"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjEyMzc2M2FkaXF6a2N4",
+    "barcode": "XBIVJMT6",
+    "type": "CS01",
+    "date": "2022-12-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-11-29"
+    },
+    "pages": 4,
+    "action_date": "2022-11-29",
+    "links": {
+      "self": "/company/11705783/filing-history/MzM2MjEyMzc2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SS1B-BYD5S11XPgnxWaiEmF8qU0vruBFOAlA__YfjaE"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTQ5Mjc1NWFkaXF6a2N4",
+    "barcode": "XBEU5QVV",
+    "type": "AA",
+    "date": "2022-10-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 10,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/11705783/filing-history/MzM1NTQ5Mjc1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CKS-5Ks93U2bESjm3SVSNHcV2dVyeCLGuCICvMgnS4s"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzA4NzIxNmFkaXF6a2N4",
+    "barcode": "XAIYS5Y2",
+    "type": "CS01",
+    "date": "2021-12-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-11-29"
+    },
+    "pages": 4,
+    "action_date": "2021-11-29",
+    "links": {
+      "self": "/company/11705783/filing-history/MzMyMzA4NzIxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mIDt8rCg4WWTzl8-hVXDhBuOar_bGXGHMMGLBqyo30A"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjUyODc4MmFkaXF6a2N4",
+    "barcode": "XA7W6XC0",
+    "type": "AA",
+    "date": "2021-07-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 9,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/11705783/filing-history/MzMwNjUyODc4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NAGme5EMDn8o2yQn41MePGgO6WuXKUIQBbMYMGA2BTw"
+    }
+  },
+  {
+    "transaction_id": "MzI4OTkyMTkzNGFkaXF6a2N4",
+    "barcode": "X9X4C2KJ",
+    "type": "CS01",
+    "date": "2021-01-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-11-29"
+    },
+    "pages": 4,
+    "action_date": "2020-11-29",
+    "links": {
+      "self": "/company/11705783/filing-history/MzI4OTkyMTkzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/59GUu23zktbOnmOyNN7oTgRjqggEJs-sbyfhJsuf1pw"
+    }
+  },
+  {
+    "transaction_id": "MzI4NDc0MDgxNWFkaXF6a2N4",
+    "barcode": "X9IX4N2H",
+    "type": "AA",
+    "date": "2020-11-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 8,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/11705783/filing-history/MzI4NDc0MDgxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/idtKjGCCc1C63pmDxzXeErXMPoFDsYuDTktBsLIZj8Q"
+    }
+  },
+  {
+    "transaction_id": "MzI3MjgxNDg2M2FkaXF6a2N4",
+    "barcode": "X98YS6QJ",
+    "type": "AA01",
+    "date": "2020-07-10",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-extended",
+    "description_values": {
+      "made_up_date": "2019-11-30",
+      "new_date": "2020-03-31"
+    },
+    "pages": 1,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/11705783/filing-history/MzI3MjgxNDg2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FNkr_K9B3641-sZ9ZH25khs_kc7r-RYf_yh3RMIngJo"
+    }
+  },
+  {
+    "transaction_id": "MzI1Mjg4NzMyNWFkaXF6a2N4",
+    "barcode": "X8KXAOE8",
+    "type": "CS01",
+    "date": "2019-12-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-11-29"
+    },
+    "pages": 4,
+    "action_date": "2019-11-29",
+    "links": {
+      "self": "/company/11705783/filing-history/MzI1Mjg4NzMyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tiBEHw86PtFvowl3RPMpQSadVdwM3nnsQY6CS8gbOfA"
+    }
+  },
+  {
+    "transaction_id": "MzIyNzI3NDE5M2FkaXF6a2N4",
+    "barcode": "X7ZMQIJU",
+    "type": "PSC04",
+    "date": "2019-02-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2019-02-18",
+      "psc_name": "Mr Paul Sebastian James Byrne"
+    },
+    "pages": 2,
+    "action_date": "2019-02-18",
+    "links": {
+      "self": "/company/11705783/filing-history/MzIyNzI3NDE5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nFQ9ELoZd7iKL6Qr1m9q9pAVBnIMny-55LtSBQ-zTQM"
+    }
+  },
+  {
+    "transaction_id": "MzIyNzI3NDE3MmFkaXF6a2N4",
+    "barcode": "X7ZMQIJM",
+    "type": "CH01",
+    "date": "2019-02-19",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-02-18",
+      "officer_name": "Mr Paul Sebastian James Byrne"
+    },
+    "pages": 2,
+    "action_date": "2019-02-18",
+    "links": {
+      "self": "/company/11705783/filing-history/MzIyNzI3NDE3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/48KxMx6miMl9qgnB1JPSRM9lLC-vdYFMOYO2wMhSpdY"
+    }
+  },
+  {
+    "transaction_id": "MzIyNzI3NDE3M2FkaXF6a2N4",
+    "barcode": "X7ZMQINE",
+    "type": "AD01",
+    "date": "2019-02-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-02-19",
+      "old_address": "Caspers 26 Wimblehurst Road Horsham West Sussex RH12 2ED England",
+      "new_address": "New Derwent House 69-73 Theobalds Road London London WC1X 8TA"
+    },
+    "pages": 1,
+    "action_date": "2019-02-19",
+    "links": {
+      "self": "/company/11705783/filing-history/MzIyNzI3NDE3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5apzg_FThPjCAn3b-pzP2NILruapeemW4n5qukH4SvA"
+    }
+  },
+  {
+    "transaction_id": "MzIyMDczMDUzNWFkaXF6a2N4",
+    "barcode": "X7JRSQ15",
+    "type": "NEWINC",
+    "date": "2018-11-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-11-30",
+        "description": "model-articles-adopted-amended-provisions",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-11-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-11-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2018-11-30"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 32,
+    "links": {
+      "self": "/company/11705783/filing-history/MzIyMDczMDUzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sbPHxp2A0dywc6dqRK48PgVD_zZ16QiEFOv5QHpQgxg"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-21",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-06-21"
+    },
+    "next_due": "2026-03-21",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INTELLIGENCE LTD",
+  "company_number": "15793562",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-07-04",
+    "next_made_up_to": "2025-06-20",
+    "overdue": false
+  },
+  "date_of_creation": "2024-06-21",
+  "etag": "7cc8c702cb641c67b4d2c70ed238b4455d9ba30a",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15793562/persons-with-significant-control",
+    "self": "/company/15793562",
+    "filing_history": "/company/15793562/filing-history",
+    "officers": "/company/15793562/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "167-169 Great Portland Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1W 5PF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090",
+    "63110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

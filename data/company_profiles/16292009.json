@@ -1,0 +1,39 @@
+{
+  "company_number": "16292009",
+  "company_name": "TECH H LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2025-03-04",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47190"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit F41 The Victoria Centre",
+    "address_line_2": "357 Chartwell Square",
+    "country": "England",
+    "locality": "Southend-On-Sea",
+    "postal_code": "SS2 5SP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-04",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-03-04"
+    },
+    "next_due": "2026-12-04",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "etag": "e3b4db3f572cd138a96d01d5f9625f0d27873894"
+}

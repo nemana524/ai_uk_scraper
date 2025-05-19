@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Wenlock Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "N1 7GU",
+      "premises": "20"
+    },
+    "appointed_on": "2023-12-28",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Romania",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/15373346/appointments/6DKm7gF3aBeCvD5uen87lrddGak",
+      "officer": {
+        "appointments": "/officers/DvQp84o_3ij0sT1hf2s4KIHYTWg/appointments"
+      }
+    },
+    "name": "DUMITRASCU, Florin",
+    "nationality": "Romanian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "317291950001"
+  }
+]

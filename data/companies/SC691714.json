@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH BATTALION LIMITED",
+  "company_number": "SC691714",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-04-30",
+    "next_due": "2025-05-14",
+    "next_made_up_to": "2025-04-30",
+    "overdue": true
+  },
+  "date_of_creation": "2021-03-10",
+  "etag": "b816089d9e9506b06ad3aef9c42884a057e91ee7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC691714/persons-with-significant-control",
+    "self": "/company/SC691714",
+    "filing_history": "/company/SC691714/filing-history",
+    "officers": "/company/SC691714/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Mc Naught House",
+    "address_line_2": "17 Connaught Place",
+    "country": "Scotland",
+    "locality": "Edinburgh",
+    "postal_code": "EH6 4RQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

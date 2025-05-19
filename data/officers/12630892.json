@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Covent Garden",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "WC2H 9JQ",
+      "premises": "71-75 Shelton Street"
+    },
+    "appointed_on": "2020-05-29",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1962
+    },
+    "links": {
+      "self": "/company/12630892/appointments/NT2uZ5plAQRhB0GQM9w02oxiYY0",
+      "officer": {
+        "appointments": "/officers/MaJzUijw-vru1JuLCMMbiKFaNX4/appointments"
+      }
+    },
+    "name": "CORAZZINI, Maurizio",
+    "nationality": "Italian",
+    "occupation": "Business Director",
+    "officer_role": "director",
+    "person_number": "173556780003"
+  }
+]

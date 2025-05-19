@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH HUB (NORTH WEST) LTD",
+  "company_number": "10026123",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-01",
+    "next_due": "2026-02-15",
+    "next_made_up_to": "2026-02-01",
+    "overdue": false
+  },
+  "date_of_creation": "2016-02-25",
+  "etag": "6fa4201a65d756aa13c9c4f4a85011e09f0a4818",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10026123/persons-with-significant-control",
+    "self": "/company/10026123",
+    "charges": "/company/10026123/charges",
+    "filing_history": "/company/10026123/filing-history",
+    "officers": "/company/10026123/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "7 Beeston Court, Stuart Road",
+    "address_line_2": "Manor Park",
+    "country": "England",
+    "locality": "Runcorn",
+    "postal_code": "WA7 1SS"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,36 @@
+{
+  "company_number": "14723469",
+  "company_name": "TECH BROKER LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ROME, Ann Lorraine",
+      "officer_role": "director",
+      "appointed_on": "2023-03-12",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Sales Director",
+      "address": {
+        "address_line_1": "Portico Lane",
+        "address_line_2": "Eccleston Park",
+        "country": "England",
+        "locality": "Prescot",
+        "postal_code": "L34 2QT",
+        "premises": "132"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/14723469/appointments/md2-m_igF7vgy3booZ183ca8Mos",
+        "officer": {
+          "appointments": "/officers/hEDT6MomRdiNnbamGv5o9jwpdcU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

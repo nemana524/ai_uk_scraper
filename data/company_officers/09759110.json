@@ -1,0 +1,36 @@
+{
+  "company_number": "09759110",
+  "company_name": "TECH BLOG WRITER LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "HUGHES, Neil Colin",
+      "officer_role": "director",
+      "appointed_on": "2015-09-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "None",
+      "address": {
+        "address_line_1": "Greenway Road",
+        "country": "United Kingdom",
+        "locality": "Bilston",
+        "postal_code": "WV14 0TW",
+        "premises": "36",
+        "region": "West Midlands"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/09759110/appointments/pU-xuNvV18IpcccrNc3KCi1glSo",
+        "officer": {
+          "appointments": "/officers/vVs7ItEcKCjq53QTuRj_akvQbGI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

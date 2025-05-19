@@ -1,0 +1,42 @@
+{
+  "company_number": "15742603",
+  "company_name": "TECH FIX & TRADE LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-05-25",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "33130",
+    "47421"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "37 Norman Road",
+    "country": "England",
+    "locality": "Dartford",
+    "postal_code": "DA1 1LE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-25",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-05-25"
+    },
+    "next_due": "2026-02-25",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "44ef5bd43fcd3121d694e92a06fdc0b9c25c1a6b"
+}

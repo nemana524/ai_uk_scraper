@@ -1,0 +1,35 @@
+{
+  "company_number": "14474348",
+  "company_name": "TECH DEMON LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "VETTIVEL, Satheeswaran",
+      "officer_role": "director",
+      "appointed_on": "2022-11-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "10-17 Woodford Ave",
+        "country": "United Kingdom",
+        "locality": "Illford",
+        "postal_code": "IG2 6JX",
+        "premises": "Imperial Chambers"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/14474348/appointments/up_RMc4dYnjSUuDwEoL3lgJFFE0",
+        "officer": {
+          "appointments": "/officers/Z6FXtyG6rPj_ow-WC3WDlbKFrsY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

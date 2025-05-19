@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-08-31",
+      "period_end_on": "2022-08-31",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH CORPORATION GROUP LLP",
+  "company_number": "OC330699",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-06-20"
+  },
+  "date_of_cessation": "2024-10-15",
+  "date_of_creation": "2007-08-20",
+  "etag": "6b60a04079685e2fc6eb875d4f1d32d1e73a946d",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/OC330699/persons-with-significant-control",
+    "self": "/company/OC330699",
+    "filing_history": "/company/OC330699/filing-history",
+    "officers": "/company/OC330699/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2018-05-24",
+      "effective_from": "2018-03-22",
+      "name": "OC330699 LLP"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "65 Compton Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 0BN"
+  },
+  "registered_office_is_in_dispute": false,
+  "type": "llp",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

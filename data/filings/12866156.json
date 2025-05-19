@@ -1,0 +1,313 @@
+[
+  {
+    "transaction_id": "MzQzNTE1MTg2NWFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-09-17",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12866156/filing-history/MzQzNTE1MTg2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vUb9wxf7PJiaqjo8KxaL73slsJkNmAO1tjcBU_WRx6U"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjQ2NTM3MGFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-07-02",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12866156/filing-history/MzQyNjQ2NTM3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3Vvr2165qEcBjvBFrMhzNoXPQJ8XEVgHgQk0ZoTl2Ew"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjQ2NDk2MWFkaXF6a2N4",
+    "barcode": "XD2QRSKY",
+    "type": "DS01",
+    "date": "2024-06-25",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/12866156/filing-history/MzQyNjQ2NDk2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uzx_dG_89Cs7vVyU_MjggQmyVCiZrr1d4y2uO4svaQU"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDczNjI0MGFkaXF6a2N4",
+    "barcode": "XCWPQ2OP",
+    "type": "AA",
+    "date": "2024-02-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 3,
+    "action_date": "2023-09-30",
+    "links": {
+      "self": "/company/12866156/filing-history/MzQxMDczNjI0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8oUtkWQDzPDr_c1iUVao3ZeAFxzOBapyxO-8nD2SpLs"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzgxNzkyMWFkaXF6a2N4",
+    "barcode": "XCEVOVBE",
+    "type": "PSC04",
+    "date": "2023-10-25",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-10-24",
+      "psc_name": "Miss Charlotte Edith Rose"
+    },
+    "pages": 2,
+    "action_date": "2023-10-24",
+    "links": {
+      "self": "/company/12866156/filing-history/MzM5NzgxNzkyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/F4YH-ntrdVY4j29WEeGXDXFKJOEnw48QbyQd6vGXUGw"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzgxMjIwM2FkaXF6a2N4",
+    "barcode": "XCEVO5YY",
+    "type": "PSC07",
+    "date": "2023-10-25",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Helen Ruth Al Nassar",
+      "cessation_date": "2023-10-24"
+    },
+    "pages": 1,
+    "action_date": "2023-10-24",
+    "links": {
+      "self": "/company/12866156/filing-history/MzM5NzgxMjIwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/79kLVCtzlmb2Ui9jbPJ_ybLaQ6trGAbhPGmam7Bw-Qo"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTM4MDEwN2FkaXF6a2N4",
+    "barcode": "XCDGLVOW",
+    "type": "CS01",
+    "date": "2023-10-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-09-07"
+    },
+    "pages": 3,
+    "action_date": "2023-09-07",
+    "links": {
+      "self": "/company/12866156/filing-history/MzM5NTM4MDEwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I8D5r03dm5JiuTyRPFo5rYK7MHWwxdXKWDiipY-6xH4"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDMxMDA5NmFkaXF6a2N4",
+    "barcode": "XC08XT2R",
+    "type": "AA",
+    "date": "2023-03-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-09-30"
+    },
+    "pages": 3,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/12866156/filing-history/MzM3NDMxMDA5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yv0AF8lHd_sCO3i2IHpcZphCBDr_dHTjgqkRb0XCYlw"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDE2MzUyN2FkaXF6a2N4",
+    "barcode": "XBE0RHXL",
+    "type": "CS01",
+    "date": "2022-10-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-09-07"
+    },
+    "pages": 3,
+    "action_date": "2022-09-07",
+    "links": {
+      "self": "/company/12866156/filing-history/MzM1NDE2MzUyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xJ5DQaqCacBHOPFGvnldwYQ9IaoGj7KGPwgo9U_eOHk"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDAxMjk3NWFkaXF6a2N4",
+    "barcode": "XBDY1RMG",
+    "type": "CH01",
+    "date": "2022-10-04",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-09-01",
+      "officer_name": "Miss Charlotte Edith Rose"
+    },
+    "pages": 2,
+    "action_date": "2022-09-01",
+    "links": {
+      "self": "/company/12866156/filing-history/MzM1NDAxMjk3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NJCcTzkPN8KMQtWI4l4vUFHKRZHSDL-19G6onf8XG5k"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDAxMjg1MmFkaXF6a2N4",
+    "barcode": "XBDY1QV4",
+    "type": "PSC04",
+    "date": "2022-10-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-09-01",
+      "psc_name": "Miss Charlotte Edith Rose"
+    },
+    "pages": 2,
+    "action_date": "2022-09-01",
+    "links": {
+      "self": "/company/12866156/filing-history/MzM1NDAxMjg1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vRK8a0YPK_4nOYgB1s4uwClBRsLdBdcUtfyNDlx3IQc"
+    }
+  },
+  {
+    "transaction_id": "MzMzNjI3NzE2MWFkaXF6a2N4",
+    "barcode": "XB1W7MW9",
+    "type": "AA",
+    "date": "2022-04-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-09-30"
+    },
+    "pages": 3,
+    "action_date": "2021-09-30",
+    "links": {
+      "self": "/company/12866156/filing-history/MzMzNjI3NzE2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Gb-YxtkpHOdxsgCralIn8cKHyI7sCC6iTJJusGSZUt8"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTI3MDM1OGFkaXF6a2N4",
+    "barcode": "XADYSKHE",
+    "type": "CS01",
+    "date": "2021-09-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-09-07"
+    },
+    "pages": 5,
+    "action_date": "2021-09-07",
+    "links": {
+      "self": "/company/12866156/filing-history/MzMxNTI3MDM1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uRAgaibtD3fCp2CfgDK1Y7VrMwxjkHkx3uHcirFXa7w"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzAxNDkxM2FkaXF6a2N4",
+    "barcode": "XACJSH16",
+    "type": "AD01",
+    "date": "2021-09-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-09-07",
+      "old_address": "63-66 Hatton Gardens Fifth Floor, Suite 23 London EC1N 8LE England",
+      "new_address": "Advantage House Stowe Court Stowe Street Lichfield Staffordshire WS13 6AQ"
+    },
+    "pages": 1,
+    "action_date": "2021-09-07",
+    "links": {
+      "self": "/company/12866156/filing-history/MzMxMzAxNDkxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ls_KOhl7HNLl45E6VfTIv7qOPfmOxB7hxpqs4aA_uNs"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDE5NTAwNGFkaXF6a2N4",
+    "barcode": "XA03R7UH",
+    "type": "PSC04",
+    "date": "2021-03-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-02-01",
+      "psc_name": "Miss Charlotte Edith Rose"
+    },
+    "pages": 2,
+    "action_date": "2021-02-01",
+    "links": {
+      "self": "/company/12866156/filing-history/MzI5NDE5NTAwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/46v2goy2QIC0fHBqoIXj3uOIaUQ_ziKzm-kok8-RouE"
+    }
+  },
+  {
+    "transaction_id": "MzI5MzczOTMzNGFkaXF6a2N4",
+    "barcode": "X9ZVII3C",
+    "type": "PSC01",
+    "date": "2021-03-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Helen Ruth Al Nassar",
+      "notification_date": "2021-01-01"
+    },
+    "pages": 2,
+    "action_date": "2021-01-01",
+    "links": {
+      "self": "/company/12866156/filing-history/MzI5MzczOTMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X_8__TONjndbloC1xFezruSJVCjG8UNeeOROeRh1suQ"
+    }
+  },
+  {
+    "transaction_id": "MzI3NzA2ODAzNWFkaXF6a2N4",
+    "barcode": "X9D2GYCW",
+    "type": "NEWINC",
+    "date": "2020-09-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-09-08",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-09-08",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-09-08",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-09-08"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12866156/filing-history/MzI3NzA2ODAzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rgBdILMVtpiDoarDlFA_8vg-nqATkWD4jobKy3GYC88"
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "address": {
+      "address_line_1": "2m Trade Park",
+      "address_line_2": "Beddow Way Aylesford",
+      "country": "United Kingdom",
+      "locality": "Maidstone",
+      "postal_code": "ME20 7BT",
+      "premises": "Unit 14",
+      "region": "Kent"
+    },
+    "appointed_on": "2010-07-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1954
+    },
+    "links": {
+      "self": "/company/07321552/appointments/Z3_W5AHITrRTHxSi0PYq4qIR3Sw",
+      "officer": {
+        "appointments": "/officers/DgicQRTQcKD-WX3o6KxfZ2M9JBg/appointments"
+      }
+    },
+    "name": "HOOK, Leonard Steven James",
+    "nationality": "British",
+    "occupation": "Management Director",
+    "officer_role": "director",
+    "person_number": "102007580001"
+  },
+  {
+    "address": {
+      "address_line_1": "2m Trade Park",
+      "address_line_2": "Beddow Way Aylesford",
+      "country": "United Kingdom",
+      "locality": "Maidstone",
+      "postal_code": "ME20 7BT",
+      "premises": "Unit 14",
+      "region": "Kent"
+    },
+    "appointed_on": "2010-07-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1965
+    },
+    "links": {
+      "self": "/company/07321552/appointments/3BA9aSG1MXN95RY9DSTB9p2jOW4",
+      "officer": {
+        "appointments": "/officers/Z4Qmy8K-v-aIjEjj-V6NBOY9sdo/appointments"
+      }
+    },
+    "name": "QUINNELL, Paul",
+    "nationality": "British",
+    "occupation": "Management Director",
+    "officer_role": "director",
+    "person_number": "152832230002"
+  },
+  {
+    "address": {
+      "address_line_1": "62 Bell Road",
+      "country": "England",
+      "locality": "Sittingbourne",
+      "postal_code": "ME10 4HE",
+      "premises": "The Oast",
+      "region": "Kent"
+    },
+    "appointed_on": "2010-07-21",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/07321552/appointments/JU7iiBlgUTu5dAZtfgqZhJLU5Dc",
+      "officer": {
+        "appointments": "/officers/1fBjLct97zmjcVkr5cjtEYVJDQg/appointments"
+      }
+    },
+    "name": "ONLY SOLUTIONS COMPANY MANAGEMENT LIMITED",
+    "officer_role": "corporate-secretary",
+    "resigned_on": "2012-02-03",
+    "identification": {
+      "identification_type": "eea",
+      "place_registered": "ENGLAND AND WALES",
+      "registration_number": "06579282"
+    },
+    "person_number": "152832210001"
+  },
+  {
+    "address": {
+      "address_line_1": "Churchill Square",
+      "address_line_2": "Kings Hill",
+      "locality": "West Malling",
+      "postal_code": "ME19 4YU",
+      "premises": "Suite 21 30",
+      "region": "Kent"
+    },
+    "appointed_on": "2010-07-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/07321552/appointments/AbljIQkJDCDElOI1DM28m6cPGWE",
+      "officer": {
+        "appointments": "/officers/nNjrAAXxAzRO4iQInJlEiDQf9z8/appointments"
+      }
+    },
+    "name": "THOMPSON, Peter",
+    "nationality": "British",
+    "occupation": "Engineer",
+    "officer_role": "director",
+    "resigned_on": "2012-02-03",
+    "person_number": "152832240001"
+  }
+]

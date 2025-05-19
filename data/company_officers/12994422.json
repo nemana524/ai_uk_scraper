@@ -1,0 +1,63 @@
+{
+  "company_number": "12994422",
+  "company_name": "TECH CLOUD SOLUTIONS LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SZOPIAN, Adriana",
+      "officer_role": "director",
+      "appointed_on": "2020-11-03",
+      "resigned_on": null,
+      "nationality": "Romanian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Software Engineer",
+      "address": {
+        "address_line_1": "Mallinson Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "SW11 1BH",
+        "premises": "119b"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/12994422/appointments/c896aeeYluCYfJtapyE1OTUebHw",
+        "officer": {
+          "appointments": "/officers/bWYuM2Jbo95lIyXAwMiNNQVX-jY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SZOPIAN, Grzegorz",
+      "officer_role": "director",
+      "appointed_on": "2023-06-09",
+      "resigned_on": null,
+      "nationality": "Polish",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Mallinson Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW11 1BH",
+        "premises": "119b"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/12994422/appointments/2QNVjePLo9Mkf6eFe2OhbDWIjw8",
+        "officer": {
+          "appointments": "/officers/G7wd7yMjcLTOgWdl97pGys_zxbw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

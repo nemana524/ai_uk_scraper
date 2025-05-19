@@ -1,0 +1,58 @@
+{
+  "company_number": "12594884",
+  "company_name": "TECH CONSULT SOLUTIONS LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SAYED HASSAN, Rouba",
+      "officer_role": "secretary",
+      "appointed_on": "2020-05-11",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "country": "England",
+        "locality": "Harrow",
+        "postal_code": "HA1 1RQ",
+        "premises": "46 Harrow View"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/12594884/appointments/Mp0ehHjtP75_LNq1p5cF5bDFl7A",
+        "officer": {
+          "appointments": "/officers/u8Oj1EJwjZ1q87OLrxUbXl_04Is/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SAYED HASSAN, Rouba",
+      "officer_role": "director",
+      "appointed_on": "2020-05-11",
+      "resigned_on": null,
+      "nationality": "Lebanese",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "country": "England",
+        "locality": "Harrow",
+        "postal_code": "HA1 1RQ",
+        "premises": "46 Harrow View"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/12594884/appointments/vGcRcUUfXcqBtN8yBxvTL0tqrfQ",
+        "officer": {
+          "appointments": "/officers/DFfeZGNCqztSMN7BKekomQkVY_w/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

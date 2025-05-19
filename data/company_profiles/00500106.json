@@ -1,0 +1,44 @@
+{
+  "company_number": "00500106",
+  "company_name": "BORGWARNER GATESHEAD LIMITED",
+  "company_status": "active",
+  "date_of_creation": "1951-10-06",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "27900"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "245 Hammersmith Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "W6 8PW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "full"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "etag": "6ec845aeb3e1ffd3d5f293c63134dfb4965f3743"
+}

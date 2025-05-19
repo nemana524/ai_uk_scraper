@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH A CHANCE ON IT TRAINING SOLUTIONS LTD",
+  "company_number": "NI686485",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-09",
+    "next_due": "2026-03-23",
+    "next_made_up_to": "2026-03-09",
+    "overdue": false
+  },
+  "date_of_creation": "2022-03-10",
+  "etag": "a8376bb5888d43ef5e7cedfcd5df891af5755269",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "links": {
+    "persons_with_significant_control": "/company/NI686485/persons-with-significant-control",
+    "self": "/company/NI686485",
+    "filing_history": "/company/NI686485/filing-history",
+    "officers": "/company/NI686485/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "434 Victoria Road Ballmagorry",
+    "country": "Northern Ireland",
+    "locality": "Strabane",
+    "postal_code": "BT82 0AT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "85590"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,133 @@
+[
+  {
+    "transaction_id": "MzQ0NjgyNDgxOWFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-12-17",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14719455/filing-history/MzQ0NjgyNDgxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Eb3FfD_EQl_5VYWNwU7mIbQGMRbe6KFF5NWPvxPE-7M"
+    }
+  },
+  {
+    "transaction_id": "MzQzNjM3NTk0NGFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-10-01",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14719455/filing-history/MzQzNjM3NTk0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vd0YJXQnLDMRdjDzGP12O5eWPCQFQBYzHqXC5u2MC6k"
+    }
+  },
+  {
+    "transaction_id": "MzQzNjM3NTIxM2FkaXF6a2N4",
+    "barcode": "XDBXI41D",
+    "type": "DS01",
+    "date": "2024-09-18",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/14719455/filing-history/MzQzNjM3NTIxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RWrRrsjg9CZZf17bSo7S5GtReArtwHYaFiizlN6JgPQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTQ5ODA0N2FkaXF6a2N4",
+    "barcode": "XCZA4SSY",
+    "type": "CS01",
+    "date": "2024-03-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-08"
+    },
+    "pages": 3,
+    "action_date": "2024-03-08",
+    "links": {
+      "self": "/company/14719455/filing-history/MzQxNTQ5ODA0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EHaj8g8cAfVdp2Q1dZfl8Q0NEQ3OYZeFjwQ0xOU7dxw"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTE3MTMzNmFkaXF6a2N4",
+    "barcode": "XCFS7O0P",
+    "type": "AD01",
+    "date": "2023-11-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-11-07",
+      "old_address": "3rd Floor 86 - 90 Paul Street London EC2A 4NE England",
+      "new_address": "10 Oxenhope Way Broughton Milton Keynes MK10 7AE"
+    },
+    "pages": 1,
+    "action_date": "2023-11-07",
+    "links": {
+      "self": "/company/14719455/filing-history/MzM5OTE3MTMzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FjfgOqLRQiecUpr5DMwFxknw2rWQa3xWRl1TRXINKiI"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTI1ODI5OWFkaXF6a2N4",
+    "barcode": "XC3B4XXV",
+    "type": "AD01",
+    "date": "2023-05-11",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-11",
+      "old_address": "10 Oxenhope Way Milton Keynes Buckinghamshire MK10 7AE United Kingdom",
+      "new_address": "3rd Floor 86 - 90 Paul Street London EC2A 4NE"
+    },
+    "pages": 1,
+    "action_date": "2023-05-11",
+    "links": {
+      "self": "/company/14719455/filing-history/MzM3OTI1ODI5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8ElTINdwg1sMON0gi1yQOwai9YFvfEdTScrGH1Q41cs"
+    }
+  },
+  {
+    "transaction_id": "MzM3MjExMDU2OGFkaXF6a2N4",
+    "barcode": "XBYWIYUY",
+    "type": "NEWINC",
+    "date": "2023-03-09",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-03-09",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-03-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-03-09"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14719455/filing-history/MzM3MjExMDU2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VIVoJBWg_B77lDXjBLXl89tGoeQIa2vF6i72HE0vuXk"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "company_number": "15839674",
+  "company_name": "TECH INNOVATIVE SOLUTIONS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PATEL, Dinesh",
+      "officer_role": "director",
+      "appointed_on": "2024-07-15",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Harcourt Road",
+        "country": "England",
+        "locality": "Thornton Heath",
+        "postal_code": "CR7 6BY",
+        "premises": "37"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1954
+      },
+      "links": {
+        "self": "/company/15839674/appointments/muzmvXz9Wa-kkNMILIl8VcECals",
+        "officer": {
+          "appointments": "/officers/rr1U9OA5bJ0ZPebNU5fnLSgr4C0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "address": {
+      "address_line_1": "Milner Road",
+      "address_line_2": "Selly Park",
+      "country": "United Kingdom",
+      "locality": "Birmingham",
+      "postal_code": "B29 7RL",
+      "premises": "51"
+    },
+    "appointed_on": "2008-04-09",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/06560294/appointments/nMqbkvT7IO1eITBXW4jVLGWpX3Y",
+      "officer": {
+        "appointments": "/officers/inaJpC5Oh8D9dbgIXp1jLXi_XGI/appointments"
+      }
+    },
+    "name": "HUSSAIN, Mohammed Azam",
+    "nationality": "British",
+    "officer_role": "secretary",
+    "person_number": "129464910001"
+  },
+  {
+    "address": {
+      "address_line_1": "Milner Road",
+      "address_line_2": "Selly Park",
+      "country": "United Kingdom",
+      "locality": "Birmingham",
+      "postal_code": "B29 7RL",
+      "premises": "51"
+    },
+    "appointed_on": "2008-04-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1971
+    },
+    "links": {
+      "self": "/company/06560294/appointments/u1mFybFsZ-TXa2sKhBhs2FOlRrM",
+      "officer": {
+        "appointments": "/officers/inaJpC5Oh8D9dbgIXp1jLXi_XGI/appointments"
+      }
+    },
+    "name": "HUSSAIN, Mohammed Azam",
+    "nationality": "British",
+    "occupation": "Technology Advisor",
+    "officer_role": "director",
+    "person_number": "129464910001"
+  }
+]

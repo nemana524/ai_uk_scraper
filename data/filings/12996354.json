@@ -1,0 +1,244 @@
+[
+  {
+    "transaction_id": "MzQ0MDUzODM5NGFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-10-29",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12996354/filing-history/MzQ0MDUzODM5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-esLrOJW6FgDRso9a7nBFYyvUUnPyEOQ5RGfICYkl-o"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTE5ODI3N2FkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-08-13",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12996354/filing-history/MzQzMTE5ODI3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XkY5-_JsYW0yzvl4j3Ecs3_akAnqPQTOCc9rkJvhlK4"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTE5NzgzM2FkaXF6a2N4",
+    "barcode": "XD8VJSMZ",
+    "type": "DS01",
+    "date": "2024-08-05",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/12996354/filing-history/MzQzMTE5NzgzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q5sXweIxvgB13j8w1NPlV9ZDRxWt-TPgPleERzP_-a0"
+    }
+  },
+  {
+    "transaction_id": "MzQwMDMwMjI0MWFkaXF6a2N4",
+    "barcode": "XCGG8PFN",
+    "type": "CS01",
+    "date": "2023-11-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-03"
+    },
+    "pages": 3,
+    "action_date": "2023-11-03",
+    "links": {
+      "self": "/company/12996354/filing-history/MzQwMDMwMjI0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UJ7pjFQ5aJVAza59sedNFOy8mylwAQjc9o0NR0vY7C4"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTA4MzU4NGFkaXF6a2N4",
+    "barcode": "XCAWQNIX",
+    "type": "AA",
+    "date": "2023-08-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-11-30"
+    },
+    "pages": 5,
+    "action_date": "2022-11-30",
+    "links": {
+      "self": "/company/12996354/filing-history/MzM5MTA4MzU4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HsQYFwaiMUTgihwAabuXAVh-tk9ZMg4JWU4vKuVXJX8"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODAwNDM2NGFkaXF6a2N4",
+    "barcode": "XBGEU0J7",
+    "type": "CS01",
+    "date": "2022-11-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-11-03"
+    },
+    "pages": 3,
+    "action_date": "2022-11-03",
+    "links": {
+      "self": "/company/12996354/filing-history/MzM1ODAwNDM2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WEdcWc-UG3zlWuZRu5P1385Gqfant7O1bnYtKQD-Y-4"
+    }
+  },
+  {
+    "transaction_id": "MzM0NzU4MDc5OGFkaXF6a2N4",
+    "barcode": "XB9KESY2",
+    "type": "AA",
+    "date": "2022-08-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-11-30"
+    },
+    "pages": 5,
+    "action_date": "2021-11-30",
+    "links": {
+      "self": "/company/12996354/filing-history/MzM0NzU4MDc5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-3Xmxy4dwxmddz4dk0E_i1AuqdsoO3hkFf7kHRafw-E"
+    }
+  },
+  {
+    "transaction_id": "MzMyODQ1NDE2NWFkaXF6a2N4",
+    "barcode": "XAWVI3H5",
+    "type": "CERTNM",
+    "date": "2022-02-01",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2022-01-31"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2022-02-01",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed technical enterprise LTD\\certificate issued on 01/02/22"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/12996354/filing-history/MzMyODQ1NDE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hda894vc_h2woENClOp7GPTGoWBPLrwqmNEBBxYALBE"
+    }
+  },
+  {
+    "transaction_id": "MzMyODMxMDU5MmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-02-01",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12996354/filing-history/MzMyODMxMDU5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zWomm5wybGQXjx4dpnAOc4q-OlOKTOEqTWRQTCeOFGQ"
+    }
+  },
+  {
+    "transaction_id": "MzMyODMxMjgyNmFkaXF6a2N4",
+    "barcode": "XAWVI2KO",
+    "type": "AD01",
+    "date": "2022-01-31",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-01-31",
+      "old_address": "5 Tuppy Street London SE28 0GA England",
+      "new_address": "159 Booth Court Thurston Road London SE13 7JG"
+    },
+    "pages": 1,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/12996354/filing-history/MzMyODMxMjgyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v58a5VZyNQnZDngJbHBMrHB7uVlTR2TxR1rNvsx4Tn4"
+    }
+  },
+  {
+    "transaction_id": "MzMyODMxMDUxOWFkaXF6a2N4",
+    "barcode": "XAWVHSLE",
+    "type": "CS01",
+    "date": "2022-01-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-11-03"
+    },
+    "pages": 3,
+    "action_date": "2021-11-03",
+    "links": {
+      "self": "/company/12996354/filing-history/MzMyODMxMDUxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dXAaRPl0qIMtkK6ikLjp7pCt_q0WHmpM5bSRIJZZ5cc"
+    }
+  },
+  {
+    "transaction_id": "MzMyNjU1NTIzOGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-01-25",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12996354/filing-history/MzMyNjU1NTIzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/N_jqQVu5C9pYmidLSBCh7pnItfPDI5OCf54jBOFwDnQ"
+    }
+  },
+  {
+    "transaction_id": "MzI4MjQwNTUwMmFkaXF6a2N4",
+    "barcode": "X9H2G92X",
+    "type": "NEWINC",
+    "date": "2020-11-04",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-11-04",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-11-04",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-11-04",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-11-04"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12996354/filing-history/MzI4MjQwNTUwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PCpEUnpNh23ujGqDaNdAL96T7KtdZg26044L7Lef5Xs"
+    }
+  }
+]

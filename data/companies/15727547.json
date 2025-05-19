@@ -1,0 +1,56 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-18",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-05-18"
+    },
+    "next_due": "2026-02-18",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FAV LTD",
+  "company_number": "15727547",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-05-31",
+    "next_made_up_to": "2025-05-17",
+    "overdue": false
+  },
+  "date_of_creation": "2024-05-18",
+  "etag": "593c9d96cc952d3b8eeb04dee3dad8c60a2ed086",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15727547/persons-with-significant-control",
+    "self": "/company/15727547",
+    "filing_history": "/company/15727547/filing-history",
+    "officers": "/company/15727547/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "27 Old Gloucester Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC1N 3AX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012",
+    "62020",
+    "62090",
+    "63120"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

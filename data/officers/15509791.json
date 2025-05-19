@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Hill View",
+      "country": "England",
+      "locality": "Berkhamsted",
+      "postal_code": "HP4 1SA",
+      "premises": "30",
+      "region": "Hertfordshire"
+    },
+    "appointed_on": "2024-02-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1970
+    },
+    "links": {
+      "self": "/company/15509791/appointments/9PoY1AHZTv5plA24324bIL6utrg",
+      "officer": {
+        "appointments": "/officers/uiiNKn4rR2gPyKCApibjLrjev9M/appointments"
+      }
+    },
+    "name": "MANRO, Renee Santana",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "319643550001"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "company_number": "NI026025",
+  "company_name": "TECH INTERNATIONAL (LISBURN) LIMITED",
+  "company_status": "active",
+  "date_of_creation": "1991-10-28",
+  "type": "ltd",
+  "jurisdiction": "northern-ireland",
+  "sic_codes": [
+    "82990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Scottish Provident Building",
+    "address_line_2": "7 Donegall Square West",
+    "country": "Northern Ireland",
+    "locality": "Belfast",
+    "postal_code": "BT1 6JH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "small"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "etag": "d467e93c18a5246cc0e5e8e06dad6d9bb2c188d1"
+}

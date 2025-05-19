@@ -1,0 +1,257 @@
+[
+  {
+    "transaction_id": "MzQ2MzM5MzM2NWFkaXF6a2N4",
+    "barcode": "XE0YTYYR",
+    "type": "CS01",
+    "date": "2025-04-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-04-07"
+    },
+    "pages": 3,
+    "action_date": "2025-04-07",
+    "links": {
+      "self": "/company/14035709/filing-history/MzQ2MzM5MzM2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ciwjnYEN1cevMlczZFj2ijX0Hsa2H403zaXYO7LH9dw"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzA1NDg5MWFkaXF6a2N4",
+    "barcode": "XDV8JUK1",
+    "type": "AA",
+    "date": "2025-01-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-04-30"
+    },
+    "pages": 2,
+    "action_date": "2024-04-30",
+    "links": {
+      "self": "/company/14035709/filing-history/MzQ1MzA1NDg5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gr2wOEZeZaCFpOv0HV3u2W3PptgcXCTzrJkH7BDKlyc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzEyNjY4NGFkaXF6a2N4",
+    "barcode": "XDFRZZY3",
+    "type": "CERTNM",
+    "date": "2024-11-13",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2024-11-13"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-11-13",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed L4L techaid LIMITED\\certificate issued on 13/11/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/14035709/filing-history/MzQ0MzEyNjY4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mzbk48J56L_EdcKO-4V8FJNNtEtIejl-FbgXDef4WMk"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjAzOTY1MWFkaXF6a2N4",
+    "barcode": "XD36Q5TL",
+    "type": "AD01",
+    "date": "2024-05-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-05-15",
+      "old_address": "Lake House Market Hill Royston SG8 9JN United Kingdom",
+      "new_address": "10 Wedgwood Court Wedgwood Way Stevenage Hertfordshire SG1 4QR"
+    },
+    "pages": 1,
+    "action_date": "2024-05-15",
+    "links": {
+      "self": "/company/14035709/filing-history/MzQyMjAzOTY1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sMkdMtyKgskDty3C4neUSwqtfgjX8R4AE_h20vevlzY"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTE3MTcyOGFkaXF6a2N4",
+    "barcode": "XD2QT3X5",
+    "type": "TM01",
+    "date": "2024-05-09",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Charles Alexander George Gowling",
+      "termination_date": "2024-05-08"
+    },
+    "pages": 1,
+    "action_date": "2024-05-08",
+    "links": {
+      "self": "/company/14035709/filing-history/MzQyMTE3MTcyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AnQIV1JdQ-SgNVbQGnkpdtCsjX_pqffEw66s1VCoWno"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTE2Nzc0NWFkaXF6a2N4",
+    "barcode": "XD2QSM2H",
+    "type": "AP01",
+    "date": "2024-05-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Paul William Bertie Gregg",
+      "appointment_date": "2024-05-08"
+    },
+    "pages": 2,
+    "action_date": "2024-05-08",
+    "links": {
+      "self": "/company/14035709/filing-history/MzQyMTE2Nzc0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/A2OOGxWc2raw2J2wbv2INPl-mB-qfzImBbIYeFAApRY"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTE1MTEwN2FkaXF6a2N4",
+    "barcode": "XD1J6SAB",
+    "type": "CS01",
+    "date": "2024-04-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-04-07"
+    },
+    "pages": 3,
+    "action_date": "2024-04-07",
+    "links": {
+      "self": "/company/14035709/filing-history/MzQxOTE1MTEwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VgZ8H7kQx3ZI_w9Vm68dcMNhrkGAG2iMZAwO7erwPkU"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjY1Mjk3M2FkaXF6a2N4",
+    "barcode": "XCU3Q6QJ",
+    "type": "AA",
+    "date": "2024-01-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-04-30"
+    },
+    "pages": 2,
+    "action_date": "2023-04-30",
+    "links": {
+      "self": "/company/14035709/filing-history/MzQwNjY1Mjk3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/idz11lN4Q9hYdrYaEU6zNA7uBt3GJXImWlnNVGjCoGc"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzE0MDgzNmFkaXF6a2N4",
+    "barcode": "XC1WC436",
+    "type": "CS01",
+    "date": "2023-04-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-04-07"
+    },
+    "pages": 4,
+    "action_date": "2023-04-07",
+    "links": {
+      "self": "/company/14035709/filing-history/MzM3NzE0MDgzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_wyy0YsK1ESfTcGQq1iLY1r9sQ_E2FXJQcZyYZ_OjqA"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDU4OTIzMmFkaXF6a2N4",
+    "barcode": "ABJUR2OZ",
+    "type": "TM01",
+    "date": "2023-01-07",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Susan Deborah Gowling",
+      "termination_date": "2022-12-08"
+    },
+    "pages": 1,
+    "action_date": "2022-12-08",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14035709/filing-history/MzM2NDU4OTIzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/R-P774L9-VUcEFzvUTO-OHD8r88Tj_k2NM-HGeZmmug"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTM0MDQxNWFkaXF6a2N4",
+    "barcode": "ABH8WTHV",
+    "type": "AP01",
+    "date": "2022-11-23",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Charles Alexander George Gowling",
+      "appointment_date": "2022-11-10"
+    },
+    "pages": 2,
+    "action_date": "2022-11-10",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14035709/filing-history/MzM1OTM0MDQxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vLYik5NVkPNVmCqXRCAsSJYUZo_84vr1IPFn6aLX32c"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTY4OTk1NWFkaXF6a2N4",
+    "barcode": "XB1ISTBE",
+    "type": "NEWINC",
+    "date": "2022-04-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-04-08",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-04-08",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-04-08",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2022-04-08"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14035709/filing-history/MzMzNTY4OTk1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mdeuObb6yIf2hQa9AylbePMr58BahR7BhjzAC-xE1R4"
+    }
+  }
+]

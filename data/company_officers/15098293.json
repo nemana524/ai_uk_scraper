@@ -1,0 +1,35 @@
+{
+  "company_number": "15098293",
+  "company_name": "TECH ARENA LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "STOREY, Oliver James",
+      "officer_role": "director",
+      "appointed_on": "2023-08-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Managing Director",
+      "address": {
+        "address_line_1": "Daventry Court",
+        "country": "England",
+        "locality": "Bracknell",
+        "postal_code": "RG42 2BH",
+        "premises": "4 Lexicon View"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/15098293/appointments/kM61vq7OmpU8oOFx6w5mtIR1las",
+        "officer": {
+          "appointments": "/officers/qhMoe_Isz-n8L9ca7q8v5u0qAjA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

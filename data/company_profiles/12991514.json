@@ -1,0 +1,47 @@
+{
+  "company_number": "12991514",
+  "company_name": "TECH CALIBRANTS LTD",
+  "company_status": "active",
+  "date_of_creation": "2020-11-02",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090",
+    "71121",
+    "71122"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "147 London Road",
+    "country": "United Kingdom",
+    "locality": "Wembley",
+    "postal_code": "HA9 7EU",
+    "region": "Middlesex"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "etag": "0e3b30f6a4485f28cb924fb0bbab3de0f6f1cdf1"
+}

@@ -1,0 +1,63 @@
+{
+  "company_number": "14837525",
+  "company_name": "TECH CAR CLINIC LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "BURNIGE, Charlotte Susan",
+      "officer_role": "director",
+      "appointed_on": "2023-05-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Hatherley Road",
+        "country": "England",
+        "locality": "Sidcup",
+        "postal_code": "DA14 4DT",
+        "premises": "12"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/14837525/appointments/HtQCKjm_dipHh_o5_lS66FZ8R8U",
+        "officer": {
+          "appointments": "/officers/dN0aIac8kp52guxyOnq4D9sRXPU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SMITH, Benjamin Thomas",
+      "officer_role": "director",
+      "appointed_on": "2023-05-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Hatherley Road",
+        "country": "England",
+        "locality": "Sidcup",
+        "postal_code": "DA14 4DT",
+        "premises": "12"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/14837525/appointments/mIeYjLanVw2hd6OgyYZf0f01Kt8",
+        "officer": {
+          "appointments": "/officers/ZBZmSfI9DkdfkqNqstw4cJeEqJY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

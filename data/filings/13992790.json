@@ -1,0 +1,332 @@
+[
+  {
+    "transaction_id": "MzQ2MjQ1NzE1OGFkaXF6a2N4",
+    "barcode": "XE0G8NHU",
+    "type": "AA",
+    "date": "2025-04-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-small",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 11,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13992790/filing-history/MzQ2MjQ1NzE1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/erJoV60j5l4DONR2m71wySKkxKnnUcUDWW5V-H8AvN4"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTMwNzM3NWFkaXF6a2N4",
+    "barcode": "XDZP5KPT",
+    "type": "MR01",
+    "date": "2025-04-03",
+    "category": "mortgage",
+    "subcategory": "create",
+    "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+    "description_values": {
+      "charge_number": "139927900002",
+      "charge_creation_date": "2025-04-01"
+    },
+    "pages": 19,
+    "action_date": "2025-04-01",
+    "links": {
+      "self": "/company/13992790/filing-history/MzQ2MTMwNzM3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s8rxiwWy1YvxEsVa6GexiMAQm2deWbpzykEpRO1pqmA"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTAxMjMyNWFkaXF6a2N4",
+    "barcode": "XDZJPLI8",
+    "type": "CS01",
+    "date": "2025-04-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-20"
+    },
+    "pages": 3,
+    "action_date": "2025-03-20",
+    "links": {
+      "self": "/company/13992790/filing-history/MzQ2MTAxMjMyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MJK917wD1OHEO--8_rc71255oFjrgJb9MjcwUQ7OkMo"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MDc3MjUwNGFkaXF6a2N4",
+    "barcode": "XDZGNJGW",
+    "type": "AA01",
+    "date": "2025-03-31",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-shortened",
+    "description_values": {
+      "made_up_date": "2024-03-31",
+      "new_date": "2024-03-30"
+    },
+    "pages": 1,
+    "action_date": "2024-03-30",
+    "links": {
+      "self": "/company/13992790/filing-history/MzQ2MDc3MjUwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LR6jwkqliDLVd8Ghoy4HAoXOdB6z_rTd6xooo8d9mfg"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzA4Nzg1M2FkaXF6a2N4",
+    "barcode": "XDHT35RE",
+    "type": "AD01",
+    "date": "2024-12-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-12",
+      "old_address": "103 Colmore Row Birmingham B3 3AG England",
+      "new_address": "6 Brindley Place X&Y Foundry Birmingham B1 2JB"
+    },
+    "pages": 1,
+    "action_date": "2024-12-12",
+    "links": {
+      "self": "/company/13992790/filing-history/MzQ0NzA4Nzg1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3ihfmtH86Km6Ud8EJldi_jyGFRIw9dHMIS6SrdgTRto"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTk3NjYxNWFkaXF6a2N4",
+    "barcode": "XCZNHDC0",
+    "type": "CS01",
+    "date": "2024-03-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-20"
+    },
+    "pages": 3,
+    "action_date": "2024-03-20",
+    "links": {
+      "self": "/company/13992790/filing-history/MzQxNTk3NjYxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CeA5uDfVFgcOaYQDrDKFK1-8lje98l5Wt1HILXf4LVs"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjMyMTIwMmFkaXF6a2N4",
+    "barcode": "ACHAM2EJ",
+    "type": "AA",
+    "date": "2023-12-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 9,
+    "action_date": "2023-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13992790/filing-history/MzQwMjMyMTIwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m6YAvXk-MEmyA8g7aF5SsW27dWzjN1ClZA7wBzkWjD4"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg0NjA1NWFkaXF6a2N4",
+    "barcode": "XCA0VF0J",
+    "type": "AD01",
+    "date": "2023-08-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-16",
+      "old_address": ", 103 Colmore Row, Birmingham, B3 3AG, England",
+      "new_address": "103 Colmore Row Birmingham B3 3AG"
+    },
+    "pages": 1,
+    "action_date": "2023-08-16",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4OTg0NjA1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ho6wtPXSGhGna8gC86v2HpurYc8qMyz1idiu-ssIZ64"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg0Mzk0N2FkaXF6a2N4",
+    "barcode": "XCA0V6EO",
+    "type": "AD01",
+    "date": "2023-08-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-16",
+      "old_address": ", Wework, 55 Colmore Row, Birmingham, West Midlands, B3 2AA, United Kingdom",
+      "new_address": "103 Colmore Row Birmingham B3 3AG"
+    },
+    "pages": 1,
+    "action_date": "2023-08-16",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4OTg0Mzk0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QGiC4oNxq1Edf89csvjUyOJ5bkXPlRGTtAZeWWjqBgg"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODkxODYyOGFkaXF6a2N4",
+    "barcode": "XC9I3MXT",
+    "type": "TM01",
+    "date": "2023-08-08",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Daniel Ostrowski",
+      "termination_date": "2023-08-04"
+    },
+    "pages": 1,
+    "action_date": "2023-08-04",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4ODkxODYyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qiPy6s82cBNIqBXzMyhwV5L2Od4iCxU9JxKHHAUnfA0"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODkxODYxOWFkaXF6a2N4",
+    "barcode": "XC9I3MYO",
+    "type": "TM01",
+    "date": "2023-08-08",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Andrew Heggie",
+      "termination_date": "2023-08-04"
+    },
+    "pages": 1,
+    "action_date": "2023-08-04",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4ODkxODYxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/at6URJcgyOUh47ipq7nfu4UDvC5X-V3sQYBK96Ebbh0"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODkxODUxNWFkaXF6a2N4",
+    "barcode": "XC9I3MSL",
+    "type": "TM01",
+    "date": "2023-08-08",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mark Raven",
+      "termination_date": "2023-08-04"
+    },
+    "pages": 1,
+    "action_date": "2023-08-04",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4ODkxODUxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/L9WbCFSjrgjJv1BftTG3Ebw_bbM0MDxNEMtHbclP6QE"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODkzMjI1MWFkaXF6a2N4",
+    "barcode": "XC9I5ADD",
+    "type": "MR01",
+    "date": "2023-08-08",
+    "category": "mortgage",
+    "subcategory": "create",
+    "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+    "description_values": {
+      "charge_number": "139927900001",
+      "charge_creation_date": "2023-08-04"
+    },
+    "pages": 26,
+    "action_date": "2023-08-04",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4ODkzMjI1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nXmdhFT_Y3DJsS4rdL95L75pIG98LoufGZRUyanwfpM"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjE3MTA1M2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-06-14",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4MjE3MTA1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0Ag9ArF_nWQTxndcZ0SESCnWB-24DT4by9ZWb1EeheA"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTE1NDAxN2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-06-13",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4MTE1NDAxN2FkaXF6a2N4"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjE3MTAxNWFkaXF6a2N4",
+    "barcode": "XC568IXB",
+    "type": "CS01",
+    "date": "2023-06-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-20"
+    },
+    "pages": 3,
+    "action_date": "2023-03-20",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM4MjE3MTAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eFHsQA3fWdo5t-Onu0Sq0u4scugXHTYXNUM1bnuU78E"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTgyMDAzMmFkaXF6a2N4",
+    "barcode": "XB5R18NS",
+    "type": "TM01",
+    "date": "2022-06-08",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Clive Henry Group Limited",
+      "termination_date": "2022-06-01"
+    },
+    "pages": 1,
+    "action_date": "2022-06-01",
+    "links": {
+      "self": "/company/13992790/filing-history/MzM0MTgyMDAzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a4hOMBNCw7ErGIe7ZCF0a1Fhnqz5v--s0cQLHJ3L8-U"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzQ3MzA0NmFkaXF6a2N4",
+    "barcode": "XB08KNO0",
+    "type": "NEWINC",
+    "date": "2022-03-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2022-03-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-03-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-03-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 30,
+    "links": {
+      "self": "/company/13992790/filing-history/MzMzMzQ3MzA0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SzoB1XaTcqbeF7aNat26MoUDlXD8J5zCC7ANLTLlwmI"
+    }
+  }
+]

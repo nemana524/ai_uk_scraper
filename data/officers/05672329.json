@@ -1,0 +1,50 @@
+[
+  {
+    "address": {
+      "address_line_1": "23 Eckweek Road",
+      "address_line_2": "Peasedown St. John",
+      "locality": "Bath",
+      "postal_code": "BA2 8EJ",
+      "region": "Avon"
+    },
+    "appointed_on": "2006-01-11",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/05672329/appointments/z0Cjeei9D7JWkLbRM2Sp3nEif8A",
+      "officer": {
+        "appointments": "/officers/ZV8KoEr7CP652tk4SIXqTDtMNHM/appointments"
+      }
+    },
+    "name": "LOVELL, Rebecca",
+    "nationality": "British",
+    "officer_role": "secretary",
+    "person_number": "91090310002"
+  },
+  {
+    "address": {
+      "address_line_1": "23 Eckweek Road",
+      "address_line_2": "Peasedown St. John",
+      "locality": "Bath",
+      "postal_code": "BA2 8EJ",
+      "region": "Avon"
+    },
+    "appointed_on": "2006-01-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1969
+    },
+    "links": {
+      "self": "/company/05672329/appointments/VNxrez2HoNtCIayKEYGVKjLDIXY",
+      "officer": {
+        "appointments": "/officers/PS9J694FdA_NyK9oOwQhOxO4SYM/appointments"
+      }
+    },
+    "name": "NEWMAN, Paul",
+    "nationality": "British",
+    "occupation": "Engineer",
+    "officer_role": "director",
+    "person_number": "91090300002"
+  }
+]

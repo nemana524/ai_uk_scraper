@@ -1,0 +1,273 @@
+[
+  {
+    "transaction_id": "MzQ1MDM2NjA2MWFkaXF6a2N4",
+    "barcode": "XDTT43N7",
+    "type": "CERTNM",
+    "date": "2025-01-08",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2025-01-08"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2025-01-08",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed clapham phone and vape LTD\\certificate issued on 08/01/25"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ1MDM2NjA2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/owPl9YWm7Zlj8SuvD2yYPZokaH72wEHsT1Ek8gVWkHQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDM1NTA3NmFkaXF6a2N4",
+    "barcode": "XDTT40LE",
+    "type": "CS01",
+    "date": "2025-01-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-01-08"
+    },
+    "pages": 4,
+    "action_date": "2025-01-08",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ1MDM1NTA3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dKqa_KJCmEhHZ6U3VFoaQJCcE4iSUuza_oDwMZ20m-8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDM1MzA1OWFkaXF6a2N4",
+    "barcode": "XDTT3RVF",
+    "type": "TM01",
+    "date": "2025-01-08",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Harcharan Singh Gorwarah",
+      "termination_date": "2025-01-08"
+    },
+    "pages": 1,
+    "action_date": "2025-01-08",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ1MDM1MzA1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IDk9tMwgYZ2pIMheF_qply3v5AeScrtnSlJoAB0_15E"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDM1MjY0N2FkaXF6a2N4",
+    "barcode": "XDTT3QG2",
+    "type": "PSC07",
+    "date": "2025-01-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Harcharan Singh Gorwarah",
+      "cessation_date": "2025-01-08"
+    },
+    "pages": 1,
+    "action_date": "2025-01-08",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ1MDM1MjY0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yuIjMU0Z1VN8LRSo5DG99nP8jCzOvkPrDEMBVulgipk"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDM1MTY0MmFkaXF6a2N4",
+    "barcode": "XDTT3LUH",
+    "type": "PSC01",
+    "date": "2025-01-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Harpal Singh Gurwara",
+      "notification_date": "2025-01-08"
+    },
+    "pages": 2,
+    "action_date": "2025-01-08",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ1MDM1MTY0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FiBdWVy9I7Hf9mfXxhQcmcWAHDrOiQGEhsze4OCG6aQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDM1MTI2NGFkaXF6a2N4",
+    "barcode": "XDTT3KKO",
+    "type": "AP01",
+    "date": "2025-01-08",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Harpal Singh Gurwara",
+      "appointment_date": "2025-01-08"
+    },
+    "pages": 2,
+    "action_date": "2025-01-08",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ1MDM1MTI2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3lleCSvfqIjkkc7ckuIIxMSrZdInM0GwG5Wf2IzhqG8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDM0MzkxMmFkaXF6a2N4",
+    "barcode": "XDTT2QUP",
+    "type": "AD01",
+    "date": "2025-01-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-01-08",
+      "old_address": "100 st. John's Road London SW11 1PX England",
+      "new_address": "25 High Street Bromley BR1 1LG"
+    },
+    "pages": 1,
+    "action_date": "2025-01-08",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ1MDM0MzkxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DskUJSWZoCXt9PAKc_8v0JZcTc8DBUAqN7k42SeNRzM"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTQ5MzcxMmFkaXF6a2N4",
+    "barcode": "XDGWKG5V",
+    "type": "CS01",
+    "date": "2024-11-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-06"
+    },
+    "pages": 3,
+    "action_date": "2024-11-06",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQ0NTQ5MzcxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cUOdA7Z8KNQKcVpV6bhcz31WBSnovL9cgqEDPTLVbII"
+    }
+  },
+  {
+    "transaction_id": "MzQzODI5NDY3M2FkaXF6a2N4",
+    "barcode": "XDCXBN0O",
+    "type": "AA",
+    "date": "2024-10-03",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 2,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQzODI5NDY3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DwBkm3rtB0NuRIPeYehzk97rxfW-vWLZNUvI1QzHX1k"
+    }
+  },
+  {
+    "transaction_id": "MzQwMDgzNjI1MmFkaXF6a2N4",
+    "barcode": "XCGOCSEQ",
+    "type": "CS01",
+    "date": "2023-11-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-06"
+    },
+    "pages": 3,
+    "action_date": "2023-11-06",
+    "links": {
+      "self": "/company/14466940/filing-history/MzQwMDgzNjI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2ZVIZDlQWWP21jegsrAT2LH-d42sx1yLTsFiviRh4Rc"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDI1MzQ0M2FkaXF6a2N4",
+    "barcode": "XCCRXDI8",
+    "type": "AA",
+    "date": "2023-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 2,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/14466940/filing-history/MzM5NDI1MzQ0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SpV9CnXISc9k8_9d6P_o4R8LhkVI5_bdDgXL4KGDiq0"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTQ5MDI3NmFkaXF6a2N4",
+    "barcode": "XCB2G2CB",
+    "type": "AA01",
+    "date": "2023-08-31",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2023-11-30",
+      "new_date": "2023-07-31"
+    },
+    "pages": 1,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/14466940/filing-history/MzM5MTQ5MDI3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JUyB0QgJmqvtJ_QILfg2WCFpUlYnteipqWYKbdE2O_I"
+    }
+  },
+  {
+    "transaction_id": "MzM1NzU2NzQzNmFkaXF6a2N4",
+    "barcode": "XBG1OMSH",
+    "type": "NEWINC",
+    "date": "2022-11-07",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-11-07",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-11-07",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-11-07",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2022-11-07"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14466940/filing-history/MzM1NzU2NzQzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NUKF_8Qivpy7tDCTyWYGaJJ2Tq205WWqhcuH8bqetD0"
+    }
+  }
+]

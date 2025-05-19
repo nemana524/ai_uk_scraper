@@ -1,0 +1,91 @@
+{
+  "company_number": "15551644",
+  "company_name": "TECH BUCKET LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "MUKOYI, Tinashe Donald",
+      "officer_role": "director",
+      "appointed_on": "2024-08-19",
+      "resigned_on": null,
+      "nationality": "Zimbabwean",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Westerham Road",
+        "country": "England",
+        "locality": "Keston",
+        "postal_code": "BR2 6HU",
+        "premises": "88 Wilberforce Court"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/15551644/appointments/C4RA3zo9OSG0DYGihBBz25tVtLc",
+        "officer": {
+          "appointments": "/officers/SRvyexSuQTLISfehUEftdNOMmO0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MATONGO, Nyasha Susan",
+      "officer_role": "director",
+      "appointed_on": "2024-03-09",
+      "resigned_on": "2024-06-01",
+      "nationality": "Zimbabwean",
+      "country_of_residence": "England",
+      "occupation": "Marketing Consultant",
+      "address": {
+        "address_line_1": "Lower Stone Street",
+        "country": "England",
+        "locality": "Maidstone",
+        "postal_code": "ME15 6LZ",
+        "premises": "Flat 116 Miller Heights 43-51"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1998
+      },
+      "links": {
+        "self": "/company/15551644/appointments/Z0CyMEYo66y38FmqS1hg8dDK8mI",
+        "officer": {
+          "appointments": "/officers/XP4GistBHl36uWRRNp7a-y-7AVQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MUKOYI, Tinashe Donald",
+      "officer_role": "director",
+      "appointed_on": "2024-03-09",
+      "resigned_on": "2024-06-01",
+      "nationality": "Zimbabwean",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Lower Stone Street",
+        "country": "England",
+        "locality": "Maidstone",
+        "postal_code": "ME15 6LZ",
+        "premises": "Flat 116 Miller Heights 43-51"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/15551644/appointments/QNwt6qYrfedcSBUVl-HwnkMPXWQ",
+        "officer": {
+          "appointments": "/officers/O_reRcek7hL1J5gXWVrlN62Dx4I/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

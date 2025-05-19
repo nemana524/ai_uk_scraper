@@ -1,0 +1,75 @@
+[
+  {
+    "transaction_id": "MzQyOTMyMDU2N2FkaXF6a2N4",
+    "barcode": "XD7LT9KB",
+    "type": "AD01",
+    "date": "2024-07-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-07-18",
+      "old_address": "80 Kingsbridge Road Manchester M9 5SN United Kingdom",
+      "new_address": "81 Durham Street Rochdale OL11 1JZ"
+    },
+    "pages": 1,
+    "action_date": "2024-07-18",
+    "links": {
+      "self": "/company/14976353/filing-history/MzQyOTMyMDU2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2-hSurvjMsqMQzI2dUOA1WvI7UnfWC9kY5SD0y86zxw"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTI5OTU5NmFkaXF6a2N4",
+    "barcode": "XD7LQSBD",
+    "type": "CS01",
+    "date": "2024-07-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-07-02"
+    },
+    "pages": 3,
+    "action_date": "2024-07-02",
+    "links": {
+      "self": "/company/14976353/filing-history/MzQyOTI5OTU5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/759O5dbh_fp5OLAx6UjSp8MKzACapw07WBH7MDMvoLk"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDk1MzU5N2FkaXF6a2N4",
+    "barcode": "XC6TNH1C",
+    "type": "NEWINC",
+    "date": "2023-07-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-07-03",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-07-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "5"
+            }
+          ]
+        },
+        "action_date": "2023-07-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/14976353/filing-history/MzM4NDk1MzU5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vTmx0w4a3AEhQcnQrlHuHlQVvp6-PUgLAy0u40Va_QA"
+    }
+  }
+]

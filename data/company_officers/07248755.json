@@ -1,0 +1,93 @@
+{
+  "company_number": "07248755",
+  "company_name": "TECH CLEANING & GUARDING LTD.",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "YIGA, Francis Xavier",
+      "officer_role": "director",
+      "appointed_on": "2013-11-10",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Suite 252stratfordworkshop",
+        "address_line_2": "Burford Road",
+        "country": "United Kingdom",
+        "locality": "Stratford",
+        "postal_code": "E15 2SP",
+        "premises": "252",
+        "region": "London"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1953
+      },
+      "links": {
+        "self": "/company/07248755/appointments/YZttH61r6ffFzo3qX8H39D-7FpQ",
+        "officer": {
+          "appointments": "/officers/SCzw3X1fvIO0ev3AhNAuvQi6cig/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "XAVIER, Francis",
+      "officer_role": "director",
+      "appointed_on": "2010-05-11",
+      "resigned_on": "2011-04-05",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Burford Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "E15 2SP",
+        "premises": "252"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1954
+      },
+      "links": {
+        "self": "/company/07248755/appointments/TQA7jlZiRSR1DbkmE1BnXtb7WLQ",
+        "officer": {
+          "appointments": "/officers/pAjkwLjA6AAYvwTy5NGO0LP4cwQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "YIGA, Jane Frances",
+      "officer_role": "director",
+      "appointed_on": "2010-05-11",
+      "resigned_on": "2013-11-10",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Accountant",
+      "address": {
+        "address_line_1": "Burford Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "E15 2SP",
+        "premises": "252"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/07248755/appointments/vn2Qlo4JyXYIu29bCvhD3sDanOE",
+        "officer": {
+          "appointments": "/officers/q-H0IHwCfaOUF6kNty7eJESU8Ag/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

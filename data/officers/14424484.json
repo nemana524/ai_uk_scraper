@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "76-78 Bury Park Road",
+      "country": "England",
+      "locality": "Luton",
+      "postal_code": "LU1 1HE",
+      "premises": "Ali & Co Accountant"
+    },
+    "appointed_on": "2022-10-17",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/14424484/appointments/04D6MODdo4Xbb4K1QlE2MBCLb5Y",
+      "officer": {
+        "appointments": "/officers/3b6MI_eKy9Ef8hXoDWTA0m9aQb0/appointments"
+      }
+    },
+    "name": "SHAHZAD, Asim",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "222281860001"
+  }
+]

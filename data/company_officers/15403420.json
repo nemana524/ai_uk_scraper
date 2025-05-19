@@ -1,0 +1,35 @@
+{
+  "company_number": "15403420",
+  "company_name": "TECH DEFENCE INT LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "GRISCHEW, Sergej",
+      "officer_role": "director",
+      "appointed_on": "2024-01-10",
+      "resigned_on": null,
+      "nationality": "German",
+      "country_of_residence": "England",
+      "occupation": "Entrepreneur",
+      "address": {
+        "address_line_1": "Regent Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "W1B 3HH",
+        "premises": "207"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1961
+      },
+      "links": {
+        "self": "/company/15403420/appointments/3CwRyqOuclx1ICZsD3385yk6g0M",
+        "officer": {
+          "appointments": "/officers/EP5E3Z0SESzo7E0PCtwjBWw5pW8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

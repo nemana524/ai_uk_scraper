@@ -1,0 +1,67 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-10-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH HAS NO FACE LIMITED",
+  "company_number": "09787757",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-03",
+    "next_due": "2025-10-17",
+    "next_made_up_to": "2025-10-03",
+    "overdue": false
+  },
+  "date_of_creation": "2015-09-21",
+  "etag": "6263b04d7610a50d4eecf4fcc44b3dade10fcf46",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/09787757/persons-with-significant-control",
+    "self": "/company/09787757",
+    "filing_history": "/company/09787757/filing-history",
+    "officers": "/company/09787757/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2024-09-09",
+      "effective_from": "2015-09-21",
+      "name": "AMO3J LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "82a James Carter Road",
+    "address_line_2": "Mildenhall",
+    "country": "England",
+    "locality": "Bury St. Edmunds",
+    "postal_code": "IP28 7DE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090",
+    "85590"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

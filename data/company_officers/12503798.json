@@ -1,0 +1,35 @@
+{
+  "company_number": "12503798",
+  "company_name": "SC PORTFOLIO 3 LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "LEADER, Mark John",
+      "officer_role": "director",
+      "appointed_on": "2020-03-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "country": "United Kingdom",
+        "locality": "Middlesbrough",
+        "postal_code": "TS1 1QA",
+        "premises": "2nd Floor, 16-26 Albert Road",
+        "region": "Cleveland"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/12503798/appointments/YdCszaRL9iPnzWB8geeQQfGxGAw",
+        "officer": {
+          "appointments": "/officers/Ic1oil4D7GIb44IzuZXkqIzeMsQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

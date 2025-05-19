@@ -1,0 +1,35 @@
+{
+  "company_number": "10552045",
+  "company_name": "TECH ENGINEERING (WILTSHIRE) LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MCCARTHY, Simon",
+      "officer_role": "director",
+      "appointed_on": "2017-01-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Ground Works Engineer",
+      "address": {
+        "country": "England",
+        "locality": "Chippenham",
+        "postal_code": "SN14 0FQ",
+        "premises": "8 Westinghouse Park",
+        "region": "Wiltshire"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/10552045/appointments/qDCQ6dTeHBxd1OvJAs_jvrno3aM",
+        "officer": {
+          "appointments": "/officers/BnOhjq73Y0dSbGuSV-REIcv9aYE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

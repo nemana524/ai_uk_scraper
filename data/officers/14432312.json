@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "0048 At B",
+      "country": "Spain",
+      "locality": "Madrid",
+      "postal_code": "28050",
+      "premises": "Ana De Austria"
+    },
+    "appointed_on": "2022-10-20",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Spain",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1978
+    },
+    "links": {
+      "self": "/company/14432312/appointments/RK3VZrf8f1fQxisTuDTsvjo5gFQ",
+      "officer": {
+        "appointments": "/officers/wfANADkpWix7wlLF4ZlxmMvyhgA/appointments"
+      }
+    },
+    "name": "MENESES, Ruben",
+    "nationality": "Spanish",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "person_number": "301368540001"
+  },
+  {
+    "address": {
+      "address_line_1": "Shelton Street",
+      "address_line_2": "Covent Garden",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "WC2H 9JQ",
+      "premises": "71 - 75",
+      "region": "England"
+    },
+    "appointed_on": "2022-10-25",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/14432312/appointments/a3_1dNxn5dzZRw-J3EPzDloFBAk",
+      "officer": {
+        "appointments": "/officers/9F_ly-Z3mCA27WXhysoNZpGtZMg/appointments"
+      }
+    },
+    "name": "1ST SECRETARIES LIMITED",
+    "officer_role": "corporate-secretary",
+    "resigned_on": "2024-03-01",
+    "identification": {
+      "identification_type": "uk-limited-company",
+      "registration_number": "12298342"
+    },
+    "person_number": "264746250001"
+  }
+]

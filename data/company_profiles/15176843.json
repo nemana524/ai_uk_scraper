@@ -1,0 +1,38 @@
+{
+  "company_number": "15176843",
+  "company_name": "TECH BURST LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2023-09-30",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "102 Mile End Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 4UN"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-30"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "a6a5427fb3f230e3d2066dc93ae70163fa4544d4"
+}

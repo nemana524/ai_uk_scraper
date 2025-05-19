@@ -1,0 +1,47 @@
+{
+  "company_number": "12915991",
+  "company_name": "TECH LONDON ADVOCATES BLACK WOMEN IN TECH LTD",
+  "company_status": "active",
+  "date_of_creation": "2020-09-30",
+  "type": "private-limited-guarant-nsc",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "85520",
+    "85600",
+    "94110",
+    "94120"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "176 Franciscan Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW17 8HH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-10-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "f790942c59ca1f834fa5b061f999915fc10746a1"
+}

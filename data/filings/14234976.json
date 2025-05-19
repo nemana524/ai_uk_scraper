@@ -1,0 +1,381 @@
+[
+  {
+    "transaction_id": "MzQ0NzE5NjI0NWFkaXF6a2N4",
+    "barcode": "XDHVQUYP",
+    "type": "AD01",
+    "date": "2024-12-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-13",
+      "old_address": "7 Bell Yard London United Kingdom WC2A 2JR 7 Bell Yard London WC2A 2JR United Kingdom",
+      "new_address": "7 Bell Yard London WC2A 2JR"
+    },
+    "pages": 1,
+    "action_date": "2024-12-13",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQ0NzE5NjI0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jq6Wy1fQa_gWnnPK0C2In0rL9Cmhk696wCJI9W6zBbU"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjY4NTg2NGFkaXF6a2N4",
+    "barcode": "XDHNFOUJ",
+    "type": "AD01",
+    "date": "2024-12-10",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-10",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ",
+      "new_address": "7 Bell Yard London United Kingdom WC2A 2JR 7 Bell Yard London WC2A 2JR"
+    },
+    "pages": 1,
+    "action_date": "2024-12-10",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQ0NjY4NTg2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BdIF3Pyv_BNxINn7UtRppkNdrInwM_dnpyVu8lHeFeI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTQ1ODY3NGFkaXF6a2N4",
+    "barcode": "XDESRMWO",
+    "type": "TM01",
+    "date": "2024-10-30",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Asghar Iblyal",
+      "termination_date": "2022-07-14"
+    },
+    "pages": 1,
+    "action_date": "2022-07-14",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQ0MTQ1ODY3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CoVrJkQ5fmD0YaRvt2gLbMIKN8m5tpC8VSGCB0ytexE"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTQ1ODU1NWFkaXF6a2N4",
+    "barcode": "XDESRMI2",
+    "type": "AP01",
+    "date": "2024-10-30",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Gang He",
+      "appointment_date": "2022-07-14"
+    },
+    "pages": 2,
+    "action_date": "2022-07-14",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQ0MTQ1ODU1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oYrB3wFxrfXseZcD5nlpy5KYaY7RCUbFLV7GhEDvKY4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTQ1ODI0M2FkaXF6a2N4",
+    "barcode": "XDESRL4B",
+    "type": "TM01",
+    "date": "2024-10-30",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Gang He",
+      "termination_date": "2024-07-14"
+    },
+    "pages": 1,
+    "action_date": "2024-07-14",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQ0MTQ1ODI0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6GHAFSc4JAkb48dVxREkjG_xu23vuFqYXVjAgdUbOik"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTQ1NzQ5MGFkaXF6a2N4",
+    "barcode": "XDESRI77",
+    "type": "AP01",
+    "date": "2024-10-30",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Gang He",
+      "appointment_date": "2024-07-14"
+    },
+    "pages": 2,
+    "action_date": "2024-07-14",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQ0MTQ1NzQ5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lpiTeO95tlHJNr8LO_6lTtGpiL2IHVJLmxiZu9LZGj4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTQ1NjgwMWFkaXF6a2N4",
+    "barcode": "XDESRF8A",
+    "type": "AD01",
+    "date": "2024-10-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-10-30",
+      "old_address": "71 Halesowen Road Halesowen B62 9BB England",
+      "new_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2024-10-30",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQ0MTQ1NjgwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HcQcZhI4_wrgmaX_pD8KT16hZADnkAq-zv61sjrF1sE"
+    }
+  },
+  {
+    "transaction_id": "MzQzODUxMzgyM2FkaXF6a2N4",
+    "barcode": "XDD56ZTK",
+    "type": "AP01",
+    "date": "2024-10-07",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Asghar Iblyal",
+      "appointment_date": "2022-07-14"
+    },
+    "pages": 2,
+    "action_date": "2022-07-14",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQzODUxMzgyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sgCcXz57KnS_ppK_QClWboppFIPfBe6h37pr04L92B4"
+    }
+  },
+  {
+    "transaction_id": "MzQzODUxMzg0MWFkaXF6a2N4",
+    "barcode": "XDD56ZQ8",
+    "type": "AD01",
+    "date": "2024-10-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-10-06",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ",
+      "new_address": "71 Halesowen Road Halesowen B62 9BB"
+    },
+    "pages": 1,
+    "action_date": "2024-10-06",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQzODUxMzg0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sGatnCkCp3TnLkYTDbJe4nEGOuB-GtBou5aJV5HPQho"
+    }
+  },
+  {
+    "transaction_id": "MzQzODUxMzczNGFkaXF6a2N4",
+    "barcode": "XDD56ZKL",
+    "type": "TM01",
+    "date": "2024-10-06",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Gang He",
+      "termination_date": "2022-07-14"
+    },
+    "pages": 1,
+    "action_date": "2022-07-14",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQzODUxMzczNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PFmQBaGJxAfRT-EsL3UAcY584Dph0IWbJ4YNpIuzgcQ"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzY1OTcwNWFkaXF6a2N4",
+    "barcode": "XDCR7FLF",
+    "type": "CS01",
+    "date": "2024-09-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-07-13"
+    },
+    "pages": 4,
+    "action_date": "2024-07-13",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQzNzY1OTcwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZDYH1MU0Vk36TInHekb0pMq9BWgt5nC0HpgeuuFFieU"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTU5OTE5OWFkaXF6a2N4",
+    "barcode": "XDBK5Z4I",
+    "type": "AA",
+    "date": "2024-09-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 2,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQzNTU5OTE5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TaBzOVOVGnQirXcDeUy8Krg24qMv3drf0FFXQp80Mgs"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTQzMTAxMWFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-06-19",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14234976/filing-history/MzQyNTQzMTAxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZrDgrgXQqyaEdZTb9Lui5lYKCx0g6cRz70egWJWpxho"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDI4MzIzN2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-06-18",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14234976/filing-history/MzQyNDI4MzIzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3dr76h1Vf2RzhFJ65BUkbfrV6JE9Srz4KWH9_irLt_8"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTQzMDkyN2FkaXF6a2N4",
+    "barcode": "XD5A4FV4",
+    "type": "AA",
+    "date": "2024-06-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 2,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/14234976/filing-history/MzQyNTQzMDkyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ExHtqtzXCR7Pv-eRYNHLc8jvoSUHaLozZjV_435FXZ8"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDE0NDMxNmFkaXF6a2N4",
+    "barcode": "XCA8XBWA",
+    "type": "CS01",
+    "date": "2023-08-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-07-13"
+    },
+    "pages": 3,
+    "action_date": "2023-07-13",
+    "links": {
+      "self": "/company/14234976/filing-history/MzM5MDE0NDMxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bS-F5r-_fqJ8Ihe3QTRhIVKxx2G31PE1Fo_vCm7w3eI"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTQ2NzI4NGFkaXF6a2N4",
+    "barcode": "AC9M89PU",
+    "type": "AD01",
+    "date": "2023-08-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-08-17",
+      "old_address": "Suite 2 Gg, 116 Ballards Lane London N3 2DN England",
+      "new_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ"
+    },
+    "pages": 2,
+    "action_date": "2023-08-17",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14234976/filing-history/MzM4OTQ2NzI4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mmLCLJAksFj-Vs74oUxGraUWoE2kj9YA1tofY-RoDdo"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDc3MDA2OGFkaXF6a2N4",
+    "barcode": "XBBXFTUX",
+    "type": "AD01",
+    "date": "2022-09-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-09-05",
+      "old_address": "7 Bell Yard London WC2A 2JR United Kingdom",
+      "new_address": "Suite 2 Gg, 116 Ballards Lane London N3 2DN"
+    },
+    "pages": 1,
+    "action_date": "2022-09-05",
+    "links": {
+      "self": "/company/14234976/filing-history/MzM1MDc3MDA2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZA9LcdA6Y9sCjqdKckfub6Hi9XcNI5ywrQYUvFsSvws"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTQ1NDc4OGFkaXF6a2N4",
+    "barcode": "XBB1E52B",
+    "type": "CH04",
+    "date": "2022-08-23",
+    "category": "officers",
+    "subcategory": "officers",
+    "description": "change-corporate-secretary-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-08-23",
+      "officer_name": "Tannetsec Limited"
+    },
+    "pages": 1,
+    "action_date": "2022-08-23",
+    "links": {
+      "self": "/company/14234976/filing-history/MzM0OTQ1NDc4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VjPovsx1kIKQSq5qlM0oXWetLmNIokpukojbLRXYmZk"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTY4NzAxN2FkaXF6a2N4",
+    "barcode": "XB882JVT",
+    "type": "NEWINC",
+    "date": "2022-07-14",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-07-14",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-14",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-07-14",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "500"
+            }
+          ]
+        },
+        "action_date": "2022-07-14"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/14234976/filing-history/MzM0NTY4NzAxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MyL9RYLTeb9kHJ9yD6VeCS_cjGocoWlG_61PRwsRXS8"
+    }
+  }
+]

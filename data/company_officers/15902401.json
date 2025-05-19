@@ -1,0 +1,35 @@
+{
+  "company_number": "15902401",
+  "company_name": "TECH AND PRODUCTS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ASHFAQ, Ali",
+      "officer_role": "director",
+      "appointed_on": "2024-08-16",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Wales",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Anderton Road",
+        "country": "England",
+        "locality": "Birmingham",
+        "postal_code": "B11 1NB",
+        "premises": "122"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/15902401/appointments/IQwiReJzN18n1tNz6siSm_BiXqo",
+        "officer": {
+          "appointments": "/officers/kESscGHQtuPIZ2faESQvaXrqkto/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

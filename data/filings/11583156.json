@@ -1,0 +1,347 @@
+[
+  {
+    "transaction_id": "MzQ0Nzk3ODYwMWFkaXF6a2N4",
+    "barcode": "YDI6NQ5U",
+    "type": "LIQ03",
+    "date": "2024-12-20",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date",
+    "description_values": {
+      "brought_down_date": "2024-10-23"
+    },
+    "pages": 25,
+    "action_date": "2024-10-23",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzQ0Nzk3ODYwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BffVE4qW5ZbScbjDrdHW1XAAxoFGcTdf-ZRXey9o7qw"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDY1NDg3NGFkaXF6a2N4",
+    "barcode": "YDB1DJHC",
+    "type": "AD01",
+    "date": "2024-09-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-09-13",
+      "old_address": "Moorend House Snelsins Lane Cleckheaton West Yorkshire BD19 3UE",
+      "new_address": "Hope Park Business Centre Trevor Foster Way Bradford West Yorkshire BD5 8HB"
+    },
+    "pages": 3,
+    "action_date": "2024-09-13",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzQzNDY1NDg3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UmNjXno_6PhfZLS3-RHggdLsCJdh3KmZSh3PgqzHfkk"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODI0OTIxOGFkaXF6a2N4",
+    "barcode": "YCF8Z9WR",
+    "type": "AD01",
+    "date": "2023-11-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-11-01",
+      "old_address": "21 Hyde Park Road Leeds LS6 1PY England",
+      "new_address": "Moorend House Snelsins Lane Cleckheaton West Yorkshire BD19 3UE"
+    },
+    "pages": 2,
+    "action_date": "2023-11-01",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzM5ODI0OTIxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/31G8j9IrmIzV1NFE5AxbMK6l2ll-RUR7ZdxsJ-FfE6o"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODI0OTM5OGFkaXF6a2N4",
+    "barcode": "YCF8ZAIR",
+    "type": "600",
+    "date": "2023-11-01",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-appointment-of-liquidator",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzM5ODI0OTM5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LrKnCc4lANjQrDMb0LUgR9HSzewfHbM3PEylYFhJJlM"
+    }
+  },
+  {
+    "transaction_id": "WUNGOFpBTVphZGlxemtjeA",
+    "type": "RESOLUTIONS",
+    "date": "2023-11-01",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "liquidation",
+        "description": "liquidation-voluntary-extraordinary-resolution-to-wind-up-with-case-start-date",
+        "type": "LRESEX",
+        "subcategory": [
+          "voluntary",
+          "resolution"
+        ],
+        "description_values": {
+          "case_start_date": "2023-10-24"
+        },
+        "original_description": "Extraordinary resolution to wind up"
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/WUNGOFpBTVphZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3un_qFTndSEhkVolM4ABl9y62RGN2uIi4plOhedtOHs"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODI0OTM5NmFkaXF6a2N4",
+    "barcode": "YCF8ZAL7",
+    "type": "LIQ02",
+    "date": "2023-11-01",
+    "category": "insolvency",
+    "subcategory": "voluntary",
+    "description": "liquidation-voluntary-statement-of-affairs",
+    "pages": 9,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzM5ODI0OTM5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/olDMfUY0QHnoOHYPT93lsMymDIURGTxPL7ru-_8Zwrw"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDgzMjAyNGFkaXF6a2N4",
+    "barcode": "XC6QV2RV",
+    "type": "AA",
+    "date": "2023-06-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-09-30"
+    },
+    "pages": 7,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/11583156/filing-history/MzM4NDgzMjAyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P8gdSfQ5-Ti5wahnkijQRTe7PCKnzMsxa6JXrEboaFc"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjA0NTMzM2FkaXF6a2N4",
+    "barcode": "XBVDN5OA",
+    "type": "CS01",
+    "date": "2023-01-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-09-20"
+    },
+    "pages": 3,
+    "action_date": "2022-09-20",
+    "links": {
+      "self": "/company/11583156/filing-history/MzM2NjA0NTMzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o1BCHOghPOz5xEMdVzbMVAfTgBrCwKNtRkdJVKARBBw"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzMwNzcxN2FkaXF6a2N4",
+    "barcode": "XB6Q4160",
+    "type": "AA",
+    "date": "2022-06-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-09-30"
+    },
+    "pages": 7,
+    "action_date": "2021-09-30",
+    "links": {
+      "self": "/company/11583156/filing-history/MzM0MzMwNzcxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/itO_jqaoBxcbSZ7RjGDnyuIn4Kp4EZyn5cs4kvPIJGY"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDIwMzQ3MmFkaXF6a2N4",
+    "barcode": "XAHBJ22X",
+    "type": "CS01",
+    "date": "2021-11-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-09-20"
+    },
+    "pages": 3,
+    "action_date": "2021-09-20",
+    "links": {
+      "self": "/company/11583156/filing-history/MzMyMDIwMzQ3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7mUx1p3vXUpOOJ2p6w-n-zAnchv2WBSNv6smn5vl7HQ"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjI0MjcxNmFkaXF6a2N4",
+    "barcode": "XA7QM1IW",
+    "type": "AA",
+    "date": "2021-06-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-09-30"
+    },
+    "pages": 3,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/11583156/filing-history/MzMwNjI0MjcxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C_Ye3QR2XI6WvRskR9dPFPXVZeSohitnAXK5_3FNDzo"
+    }
+  },
+  {
+    "transaction_id": "MzI4OTE3NjE3OGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2021-01-21",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzI4OTE3NjE3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NyGOL3UPzd60IbWonY2FR8Es8P1wUQ610gVICE-AmGM"
+    }
+  },
+  {
+    "transaction_id": "MzI4OTE3NjEwMWFkaXF6a2N4",
+    "barcode": "X9WLFFM0",
+    "type": "CS01",
+    "date": "2021-01-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-09-20"
+    },
+    "pages": 3,
+    "action_date": "2020-09-20",
+    "links": {
+      "self": "/company/11583156/filing-history/MzI4OTE3NjEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qf0P-Ryz2GTm0cvLX8vp_r1_hTnPN1TLqVJizyvAE1c"
+    }
+  },
+  {
+    "transaction_id": "MzI4NzAyNTU0MmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2021-01-05",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzI4NzAyNTU0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cmJ9SGukv46EU4jLFfmp3ctRMOuSvLNZ8f7fNhx9w4k"
+    }
+  },
+  {
+    "transaction_id": "MzI3ODIyMDYyOWFkaXF6a2N4",
+    "barcode": "X9E0Z9C1",
+    "type": "AA",
+    "date": "2020-09-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-09-30"
+    },
+    "pages": 3,
+    "action_date": "2019-09-30",
+    "links": {
+      "self": "/company/11583156/filing-history/MzI3ODIyMDYyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yaugG7zdTwTk_p2-Knlo6tKGgN6PBl4SWLSk1GjWHgQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1Njc0MDA1MmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2020-02-08",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzI1Njc0MDA1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mAWli8ElHBCSFek-eKkmXwLnCMFWJFBBpnUAmNQiz8M"
+    }
+  },
+  {
+    "transaction_id": "MzI1Njc0MDA0NmFkaXF6a2N4",
+    "barcode": "X8YAFNW8",
+    "type": "CS01",
+    "date": "2020-02-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-09-20"
+    },
+    "pages": 3,
+    "action_date": "2019-09-20",
+    "links": {
+      "self": "/company/11583156/filing-history/MzI1Njc0MDA0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HvUWJVfN9jV0xHwZFO5LYUBXnaVhXuIawDH2rNOfGBw"
+    }
+  },
+  {
+    "transaction_id": "MzI1MDk5MjEwNWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2019-12-10",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11583156/filing-history/MzI1MDk5MjEwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fyL5N6rrEuzry-tOloDi10KDWqX39-u4dHsY6QKvEt8"
+    }
+  },
+  {
+    "transaction_id": "MzIxNTAxNDQxNGFkaXF6a2N4",
+    "barcode": "X7EYKLWO",
+    "type": "NEWINC",
+    "date": "2018-09-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-09-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-09-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-09-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2018-09-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11583156/filing-history/MzIxNTAxNDQxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5y54E3g9Waxv6s8PaLcz_9Qu8QFBViR04I_XYoBIUhc"
+    }
+  }
+]

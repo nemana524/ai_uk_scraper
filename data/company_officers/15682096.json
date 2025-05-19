@@ -1,0 +1,35 @@
+{
+  "company_number": "15682096",
+  "company_name": "TECH LCA LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "HAMEED SULTAN AKBAR ALI, Ashiq Ahamed, Dr",
+      "officer_role": "director",
+      "appointed_on": "2024-04-26",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Duchy Street",
+        "country": "England",
+        "locality": "Salford",
+        "postal_code": "M6 5LT",
+        "premises": "56"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/15682096/appointments/E4285sFJubfptfLXx6i6wPiqLeI",
+        "officer": {
+          "appointments": "/officers/6pxud-cWSEouRVcAdZIjPIS8SGc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

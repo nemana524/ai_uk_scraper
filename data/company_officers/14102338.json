@@ -1,0 +1,92 @@
+{
+  "company_number": "14102338",
+  "company_name": "TECH AGRO LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "FIGURA, Martin",
+      "officer_role": "director",
+      "appointed_on": "2023-03-01",
+      "resigned_on": null,
+      "nationality": "Czech",
+      "country_of_residence": "Czech Republic",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Zlin",
+        "country": "Czech Republic",
+        "locality": "76001",
+        "premises": "Fugnerovo Nabrezi 5476"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/14102338/appointments/Fox_T7GjS0mfam02rbbXExmD9Rg",
+        "officer": {
+          "appointments": "/officers/MRlf6lFrfNm9q-t2c1Nk93bhKYY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "FORM ONLINE LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2022-05-12",
+      "resigned_on": "2024-05-11",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "67 Wellington Road North",
+        "country": "United Kingdom",
+        "locality": "Stockport",
+        "postal_code": "SK4 2LP",
+        "premises": "Minshull House",
+        "region": "Cheshire"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/14102338/appointments/GFEDw2MHxE1h7ILbxOzwqrSHgXg",
+        "officer": {
+          "appointments": "/officers/FKS7tLJqmMF1DI8grYM2imj24u0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "5768431"
+      }
+    },
+    {
+      "name": "DOYLE, Peter Martin",
+      "officer_role": "director",
+      "appointed_on": "2022-05-12",
+      "resigned_on": "2023-03-01",
+      "nationality": "Irish",
+      "country_of_residence": "Ireland",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Botanic Avenue",
+        "country": "Northern Ireland",
+        "locality": "Belfast",
+        "postal_code": "BT7 1JJ",
+        "premises": "47",
+        "region": "Northern Ireland"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1968
+      },
+      "links": {
+        "self": "/company/14102338/appointments/cqBYSz_RLP554dA3JQEvSKiv5fQ",
+        "officer": {
+          "appointments": "/officers/fQGSGzyT_37egLPlMCIjfiiI500/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

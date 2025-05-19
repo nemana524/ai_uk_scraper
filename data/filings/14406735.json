@@ -1,0 +1,177 @@
+[
+  {
+    "transaction_id": "MzQ0NTM4OTEzM2FkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-12-10",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14406735/filing-history/MzQ0NTM4OTEzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/V2KCEW_0hZzrp9o7Mv2_33tpxfXsGidmTMReDYKGAKY"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzcyMjY4N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-09-10",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14406735/filing-history/MzQzMzcyMjY4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ba9BeSe18232yW9hTDw3d8emk9VksbyXHOPduugOjmU"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjEwNjU2MWFkaXF6a2N4",
+    "barcode": "XCHCSOAH",
+    "type": "CS01",
+    "date": "2023-11-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-09"
+    },
+    "pages": 3,
+    "action_date": "2023-10-09",
+    "links": {
+      "self": "/company/14406735/filing-history/MzQwMjEwNjU2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2TSVRiCY5KY2NqCClUmY1ohie44OrQYBI5GzE-hFqag"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTAxMTE1MGFkaXF6a2N4",
+    "barcode": "XCFPELCS",
+    "type": "AD01",
+    "date": "2023-11-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-11-06",
+      "old_address": "35 Firs Avenue London N11 3NE England",
+      "new_address": "17 Plumbers Row London E1 1EQ"
+    },
+    "pages": 1,
+    "action_date": "2023-11-06",
+    "links": {
+      "self": "/company/14406735/filing-history/MzM5OTAxMTE1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TnzY_DqNHEV7_ivdGemzCPcjRNfoxMIF74I2dS0zKwU"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODYxNDMzOGFkaXF6a2N4",
+    "barcode": "XCFEK4OP",
+    "type": "PSC01",
+    "date": "2023-11-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Petras Bukas",
+      "notification_date": "2022-10-10"
+    },
+    "pages": 2,
+    "action_date": "2022-10-10",
+    "links": {
+      "self": "/company/14406735/filing-history/MzM5ODYxNDMzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8ssBSB7VmWXI5D9k7qjsLQxOG_56l0PWUP8ytNmYNO8"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODYxNDAzOGFkaXF6a2N4",
+    "barcode": "XCFEK3QY",
+    "type": "AP01",
+    "date": "2023-11-01",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Petras Bukas",
+      "appointment_date": "2022-10-10"
+    },
+    "pages": 2,
+    "action_date": "2022-10-10",
+    "links": {
+      "self": "/company/14406735/filing-history/MzM5ODYxNDAzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EO4aIZJ9bXn47Lekyt50c6oBGx6fqMEbLvc9ppQI9sg"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODYxMzg0MWFkaXF6a2N4",
+    "barcode": "XCFEK31L",
+    "type": "TM01",
+    "date": "2023-11-01",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Darren Symes",
+      "termination_date": "2022-10-10"
+    },
+    "pages": 1,
+    "action_date": "2022-10-10",
+    "links": {
+      "self": "/company/14406735/filing-history/MzM5ODYxMzg0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7LcCjkTZFZxqchtuJDqYwnKAV04aqlyAoTv-3PJar8Y"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODYxMzgxN2FkaXF6a2N4",
+    "barcode": "XCFEK32P",
+    "type": "PSC07",
+    "date": "2023-11-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Darren Symes",
+      "cessation_date": "2022-10-10"
+    },
+    "pages": 1,
+    "action_date": "2022-10-10",
+    "links": {
+      "self": "/company/14406735/filing-history/MzM5ODYxMzgxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-l8SteEpQKT96JIOhgbQh3AfsNajHFC7abz7FrU_RJ8"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDQwNzQ1MmFkaXF6a2N4",
+    "barcode": "XBE3OKI2",
+    "type": "NEWINC",
+    "date": "2022-10-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-10-10",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-10-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-10-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-10-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14406735/filing-history/MzM1NDQwNzQ1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3XdBNtf6c2fQHqaWmN9pJrUtwaR6UNySfC4JsBKZkls"
+    }
+  }
+]

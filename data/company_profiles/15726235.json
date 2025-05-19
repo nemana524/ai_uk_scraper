@@ -1,0 +1,42 @@
+{
+  "company_number": "15726235",
+  "company_name": "TECH FLUXON SOLUTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-05-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 3c 9 Holly Street",
+    "country": "United Kingdom",
+    "locality": "Nelson",
+    "postal_code": "BB9 0TG",
+    "region": "Lancashire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-17",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-05-17"
+    },
+    "next_due": "2026-02-17",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "919313e9d9205161eea48bf057fd0be047b27052"
+}

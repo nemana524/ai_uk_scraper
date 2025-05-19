@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-08",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-08"
+    },
+    "next_due": "2025-06-08",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CATCHY LTD",
+  "company_number": "15124711",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-07",
+    "next_due": "2025-09-21",
+    "next_made_up_to": "2025-09-07",
+    "overdue": false
+  },
+  "date_of_creation": "2023-09-08",
+  "etag": "d48c4211fdd9ffb704dad84890ca5a617f9fea7d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15124711/persons-with-significant-control",
+    "self": "/company/15124711",
+    "filing_history": "/company/15124711/filing-history",
+    "officers": "/company/15124711/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "15124711 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "registered_office_is_in_dispute": true,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

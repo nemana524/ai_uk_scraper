@@ -1,0 +1,36 @@
+{
+  "company_number": "15349415",
+  "company_name": "TECH DIVINERS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ALI, Syed Luqman",
+      "officer_role": "director",
+      "appointed_on": "2023-12-13",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "82 James Carter Road",
+        "country": "United Kingdom",
+        "locality": "Mildenhall",
+        "postal_code": "IP28 7DE",
+        "premises": "Unit A",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1987
+      },
+      "links": {
+        "self": "/company/15349415/appointments/TkJ79EMPW7tgVFgfa9oqVmv_Isc",
+        "officer": {
+          "appointments": "/officers/0HGrt0WnSYB8mVyCuPwJoJEHN6c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

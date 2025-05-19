@@ -1,0 +1,198 @@
+[
+  {
+    "transaction_id": "MzQ0Nzk2NTgzOGFkaXF6a2N4",
+    "barcode": "XDI6M7SG",
+    "type": "CS01",
+    "date": "2024-12-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-23"
+    },
+    "pages": 3,
+    "action_date": "2024-10-23",
+    "links": {
+      "self": "/company/14410643/filing-history/MzQ0Nzk2NTgzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GbxYrRmiGsEWDQXARLZbrjX130bZtHQmw7g6GQ9d-Ls"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTkyNTE3MWFkaXF6a2N4",
+    "barcode": "XDF69U7S",
+    "type": "AA",
+    "date": "2024-11-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-10-31"
+    },
+    "pages": 9,
+    "action_date": "2024-10-31",
+    "links": {
+      "self": "/company/14410643/filing-history/MzQ0MTkyNTE3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1a3yLQPkmIg6Vf-4oKWBCEodjrt4ulsvU5iLhXGSsLs"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTc5NDU3M2FkaXF6a2N4",
+    "barcode": "XCG85XUZ",
+    "type": "AA",
+    "date": "2023-11-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-10-31"
+    },
+    "pages": 9,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/14410643/filing-history/MzM5OTc5NDU3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/emUREUDvV4CcgFxSUoSIqN3Awt8h-yDrGcZfzGh-njo"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTE1MjExNGFkaXF6a2N4",
+    "barcode": "XCFS5CHS",
+    "type": "CS01",
+    "date": "2023-11-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-23"
+    },
+    "pages": 3,
+    "action_date": "2023-10-23",
+    "links": {
+      "self": "/company/14410643/filing-history/MzM5OTE1MjExNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tl541u6zTqDVeB9i3M8ZK69bNAYCWHExBpNCpnbe1R0"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTQ2ODY5M2FkaXF6a2N4",
+    "barcode": "XC4Q6KLM",
+    "type": "CH01",
+    "date": "2023-05-31",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-05-12",
+      "officer_name": "Sohaib Muhammad"
+    },
+    "pages": 2,
+    "action_date": "2023-05-12",
+    "links": {
+      "self": "/company/14410643/filing-history/MzM4MTQ2ODY5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xkoGV3_35eYBaTYisi26NP6rhATUPe_pC1sKZc9qcZw"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTQ2ODU2MGFkaXF6a2N4",
+    "barcode": "XC4Q6JHF",
+    "type": "PSC04",
+    "date": "2023-05-31",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-05-12",
+      "psc_name": "Sohaib Muhammad"
+    },
+    "pages": 2,
+    "action_date": "2023-05-12",
+    "links": {
+      "self": "/company/14410643/filing-history/MzM4MTQ2ODU2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/50D5Pajmfe4N5vVUhrkBJCe2MRQRw_GnWRLG0vtASDY"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjIzMTYwN2FkaXF6a2N4",
+    "barcode": "XBF7PGS9",
+    "type": "CERTNM",
+    "date": "2022-10-24",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2022-10-23"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2022-10-24",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed hilliclay LIMITED\\certificate issued on 24/10/22"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/14410643/filing-history/MzM1NjIzMTYwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p1blz5Z2aDfn3t4hvN3AR6kEduoHW-AWwAH1XgRbfW0"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjIxMzU4N2FkaXF6a2N4",
+    "barcode": "XBF7PGNU",
+    "type": "CS01",
+    "date": "2022-10-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-10-23"
+    },
+    "pages": 3,
+    "action_date": "2022-10-23",
+    "links": {
+      "self": "/company/14410643/filing-history/MzM1NjIxMzU4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-5RFuRTnvf4OxI9_1aEi03syjJoXLWtbVJrnDlFQKNo"
+    }
+  },
+  {
+    "transaction_id": "MzM1NDYxMjAwOWFkaXF6a2N4",
+    "barcode": "XBEBJXL6",
+    "type": "NEWINC",
+    "date": "2022-10-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-10-11",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-10-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-10-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-10-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14410643/filing-history/MzM1NDYxMjAwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rR8GseDcSYea5cg96a6bUeod3ClTxDvwmNhOhaiiEH8"
+    }
+  }
+]

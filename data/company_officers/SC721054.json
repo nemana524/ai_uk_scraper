@@ -1,0 +1,35 @@
+{
+  "company_number": "SC721054",
+  "company_name": "TECH BOX LIVI LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ZAHID, Wahab",
+      "officer_role": "director",
+      "appointed_on": "2022-01-26",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Scotland",
+      "occupation": "Retailer",
+      "address": {
+        "address_line_1": "Burdiehouse Terrace",
+        "country": "Scotland",
+        "locality": "Edinburgh",
+        "postal_code": "EH17 8AJ",
+        "premises": "53"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/SC721054/appointments/GtRh_bvQVvndQpY_ZwYPcRB2xiw",
+        "officer": {
+          "appointments": "/officers/iXL_5tV0XBUH60pGEw4AmhgVw_Q/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

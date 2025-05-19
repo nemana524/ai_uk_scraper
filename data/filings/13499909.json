@@ -1,0 +1,181 @@
+[
+  {
+    "transaction_id": "MzQzODc5NTQ4MWFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-10-15",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13499909/filing-history/MzQzODc5NTQ4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lLdpNvOw-ltKjX6O0hOQmRU93SHLnXUBlIGaw-_WJ-Q"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTQ2NjI4NmFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-07-30",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13499909/filing-history/MzQyOTQ2NjI4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tvGXVnFGws9dapj5OZYk_W9_BdKzCxqWouvdS5OIUQ0"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTMzNDIwNmFkaXF6a2N4",
+    "barcode": "XD7LSJ8H",
+    "type": "DS01",
+    "date": "2024-07-19",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 2,
+    "links": {
+      "self": "/company/13499909/filing-history/MzQyOTMzNDIwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9PoweTxJ_ev7Q_oEUrYcNmJNiRK5LfrEGMKKdO-yK0w"
+    }
+  },
+  {
+    "transaction_id": "MzQyMDY0ODg0N2FkaXF6a2N4",
+    "barcode": "XD2AXJ20",
+    "type": "AA",
+    "date": "2024-05-03",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13499909/filing-history/MzQyMDY0ODg0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zydXxJoCyJpBpNXghMuXr1f-vb2jUQTonD5KR4rvVHQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTYwODYyN2FkaXF6a2N4",
+    "barcode": "XD1OYE0F",
+    "type": "AA01",
+    "date": "2024-04-24",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2024-07-31",
+      "new_date": "2024-03-31"
+    },
+    "pages": 1,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13499909/filing-history/MzQxOTYwODYyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HWI-_tKiL-LP72wXpDEXckIknA4kBR0KxHpIh6i6_iU"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTYwNzk4NGFkaXF6a2N4",
+    "barcode": "XD1OYAYG",
+    "type": "AA",
+    "date": "2024-04-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 3,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/13499909/filing-history/MzQxOTYwNzk4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FcrR-9yD9AhDqk-89YY-ZYYCWvRJHwNNnhkxemgyIAo"
+    }
+  },
+  {
+    "transaction_id": "MzM4NjYwMTAyN2FkaXF6a2N4",
+    "barcode": "XC7XQ84O",
+    "type": "CS01",
+    "date": "2023-07-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-07-07"
+    },
+    "pages": 3,
+    "action_date": "2023-07-07",
+    "links": {
+      "self": "/company/13499909/filing-history/MzM4NjYwMTAyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8ZG1k7FO_ZR6TQfnMKECDCUzvdEQWHA7eeXtBNQBiFU"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjA4NDUzMGFkaXF6a2N4",
+    "barcode": "XBF2JSNF",
+    "type": "AA",
+    "date": "2022-10-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-07-31"
+    },
+    "pages": 3,
+    "action_date": "2022-07-31",
+    "links": {
+      "self": "/company/13499909/filing-history/MzM1NjA4NDUzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LKjsTsVfLvuyru0QuIEXwVxnZg4VxbXBddQOdtTJTVg"
+    }
+  },
+  {
+    "transaction_id": "MzM0NDk5OTA3NmFkaXF6a2N4",
+    "barcode": "XB7S2HPN",
+    "type": "CS01",
+    "date": "2022-07-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-07-07"
+    },
+    "pages": 3,
+    "action_date": "2022-07-07",
+    "links": {
+      "self": "/company/13499909/filing-history/MzM0NDk5OTA3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8jH3wTBFfJsGm3e-SumQaKl4WSaPxDVM-K-_hptmzYQ"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjgyNTU5OGFkaXF6a2N4",
+    "barcode": "XA86RXW8",
+    "type": "NEWINC",
+    "date": "2021-07-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-07-08",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-07-08",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-07-08",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "3,000"
+            }
+          ]
+        },
+        "action_date": "2021-07-08"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 16,
+    "links": {
+      "self": "/company/13499909/filing-history/MzMwNjgyNTU5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/H9mLDrgmV73QeckLw4yGyn2MbxBAQ1cjoU9W98dLtGk"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "company_number": "12207251",
+  "company_name": "TECH DESIGN AND CONSTRUCTION LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SAHIN, Rasit",
+      "officer_role": "director",
+      "appointed_on": "2019-09-13",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Pritchett Close",
+        "country": "United Kingdom",
+        "locality": "Enfield",
+        "postal_code": "EN3 6XH",
+        "premises": "7"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/12207251/appointments/cJF_PQvXyudzPoa_SrG5vKy8yu8",
+        "officer": {
+          "appointments": "/officers/Y3wPq0gC6qMdm13uiiISAeiVZAc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

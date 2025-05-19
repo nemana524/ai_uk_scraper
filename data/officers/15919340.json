@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Hengist Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SE12 9EE",
+      "premises": "30"
+    },
+    "appointed_on": "2024-08-27",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1993
+    },
+    "links": {
+      "self": "/company/15919340/appointments/GU-fzotJdP0llAfDBOQxglyBYZU",
+      "officer": {
+        "appointments": "/officers/ytDQSgzzJNM2YxquGvk8BQ85dcw/appointments"
+      }
+    },
+    "name": "IANCU, Iulian",
+    "nationality": "Romanian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "326508810001"
+  }
+]

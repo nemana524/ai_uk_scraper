@@ -1,0 +1,79 @@
+[
+  {
+    "transaction_id": "MzQzNTU5NDIwMGFkaXF6a2N4",
+    "barcode": "XDBK5E68",
+    "type": "CS01",
+    "date": "2024-09-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-09-13"
+    },
+    "pages": 5,
+    "action_date": "2024-09-13",
+    "links": {
+      "self": "/company/15887810/filing-history/MzQzNTU5NDIwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4GHwuDZWDiZ8jaDtjV21nuKXvP2y2nDZQUX22K8FWZ4"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTU5MzI3NGFkaXF6a2N4",
+    "barcode": "XDBK5AMI",
+    "type": "SH01",
+    "date": "2024-09-13",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2024-09-13",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "2"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2024-09-13",
+    "links": {
+      "self": "/company/15887810/filing-history/MzQzNTU5MzI3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OEe8FbwYMtjRykIxQh-rXpMfzw4yNcE8p1VXIJKeYz0"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTcwNTEyNmFkaXF6a2N4",
+    "barcode": "XD93QQ03",
+    "type": "NEWINC",
+    "date": "2024-08-09",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-08-09",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-08-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-08-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-08-09"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/15887810/filing-history/MzQzMTcwNTEyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZvRalrmX8GbYbSh8jh1fEQUjMJoyQf6E-lKtx4zVwEQ"
+    }
+  }
+]

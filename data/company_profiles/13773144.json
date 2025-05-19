@@ -1,0 +1,44 @@
+{
+  "company_number": "13773144",
+  "company_name": "TECH DUCT VENTILATION SERVICES LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-11-30",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "43390"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "350-352 London Road",
+    "country": "England",
+    "locality": "Portsmouth",
+    "postal_code": "PO2 9JY"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-11-30",
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-31",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-12-01"
+    },
+    "next_due": "2026-08-31",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "etag": "8236345f72e36f74ae5b17f772a0c7dca6d30f99"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Iliffe Street",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SE17 3LL",
+      "premises": "73"
+    },
+    "appointed_on": "2018-07-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/11490566/appointments/sBLpOOmyENKfxNFa6nGppUzX3sA",
+      "officer": {
+        "appointments": "/officers/IoeKBaQmdVU11-kTSOa0bVpL5UM/appointments"
+      }
+    },
+    "name": "BIROS, Romain",
+    "nationality": "French",
+    "occupation": "Engineering Consultant",
+    "officer_role": "director",
+    "person_number": "248915450004"
+  }
+]

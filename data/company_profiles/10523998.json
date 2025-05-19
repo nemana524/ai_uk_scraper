@@ -1,0 +1,49 @@
+{
+  "company_number": "10523998",
+  "company_name": "TECH CHAP MEDIA LTD.",
+  "company_status": "active",
+  "date_of_creation": "2016-12-13",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "59112",
+    "62090",
+    "71200",
+    "74909"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Bishopbrook House",
+    "address_line_2": "Cathedral Avenue",
+    "country": "England",
+    "locality": "Wells",
+    "postal_code": "BA5 1FD",
+    "region": "Somerset"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-12-31",
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-30",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2025-01-01"
+    },
+    "next_due": "2026-09-30",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "etag": "ab24b32da1c3f09db5d82f3dcf3340463da7c802"
+}

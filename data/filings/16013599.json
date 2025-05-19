@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "MzQ0MTI4NjQxNGFkaXF6a2N4",
+    "barcode": "XDEPXKA1",
+    "type": "CERTNM",
+    "date": "2024-10-29",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2024-10-29"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-10-29",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed tech sloution LTD\\certificate issued on 29/10/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/16013599/filing-history/MzQ0MTI4NjQxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/to_xlMOMfbjxUJXI8bIT2anAM6pPD-OOybfEhxG1qLA"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTI2ODEwOGFkaXF6a2N4",
+    "barcode": "XDEPYO2G",
+    "type": "CS01",
+    "date": "2024-10-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-29"
+    },
+    "pages": 3,
+    "action_date": "2024-10-29",
+    "links": {
+      "self": "/company/16013599/filing-history/MzQ0MTI2ODEwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pNiW7mAx5wXKolf2bYe7g2EvWBFsxQESNu6f0YttAKY"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTE4NTM5MWFkaXF6a2N4",
+    "barcode": "XDDISECB",
+    "type": "NEWINC",
+    "date": "2024-10-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-10-11",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-10-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-10-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-10-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/16013599/filing-history/MzQzOTE4NTM5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZXTmdiVbkfE96DkdDL9NdcG6JLDElIaBe_gTrxiL_O8"
+    }
+  }
+]

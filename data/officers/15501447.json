@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "Woodwells Road",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B8 2TQ",
+      "premises": "30"
+    },
+    "appointed_on": "2024-02-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1992
+    },
+    "links": {
+      "self": "/company/15501447/appointments/B_Ds3QiH5jpUeNiL1a4e8Xwsw5Y",
+      "officer": {
+        "appointments": "/officers/HREedK0xuvhQA1z_T47hgIyQ-n4/appointments"
+      }
+    },
+    "name": "FAROOQI, Habibur Rahman",
+    "nationality": "Afghan",
+    "occupation": "Marketing Director",
+    "officer_role": "director",
+    "person_number": "319513470001"
+  },
+  {
+    "address": {
+      "address_line_1": "Woodwells Road",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B8 2TQ",
+      "premises": "30"
+    },
+    "appointed_on": "2024-02-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1996
+    },
+    "links": {
+      "self": "/company/15501447/appointments/KkNW0VhgyleIggXNJPlzyCOo_wE",
+      "officer": {
+        "appointments": "/officers/sxWH-zA0FPYsTpck5M4cc-sa6vU/appointments"
+      }
+    },
+    "name": "ZA KHALIL, Attif",
+    "nationality": "Afghan",
+    "occupation": "Marketing Director",
+    "officer_role": "director",
+    "person_number": "319513480001"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AND FINANCE LIMITED",
+  "company_number": "09634472",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-11",
+    "next_due": "2025-06-25",
+    "next_made_up_to": "2025-06-11",
+    "overdue": false
+  },
+  "date_of_creation": "2015-06-11",
+  "etag": "8cc6702f26abf0bfd9f7a10f803ce0bf9b7035ae",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-06-11",
+  "links": {
+    "persons_with_significant_control": "/company/09634472/persons-with-significant-control",
+    "self": "/company/09634472",
+    "filing_history": "/company/09634472/filing-history",
+    "officers": "/company/09634472/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20 Chapel Street",
+    "country": "United Kingdom",
+    "locality": "Liverpool",
+    "postal_code": "L3 9AG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

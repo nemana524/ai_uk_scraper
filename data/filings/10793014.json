@@ -1,0 +1,457 @@
+[
+  {
+    "transaction_id": "MzQyNDY5NjA1OGFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2024-06-11",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzQyNDY5NjA1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_eOO2H6D6k2VXNwazgk1-jcdbFJq8rkwcatZflZrsv4"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTMyMTE1NWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-04-30",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzQxOTMyMTE1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cNhaBfoLUqwszkbronuay21UktVAN-vK_yVRxFCoW5w"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg5NTcwNGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-08-19",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzM4OTg5NTcwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f27204hT96_vvqYXBWBFompISwUbOy0gZ7DksW_9a9s"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTg5NTY5NGFkaXF6a2N4",
+    "barcode": "XCA10MCO",
+    "type": "CS01",
+    "date": "2023-08-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-04-27"
+    },
+    "pages": 3,
+    "action_date": "2023-04-27",
+    "links": {
+      "self": "/company/10793014/filing-history/MzM4OTg5NTY5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LZ6SRtqysiprd4jadcq_Ph1EE2WZGHu3ArbEL7oifA0"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTQ1MDc0MGFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2023-08-15",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzM4OTQ1MDc0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/toXKuDg_-eMeR05iPfiPF62zRY7Y_CKROTIHQntq6_c"
+    }
+  },
+  {
+    "transaction_id": "MzM4NTU3ODE5M2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-07-18",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzM4NTU3ODE5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VrztkCDiUIDZKWosdPI8E_VObii0seN4KUO0F1Q0HP8"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDEyOTQzN2FkaXF6a2N4",
+    "barcode": "XC067WZ7",
+    "type": "AA",
+    "date": "2023-03-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-05-31"
+    },
+    "pages": 2,
+    "action_date": "2022-05-31",
+    "links": {
+      "self": "/company/10793014/filing-history/MzM3NDEyOTQzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9x_lnXLhUx5QFevqFAHtcISmSGHjGPqvFL8La8ZoylU"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTY2NTU5MmFkaXF6a2N4",
+    "barcode": "XB5OCL62",
+    "type": "CS01",
+    "date": "2022-06-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-04-27"
+    },
+    "pages": 3,
+    "action_date": "2022-04-27",
+    "links": {
+      "self": "/company/10793014/filing-history/MzM0MTY2NTU5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5SUQ8EA1FuBVr3SGNyte1bEnuAFfmeGsAAB9DMCD15k"
+    }
+  },
+  {
+    "transaction_id": "MzMyODk4MzI4OWFkaXF6a2N4",
+    "barcode": "XAX6LVF7",
+    "type": "AA",
+    "date": "2022-02-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2021-05-31"
+    },
+    "pages": 2,
+    "action_date": "2021-05-31",
+    "links": {
+      "self": "/company/10793014/filing-history/MzMyODk4MzI4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/msW0D1A-pgo8r5HrurFvhLdMqHLkfzHZTD39PHdoKYA"
+    }
+  },
+  {
+    "transaction_id": "MzMyODA1MDIzMGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-01-28",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzMyODA1MDIzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ra-DvjiTONQmus3v1nHRftQ4jOwrHh5fPR31MlMF4-A"
+    }
+  },
+  {
+    "transaction_id": "MzMyODA1MTAzMWFkaXF6a2N4",
+    "barcode": "XAWKZBFF",
+    "type": "CS01",
+    "date": "2022-01-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-04-27"
+    },
+    "pages": 3,
+    "action_date": "2021-04-27",
+    "links": {
+      "self": "/company/10793014/filing-history/MzMyODA1MTAzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m5URP7iH2CHXsCW4EeEiZos3pzkAfJqJaW0BOpEfA1w"
+    }
+  },
+  {
+    "transaction_id": "MzMyODA1MDEyNmFkaXF6a2N4",
+    "barcode": "XAWKZ7PU",
+    "type": "AA",
+    "date": "2022-01-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2020-05-31"
+    },
+    "pages": 2,
+    "action_date": "2020-05-31",
+    "links": {
+      "self": "/company/10793014/filing-history/MzMyODA1MDEyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XpY0rNMV6HEvEKJwmMymvitkxofjoUDAfkoteLhA3qI"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDc2NzU4MmFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2021-08-17",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzMxMDc2NzU4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f4Gad3tcXmurAm0Zg4UIK32eKXhMtW5U3SINzQiCJ64"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjkyMDg3MWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2021-07-13",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10793014/filing-history/MzMwNjkyMDg3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WjzcjVsI1gEDWelLCtvW4Y85Bj4Y7SqigGpb1kQltJ4"
+    }
+  },
+  {
+    "transaction_id": "MzI3OTYyNjQxNmFkaXF6a2N4",
+    "barcode": "X9EZT0AA",
+    "type": "AA",
+    "date": "2020-10-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2019-05-31"
+    },
+    "pages": 2,
+    "action_date": "2019-05-31",
+    "links": {
+      "self": "/company/10793014/filing-history/MzI3OTYyNjQxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/U7ot4TCmTzdx8wbOC97eDos0T5JMcE7YHdt-0KmVRZk"
+    }
+  },
+  {
+    "transaction_id": "MzI3OTYyNjMxMWFkaXF6a2N4",
+    "barcode": "X9EZT00R",
+    "type": "CS01",
+    "date": "2020-10-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-04-27"
+    },
+    "pages": 3,
+    "action_date": "2020-04-27",
+    "links": {
+      "self": "/company/10793014/filing-history/MzI3OTYyNjMxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eidC2aTXHSx8GtzoUgNAYEoeFG-hAJMYi0CdJ1UgDeY"
+    }
+  },
+  {
+    "transaction_id": "MzIzMzA2MzI3OGFkaXF6a2N4",
+    "barcode": "X84A6LKP",
+    "type": "AA",
+    "date": "2019-04-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2018-05-31"
+    },
+    "pages": 2,
+    "action_date": "2018-05-31",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIzMzA2MzI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4hUy-qTnSJxRSjNrNnfiNXm8WZmBNnjejSQplmKlQ18"
+    }
+  },
+  {
+    "transaction_id": "MzIzMzA2MzA2OGFkaXF6a2N4",
+    "barcode": "X84A6KW8",
+    "type": "CS01",
+    "date": "2019-04-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-04-27"
+    },
+    "pages": 3,
+    "action_date": "2019-04-27",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIzMzA2MzA2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/19xpwlYKKe4TmRc2DA-ENi527KB2ifXg8HpT6mEFU9c"
+    }
+  },
+  {
+    "transaction_id": "MzIxMDU3MDI3MmFkaXF6a2N4",
+    "barcode": "X7AX6TPM",
+    "type": "PSC04",
+    "date": "2018-07-25",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2018-07-25",
+      "psc_name": "Mr Alexandru Jug"
+    },
+    "pages": 2,
+    "action_date": "2018-07-25",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIxMDU3MDI3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VTd1aRYISi-WKKwVAIBSUanAonauKWzXxNehbIq4w7c"
+    }
+  },
+  {
+    "transaction_id": "MzIxMDUyMDg4MWFkaXF6a2N4",
+    "barcode": "X7AYB6NV",
+    "type": "CH01",
+    "date": "2018-07-25",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2018-07-25",
+      "officer_name": "Mr Alexandru Jug"
+    },
+    "pages": 2,
+    "action_date": "2018-07-25",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIxMDUyMDg4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WFcV3Ug8h0zQuUEhSFCSg9mnPOA13MHmyMDpFHIl2bs"
+    }
+  },
+  {
+    "transaction_id": "MzIwOTM0MTM0MGFkaXF6a2N4",
+    "barcode": "X79UGM08",
+    "type": "CS01",
+    "date": "2018-07-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2018-05-29"
+    },
+    "pages": 4,
+    "action_date": "2018-05-29",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIwOTM0MTM0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8d-DFpwv3hm7X0oGBUEdlOBBZGxSHXaVsZtJvkAF9wI"
+    }
+  },
+  {
+    "transaction_id": "MzIwOTM0MTAyM2FkaXF6a2N4",
+    "barcode": "X79UGA7S",
+    "type": "PSC07",
+    "date": "2018-07-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Suprodip Majumdar",
+      "cessation_date": "2018-07-09"
+    },
+    "pages": 1,
+    "action_date": "2018-07-09",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIwOTM0MTAyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8IKKiVDmoSRpYLiWIXUXLVE_MmxRzt-01vvB6_pYK8E"
+    }
+  },
+  {
+    "transaction_id": "MzIwOTM0MDk1MmFkaXF6a2N4",
+    "barcode": "X79UG72G",
+    "type": "TM01",
+    "date": "2018-07-09",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Suprodip Majumdar",
+      "termination_date": "2018-07-09"
+    },
+    "pages": 1,
+    "action_date": "2018-07-09",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIwOTM0MDk1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wR-qneFB1F3K6CzBV9R-VuLDWTSTuvMenT36WaCalFg"
+    }
+  },
+  {
+    "transaction_id": "MzIwOTM0MDg3NGFkaXF6a2N4",
+    "barcode": "X79UG4EX",
+    "type": "TM01",
+    "date": "2018-07-09",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Suprodip Majumdar",
+      "termination_date": "2018-07-09"
+    },
+    "pages": 1,
+    "action_date": "2018-07-09",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIwOTM0MDg3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W8Rn0-eSRfc7t1gLv-Q8MyzPpQ6M3-NSa2MZ1L1rzcQ"
+    }
+  },
+  {
+    "transaction_id": "MzIwOTM0MDczN2FkaXF6a2N4",
+    "barcode": "X79UFY21",
+    "type": "PSC01",
+    "date": "2018-07-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Alexandru Jug",
+      "notification_date": "2018-07-09"
+    },
+    "pages": 2,
+    "action_date": "2018-07-09",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIwOTM0MDczN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w5OXF2GUWP1xtuI6u6-2ZCA5VIlqGNHu595MH1XgAXQ"
+    }
+  },
+  {
+    "transaction_id": "MzIwOTM0MDUxMmFkaXF6a2N4",
+    "barcode": "X79UFNXL",
+    "type": "AP01",
+    "date": "2018-07-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Alexandru Jug",
+      "appointment_date": "2018-07-09"
+    },
+    "pages": 2,
+    "action_date": "2018-07-09",
+    "links": {
+      "self": "/company/10793014/filing-history/MzIwOTM0MDUxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PkBLvdi-fP6icKUoOQ3FI267DseASnWoH0LsNnB9xKo"
+    }
+  },
+  {
+    "transaction_id": "MzE3Njc1NTM4N2FkaXF6a2N4",
+    "barcode": "X6794UQ0",
+    "type": "NEWINC",
+    "date": "2017-05-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2017-05-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-05-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2017-05-30"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/10793014/filing-history/MzE3Njc1NTM4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kjeZpRiCczZXIpBctYHGhCk2VGklwcjo-QByrKBYLCA"
+    }
+  }
+]

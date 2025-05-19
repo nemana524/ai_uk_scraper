@@ -1,0 +1,35 @@
+{
+  "company_number": "16071753",
+  "company_name": "TECH CONTRACTORS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "POVILONYTE, Ieva",
+      "officer_role": "director",
+      "appointed_on": "2024-11-11",
+      "resigned_on": null,
+      "nationality": "Lithuanian",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Tolworth Broadway",
+        "country": "England",
+        "locality": "Surbiton",
+        "postal_code": "KT6 7HT",
+        "premises": "92"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/16071753/appointments/dxLokiU1-P3SxRrggAxI1UdU104",
+        "officer": {
+          "appointments": "/officers/wbmcdp4wiVarvJ_BR5XowfWtNZw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

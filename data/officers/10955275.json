@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "High Street",
+      "country": "United Kingdom",
+      "locality": "Iver",
+      "postal_code": "SL0 9PW",
+      "premises": "109"
+    },
+    "appointed_on": "2017-09-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1971
+    },
+    "links": {
+      "self": "/company/10955275/appointments/6mH2ke7_DLxPgh4HSwpQM3kYLyE",
+      "officer": {
+        "appointments": "/officers/c_dJJPwCInLUJGLNFolCSiC7Z5o/appointments"
+      }
+    },
+    "name": "MACMILLAN, Elaine",
+    "nationality": "British",
+    "occupation": "Finance Manager",
+    "officer_role": "director",
+    "person_number": "237732960001"
+  },
+  {
+    "address": {
+      "address_line_1": "High Street",
+      "country": "United Kingdom",
+      "locality": "Iver",
+      "postal_code": "SL0 9PW",
+      "premises": "109"
+    },
+    "appointed_on": "2017-09-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1975
+    },
+    "links": {
+      "self": "/company/10955275/appointments/-ZdsDoKVZvj9tLwnUBSzaT40DD4",
+      "officer": {
+        "appointments": "/officers/GIiesIHo87s-Ys6hhbMS4W5fMXc/appointments"
+      }
+    },
+    "name": "MACMILLAN, Thomas",
+    "nationality": "British",
+    "occupation": "Teacher",
+    "officer_role": "director",
+    "person_number": "237732950001"
+  }
+]

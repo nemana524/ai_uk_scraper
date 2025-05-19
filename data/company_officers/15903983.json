@@ -1,0 +1,36 @@
+{
+  "company_number": "15903983",
+  "company_name": "TECH CRAFT SOLUTION DEVELOPMENT LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "JOHN, Ita Joseph, Dr",
+      "officer_role": "director",
+      "appointed_on": "2024-08-19",
+      "resigned_on": null,
+      "nationality": "Nigerian",
+      "country_of_residence": "England",
+      "occupation": "Business Executive",
+      "address": {
+        "address_line_1": "The Rectangle",
+        "address_line_2": "Tadpole Garden Village",
+        "country": "England",
+        "locality": "Swindon",
+        "postal_code": "SN25 2QP",
+        "premises": "3"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1976
+      },
+      "links": {
+        "self": "/company/15903983/appointments/7YaFi2jNcs0emSuxeaYasERNv_s",
+        "officer": {
+          "appointments": "/officers/8xqjIJJUlX3vS8_rzkqFLdmGIts/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

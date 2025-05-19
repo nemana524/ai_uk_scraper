@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Watling Place",
+      "country": "England",
+      "locality": "Sittingbourne",
+      "postal_code": "ME10 4ST",
+      "premises": "27",
+      "region": "Kent"
+    },
+    "appointed_on": "2020-11-16",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1993
+    },
+    "links": {
+      "self": "/company/13024417/appointments/k3hbWRg1uQSzBa2KRqVIcgL-SC8",
+      "officer": {
+        "appointments": "/officers/ayxc8VnQ8mN8DWfGNo1FGU3Th08/appointments"
+      }
+    },
+    "name": "FILE, Clayton John",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "270558510001"
+  }
+]

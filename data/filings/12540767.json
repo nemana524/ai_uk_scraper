@@ -1,0 +1,384 @@
+[
+  {
+    "transaction_id": "MzQxODI0NTcwM2FkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2024-04-16",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12540767/filing-history/MzQxODI0NTcwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uAWUfJRIlZ7T07k61xx0pqYDnqvt1_oNKcg7WxkpIXw"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjk1NDA4MWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-03-12",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12540767/filing-history/MzQxMjk1NDA4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mZ89Abv5E7FmoXu9wvdz3C1iVk5lvkRXEoBmOCXQcp4"
+    }
+  },
+  {
+    "transaction_id": "MzM5Mjc4MjA4NmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-09-16",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12540767/filing-history/MzM5Mjc4MjA4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/n0J03BwS7CAfIuq3FtKjUc9Xn5f5cfmf5LGU-t8Scvo"
+    }
+  },
+  {
+    "transaction_id": "MzM5Mjc4MTk5NGFkaXF6a2N4",
+    "barcode": "XCBYDOW9",
+    "type": "CS01",
+    "date": "2023-09-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-05-06"
+    },
+    "pages": 5,
+    "action_date": "2023-05-06",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM5Mjc4MTk5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/577h3SoxOh_kTnswDBiOwWlA1c1Sz4XRK0fXyoB1QhY"
+    }
+  },
+  {
+    "transaction_id": "MzM5Mjc4MTYyNGFkaXF6a2N4",
+    "barcode": "XCBYDNMY",
+    "type": "AD01",
+    "date": "2023-09-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-09-13",
+      "old_address": "83 14 Dovedale Avenue Prestwich Greater Manchester M1 2JQ United Kingdom",
+      "new_address": "83 Ducie Street Manchester M1 2JQ"
+    },
+    "pages": 1,
+    "action_date": "2023-09-13",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM5Mjc4MTYyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0mM4wWshaOvdiXOfEnIxsg8ZFn0CNecwjDPa15PCPmw"
+    }
+  },
+  {
+    "transaction_id": "MzM4OTQ0NTgyN2FkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2023-08-15",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12540767/filing-history/MzM4OTQ0NTgyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8YdqTJoOF1W7mv7nK3QQGaC9WiuNSFHrW2Col1oK2tk"
+    }
+  },
+  {
+    "transaction_id": "MzM4NjY4OTMxMWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-07-25",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12540767/filing-history/MzM4NjY4OTMxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/amOfGams9rCCYKUJJAtpy2Q9qiIQ-ub3vCilqcnrbhI"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTE4NzA4NWFkaXF6a2N4",
+    "barcode": "XBH86F9U",
+    "type": "AD01",
+    "date": "2022-11-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-11-21",
+      "old_address": "14 Dovedale Avenue Prestwich Manchester M25 0BU England",
+      "new_address": "83 14 Dovedale Avenue Prestwich Greater Manchester M1 2JQ"
+    },
+    "pages": 1,
+    "action_date": "2022-11-21",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM1OTE4NzA4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OUrSTf1gamZGZeP80-9h-pHRzPIiM5QEB_5dGZKYVh4"
+    }
+  },
+  {
+    "transaction_id": "MzM1Njg0NjM5NmFkaXF6a2N4",
+    "barcode": "XBFLABDT",
+    "type": "AA",
+    "date": "2022-10-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 3,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM1Njg0NjM5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/h-_em-pjzmNqo-fFTSt9nPpgeJr9idUg4LWFOmzoank"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTIzMzc3NGFkaXF6a2N4",
+    "barcode": "XBEMEVJM",
+    "type": "PSC07",
+    "date": "2022-10-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Yehuda Zev Fletcher",
+      "cessation_date": "2022-07-29"
+    },
+    "pages": 1,
+    "action_date": "2022-07-29",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM1NTIzMzc3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2qkKwMyRb5J4Xz45UxKuIV_wVM-83Gh03NGdinwdRYM"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTIzMzc0NWFkaXF6a2N4",
+    "barcode": "XBEMEVU9",
+    "type": "TM01",
+    "date": "2022-10-14",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Yehuda Zev Fletcher",
+      "termination_date": "2022-07-29"
+    },
+    "pages": 1,
+    "action_date": "2022-07-29",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM1NTIzMzc0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vbJ0BQrGbcdp-TbiVk_6I-wsKxWNM0c1YKAbY4_aPZE"
+    }
+  },
+  {
+    "transaction_id": "MzM0NzE0NDEwMWFkaXF6a2N4",
+    "barcode": "XB9729E8",
+    "type": "PSC02",
+    "date": "2022-07-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Flaxmarketing Ltd",
+      "notification_date": "2022-07-28"
+    },
+    "pages": 2,
+    "action_date": "2022-07-28",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM0NzE0NDEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KqdRqSvRWSrUad22syvompG8zdXVPTtSL13fGhW01Y0"
+    }
+  },
+  {
+    "transaction_id": "MzM0NzE0Mzk5MGFkaXF6a2N4",
+    "barcode": "XB9728ZM",
+    "type": "AP01",
+    "date": "2022-07-28",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Nina Kate Ritchie",
+      "appointment_date": "2022-07-28"
+    },
+    "pages": 2,
+    "action_date": "2022-07-28",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM0NzE0Mzk5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XZW6a2LoXKXwrcQkyexWVriwR5SRjYhWv3qUArnDOHI"
+    }
+  },
+  {
+    "transaction_id": "MzM0NDYyMzgyM2FkaXF6a2N4",
+    "barcode": "XB7JZ3GO",
+    "type": "AD01",
+    "date": "2022-07-04",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-07-04",
+      "old_address": "86-90 Paul Street London EC2A 4NE England",
+      "new_address": "14 Dovedale Avenue Prestwich Manchester M25 0BU"
+    },
+    "pages": 1,
+    "action_date": "2022-07-04",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM0NDYyMzgyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Gli8zWzLbHE24q2o2-2OTg9XNXlQtM8ufGQ_hI429rk"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzY0MjMwOGFkaXF6a2N4",
+    "barcode": "XB6T70LK",
+    "type": "CS01",
+    "date": "2022-06-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-05-06"
+    },
+    "pages": 3,
+    "action_date": "2022-05-06",
+    "links": {
+      "self": "/company/12540767/filing-history/MzM0MzY0MjMwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GW19PPPMP7rPQCo3b1eaN5vWAMGdZ4cHeh8EmzfOSfo"
+    }
+  },
+  {
+    "transaction_id": "MzMzNzM1NTI4MmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-04-27",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12540767/filing-history/MzMzNzM1NTI4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sPVjPckB83OtyfDSYXsXwjRfg9Ym0KMyd_wWLTflDHI"
+    }
+  },
+  {
+    "transaction_id": "MzMzNzM1NTIzNGFkaXF6a2N4",
+    "barcode": "XB2RUA9U",
+    "type": "AA",
+    "date": "2022-04-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 3,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/12540767/filing-history/MzMzNzM1NTIzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QNi2K6Sl8rqhCDmYgfWK_NG44n4goEbPhKt8u2VggSs"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTQzNzg5N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-03-08",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12540767/filing-history/MzMzMTQzNzg5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-YyMN28XU3eTvnTEGKJw6xlOB0_ouDbfXiX-oPJShLM"
+    }
+  },
+  {
+    "transaction_id": "MzMwOTQ1OTk0NGFkaXF6a2N4",
+    "barcode": "XAA1GJOQ",
+    "type": "AD01",
+    "date": "2021-08-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-08-02",
+      "old_address": "Flat 6 Moorhill Court 494 Bury New Road Salford M7 4WN England",
+      "new_address": "86-90 Paul Street London EC2A 4NE"
+    },
+    "pages": 1,
+    "action_date": "2021-08-02",
+    "links": {
+      "self": "/company/12540767/filing-history/MzMwOTQ1OTk0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P_ISMFpdkkebyd_eD6FLWPHKF3qPhc69LJmgHB3kGbE"
+    }
+  },
+  {
+    "transaction_id": "MzMwODA0ODI2OWFkaXF6a2N4",
+    "barcode": "XA92O7MR",
+    "type": "CS01",
+    "date": "2021-07-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-05-06"
+    },
+    "pages": 3,
+    "action_date": "2021-05-06",
+    "links": {
+      "self": "/company/12540767/filing-history/MzMwODA0ODI2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K8p-Ck4B_2J8OFni2eFkQrcBJROKYLz7WGVcitcrj0s"
+    }
+  },
+  {
+    "transaction_id": "MzI2NDA4Njc4OWFkaXF6a2N4",
+    "barcode": "X94GOTSY",
+    "type": "CS01",
+    "date": "2020-05-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-05-06"
+    },
+    "pages": 4,
+    "action_date": "2020-05-06",
+    "links": {
+      "self": "/company/12540767/filing-history/MzI2NDA4Njc4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5ASspuybTaWUFF2Efr0sLAWdNs2toodEx8jvtw4I7gI"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTIzNDM0MGFkaXF6a2N4",
+    "barcode": "X91W9VT6",
+    "type": "NEWINC",
+    "date": "2020-03-31",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-03-31",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-03-31",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-03-31",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "12"
+            }
+          ]
+        },
+        "action_date": "2020-03-31"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12540767/filing-history/MzI2MTIzNDM0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Bzbrq0R_su_BtWz_lVwHYVMcVC_0GRVjB6wphE_Q6k0"
+    }
+  }
+]

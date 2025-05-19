@@ -1,0 +1,230 @@
+[
+  {
+    "transaction_id": "MzQ1NDExNDA4N2FkaXF6a2N4",
+    "barcode": "XDVWUMVM",
+    "type": "AA",
+    "date": "2025-02-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-11-30"
+    },
+    "pages": 3,
+    "action_date": "2024-11-30",
+    "links": {
+      "self": "/company/13773144/filing-history/MzQ1NDExNDA4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oMHRFC5rSc1-s7fQ2dq5_a9DgJKGIQpxV2cJsHJZEbA"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDM4NjMzM2FkaXF6a2N4",
+    "barcode": "XD8CKVMG",
+    "type": "AA",
+    "date": "2024-07-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-11-30"
+    },
+    "pages": 3,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/13773144/filing-history/MzQzMDM4NjMzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VGnFa15WO4UZYKW9vGxgwg2RPl35aTgrjfXne3MzYz0"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDMyNjcyM2FkaXF6a2N4",
+    "barcode": "XD4LWN7C",
+    "type": "CS01",
+    "date": "2024-06-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-01"
+    },
+    "pages": 3,
+    "action_date": "2024-06-01",
+    "links": {
+      "self": "/company/13773144/filing-history/MzQyNDMyNjcyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C22WqtlG0XVmYS8xfMsXYfRzI_3hFQDJd56P78xQR1M"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTczODYxOWFkaXF6a2N4",
+    "barcode": "XC4T2UOW",
+    "type": "CS01",
+    "date": "2023-06-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-06-01"
+    },
+    "pages": 3,
+    "action_date": "2023-06-01",
+    "links": {
+      "self": "/company/13773144/filing-history/MzM4MTczODYxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/N29th3jPZPzlFQkt0RdD9te_HuhShR-JF97j_rMkU_w"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTM2NjA0M2FkaXF6a2N4",
+    "barcode": "XC3DU8C2",
+    "type": "AA",
+    "date": "2023-05-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-11-30"
+    },
+    "pages": 3,
+    "action_date": "2022-11-30",
+    "links": {
+      "self": "/company/13773144/filing-history/MzM3OTM2NjA0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MVeH7DgxQPg5D7f1K-oN4QHvWO_QVtzqmpfMouDFO0g"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTk3MDAzNGFkaXF6a2N4",
+    "barcode": "XBHQS27M",
+    "type": "PSC04",
+    "date": "2022-11-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-11-28",
+      "psc_name": "Mr Alan Paul Dowden"
+    },
+    "pages": 2,
+    "action_date": "2022-11-28",
+    "links": {
+      "self": "/company/13773144/filing-history/MzM1OTk3MDAzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ItqeyMt9dxetGyy8km7wA1MWvX7vLTa4vC0usreLSt8"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjA0MjU5MGFkaXF6a2N4",
+    "barcode": "XB8L9ZLE",
+    "type": "CH01",
+    "date": "2022-07-19",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-07-19",
+      "officer_name": "Mr John Dowden"
+    },
+    "pages": 2,
+    "action_date": "2022-07-19",
+    "links": {
+      "self": "/company/13773144/filing-history/MzM0NjA0MjU5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zRCL_UQ4bf8Saq6tpn10031lw4j7DXRVbTUlxLtRL1E"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjA0MjQ3OGFkaXF6a2N4",
+    "barcode": "XB8L9ZCZ",
+    "type": "CH01",
+    "date": "2022-07-19",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-07-19",
+      "officer_name": "Mr Alan Paul Dowden"
+    },
+    "pages": 2,
+    "action_date": "2022-07-19",
+    "links": {
+      "self": "/company/13773144/filing-history/MzM0NjA0MjQ3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gcwt_w1lYNpykFQ2t7_T1pDjbFyOCFuLqooWCaRviOk"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTI4NDc5NmFkaXF6a2N4",
+    "barcode": "XB58RITK",
+    "type": "CS01",
+    "date": "2022-06-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-06-01"
+    },
+    "pages": 3,
+    "action_date": "2022-06-01",
+    "links": {
+      "self": "/company/13773144/filing-history/MzM0MTI4NDc5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jKWfqpaRWHy6lFbdRSYjIj1Rk-dGXXAVAoBwYrup4MY"
+    }
+  },
+  {
+    "transaction_id": "MzM0MTI4NDE4M2FkaXF6a2N4",
+    "barcode": "XB58RH0Q",
+    "type": "AD01",
+    "date": "2022-06-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-06-01",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ United Kingdom",
+      "new_address": "350-352 London Road Portsmouth PO2 9JY"
+    },
+    "pages": 1,
+    "action_date": "2022-06-01",
+    "links": {
+      "self": "/company/13773144/filing-history/MzM0MTI4NDE4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3O_uW-e3drxXoono8jEFlwnPP1q0ZEGChqF9qvS-JxI"
+    }
+  },
+  {
+    "transaction_id": "MzMyMjY5NzEwMWFkaXF6a2N4",
+    "barcode": "XAIT9C2Q",
+    "type": "CH01",
+    "date": "2021-12-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-12-06",
+      "officer_name": "Mr John Dowden"
+    },
+    "pages": 2,
+    "action_date": "2021-12-06",
+    "links": {
+      "self": "/company/13773144/filing-history/MzMyMjY5NzEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/z5Y9DVYnlFteOC2iBjDmpAcGCo7MWDvcM47sBmyBJkM"
+    }
+  },
+  {
+    "transaction_id": "MzMyMTY2ODQ3MWFkaXF6a2N4",
+    "barcode": "XAIA9C8B",
+    "type": "NEWINC",
+    "date": "2021-11-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2021-11-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-11-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2021-11-30"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 31,
+    "links": {
+      "self": "/company/13773144/filing-history/MzMyMTY2ODQ3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gIFDyDEqMCwg_FdfIB-KOGp0zGY4LPNC5vsw2ADXZRo"
+    }
+  }
+]

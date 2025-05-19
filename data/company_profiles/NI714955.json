@@ -1,0 +1,39 @@
+{
+  "company_number": "NI714955",
+  "company_name": "TECH GROWTH SEEKER LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-04-27",
+  "type": "ltd",
+  "jurisdiction": "northern-ireland",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "301 City East Business Centre",
+    "address_line_2": "68-72 Newtownards Road",
+    "country": "United Kingdom",
+    "locality": "Belfast",
+    "postal_code": "BT4 1GW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-27",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-27"
+    },
+    "next_due": "2026-01-27",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "298cc37b8c676099242e9c5b1e940ab5c46e69ec"
+}

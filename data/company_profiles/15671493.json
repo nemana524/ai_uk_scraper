@@ -1,0 +1,41 @@
+{
+  "company_number": "15671493",
+  "company_name": "TECH BREEZE LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-04-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "23 Hoveton Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE28 8LW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-23",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-23"
+    },
+    "next_due": "2026-01-23",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "0c4cc326767e28953e29f98ad0db29c7d19e4b8c"
+}

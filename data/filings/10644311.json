@@ -1,0 +1,490 @@
+[
+  {
+    "transaction_id": "MzQ0OTM3MzI2N2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-12-31",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10644311/filing-history/MzQ0OTM3MzI2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j1SkDt_KD99bX-P900GxpjEpEhCymOTk0IJWFPSvrrw"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTM3MzkyOWFkaXF6a2N4",
+    "barcode": "XDJ31GQB",
+    "type": "PSC07",
+    "date": "2024-12-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Anthony John Lydiate",
+      "cessation_date": "2024-11-30"
+    },
+    "pages": 1,
+    "action_date": "2024-11-30",
+    "links": {
+      "self": "/company/10644311/filing-history/MzQ0OTM3MzkyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KGJvXYhInzLQOzP_QexUSS2zEAmY4wKHwxk8Al14RfQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTM3MzU1N2FkaXF6a2N4",
+    "barcode": "XDJ31EL5",
+    "type": "AD01",
+    "date": "2024-12-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-30",
+      "old_address": ", 16 Second Avenue, Blackpool, FY4 2EX, England",
+      "new_address": "34 34 Cookson Street Blackpool FY1 3ED"
+    },
+    "pages": 1,
+    "action_date": "2024-12-30",
+    "links": {
+      "self": "/company/10644311/filing-history/MzQ0OTM3MzU1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nUqgDAKWobGAcz_SM0DY6ce_6NsbpX_QFKRPXuOtgtI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTM3MzI5MmFkaXF6a2N4",
+    "barcode": "XDJ31DMO",
+    "type": "TM01",
+    "date": "2024-12-30",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Anthony John Lydiate",
+      "termination_date": "2024-11-30"
+    },
+    "pages": 1,
+    "action_date": "2024-11-30",
+    "links": {
+      "self": "/company/10644311/filing-history/MzQ0OTM3MzI5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/G7XE9AzseM7G-4W485-EDiRzQOtJVVA-7GqL1akBBxs"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTM3MzI0N2FkaXF6a2N4",
+    "barcode": "XDJ31DM0",
+    "type": "AA",
+    "date": "2024-12-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-02-28"
+    },
+    "pages": 3,
+    "action_date": "2024-02-28",
+    "links": {
+      "self": "/company/10644311/filing-history/MzQ0OTM3MzI0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IuYBYERMatMMXhUw-VN5aT9ulTfMxFVM6l4dzb1EYAs"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDQ2ODE2MWFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2024-02-09",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10644311/filing-history/MzQxMDQ2ODE2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dVaGxM28e7gKKXoezwMTh0_9ruu6UdJHK0EaXjvRq0I"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjk0NTY2NGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-01-16",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10644311/filing-history/MzQwNjk0NTY2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zswr5taez4RbdLOWW3uyH7TsYLWUQEE8VPoThk9BAmA"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTM5NTk5MmFkaXF6a2N4",
+    "barcode": "XCDGNHJE",
+    "type": "AA",
+    "date": "2023-10-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-02-28"
+    },
+    "pages": 3,
+    "action_date": "2023-02-28",
+    "links": {
+      "self": "/company/10644311/filing-history/MzM5NTM5NTk5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kvRdHwIU4g1OvMh3O0p8nt9tLDTW1Przv7IPZ8i_gRM"
+    }
+  },
+  {
+    "transaction_id": "MzM2MDQ0MTM1NGFkaXF6a2N4",
+    "barcode": "XBHWN3W2",
+    "type": "CS01",
+    "date": "2022-11-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-10-26"
+    },
+    "pages": 3,
+    "action_date": "2022-10-26",
+    "links": {
+      "self": "/company/10644311/filing-history/MzM2MDQ0MTM1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X_C6aqOg8w8YOqazq0YUk-mD2_6ojEpuX_NoNqPzUPw"
+    }
+  },
+  {
+    "transaction_id": "MzM2MDQ0MTE3MGFkaXF6a2N4",
+    "barcode": "XBHWN30Q",
+    "type": "AA",
+    "date": "2022-11-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-02-28"
+    },
+    "pages": 3,
+    "action_date": "2022-02-28",
+    "links": {
+      "self": "/company/10644311/filing-history/MzM2MDQ0MTE3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iRfBCEta7wZelc9l4_vsTFEsSFX7B0S8LqxCnYzuwA8"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTgxNjgyM2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-08-26",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10644311/filing-history/MzM0OTgxNjgyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CWRw0aSjPb3xdB3n4SMg_G-wEPNSJYOEe8Q4_LQ6J8s"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTgxNjgxMGFkaXF6a2N4",
+    "barcode": "XBB4H1AZ",
+    "type": "AA",
+    "date": "2022-08-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-02-28"
+    },
+    "pages": 3,
+    "action_date": "2021-02-28",
+    "links": {
+      "self": "/company/10644311/filing-history/MzM0OTgxNjgxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_22wDMl19UiAQ32_PJycuaw7orMi_t5i1a-OzptvJKk"
+    }
+  },
+  {
+    "transaction_id": "MzM0MzMxOTk3OWFkaXF6a2N4",
+    "barcode": "XB6Q5BMP",
+    "type": "AD01",
+    "date": "2022-06-22",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-06-22",
+      "old_address": ", 39a Whitegate Drive, Blackpool, FY3 9DG, England",
+      "new_address": "34 34 Cookson Street Blackpool FY1 3ED"
+    },
+    "pages": 1,
+    "action_date": "2022-06-22",
+    "links": {
+      "self": "/company/10644311/filing-history/MzM0MzMxOTk3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/axOkxlsD0gUMt9RerA0IEvfRhm3RfuhOfpbeBskdfm8"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjM1NDYyNWFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2022-03-10",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10644311/filing-history/MzMzMjM1NDYyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jao0H5gItkcCkTIrsvbVqXlM3rQxtU4yxNQqSbiQ1E8"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzM3MDU1NWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-02-01",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10644311/filing-history/MzMyNzM3MDU1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4mI1Is9ORBPbUhjHPmK14o0Kw4F2t_EOYRaRgxiDMHg"
+    }
+  },
+  {
+    "transaction_id": "MzMxODEyODM2MWFkaXF6a2N4",
+    "barcode": "XAFWKKEA",
+    "type": "CS01",
+    "date": "2021-10-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-10-26"
+    },
+    "pages": 3,
+    "action_date": "2021-10-26",
+    "links": {
+      "self": "/company/10644311/filing-history/MzMxODEyODM2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4DD4nQ0jf-xUA8LtYPFAstRZ0w9KvtpBA0SefMgFeSI"
+    }
+  },
+  {
+    "transaction_id": "MzI5Mjg2Nzk5MmFkaXF6a2N4",
+    "barcode": "X9ZCJP91",
+    "type": "CS01",
+    "date": "2021-03-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-02-27"
+    },
+    "pages": 3,
+    "action_date": "2021-02-27",
+    "links": {
+      "self": "/company/10644311/filing-history/MzI5Mjg2Nzk5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pWV6Jq6U40UxkezhJ6UjKoI9yfiDOz0TVXYnvhjtn70"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzQ0NzkzNmFkaXF6a2N4",
+    "barcode": "X93XWUVK",
+    "type": "AA",
+    "date": "2020-04-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-02-28"
+    },
+    "pages": 2,
+    "action_date": "2020-02-28",
+    "links": {
+      "self": "/company/10644311/filing-history/MzI2MzQ0NzkzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LgJ_Nb-ZwWHnIBZGV4i0gVxZ1sgTG9CRaM4jctmIlXM"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODY4ODExMWFkaXF6a2N4",
+    "barcode": "X8ZZ7B0Q",
+    "type": "AA",
+    "date": "2020-03-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-02-28"
+    },
+    "pages": 2,
+    "action_date": "2019-02-28",
+    "links": {
+      "self": "/company/10644311/filing-history/MzI1ODY4ODExMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OylaHslW7A_l_2ae0lkNjaRicLGq8tokIoXdD4kDJBs"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODQxMjAxNWFkaXF6a2N4",
+    "barcode": "X8ZOLD2O",
+    "type": "CS01",
+    "date": "2020-02-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-02-27"
+    },
+    "pages": 5,
+    "action_date": "2020-02-27",
+    "links": {
+      "self": "/company/10644311/filing-history/MzI1ODQxMjAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LmMrv4l4Tl-TWzRzveQ1t2zuT75Fa50LnZOLX2HirRo"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODM0MzQyOGFkaXF6a2N4",
+    "barcode": "X8ZM1RC2",
+    "type": "AD01",
+    "date": "2020-02-26",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-02-26",
+      "old_address": ", 16 Second Avenue, Blackpool, FY4 2EX, England",
+      "new_address": "34 34 Cookson Street Blackpool FY1 3ED"
+    },
+    "pages": 1,
+    "action_date": "2020-02-26",
+    "links": {
+      "self": "/company/10644311/filing-history/MzI1ODM0MzQyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1lZO-EEUnb7juQaA90nbaTTAGiBFzDYzPU_tFcTv5DI"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjAxNTk4NWFkaXF6a2N4",
+    "barcode": "X8XRISLE",
+    "type": "AD01",
+    "date": "2020-01-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-30",
+      "old_address": ", 15 Winchester Avenue, Blackpool, FY4 3AJ, England",
+      "new_address": "34 34 Cookson Street Blackpool FY1 3ED"
+    },
+    "pages": 1,
+    "action_date": "2020-01-30",
+    "links": {
+      "self": "/company/10644311/filing-history/MzI1NjAxNTk4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hnFpNDfNx4KxUuOAmPf5o0ldv1Tjm5urkjQdWaANOPU"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDExNDkwMGFkaXF6a2N4",
+    "barcode": "X8W7VKDV",
+    "type": "AD01",
+    "date": "2020-01-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-01-08",
+      "old_address": ", 39a Whitegate Drive, Blackpool, FY3 9DG, United Kingdom",
+      "new_address": "34 34 Cookson Street Blackpool FY1 3ED"
+    },
+    "pages": 1,
+    "action_date": "2020-01-08",
+    "links": {
+      "self": "/company/10644311/filing-history/MzI1NDExNDkwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vqnhxck1O3QbVIuQOFPW2q0jUOTEuYb5OGQTu8lo5BQ"
+    }
+  },
+  {
+    "transaction_id": "MzIyODA3NzA1MWFkaXF6a2N4",
+    "barcode": "X805EF7D",
+    "type": "CS01",
+    "date": "2019-02-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-02-27"
+    },
+    "pages": 4,
+    "action_date": "2019-02-27",
+    "links": {
+      "self": "/company/10644311/filing-history/MzIyODA3NzA1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NIf38p8NFXaWbPaYLyd3lnwoyd_a5c7nCrNSPDH9XlY"
+    }
+  },
+  {
+    "transaction_id": "MzIyMjY1MTgyMmFkaXF6a2N4",
+    "barcode": "X7L6SKPD",
+    "type": "AA",
+    "date": "2018-12-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-02-28"
+    },
+    "pages": 2,
+    "action_date": "2018-02-28",
+    "links": {
+      "self": "/company/10644311/filing-history/MzIyMjY1MTgyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wyGPGL5aXV6OGlGm2dp5TpFVXJiyzjUMxk0L3F1uzbc"
+    }
+  },
+  {
+    "transaction_id": "MzIyMjY1MTMzNmFkaXF6a2N4",
+    "barcode": "X7L6SIKI",
+    "type": "AD01",
+    "date": "2018-12-20",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-12-20",
+      "old_address": ", 15 Winchester Ave, Blackpool, Lancs, FY4 3AJ, England",
+      "new_address": "34 34 Cookson Street Blackpool FY1 3ED"
+    },
+    "pages": 1,
+    "action_date": "2018-12-20",
+    "links": {
+      "self": "/company/10644311/filing-history/MzIyMjY1MTMzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8yauCS_jdr3SpVAgxvKNMllf-NF9DDvZtUwAW18uikw"
+    }
+  },
+  {
+    "transaction_id": "MzIwMTAwOTI4OGFkaXF6a2N4",
+    "barcode": "X72J5GCB",
+    "type": "CS01",
+    "date": "2018-03-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-02-27"
+    },
+    "pages": 3,
+    "action_date": "2018-02-27",
+    "links": {
+      "self": "/company/10644311/filing-history/MzIwMTAwOTI4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QotEWUaNHbfLU7t9smWCGXLaHaxImkwxVbr0Ov7goKg"
+    }
+  },
+  {
+    "transaction_id": "MzE2OTg4ODMyNmFkaXF6a2N4",
+    "barcode": "X615KD8A",
+    "type": "NEWINC",
+    "date": "2017-02-28",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2017-02-28",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2017-02-28",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-02-28",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2017-02-28"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/10644311/filing-history/MzE2OTg4ODMyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TreonErt3WwzVR-2gxfgvgS9puhtOxeMGr_Ljr_CrnA"
+    }
+  }
+]

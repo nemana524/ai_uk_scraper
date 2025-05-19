@@ -1,0 +1,778 @@
+[
+  {
+    "transaction_id": "MzQ0NzkyNTE0MmFkaXF6a2N4",
+    "barcode": "XDI6HECB",
+    "type": "CS01",
+    "date": "2024-12-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-12-15"
+    },
+    "pages": 6,
+    "action_date": "2024-12-15",
+    "links": {
+      "self": "/company/09929840/filing-history/MzQ0NzkyNTE0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D0VaLaVozPRzwZXq_DjYCJx4hWLBRHFPHqc6X0dJzxg"
+    }
+  },
+  {
+    "transaction_id": "WURITktEMjJhZGlxemtjeA",
+    "barcode": "YDHNKD22",
+    "type": "RESOLUTIONS",
+    "date": "2024-12-13",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "capital",
+        "description": "resolution-varying-share-rights",
+        "type": "RES12",
+        "subcategory": "resolution"
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09929840/filing-history/WURITktEMjJhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KzEKif5ejh-5__HTxm0EeWmbCvFhOxlajp9dWGrDd70"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Njc1NjYwMmFkaXF6a2N4",
+    "barcode": "XDHNKIDX",
+    "type": "PSC02",
+    "date": "2024-12-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Corbett Finance Limited",
+      "notification_date": "2024-05-06"
+    },
+    "pages": 2,
+    "action_date": "2024-05-06",
+    "links": {
+      "self": "/company/09929840/filing-history/MzQ0Njc1NjYwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w_KgS7AGyt_nQULfU_Tse1keCU-v5-JOtD6D_I9yL3A"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Njc1NDg3MWFkaXF6a2N4",
+    "barcode": "XDHNKHCB",
+    "type": "PSC05",
+    "date": "2024-12-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-05-06",
+      "psc_name": "Soflo Limited"
+    },
+    "pages": 2,
+    "action_date": "2024-05-06",
+    "links": {
+      "self": "/company/09929840/filing-history/MzQ0Njc1NDg3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yx6OEsA5gu0iz1EBAye41WwVl4C60BQlpWBASszqg88"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Njc1MjU5N2FkaXF6a2N4",
+    "barcode": "YDHNKCIZ",
+    "type": "SH08",
+    "date": "2024-12-11",
+    "category": "capital",
+    "description": "capital-name-of-class-of-shares",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09929840/filing-history/MzQ0Njc1MjU5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GL3KcVod9KcTzXaT2xlbqK55XhyqsEcg4Lswt0_OYzA"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTA2ODQ1NGFkaXF6a2N4",
+    "barcode": "XDBC00PQ",
+    "type": "AA",
+    "date": "2024-09-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 9,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzQzNTA2ODQ1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xplRW9coKZJffSYheOO2vqaEPZlYu0ApEo0RGDHQJNo"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTQxODk1NWFkaXF6a2N4",
+    "barcode": "XD51WNIR",
+    "type": "CERTNM",
+    "date": "2024-06-14",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2024-06-11"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-06-14",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed tech alliance LIMITED\\certificate issued on 14/06/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/09929840/filing-history/MzQyNTQxODk1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7pD5HG0SxLRmJMLclnci9FL5C820rBeKs8aT_H1muEw"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTIyNjIwMGFkaXF6a2N4",
+    "barcode": "XCIV8ZC8",
+    "type": "CS01",
+    "date": "2023-12-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-12-15"
+    },
+    "pages": 5,
+    "action_date": "2023-12-15",
+    "links": {
+      "self": "/company/09929840/filing-history/MzQwNTIyNjIwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fSyYm1OglrG4Ymhpxc6JiWjk037IPlmMOOjRyGsa6II"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDYzOTgyNmFkaXF6a2N4",
+    "barcode": "XCCXHPGZ",
+    "type": "AA",
+    "date": "2023-09-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 8,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM5NDYzOTgyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Os6oUpEdMQygy0HmRFPF_7t12rFx8StlqwCJx8U2Nmo"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODU4MTUyMGFkaXF6a2N4",
+    "barcode": "XC94ZNWW",
+    "type": "PSC07",
+    "date": "2023-08-03",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Peter Steven Ormerod",
+      "cessation_date": "2023-08-01"
+    },
+    "pages": 1,
+    "action_date": "2023-08-01",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM4ODU4MTUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VNcmh94n48gBf_bPRhvnKBa2v5v2Q_JgNDNdrEGjSQE"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODU4MTUxNWFkaXF6a2N4",
+    "barcode": "XC94ZO23",
+    "type": "PSC02",
+    "date": "2023-08-03",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Soflo Limited",
+      "notification_date": "2023-08-01"
+    },
+    "pages": 2,
+    "action_date": "2023-08-01",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM4ODU4MTUxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/snB8PgBjP6EOGojDxRUF_U_dHy1FEP-6RE3X5lZlPF8"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTgzODEzN2FkaXF6a2N4",
+    "barcode": "XBVB238J",
+    "type": "AP01",
+    "date": "2023-01-16",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr William Jonathan Roberts",
+      "appointment_date": "2023-01-16"
+    },
+    "pages": 2,
+    "action_date": "2023-01-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM2NTgzODEzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QWLKKwzYUMwWHTwNxkTZOchaQ-CoKBPk3gVee64AGig"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTgzODEzNGFkaXF6a2N4",
+    "barcode": "XBVB23EG",
+    "type": "AP01",
+    "date": "2023-01-16",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Peter Steven Ormerod",
+      "appointment_date": "2023-01-16"
+    },
+    "pages": 2,
+    "action_date": "2023-01-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM2NTgzODEzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WGEcx088dFo0sNlC4aR6OLN8EPXdtstfa5e-8CTVE9M"
+    }
+  },
+  {
+    "transaction_id": "MzM2NTgzODEzMWFkaXF6a2N4",
+    "barcode": "XBVB23E8",
+    "type": "AP01",
+    "date": "2023-01-16",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Alex Christian Dyer",
+      "appointment_date": "2023-01-16"
+    },
+    "pages": 2,
+    "action_date": "2023-01-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM2NTgzODEzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OqP8wmjIZZoDGj0Jx23ahE_-fwxLYr0hpZLILCiBS24"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzI0NzcyM2FkaXF6a2N4",
+    "barcode": "XBJBTMG2",
+    "type": "CS01",
+    "date": "2022-12-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-12-15"
+    },
+    "pages": 5,
+    "action_date": "2022-12-15",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM2MzI0NzcyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mkcjCNIXU0sFRbEAT2D0DGa_ZthquCdc5Y_-QRF3wbQ"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIzNzg0MmFkaXF6a2N4",
+    "barcode": "XBJBSGCB",
+    "type": "PSC02",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ormerod Rutter Holdings Limited",
+      "notification_date": "2022-09-30"
+    },
+    "pages": 2,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM2MzIzNzg0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Aov-X2znFo9BV9pz5YC6O3Np423nmnMi6s5Sv2Gg0OM"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzkyODA3NGFkaXF6a2N4",
+    "barcode": "XBDVFRHE",
+    "type": "TM01",
+    "date": "2022-10-03",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Paul Freeman",
+      "termination_date": "2022-09-30"
+    },
+    "pages": 1,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM1MzkyODA3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/r-FCT60z3N5Hfj9JM8o4s4smfD1J9WGoeHqfMFdQAcY"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzM5MjU3NWFkaXF6a2N4",
+    "barcode": "XBDHW340",
+    "type": "AA",
+    "date": "2022-09-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-12-31"
+    },
+    "pages": 8,
+    "action_date": "2021-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzM1MzM5MjU3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/L-VsSUIktIGPnOwftpuDX96lovd0nfzyo-WuZtGVtDU"
+    }
+  },
+  {
+    "transaction_id": "MzMzNDY1MzcxNGFkaXF6a2N4",
+    "barcode": "XB0UDG4B",
+    "type": "PSC07",
+    "date": "2022-03-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Paul Freeman",
+      "cessation_date": "2021-12-16"
+    },
+    "pages": 1,
+    "action_date": "2021-12-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzMzNDY1MzcxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dhRNVNqwBw1qLfZyipUHUI8M67tfh-LtavQOdEindCk"
+    }
+  },
+  {
+    "transaction_id": "MzMyODAyNjExOWFkaXF6a2N4",
+    "barcode": "XAWKWOM9",
+    "type": "CH01",
+    "date": "2022-01-27",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-01-27",
+      "officer_name": "Mr Paul Freeman"
+    },
+    "pages": 2,
+    "action_date": "2022-01-27",
+    "links": {
+      "self": "/company/09929840/filing-history/MzMyODAyNjExOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0wKldikfNzNb7AoXLp16vDNK1dhjYG3tX9fZssqEwis"
+    }
+  },
+  {
+    "transaction_id": "MzMyODAyNTg0MmFkaXF6a2N4",
+    "barcode": "XAWKWNXK",
+    "type": "PSC04",
+    "date": "2022-01-27",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-01-27",
+      "psc_name": "Mr Paul Freeman"
+    },
+    "pages": 2,
+    "action_date": "2022-01-27",
+    "links": {
+      "self": "/company/09929840/filing-history/MzMyODAyNTg0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/77qIMZNZNw6xOcDVaE2wETYG48ZymDweyGmzqmz44oU"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzcyMzI0M2FkaXF6a2N4",
+    "barcode": "XAJETGGG",
+    "type": "CS01",
+    "date": "2021-12-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-12-15"
+    },
+    "pages": 3,
+    "action_date": "2021-12-15",
+    "links": {
+      "self": "/company/09929840/filing-history/MzMyMzcyMzI0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mhsaECsiq5C3W7IdhjyQgOGf6-NQuZdWGr0wKlIjHTY"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTY1ODMxOGFkaXF6a2N4",
+    "barcode": "XAE4FUYQ",
+    "type": "AA",
+    "date": "2021-09-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-12-31"
+    },
+    "pages": 8,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzMxNTY1ODMxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pFXgOS8IoonYotEdoZSaV8Ft8Kb7qQH5W3fkX3cj1QI"
+    }
+  },
+  {
+    "transaction_id": "MzMwNzAxOTQwOGFkaXF6a2N4",
+    "barcode": "XA8717HD",
+    "type": "TM01",
+    "date": "2021-07-07",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Alex Christian Dyer",
+      "termination_date": "2020-12-31"
+    },
+    "pages": 1,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzMwNzAxOTQwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VwqyCPGL6O5f1eTLXdWSyN6F7Fdfe-1LSOY176C1IM0"
+    }
+  },
+  {
+    "transaction_id": "MzMwNzAxOTQwM2FkaXF6a2N4",
+    "barcode": "XA8717FC",
+    "type": "AP01",
+    "date": "2021-07-07",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Nicole Mcgrory",
+      "appointment_date": "2020-12-31"
+    },
+    "pages": 2,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzMwNzAxOTQwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4lsOkN3DfyJ9foji1wBtH5jCc4JD34FeW4faACLOYAg"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjgwMjc2NWFkaXF6a2N4",
+    "barcode": "X9KHOUSI",
+    "type": "AA",
+    "date": "2020-12-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2019-12-31"
+    },
+    "pages": 8,
+    "action_date": "2019-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzI4NjgwMjc2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DJhD7WksXsKLu7BGeNd17FMnFSCeNFFXpPavbfUSUl0"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjA0NjI0NWFkaXF6a2N4",
+    "barcode": "X9JYLEQO",
+    "type": "CS01",
+    "date": "2020-12-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-12-15"
+    },
+    "pages": 3,
+    "action_date": "2020-12-15",
+    "links": {
+      "self": "/company/09929840/filing-history/MzI4NjA0NjI0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MAOC5CBLoi5ccJNOdiUCYfOzPaE0dLVVlwC9Kt19ucA"
+    }
+  },
+  {
+    "transaction_id": "MzI1MjI0NzQ3OGFkaXF6a2N4",
+    "barcode": "X8KEIR9M",
+    "type": "CS01",
+    "date": "2019-12-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-12-16"
+    },
+    "pages": 3,
+    "action_date": "2019-12-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzI1MjI0NzQ3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ubHOjGquHSsc1l0bt1f8Wfuwe3M4rSl_p22vblnYHVg"
+    }
+  },
+  {
+    "transaction_id": "MzI0NTQyMjUyM2FkaXF6a2N4",
+    "barcode": "X8EVCFGZ",
+    "type": "AA",
+    "date": "2019-09-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2018-12-31"
+    },
+    "pages": 9,
+    "action_date": "2018-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzI0NTQyMjUyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zJ7avDg2AwZXthk28t9TgsITyOrmzypB60bxlcso3eI"
+    }
+  },
+  {
+    "transaction_id": "MzIyMjI5MzYxOWFkaXF6a2N4",
+    "barcode": "X7KYFBNM",
+    "type": "PSC07",
+    "date": "2018-12-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Peter Steven Ormerod",
+      "cessation_date": "2016-04-06"
+    },
+    "pages": 1,
+    "action_date": "2016-04-06",
+    "links": {
+      "self": "/company/09929840/filing-history/MzIyMjI5MzYxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JR3Z1hOMj1Fy7f0PqkvTnsezpw7oyIqjhOXg2eSe3_I"
+    }
+  },
+  {
+    "transaction_id": "MzIyMjI5MzM3MGFkaXF6a2N4",
+    "barcode": "X7KYFAM1",
+    "type": "CS01",
+    "date": "2018-12-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2018-12-16"
+    },
+    "pages": 4,
+    "action_date": "2018-12-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzIyMjI5MzM3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QRjGUIjX9Df2iKeRL9jbBkr9cUPd2HJHsaiLPhReyb8"
+    }
+  },
+  {
+    "transaction_id": "MzIxNjExMTEyMWFkaXF6a2N4",
+    "barcode": "X7FSYDNS",
+    "type": "CH01",
+    "date": "2018-10-03",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2018-10-03",
+      "officer_name": "Mr Alex Christian Dyer"
+    },
+    "pages": 2,
+    "action_date": "2018-10-03",
+    "links": {
+      "self": "/company/09929840/filing-history/MzIxNjExMTEyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8zuewrN5zU8IQ4zFAiKlZao87bH_YyH8YklqsMho1Es"
+    }
+  },
+  {
+    "transaction_id": "MzIxNTcwNjk4N2FkaXF6a2N4",
+    "barcode": "X7FFO2D6",
+    "type": "AA",
+    "date": "2018-09-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2017-12-31"
+    },
+    "pages": 9,
+    "action_date": "2017-12-31",
+    "links": {
+      "self": "/company/09929840/filing-history/MzIxNTcwNjk4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/368vBvUmC9-PM4J_-acgTTNFLia_V0WfIarbfTMTNWw"
+    }
+  },
+  {
+    "transaction_id": "MzE5MzMzMTM5MGFkaXF6a2N4",
+    "barcode": "X6LOHUUG",
+    "type": "PSC01",
+    "date": "2017-12-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Peter Steven Ormerod",
+      "notification_date": "2016-04-06"
+    },
+    "pages": 2,
+    "action_date": "2016-04-06",
+    "links": {
+      "self": "/company/09929840/filing-history/MzE5MzMzMTM5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vGvaVgTEszqhzu0su7Y0DkOZ_L2cFNgK5Mh56J0wwh0"
+    }
+  },
+  {
+    "transaction_id": "MzE5MzMzMTM3MGFkaXF6a2N4",
+    "barcode": "X6LOHT23",
+    "type": "CS01",
+    "date": "2017-12-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-12-16"
+    },
+    "pages": 5,
+    "action_date": "2017-12-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzE5MzMzMTM3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qSMDFCZx56BFY7BTtUxyHOmUACvRq05mTTmf5X-8VV8"
+    }
+  },
+  {
+    "transaction_id": "MzE4NjAwNTA4N2FkaXF6a2N4",
+    "barcode": "A6FAOD77",
+    "type": "AA",
+    "date": "2017-09-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2016-12-31"
+    },
+    "pages": 8,
+    "action_date": "2016-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/09929840/filing-history/MzE4NjAwNTA4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xI3BEgAqRDZly-ZXldnYVahuLWTtLZJWPy9f7LJpwzk"
+    }
+  },
+  {
+    "transaction_id": "MzE2NDYxNTMzM2FkaXF6a2N4",
+    "barcode": "X5LXHS5L",
+    "type": "CS01",
+    "date": "2016-12-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2016-12-16"
+    },
+    "pages": 6,
+    "action_date": "2016-12-16",
+    "links": {
+      "self": "/company/09929840/filing-history/MzE2NDYxNTMzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/k0NvFZxIHS9s2Qa3iDy-R5wHnfinrJ79MwcHw4hDzhQ"
+    }
+  },
+  {
+    "transaction_id": "MzEzOTgxNjgxN2FkaXF6a2N4",
+    "barcode": "X4YN2IZV",
+    "type": "AP01",
+    "date": "2016-01-15",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Alex Christian Dyer",
+      "appointment_date": "2015-12-24"
+    },
+    "pages": 2,
+    "action_date": "2015-12-24",
+    "links": {
+      "self": "/company/09929840/filing-history/MzEzOTgxNjgxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hs52y2ppwyhMmPv7Ibt5J9RKcloaaVEillMVP1bxn90"
+    }
+  },
+  {
+    "transaction_id": "MzEzOTgxNjYwMWFkaXF6a2N4",
+    "barcode": "X4YN2ILT",
+    "type": "TM01",
+    "date": "2016-01-15",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Peter Steven Ormerod",
+      "termination_date": "2015-12-24"
+    },
+    "pages": 1,
+    "action_date": "2015-12-24",
+    "links": {
+      "self": "/company/09929840/filing-history/MzEzOTgxNjYwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HhcgiGeNWsQgy5Rxhjhk8rg-AxVGxZMoZNzrs06iIrU"
+    }
+  },
+  {
+    "transaction_id": "MzEzOTU0NTgyNWFkaXF6a2N4",
+    "barcode": "X4YF5JKQ",
+    "type": "TM02",
+    "date": "2016-01-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Oakley Secretarial Services Limited",
+      "termination_date": "2015-12-24"
+    },
+    "pages": 1,
+    "action_date": "2015-12-24",
+    "links": {
+      "self": "/company/09929840/filing-history/MzEzOTU0NTgyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KKrmNr-F0nYSfoYbbbQtXnX5xJ_WXPp1gl0t3R_4ioo"
+    }
+  },
+  {
+    "transaction_id": "MzEzODM2NzE2OWFkaXF6a2N4",
+    "barcode": "X4MXDYBA",
+    "type": "NEWINC",
+    "date": "2015-12-24",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-12-24",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-12-24",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2015-12-24"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 48,
+    "links": {
+      "self": "/company/09929840/filing-history/MzEzODM2NzE2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LCff1LI26t0ToNY8k4jj3g1fhSyOJrxAPqi35d1c7Rc"
+    }
+  }
+]

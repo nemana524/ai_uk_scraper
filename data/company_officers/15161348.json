@@ -1,0 +1,36 @@
+{
+  "company_number": "15161348",
+  "company_name": "TECH DUCT LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "DURSUN, Batuhan",
+      "officer_role": "director",
+      "appointed_on": "2023-09-25",
+      "resigned_on": null,
+      "nationality": "Turkish",
+      "country_of_residence": "Turkey",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Kocatepe Sk. Krizantem Dort Villalari Sitesi",
+        "address_line_2": "Postane Mah.",
+        "country": "Turkey",
+        "locality": "Tuzla Istanbul",
+        "postal_code": "34940",
+        "premises": "No 9a Ic Kapi No 1"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 2001
+      },
+      "links": {
+        "self": "/company/15161348/appointments/pfDzPVWXry0VwK26rFN97R6WJ_U",
+        "officer": {
+          "appointments": "/officers/M_ATyYiJ1mhg4y1z60voBQAaeNM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-11-30",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ALLIGATORS LIMITED",
+  "company_number": "14516528",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-12-29",
+    "next_due": "2026-01-12",
+    "next_made_up_to": "2025-12-29",
+    "overdue": false
+  },
+  "date_of_creation": "2022-11-30",
+  "etag": "c9ff82014f612dd38a898751d7fde0f117460b4e",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14516528/persons-with-significant-control",
+    "self": "/company/14516528",
+    "filing_history": "/company/14516528/filing-history",
+    "officers": "/company/14516528/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "75 Farm Crescent",
+    "country": "England",
+    "locality": "Slough",
+    "postal_code": "SL2 5TQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910",
+    "62020",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

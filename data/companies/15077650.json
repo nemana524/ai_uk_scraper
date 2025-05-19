@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-08-31",
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-08-16",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-31",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01"
+    },
+    "next_due": "2026-05-31",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH LEAP LTD",
+  "company_number": "15077650",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-15",
+    "next_due": "2025-08-29",
+    "next_made_up_to": "2025-08-15",
+    "overdue": false
+  },
+  "date_of_creation": "2023-08-16",
+  "etag": "01ab4a9de815a936ba4f4e1c9d6f189f0a1b579d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15077650/persons-with-significant-control",
+    "self": "/company/15077650",
+    "filing_history": "/company/15077650/filing-history",
+    "officers": "/company/15077650/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "13 Arthur Close",
+    "country": "England",
+    "locality": "Bagshot",
+    "postal_code": "GU19 5QT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

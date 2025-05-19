@@ -1,0 +1,182 @@
+[
+  {
+    "transaction_id": "MzQ2MDc4MTgyM2FkaXF6a2N4",
+    "barcode": "XDZGOPND",
+    "type": "CS01",
+    "date": "2025-03-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-13"
+    },
+    "pages": 3,
+    "action_date": "2025-03-13",
+    "links": {
+      "self": "/company/13973537/filing-history/MzQ2MDc4MTgyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t8V2EnNZxF2neeKsAM0inL7Rh43YpPNSu00PBx_Bf00"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTE3Mjk5M2FkaXF6a2N4",
+    "barcode": "XDIV4MWI",
+    "type": "AA",
+    "date": "2024-12-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 4,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13973537/filing-history/MzQ0OTE3Mjk5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7rCt7_ZWD4VepEwijZX1PC43FWt4TOWhl-_izxcnmnU"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjY2MDk3M2FkaXF6a2N4",
+    "barcode": "XD3K7ZNF",
+    "type": "CS01",
+    "date": "2024-05-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-13"
+    },
+    "pages": 3,
+    "action_date": "2024-03-13",
+    "links": {
+      "self": "/company/13973537/filing-history/MzQyMjY2MDk3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ms9pbG_lB3dXQMl9FppqjmqpLtY81Wf1hsvY0-vGWBA"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzgxMDY1MmFkaXF6a2N4",
+    "barcode": "XCI9F8HC",
+    "type": "AA",
+    "date": "2023-12-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 4,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/13973537/filing-history/MzQwMzgxMDY1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0xQBRtxcHeOzWHdGaSz-bcVXeLM6dhA1qlcBVO-evxA"
+    }
+  },
+  {
+    "transaction_id": "MzM3Njg1MDIyNmFkaXF6a2N4",
+    "barcode": "XC1TCDQR",
+    "type": "CS01",
+    "date": "2023-04-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-13"
+    },
+    "pages": 3,
+    "action_date": "2023-03-13",
+    "links": {
+      "self": "/company/13973537/filing-history/MzM3Njg1MDIyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XGRP4iJ_m6nnWHTxqE5uIBbP2Af9Q9A0VSxa0HWT_0g"
+    }
+  },
+  {
+    "transaction_id": "MzM2NzI4OTk0NmFkaXF6a2N4",
+    "barcode": "XBW1YHYO",
+    "type": "AD01",
+    "date": "2023-01-26",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-01-26",
+      "old_address": ", Unit 14E Brook Mill Estate, Station Road, Wrea Green, Lancashire, PR4 2PH, United Kingdom",
+      "new_address": "350 Barkerhouse Road Nelson BB9 9LS"
+    },
+    "pages": 1,
+    "action_date": "2023-01-26",
+    "links": {
+      "self": "/company/13973537/filing-history/MzM2NzI4OTk0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3fZv34MOR9xOzcNDQK3kEUIfrcCtmOJjLpeey2f7g2o"
+    }
+  },
+  {
+    "transaction_id": "MzM2NzI4OTcyOGFkaXF6a2N4",
+    "barcode": "XBW1YHA0",
+    "type": "PSC07",
+    "date": "2023-01-26",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Robert Christopher Elson",
+      "cessation_date": "2023-01-23"
+    },
+    "pages": 1,
+    "action_date": "2023-01-23",
+    "links": {
+      "self": "/company/13973537/filing-history/MzM2NzI4OTcyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eCEvime7cbB5SP3HJ8oRZ_AB5OlBcgSlYK0uxPwa578"
+    }
+  },
+  {
+    "transaction_id": "MzM2Njk2Mjc1NWFkaXF6a2N4",
+    "barcode": "ABVWNOM0",
+    "type": "TM01",
+    "date": "2023-01-26",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Robert Christopher Elson",
+      "termination_date": "2023-01-23"
+    },
+    "pages": 1,
+    "action_date": "2023-01-23",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13973537/filing-history/MzM2Njk2Mjc1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qtXRuJ7QqcAcFvoimD4ekJzHHkJvHNHHOiSPoMJ52S4"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjQ5MjkzMWFkaXF6a2N4",
+    "barcode": "XAZHWAJ7",
+    "type": "NEWINC",
+    "date": "2022-03-14",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-03-14",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-03-14",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-03-14",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2022-03-14"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/13973537/filing-history/MzMzMjQ5MjkzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0lC8d9nCq-iFjFbBinmEIixHz76mQLcNUCMJPvyaUqk"
+    }
+  }
+]

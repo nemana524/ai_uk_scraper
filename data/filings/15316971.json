@@ -1,0 +1,151 @@
+[
+  {
+    "transaction_id": "MzQ0Nzk3MzM2NWFkaXF6a2N4",
+    "barcode": "XDI6N3YA",
+    "type": "CS01",
+    "date": "2024-12-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-11-28"
+    },
+    "pages": 4,
+    "action_date": "2024-11-28",
+    "links": {
+      "self": "/company/15316971/filing-history/MzQ0Nzk3MzM2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w3DdKQ-RMj3TViiNzkoocoUjxkhbognZUDhNiN75gOA"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzY2MDE4MWFkaXF6a2N4",
+    "barcode": "XDG2JCHE",
+    "type": "PSC07",
+    "date": "2024-11-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ahmed Ali",
+      "cessation_date": "2024-11-17"
+    },
+    "pages": 1,
+    "action_date": "2024-11-17",
+    "links": {
+      "self": "/company/15316971/filing-history/MzQ0MzY2MDE4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qZt1iEgwgoVTKK9tzWsGMtTalCiqAchgPyIEQZ-05ws"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzY2MDExNmFkaXF6a2N4",
+    "barcode": "XDG2JC28",
+    "type": "TM01",
+    "date": "2024-11-17",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ahmed Ali",
+      "termination_date": "2024-11-17"
+    },
+    "pages": 1,
+    "action_date": "2024-11-17",
+    "links": {
+      "self": "/company/15316971/filing-history/MzQ0MzY2MDExNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FA6IKfkyjVX2I_6LdLSXGm115BRi9dWfF9mcMXJ6wXo"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzY2MDEwMWFkaXF6a2N4",
+    "barcode": "XDG2JC00",
+    "type": "PSC01",
+    "date": "2024-11-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Usman Saleem",
+      "notification_date": "2024-11-17"
+    },
+    "pages": 2,
+    "action_date": "2024-11-17",
+    "links": {
+      "self": "/company/15316971/filing-history/MzQ0MzY2MDEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gRBQ3XOms_xfwAvmxW1HEwmwMawWtX7HNpYCgZ-mjOI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MzY2MDA2NGFkaXF6a2N4",
+    "barcode": "XDG2JBX4",
+    "type": "AP01",
+    "date": "2024-11-17",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Muhammad Usman Saleem",
+      "appointment_date": "2024-11-17"
+    },
+    "pages": 2,
+    "action_date": "2024-11-17",
+    "links": {
+      "self": "/company/15316971/filing-history/MzQ0MzY2MDA2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vLN8r1a5EbjNNWCW0G33SAIppSsZP5IdqkW_PM4AqZ8"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjM4MDEzMmFkaXF6a2N4",
+    "barcode": "XDFEECJL",
+    "type": "AD01",
+    "date": "2024-11-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-11-07",
+      "old_address": "25 Ripon Street Lincoln Lincolnshire LN5 7NJ United Kingdom",
+      "new_address": "172 Wragby Road Lincoln Lincolnshire LN2 4PT"
+    },
+    "pages": 1,
+    "action_date": "2024-11-07",
+    "links": {
+      "self": "/company/15316971/filing-history/MzQ0MjM4MDEzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4-Q_0GOzEXA3414uuvjXDFVUBfS_ShKGCzuJspQvssY"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTk2NzU1M2FkaXF6a2N4",
+    "barcode": "XCHCJEK2",
+    "type": "NEWINC",
+    "date": "2023-11-29",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-11-29",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-11-29",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-11-29",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-11-29"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15316971/filing-history/MzQwMTk2NzU1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4tyA68qGaUVZfLuorRag2HdLqIcYHOoskNtNfYtouY0"
+    }
+  }
+]

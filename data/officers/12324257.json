@@ -1,0 +1,49 @@
+[
+  {
+    "address": {
+      "address_line_1": "Stoneleigh Road",
+      "country": "England",
+      "locality": "Carshalton",
+      "postal_code": "SM5 1LB",
+      "premises": "8"
+    },
+    "appointed_on": "2019-11-20",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/12324257/appointments/ijxBwRZtJ4IPLftPEx0zCyF5PEA",
+      "officer": {
+        "appointments": "/officers/5JGREpEsZ0okxKEj_l9dm9GXVnc/appointments"
+      }
+    },
+    "name": "SHAIYE, Abdirazak",
+    "officer_role": "secretary",
+    "person_number": "264548030002"
+  },
+  {
+    "address": {
+      "address_line_1": "Stoneleigh Road",
+      "country": "England",
+      "locality": "Carshalton",
+      "postal_code": "SM5 1LB",
+      "premises": "8"
+    },
+    "appointed_on": "2019-11-20",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1960
+    },
+    "links": {
+      "self": "/company/12324257/appointments/oMDksRyDbQfOMcKQZ29ZoutBX8U",
+      "officer": {
+        "appointments": "/officers/0QU7DDdKd8LDpOoGOUd2NdlEiLk/appointments"
+      }
+    },
+    "name": "MUSE, Mohamud",
+    "nationality": "British",
+    "occupation": "Care",
+    "officer_role": "director",
+    "person_number": "264548020001"
+  }
+]

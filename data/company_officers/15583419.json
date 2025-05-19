@@ -1,0 +1,35 @@
+{
+  "company_number": "15583419",
+  "company_name": "TECH GENIE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ALI, Muhammed",
+      "officer_role": "director",
+      "appointed_on": "2024-03-21",
+      "resigned_on": null,
+      "nationality": "Bangladeshi",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "High Street",
+        "country": "United Kingdom",
+        "locality": "Lincoln",
+        "postal_code": "LN5 7PJ",
+        "premises": "129"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1990
+      },
+      "links": {
+        "self": "/company/15583419/appointments/IxzosVjXMI2atgapMftN_DE5uaI",
+        "officer": {
+          "appointments": "/officers/qeGFi7LoznJb8MJ9VnFxOqWJzDA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

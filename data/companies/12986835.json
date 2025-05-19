@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-10-31",
+      "period_end_on": "2022-10-31",
+      "period_start_on": "2021-11-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-07-31",
+      "overdue": true,
+      "period_end_on": "2023-10-31",
+      "period_start_on": "2022-11-01"
+    },
+    "next_due": "2024-07-31",
+    "next_made_up_to": "2023-10-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH BANDIT LIMITED",
+  "company_number": "12986835",
+  "company_status": "liquidation",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-21",
+    "next_due": "2025-11-04",
+    "next_made_up_to": "2025-10-21",
+    "overdue": false
+  },
+  "date_of_creation": "2020-10-30",
+  "etag": "99a29f28bb9e9aae3876427aa1463fe21cd888c3",
+  "has_charges": false,
+  "has_insolvency_history": true,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12986835/persons-with-significant-control",
+    "self": "/company/12986835",
+    "filing_history": "/company/12986835/filing-history",
+    "insolvency": "/company/12986835/insolvency",
+    "officers": "/company/12986835/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "122 Doncaster Road",
+    "country": "England",
+    "locality": "Barnsley",
+    "postal_code": "S70 1TP"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

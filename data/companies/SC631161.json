@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GS SERVICES LTD",
+  "company_number": "SC631161",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-21",
+    "next_due": "2025-06-04",
+    "next_made_up_to": "2025-05-21",
+    "overdue": false
+  },
+  "date_of_creation": "2019-05-22",
+  "etag": "7a3b96b967f95f647166f87636c152c5a78ad4ce",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC631161/persons-with-significant-control",
+    "self": "/company/SC631161",
+    "filing_history": "/company/SC631161/filing-history",
+    "officers": "/company/SC631161/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "6 The Strand 6 The Strand",
+    "address_line_2": "Gott",
+    "country": "Scotland",
+    "locality": "Shetland Islands",
+    "postal_code": "ZE2 9XT",
+    "region": "Ze2 9xt"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

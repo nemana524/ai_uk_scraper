@@ -1,0 +1,207 @@
+[
+  {
+    "transaction_id": "MzQ1ODg5NDAwNmFkaXF6a2N4",
+    "barcode": "XDYJKNFT",
+    "type": "CS01",
+    "date": "2025-03-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-13"
+    },
+    "pages": 3,
+    "action_date": "2025-03-13",
+    "links": {
+      "self": "/company/13974229/filing-history/MzQ1ODg5NDAwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vtetKipymNvyEgi57RwH5Zq1wak7H85JrkXngw3jbkc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzEyNjY4NmFkaXF6a2N4",
+    "barcode": "XDHT7T81",
+    "type": "AA",
+    "date": "2024-12-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 2,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13974229/filing-history/MzQ0NzEyNjY4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RMzqHfi3oeltaBDfYSWJ-TuAIdZENho19QKOYLV9E_o"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDg0ODA2OGFkaXF6a2N4",
+    "barcode": "XCYZ8XDD",
+    "type": "CS01",
+    "date": "2024-03-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-13"
+    },
+    "pages": 3,
+    "action_date": "2024-03-13",
+    "links": {
+      "self": "/company/13974229/filing-history/MzQxNDg0ODA2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BPacxplJRAIg69XwPGpSXyfpmBXSWOlzBAR-kEURGzw"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDU4ODM0MGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-02-14",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13974229/filing-history/MzQxMDU4ODM0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8zaEtK3GebemOBSYwTKEEGH3ZDh2xiEcHDwW0i9cQGM"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTcxNjM3NmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-02-13",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13974229/filing-history/MzQwOTcxNjM3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hP9qe71XobrmbbErFlGjkECB0t5Du_wOjkW9XYm9WLU"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDU4ODU2MGFkaXF6a2N4",
+    "barcode": "XCWI183E",
+    "type": "PSC04",
+    "date": "2024-02-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-02-01",
+      "psc_name": "Mrs Maria Tahir Arshad"
+    },
+    "pages": 2,
+    "action_date": "2024-02-01",
+    "links": {
+      "self": "/company/13974229/filing-history/MzQxMDU4ODU2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Rdonw8zX3c7L-Tl5763e6d7BPKwcBbQLPBbKWP0QHWQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDU4ODQ4MWFkaXF6a2N4",
+    "barcode": "XCWI17M1",
+    "type": "CH01",
+    "date": "2024-02-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-02-01",
+      "officer_name": "Mrs Maria Tahir Arshad"
+    },
+    "pages": 2,
+    "action_date": "2024-02-01",
+    "links": {
+      "self": "/company/13974229/filing-history/MzQxMDU4ODQ4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VAKX8xNsy6tJChVaMqq2HEUBPMma4ANXQYt9cS2JnLc"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDU4ODMwOGFkaXF6a2N4",
+    "barcode": "XCWI163S",
+    "type": "AA",
+    "date": "2024-02-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 2,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/13974229/filing-history/MzQxMDU4ODMwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uP1qnxHSoZJXqJZZC0o_rsJ5Ywdi1lnuRnUi2mG10r8"
+    }
+  },
+  {
+    "transaction_id": "MzM3NjQ3NDM4NmFkaXF6a2N4",
+    "barcode": "XC1IRVXC",
+    "type": "AD01",
+    "date": "2023-04-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-04-15",
+      "old_address": "20-22 Wenlock Road London N1 7GU England",
+      "new_address": "8 Oval View Middlesborough TS4 3SW"
+    },
+    "pages": 1,
+    "action_date": "2023-04-15",
+    "links": {
+      "self": "/company/13974229/filing-history/MzM3NjQ3NDM4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BP5XqgyALGOg-sUntIyN2PS8S8015Mo461js6zNLczw"
+    }
+  },
+  {
+    "transaction_id": "MzM3NjQ3NDEyNWFkaXF6a2N4",
+    "barcode": "XC1IRUYJ",
+    "type": "CS01",
+    "date": "2023-04-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-03-13"
+    },
+    "pages": 5,
+    "action_date": "2023-03-13",
+    "links": {
+      "self": "/company/13974229/filing-history/MzM3NjQ3NDEyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hLceRRKjtvgT8fcGkKh5VSXwKh5KLWXLf9eA2Ox1wx4"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjUxNzkxNmFkaXF6a2N4",
+    "barcode": "XAZHXOA0",
+    "type": "NEWINC",
+    "date": "2022-03-14",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-03-14",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-03-14",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-03-14",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-03-14"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13974229/filing-history/MzMzMjUxNzkxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QmoZDqsb523rFLoFPRDNCRG503Ly7ocez-b4TiLNI7I"
+    }
+  }
+]

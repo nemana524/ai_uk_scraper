@@ -1,0 +1,36 @@
+{
+  "company_number": "15557371",
+  "company_name": "TECH FAB INTERNATIONAL UK LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "IQBAL, Yousaf",
+      "officer_role": "director",
+      "appointed_on": "2024-03-12",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "Harrovian Business Village",
+        "address_line_2": "Bessborough Road",
+        "country": "United Kingdom",
+        "locality": "Harrow",
+        "postal_code": "HA1 3EX",
+        "premises": "1 Grace House"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/15557371/appointments/FrIYajAsCPnsyIZMIg3Z0IdJi4k",
+        "officer": {
+          "appointments": "/officers/6f3iCxtPY5AKGmzWdlyHSoJ34FA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

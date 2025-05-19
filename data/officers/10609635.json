@@ -1,0 +1,251 @@
+[
+  {
+    "address": {
+      "address_line_1": "Crockford Lane",
+      "address_line_2": "Chineham Park",
+      "country": "United Kingdom",
+      "locality": "Basingstoke",
+      "postal_code": "RG24 8YB",
+      "premises": "Maplewood",
+      "region": "Hampshire"
+    },
+    "appointed_on": "2024-12-16",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/10609635/appointments/l645VdOMBHqn4PeW8zhwFAFNaEY",
+      "officer": {
+        "appointments": "/officers/w1i0W6L2Ia9GCyhxYFi7a3h43OA/appointments"
+      }
+    },
+    "name": "CYMLER, Agnieszka, Ms.",
+    "nationality": "Polish",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "314174660002"
+  },
+  {
+    "address": {
+      "address_line_1": "Crockford Lane",
+      "address_line_2": "Chineham Park",
+      "country": "United Kingdom",
+      "locality": "Basingstoke",
+      "postal_code": "RG24 8YB",
+      "premises": "Maplewood",
+      "region": "Hampshire"
+    },
+    "appointed_on": "2021-08-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/10609635/appointments/gCDWTSAKeEXp5iOLGGlIq__zLZI",
+      "officer": {
+        "appointments": "/officers/_UHBRXguNsxNiB_OUX9TngwfKjI/appointments"
+      }
+    },
+    "name": "PHILP, Stephen Dennis, Mr.",
+    "nationality": "British",
+    "occupation": "Accountant/Financial Director",
+    "officer_role": "director",
+    "person_number": "217935330001"
+  },
+  {
+    "address": {
+      "address_line_1": "Crockford Lane",
+      "address_line_2": "Chineham Park",
+      "country": "United Kingdom",
+      "locality": "Basingstoke",
+      "postal_code": "RG24 8YB",
+      "premises": "Maplewood",
+      "region": "Hampshire"
+    },
+    "appointed_on": "2017-02-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United States",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1973
+    },
+    "links": {
+      "self": "/company/10609635/appointments/CM8Vvs8s_T--XUNb8kUyfvckKqI",
+      "officer": {
+        "appointments": "/officers/PFNaNYvXuPuGV-A5ZjwlfzyklTE/appointments"
+      }
+    },
+    "name": "WALKER, Scott William",
+    "nationality": "American",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "219966630001"
+  },
+  {
+    "address": {
+      "address_line_1": "Chineham Business Park Chineham",
+      "address_line_2": "Basingstoke",
+      "country": "United Kingdom",
+      "locality": "Hampshire",
+      "postal_code": "RG24 8WQ",
+      "premises": "Redwood 2 Crockford Lane"
+    },
+    "appointed_on": "2018-08-23",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/10609635/appointments/FpXxh6uZDAKD7OTgo0dDW8OJUPY",
+      "officer": {
+        "appointments": "/officers/tCMUcFz6WP72-VNNq3upqs2xpH0/appointments"
+      }
+    },
+    "name": "AULD, Philip James",
+    "officer_role": "secretary",
+    "resigned_on": "2021-07-31",
+    "person_number": "249743710001"
+  },
+  {
+    "address": {
+      "address_line_1": "Chineham Business Park Chineham",
+      "address_line_2": "Basingstoke",
+      "country": "United Kingdom",
+      "locality": "Hampshire",
+      "postal_code": "RG24 8WQ",
+      "premises": "Redwood 2 Crockford Lane"
+    },
+    "appointed_on": "2017-02-08",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/10609635/appointments/8oD68wT31xcb3QQPD3LDi4gqPHA",
+      "officer": {
+        "appointments": "/officers/WBgZmi21zVqw6Cg1QTcxrG1HERM/appointments"
+      }
+    },
+    "name": "OLLIS, Rachel Anne",
+    "officer_role": "secretary",
+    "resigned_on": "2018-02-01",
+    "person_number": "224271600001"
+  },
+  {
+    "address": {
+      "address_line_1": "Crockford Lane",
+      "address_line_2": "Chineham Business Park",
+      "country": "United Kingdom",
+      "locality": "Chineham",
+      "postal_code": "RG23 8WQ",
+      "premises": "Redwood 2",
+      "region": "Basingstoke Hampshire"
+    },
+    "appointed_on": "2017-02-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "France",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1960
+    },
+    "links": {
+      "self": "/company/10609635/appointments/W7nT_GlmPCSfY1JuqiV2Of47ax8",
+      "officer": {
+        "appointments": "/officers/f5FSe_uIopcaLzVzYXe5VKH7QcM/appointments"
+      }
+    },
+    "name": "AMSELLEM, Samy",
+    "nationality": "French",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "resigned_on": "2024-12-16",
+    "person_number": "221408540001"
+  },
+  {
+    "address": {
+      "address_line_1": "Crockford Lane",
+      "address_line_2": "Chineham Business Park",
+      "country": "United Kingdom",
+      "locality": "Chineham",
+      "postal_code": "RG24 8WQ",
+      "premises": "Redwood 2",
+      "region": "Basingstoke Hampshire"
+    },
+    "appointed_on": "2017-02-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Florida, Usa",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1955
+    },
+    "links": {
+      "self": "/company/10609635/appointments/sayzeyDk2ChX8hhnXjdMG_AC6x8",
+      "officer": {
+        "appointments": "/officers/RbDHZB-0imdCBZkdjuFSUkp2wxA/appointments"
+      }
+    },
+    "name": "DANNEWITZ, Charles",
+    "nationality": "American",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "resigned_on": "2022-01-31",
+    "person_number": "221433120001"
+  },
+  {
+    "address": {
+      "address_line_1": "Chineham Business Park Chineham",
+      "address_line_2": "Basingstoke",
+      "country": "United Kingdom",
+      "locality": "Hampshire",
+      "postal_code": "RG24 8WQ",
+      "premises": "Redwood 2 Crockford Lane"
+    },
+    "appointed_on": "2018-08-23",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United States",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1984
+    },
+    "links": {
+      "self": "/company/10609635/appointments/YwM7DNVslIHBpnE6ZKl07X-yJmU",
+      "officer": {
+        "appointments": "/officers/4mDjrBF6vxEgvEtd8ltUufmoOkk/appointments"
+      }
+    },
+    "name": "MURRAY, Svitlana",
+    "nationality": "American",
+    "occupation": "Finance Director",
+    "officer_role": "director",
+    "resigned_on": "2020-11-24",
+    "person_number": "248179720001"
+  },
+  {
+    "address": {
+      "address_line_1": "Chineham Business Park",
+      "address_line_2": "Chineham",
+      "locality": "Basingstoke",
+      "postal_code": "RG24 8WQ",
+      "premises": "Redwood 2 Crockford Lane",
+      "region": "Hampshire"
+    },
+    "appointed_on": "2017-02-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1964
+    },
+    "links": {
+      "self": "/company/10609635/appointments/glPP2YOqGM46msYcpDxDWUNJI0c",
+      "officer": {
+        "appointments": "/officers/IE3BTQmUm1Ghc6_r-UlVOafAvuw/appointments"
+      }
+    },
+    "name": "TUFFNAIL, Howard",
+    "nationality": "Canadian",
+    "occupation": "Finance Director",
+    "officer_role": "director",
+    "resigned_on": "2021-08-30",
+    "person_number": "202334610001"
+  }
+]

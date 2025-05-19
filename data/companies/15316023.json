@@ -1,0 +1,38 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH FRONTIERS CONSULTING LTD",
+  "company_number": "15316023",
+  "company_status": "dissolved",
+  "date_of_cessation": "2025-05-06",
+  "date_of_creation": "2023-11-29",
+  "etag": "fdbf46b6094d083be077b1f958778fee2b49a8a6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15316023/persons-with-significant-control",
+    "self": "/company/15316023",
+    "filing_history": "/company/15316023/filing-history",
+    "officers": "/company/15316023/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "4th Floor, Silverstream House 45 Fitzroy Street",
+    "address_line_2": "Fitzrovia",
+    "country": "United Kingdom",
+    "locality": "London,",
+    "postal_code": "W1T 6EB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "94990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

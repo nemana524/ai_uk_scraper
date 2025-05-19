@@ -1,0 +1,60 @@
+{
+  "company_number": "14371797",
+  "company_name": "TECH INFORMATICS LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MANNAN, Fariza",
+      "officer_role": "secretary",
+      "appointed_on": "2022-09-22",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Quex Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "NW6 4PS",
+        "premises": "29"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/14371797/appointments/F4uBT8qiKAjVOXFAs3N17ZcQjJ4",
+        "officer": {
+          "appointments": "/officers/xaW4UEz3J3ICm_udhb2jwKrSqlk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KHAN, Md Jubayer",
+      "officer_role": "director",
+      "appointed_on": "2022-09-22",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Jubilee Street",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E1 3BS",
+        "premises": "214"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/14371797/appointments/oIlvrOaDjA2ZmaLtsRVb5Pd6Yzc",
+        "officer": {
+          "appointments": "/officers/qBSnVxTi0KsXC4cEKPRLqfookBI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

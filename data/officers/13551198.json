@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Granby Street",
+      "country": "England",
+      "locality": "Leicester",
+      "postal_code": "LE1 1DH",
+      "premises": "60-62"
+    },
+    "appointed_on": "2021-08-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1973
+    },
+    "links": {
+      "self": "/company/13551198/appointments/t3531JikYnStK_Xh1ITWVri9GYU",
+      "officer": {
+        "appointments": "/officers/1BqKJbb-0EA9wCr3sa2WNlVHkBM/appointments"
+      }
+    },
+    "name": "HAIDARY, Homayoon",
+    "nationality": "British",
+    "occupation": "Managing Director",
+    "officer_role": "director",
+    "person_number": "256305920001"
+  }
+]

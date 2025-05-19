@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "Romford Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E15 4LY",
+      "premises": "113"
+    },
+    "appointed_on": "2023-10-04",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/15186173/appointments/WMHbd7qTXN14RULNrpxQ9Dm797k",
+      "officer": {
+        "appointments": "/officers/2WAG5maG6M9oS_fcDg6JM8nCo9I/appointments"
+      }
+    },
+    "name": "BEGUM, Jomila",
+    "nationality": "British",
+    "occupation": "Project Manager",
+    "officer_role": "director",
+    "person_number": "193088640001"
+  },
+  {
+    "address": {
+      "address_line_1": "Romford Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E15 4LY",
+      "premises": "113"
+    },
+    "appointed_on": "2023-10-04",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/15186173/appointments/XHRX6mSHE60x-uok2lP_ZfZNHDg",
+      "officer": {
+        "appointments": "/officers/jPdJqKoJqRSbRnTqcBFl7ErlWKU/appointments"
+      }
+    },
+    "name": "HILL, Carol Leanne",
+    "nationality": "British",
+    "occupation": "Project Manager",
+    "officer_role": "director",
+    "person_number": "314280770001"
+  }
+]

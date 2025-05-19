@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Cartmel Drive",
+      "country": "England",
+      "locality": "Corby",
+      "postal_code": "NN18 8TB",
+      "premises": "2"
+    },
+    "appointed_on": "2023-12-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/15331217/appointments/cIBww0qCUs1fLTTJU-xETemLkjA",
+      "officer": {
+        "appointments": "/officers/LSqTV9_pPGmsgVNSiRTho0MpBQw/appointments"
+      }
+    },
+    "name": "VIEIRA, Eduardo Manuel Gomes",
+    "nationality": "Portuguese",
+    "occupation": "Engineer",
+    "officer_role": "director",
+    "person_number": "316744820001"
+  }
+]

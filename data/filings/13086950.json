@@ -1,0 +1,158 @@
+[
+  {
+    "transaction_id": "MzQ0NzU4MTg1NGFkaXF6a2N4",
+    "barcode": "XDI3PP81",
+    "type": "CS01",
+    "date": "2024-12-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-16"
+    },
+    "pages": 3,
+    "action_date": "2024-12-16",
+    "links": {
+      "self": "/company/13086950/filing-history/MzQ0NzU4MTg1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8KCImhXhSFguvLtnqvrOUj3fnOKAPTd-1ihjkRe0DF8"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDE1Njg2NmFkaXF6a2N4",
+    "barcode": "XDAT5042",
+    "type": "AA",
+    "date": "2024-09-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 2,
+    "action_date": "2023-12-31",
+    "links": {
+      "self": "/company/13086950/filing-history/MzQzNDE1Njg2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EXnVvxZIY4Y_7K3hv3Xq_Ti3bVF2eOB9S9nWKQKkyrA"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTI2NzAwMWFkaXF6a2N4",
+    "barcode": "XCIVDLSO",
+    "type": "CS01",
+    "date": "2023-12-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-16"
+    },
+    "pages": 3,
+    "action_date": "2023-12-16",
+    "links": {
+      "self": "/company/13086950/filing-history/MzQwNTI2NzAwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f9aw_ZbgkFnXQxDhdXv2yDFdvyBaoOXU3v0d85Xujo0"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDQwOTA0NWFkaXF6a2N4",
+    "barcode": "XCCUKW0O",
+    "type": "AA",
+    "date": "2023-09-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 2,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/13086950/filing-history/MzM5NDQwOTA0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MqLMHMfRMHFFAYBvAPOjM-sOd0Yt4JqSYuR_JjjlFVA"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjcxMzIxOWFkaXF6a2N4",
+    "barcode": "XBIYGF0O",
+    "type": "CS01",
+    "date": "2022-12-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-12-16"
+    },
+    "pages": 3,
+    "action_date": "2022-12-16",
+    "links": {
+      "self": "/company/13086950/filing-history/MzM2MjcxMzIxOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IinRhR7T2eODpWIaXRbs_B12HdrLjXt4dqLM6d76JtY"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjM4NjU4NWFkaXF6a2N4",
+    "barcode": "XB8QU88A",
+    "type": "AA",
+    "date": "2022-07-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-12-31"
+    },
+    "pages": 2,
+    "action_date": "2021-12-31",
+    "links": {
+      "self": "/company/13086950/filing-history/MzM0NjM4NjU4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_cGDBmb3U5e8orr3EY1HND2zUU-zJ0kFObYpfR0s9S0"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzg0MDM0MWFkaXF6a2N4",
+    "barcode": "XAJHIK3G",
+    "type": "CS01",
+    "date": "2021-12-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-12-16"
+    },
+    "pages": 3,
+    "action_date": "2021-12-16",
+    "links": {
+      "self": "/company/13086950/filing-history/MzMyMzg0MDM0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/owNTFMg6uJ530_Rm2Cga8Jr8ZQdbR-3KIoTB09qSMI4"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjE3NzIzNWFkaXF6a2N4",
+    "barcode": "X9K1ASX7",
+    "type": "NEWINC",
+    "date": "2020-12-17",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-12-17",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-12-17",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-12-17",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2020-12-17"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13086950/filing-history/MzI4NjE3NzIzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BpG39pATwE217aMhDT6LBENBrGy2WtEQ7XzcWGvOM6Q"
+    }
+  }
+]

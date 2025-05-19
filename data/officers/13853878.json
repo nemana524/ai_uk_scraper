@@ -1,0 +1,78 @@
+[
+  {
+    "address": {
+      "address_line_1": "Colman Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E16 3LZ",
+      "premises": "114"
+    },
+    "appointed_on": "2025-04-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1989
+    },
+    "links": {
+      "self": "/company/13853878/appointments/ivzgUKWmyA6_BxuuhettXqyHOtQ",
+      "officer": {
+        "appointments": "/officers/eNKptEIlSW7G_gUGQmCYHViMcDc/appointments"
+      }
+    },
+    "name": "MAQBOOL, Yamna",
+    "nationality": "British",
+    "occupation": "Teacher",
+    "officer_role": "director",
+    "person_number": "334765490001"
+  },
+  {
+    "address": {
+      "address_line_1": "42 Linton Road",
+      "country": "United Kingdom",
+      "locality": "Barking",
+      "postal_code": "IG11 8FS",
+      "premises": "32 Forresters"
+    },
+    "appointed_on": "2022-01-17",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/13853878/appointments/v4f8nCoQPnssl7X2jG8AWAjGhg8",
+      "officer": {
+        "appointments": "/officers/FkNfIqxzDeSLdFeAM9LHuaZw5Is/appointments"
+      }
+    },
+    "name": "AREFEEN, Shujaul",
+    "officer_role": "secretary",
+    "resigned_on": "2025-04-02",
+    "person_number": "291484490001"
+  },
+  {
+    "address": {
+      "address_line_1": "42 Linton Road",
+      "country": "United Kingdom",
+      "locality": "Barking",
+      "postal_code": "IG11 8FS",
+      "premises": "32 Forresters"
+    },
+    "appointed_on": "2022-01-17",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1987
+    },
+    "links": {
+      "self": "/company/13853878/appointments/15OZp8wdWxTNNesziNt7GVcKoow",
+      "officer": {
+        "appointments": "/officers/oCQ_OGCGCYq_LtCHCxLrvP-feEk/appointments"
+      }
+    },
+    "name": "AREFEEN, Shujaul",
+    "nationality": "British",
+    "occupation": "Accountant",
+    "officer_role": "director",
+    "resigned_on": "2025-04-02",
+    "person_number": "291484480001"
+  }
+]

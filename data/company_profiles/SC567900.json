@@ -1,0 +1,45 @@
+{
+  "company_number": "SC567900",
+  "company_name": "TECH FRONTIER LTD",
+  "company_status": "active",
+  "date_of_creation": "2017-06-05",
+  "type": "ltd",
+  "jurisdiction": "scotland",
+  "sic_codes": [
+    "74100"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Robertson House",
+    "address_line_2": "Shore Street",
+    "country": "Scotland",
+    "locality": "Inverness",
+    "postal_code": "IV1 1NF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "etag": "3451c7f1d7c3dbce84b30dbe114c7053e4f78fbe"
+}

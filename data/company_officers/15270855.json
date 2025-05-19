@@ -1,0 +1,35 @@
+{
+  "company_number": "15270855",
+  "company_name": "TECH CONSULTING AI LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MACCARTHY, Fainche, Mrs.",
+      "officer_role": "director",
+      "appointed_on": "2023-11-08",
+      "resigned_on": null,
+      "nationality": "American",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "9 Oxford Court",
+        "country": "England",
+        "locality": "Manchester",
+        "postal_code": "M2 3WQ",
+        "premises": "Bartle House"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/15270855/appointments/wbHYg3VPCl5-wQBcET9jiwcI0lA",
+        "officer": {
+          "appointments": "/officers/_NMBZ2Y42zfzg1pUBV7pz-Q6CAU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

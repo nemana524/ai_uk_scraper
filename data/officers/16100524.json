@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Green Street",
+      "address_line_2": "Waldgrave Point",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "NW10 6FN",
+      "premises": "1"
+    },
+    "appointed_on": "2024-11-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1996
+    },
+    "links": {
+      "self": "/company/16100524/appointments/GNHrjRAffDLDMXLPm4T8aDRKQNM",
+      "officer": {
+        "appointments": "/officers/RkWF-f8luOQ4p7Ok0RqFoSPkyf0/appointments"
+      }
+    },
+    "name": "MERSIN, Dylan Onder",
+    "nationality": "French",
+    "occupation": "Entrepreneur",
+    "officer_role": "director",
+    "person_number": "329705830001"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "company_number": "12338757",
+  "company_name": "TECH COUTURE LTD",
+  "company_status": "active",
+  "date_of_creation": "2019-11-28",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "93290"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ",
+    "region": "Greater London"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-11-30",
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-31",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-12-01"
+    },
+    "next_due": "2026-08-31",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "etag": "0e2643e6892292df757b064b9da9f149a6c95acc"
+}

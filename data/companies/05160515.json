@@ -1,0 +1,68 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DEPT LIMITED",
+  "company_number": "05160515",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-11",
+    "next_due": "2025-06-25",
+    "next_made_up_to": "2025-06-11",
+    "overdue": false
+  },
+  "date_of_creation": "2004-06-23",
+  "etag": "4f77bc70e9e028acacc0c53b413d5a490150ebbd",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-06-23",
+  "links": {
+    "persons_with_significant_control": "/company/05160515/persons-with-significant-control",
+    "self": "/company/05160515",
+    "charges": "/company/05160515/charges",
+    "filing_history": "/company/05160515/filing-history",
+    "officers": "/company/05160515/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2007-02-06",
+      "effective_from": "2004-06-23",
+      "name": "DKPMTECH LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Fircliffe House Whitworth Road",
+    "address_line_2": "Darley Dale",
+    "country": "England",
+    "locality": "Matlock",
+    "postal_code": "DE4 2HJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

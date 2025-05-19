@@ -1,0 +1,39 @@
+{
+  "company_number": "16206304",
+  "company_name": "TECH ALLIANCE LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-01-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Flat 26 Fermont House",
+    "address_line_2": "15 Beaufort Square",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW9 4FF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2026-10-24",
+      "overdue": false,
+      "period_end_on": "2026-01-31",
+      "period_start_on": "2025-01-24"
+    },
+    "next_due": "2026-10-24",
+    "next_made_up_to": "2026-01-31",
+    "overdue": false
+  },
+  "etag": "f48ece5dd2cfb70d03e8284882ab2d4a09423bcd"
+}

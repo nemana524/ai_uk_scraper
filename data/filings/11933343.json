@@ -1,0 +1,290 @@
+[
+  {
+    "transaction_id": "MzQ2NTQ4NzM3MWFkaXF6a2N4",
+    "barcode": "XE23RCP7",
+    "type": "CS01",
+    "date": "2025-05-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-04-08"
+    },
+    "pages": 3,
+    "action_date": "2025-04-08",
+    "links": {
+      "self": "/company/11933343/filing-history/MzQ2NTQ4NzM3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BPf2uZny7qR_fELamp29dt5EtaJdphf1hkswzou0rUs"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzMzOTUwOGFkaXF6a2N4",
+    "barcode": "XDVE3DLV",
+    "type": "AA",
+    "date": "2025-01-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-04-30"
+    },
+    "pages": 8,
+    "action_date": "2024-04-30",
+    "links": {
+      "self": "/company/11933343/filing-history/MzQ1MzMzOTUwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CCkUBPh7LT5X8B7qy6J_R_5gC32Oi6KLtccBat5V3Cw"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzAzNDE0OWFkaXF6a2N4",
+    "barcode": "XD3PS1PE",
+    "type": "AD01",
+    "date": "2024-05-23",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-05-23",
+      "old_address": "26 Heddle Grove Coventry CV6 7LN England",
+      "new_address": "11 Swindon Road Birmingham B17 8JJ"
+    },
+    "pages": 1,
+    "action_date": "2024-05-23",
+    "links": {
+      "self": "/company/11933343/filing-history/MzQyMzAzNDE0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xaPekvN3s3mNIGQU-NdkBTUPSHljQG8ALD_Ogk4sHYg"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTI1NTMxNmFkaXF6a2N4",
+    "barcode": "XD1JGEMY",
+    "type": "CS01",
+    "date": "2024-04-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-04-08"
+    },
+    "pages": 3,
+    "action_date": "2024-04-08",
+    "links": {
+      "self": "/company/11933343/filing-history/MzQxOTI1NTMxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LEQ6hs0xLE9lkgo04UN3Ng17swwHS9zs4VVp-9j0JZ0"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTE5MDczMmFkaXF6a2N4",
+    "barcode": "XCVQMY8W",
+    "type": "AA",
+    "date": "2024-01-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-04-30"
+    },
+    "pages": 8,
+    "action_date": "2023-04-30",
+    "links": {
+      "self": "/company/11933343/filing-history/MzQwOTE5MDczMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/50uYXVwz1qtXJc32gZf-Snv24U6UdfMkUdKG7Efsafk"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTgyMTk0MmFkaXF6a2N4",
+    "barcode": "XC4VNLGH",
+    "type": "CS01",
+    "date": "2023-06-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-04-08"
+    },
+    "pages": 3,
+    "action_date": "2023-04-08",
+    "links": {
+      "self": "/company/11933343/filing-history/MzM4MTgyMTk0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W-Fpr3f7Mli3DMI7aLyyTKRM3_PJdkSy1nwUZAQE-1s"
+    }
+  },
+  {
+    "transaction_id": "MzM3Mzc2MzE2MmFkaXF6a2N4",
+    "barcode": "XBZVHTK9",
+    "type": "AA",
+    "date": "2023-03-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-04-30"
+    },
+    "pages": 8,
+    "action_date": "2022-04-30",
+    "links": {
+      "self": "/company/11933343/filing-history/MzM3Mzc2MzE2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t9OJFdEVJu-Q-YFCXE5TcUSqFD9yJPyZxxJ6jywo9Zo"
+    }
+  },
+  {
+    "transaction_id": "MzMzNjk2MTE3MGFkaXF6a2N4",
+    "barcode": "XB2EPLP6",
+    "type": "AA",
+    "date": "2022-04-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-04-30"
+    },
+    "pages": 9,
+    "action_date": "2021-04-30",
+    "links": {
+      "self": "/company/11933343/filing-history/MzMzNjk2MTE3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/quTDeeoeVa63_jVPNiIMCCProdQMw8JQus1q2A6ATD8"
+    }
+  },
+  {
+    "transaction_id": "MzMzNjM2NzA1NGFkaXF6a2N4",
+    "barcode": "XB1YVLPK",
+    "type": "CS01",
+    "date": "2022-04-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-04-08"
+    },
+    "pages": 3,
+    "action_date": "2022-04-08",
+    "links": {
+      "self": "/company/11933343/filing-history/MzMzNjM2NzA1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/H5h2RrMHMPUKR6hyLnzre1HYB7veTG-bqcKNLtmtcvo"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTQzOTYxOGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-04-07",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11933343/filing-history/MzMzNTQzOTYxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NLG16qkuWcTaOIKRsLymB3ilDPibPOdkVzj7OTONlao"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzU3MzUyOWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-03-29",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11933343/filing-history/MzMzMzU3MzUyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Obbfx3BOeFb1pY11kcGYOeajHhdHzQFh861jCpsuQRk"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjgxOTg1MmFkaXF6a2N4",
+    "barcode": "XA5KQEX5",
+    "type": "CS01",
+    "date": "2021-05-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-04-08"
+    },
+    "pages": 3,
+    "action_date": "2021-04-08",
+    "links": {
+      "self": "/company/11933343/filing-history/MzMwMjgxOTg1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5R6CfJtqiPUUDmAU2ckZ4DpnMvwUdNIY35b2kaomxL0"
+    }
+  },
+  {
+    "transaction_id": "MzMwMDM4ODUwNWFkaXF6a2N4",
+    "barcode": "XA42P0VT",
+    "type": "AA",
+    "date": "2021-05-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-04-30"
+    },
+    "pages": 3,
+    "action_date": "2020-04-30",
+    "links": {
+      "self": "/company/11933343/filing-history/MzMwMDM4ODUwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cwo89K8nWzx3wnlDm0Ocy7kebrDRgxKEtq0oj6fqjZs"
+    }
+  },
+  {
+    "transaction_id": "MzI2NDczNDU0OGFkaXF6a2N4",
+    "barcode": "X951KQJS",
+    "type": "AD01",
+    "date": "2020-05-14",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-05-14",
+      "old_address": "5 the Old Mill Apartments Marlborough Road Nuneaton CV11 5PQ United Kingdom",
+      "new_address": "26 Heddle Grove Coventry CV6 7LN"
+    },
+    "pages": 1,
+    "action_date": "2020-05-14",
+    "links": {
+      "self": "/company/11933343/filing-history/MzI2NDczNDU0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ei_JUYn0HBiG2meJ8jcwTSYC1auH574lz1oG16Omm2M"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzkwOTc0OWFkaXF6a2N4",
+    "barcode": "X94DV3LV",
+    "type": "CS01",
+    "date": "2020-05-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-04-08"
+    },
+    "pages": 3,
+    "action_date": "2020-04-08",
+    "links": {
+      "self": "/company/11933343/filing-history/MzI2MzkwOTc0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mTtPptaBB8ohmrQQZPADMuEC5IV2L-RovJhwnHIzNxQ"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTQ3NjU2NmFkaXF6a2N4",
+    "barcode": "X82W277M",
+    "type": "NEWINC",
+    "date": "2019-04-09",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-04-09",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-04-09",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-04-09",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2019-04-09"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11933343/filing-history/MzIzMTQ3NjU2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/98oTOUnCD1N7P1xWO1CYZwAzsBAF3Hz_J26E3srvkJo"
+    }
+  }
+]

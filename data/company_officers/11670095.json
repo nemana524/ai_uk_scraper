@@ -1,0 +1,36 @@
+{
+  "company_number": "11670095",
+  "company_name": "TECH KNOW LOGIC CONSULTING LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ODEDRA, Hitesh",
+      "officer_role": "director",
+      "appointed_on": "2018-11-09",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Clifford Bridge Road",
+        "address_line_2": "Binley",
+        "country": "United Kingdom",
+        "locality": "Coventry",
+        "postal_code": "CV3 2DW",
+        "premises": "73"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/11670095/appointments/KKX225BPc1f6XO3n7OXKtbpLBos",
+        "officer": {
+          "appointments": "/officers/Vry4uYxEdDwtCSa98dbBaFSY0g4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "company_number": "15787884",
+  "company_name": "TECH CONSUMER LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NOAH, Kai",
+      "officer_role": "director",
+      "appointed_on": "2024-06-19",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Market Square",
+        "address_line_2": "The Pavilion Shopping Centre",
+        "country": "England",
+        "locality": "Uxbridge",
+        "postal_code": "UB8 1LN",
+        "premises": "30"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/15787884/appointments/1NzC3CSIs7DXPEY5DrfQ-gRdXvk",
+        "officer": {
+          "appointments": "/officers/EHoHSeYF4qeIkci5AFKZf06xF80/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "company_number": "14136317",
+  "company_name": "TECH CONSULTANCY LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SHARIF, Abdul Rehman",
+      "officer_role": "director",
+      "appointed_on": "2022-07-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Langston Road",
+        "address_line_2": "Loughton",
+        "country": "England",
+        "locality": "Essex",
+        "postal_code": "IG10 3TQ",
+        "premises": "4 York House"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/14136317/appointments/_C9KJan9TbpNScc-Zp9kFcAi7fM",
+        "officer": {
+          "appointments": "/officers/JgNhOE9buoUVQzqLCN-UTIQg3aE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHARIF, Faiza Abdul Rehman",
+      "officer_role": "director",
+      "appointed_on": "2022-05-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Business Executive",
+      "address": {
+        "address_line_1": "Langston Road",
+        "address_line_2": "Loughton",
+        "country": "England",
+        "locality": "Essex",
+        "postal_code": "IG10 3TQ",
+        "premises": "4 York House"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 2000
+      },
+      "links": {
+        "self": "/company/14136317/appointments/G1Ehf-UFXEgkC5ED0HeCmsIbSEw",
+        "officer": {
+          "appointments": "/officers/1KOX3D5w8kXZLxNu2AcQ0T_sR_c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

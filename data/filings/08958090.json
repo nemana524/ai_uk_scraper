@@ -1,0 +1,541 @@
+[
+  {
+    "transaction_id": "MzQ2MDE5MTUzOWFkaXF6a2N4",
+    "barcode": "XDZ5JPT6",
+    "type": "CS01",
+    "date": "2025-03-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-25"
+    },
+    "pages": 3,
+    "action_date": "2025-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzQ2MDE5MTUzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LHAtX4ne1-7bDyg_DDlYImEySfV43TU-ZK5CSMiDZkw"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDY1MzU2NmFkaXF6a2N4",
+    "barcode": "XDB1DDUO",
+    "type": "AA",
+    "date": "2024-09-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzQzNDY1MzU2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t-PP8ZtlRdOxv5duRdgQ4IGm-_wlan42fut3TLJMyu0"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjgyMzcyMGFkaXF6a2N4",
+    "barcode": "XD06I01T",
+    "type": "CS01",
+    "date": "2024-04-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-25"
+    },
+    "pages": 3,
+    "action_date": "2024-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzQxNjgyMzcyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T8xIB_TWECVtw-IQudBe20b3fgry1cyB6_1xHqy1kFw"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDk2NTIwN2FkaXF6a2N4",
+    "barcode": "XCD38KP5",
+    "type": "AA",
+    "date": "2023-09-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 3,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzM5NDk2NTIwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Bx0CcaScIcFQMjHpN1VxjxrOwRgXwn8FTE_Z-J3Cs7Y"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDU0MDE4NmFkaXF6a2N4",
+    "barcode": "XC0BSYP2",
+    "type": "CS01",
+    "date": "2023-03-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-25"
+    },
+    "pages": 3,
+    "action_date": "2023-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzM3NDU0MDE4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0FWefu_oAiOmoSGWJ-YulZx7IL6M7l3SfnylcsWb9b8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTM5MTQzNmFkaXF6a2N4",
+    "barcode": "XBICTY94",
+    "type": "AA",
+    "date": "2022-12-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 3,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzM2MTM5MTQzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IxBIoyiazTMhPt8BxISLkkCfnn0_rfsdCTCJCZ5stsY"
+    }
+  },
+  {
+    "transaction_id": "MzMzNDQ2OTE4M2FkaXF6a2N4",
+    "barcode": "XB0U26WQ",
+    "type": "CS01",
+    "date": "2022-03-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-03-25"
+    },
+    "pages": 3,
+    "action_date": "2022-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzMzNDQ2OTE4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ecSm8p-KLEQaCroUcuMxbcj-OLY5Q0PrBL3CQzg3d5E"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzU4NDg0MWFkaXF6a2N4",
+    "barcode": "XAWCRQ4G",
+    "type": "CH01",
+    "date": "2022-01-24",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-01-24",
+      "officer_name": "Mr Gustavo-Damian Hinojosa-Martinez"
+    },
+    "pages": 2,
+    "action_date": "2022-01-24",
+    "links": {
+      "self": "/company/08958090/filing-history/MzMyNzU4NDg0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mz9eHn39rxMLVPL7f3QxFFi1yNAdkbFZ67B9Go0qKVs"
+    }
+  },
+  {
+    "transaction_id": "MzMxODAwODcxOGFkaXF6a2N4",
+    "barcode": "XAFTWHKI",
+    "type": "AA",
+    "date": "2021-10-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 3,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzMxODAwODcxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HycRdEA6jwhJ-8GyDP5ASNDndX4s6k4Z0YQjojOmvPY"
+    }
+  },
+  {
+    "transaction_id": "MzI5NjM4NjgwOWFkaXF6a2N4",
+    "barcode": "XA1G6UZ5",
+    "type": "CS01",
+    "date": "2021-03-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-03-25"
+    },
+    "pages": 5,
+    "action_date": "2021-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzI5NjM4NjgwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bPUqZTv3dQCRQD25yhx1tLU8HuXstk1mmBfUxCyv3WQ"
+    }
+  },
+  {
+    "transaction_id": "MzI3OTU4OTE1M2FkaXF6a2N4",
+    "barcode": "X9F26G77",
+    "type": "AA",
+    "date": "2020-10-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 3,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzI3OTU4OTE1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pZczHGqh_Y7vTIVfQWQwcYD5K7L9ZQPx5P_QA94z9Ic"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTkxMzU2MWFkaXF6a2N4",
+    "barcode": "X92HCD63",
+    "type": "CS01",
+    "date": "2020-04-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-03-25"
+    },
+    "pages": 3,
+    "action_date": "2020-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzI2MTkxMzU2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vJj71AuT6wsvShmo0HorBuLSZHWT3Soe9YmdEMIrBOA"
+    }
+  },
+  {
+    "transaction_id": "MzI0NzA2NjI1MmFkaXF6a2N4",
+    "barcode": "X8G9QZQG",
+    "type": "AA",
+    "date": "2019-10-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 2,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzI0NzA2NjI1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S99qyLZHqE62TEJJ9GZXy5aRibrH4h9Nc8JN_nQKrqY"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTE2MjY2NGFkaXF6a2N4",
+    "barcode": "X82LJ5N6",
+    "type": "CS01",
+    "date": "2019-04-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-03-25"
+    },
+    "pages": 3,
+    "action_date": "2019-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzIzMTE2MjY2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JIYaqfDYGZRGryByb5b93DMYTw7curs47phMJA-C9ZU"
+    }
+  },
+  {
+    "transaction_id": "MzIxNTE5NzMyNmFkaXF6a2N4",
+    "barcode": "X7F68YIY",
+    "type": "AA",
+    "date": "2018-09-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-03-31"
+    },
+    "pages": 2,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzIxNTE5NzMyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EvBKNQrpnYdFgzEcjYRm4r5XrfV5WAgv5v129BEFBJs"
+    }
+  },
+  {
+    "transaction_id": "MzIwMTAyMjE1NmFkaXF6a2N4",
+    "barcode": "X72J8VFD",
+    "type": "CS01",
+    "date": "2018-03-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2018-03-25"
+    },
+    "pages": 4,
+    "action_date": "2018-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzIwMTAyMjE1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ay1vfba53OZ_4kv8bIuPIzN1_PFsinvmATonPbUhK8U"
+    }
+  },
+  {
+    "transaction_id": "MzE4NTE2MzQ3MGFkaXF6a2N4",
+    "barcode": "X6ETZHC8",
+    "type": "AP03",
+    "date": "2017-09-12",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-secretary-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Carolina Hinojosa",
+      "appointment_date": "2017-09-11"
+    },
+    "pages": 2,
+    "action_date": "2017-09-11",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE4NTE2MzQ3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0aAySJDiaDNU02fLvAS90u1Dm0Mz7GUBn8YlZrjyl8Q"
+    }
+  },
+  {
+    "transaction_id": "MzE4NTE2MzM2MWFkaXF6a2N4",
+    "barcode": "X6ETZDTM",
+    "type": "TM01",
+    "date": "2017-09-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Daniela Villamar",
+      "termination_date": "2017-09-08"
+    },
+    "pages": 1,
+    "action_date": "2017-09-08",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE4NTE2MzM2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/crllJfnR6K0NGPTzEtgeEQptoDobSDkP1wSVPBB8j0w"
+    }
+  },
+  {
+    "transaction_id": "MzE4NTE2MzMwMGFkaXF6a2N4",
+    "barcode": "X6ETZB8B",
+    "type": "PSC07",
+    "date": "2017-09-12",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Daniela Villamar",
+      "cessation_date": "2017-09-08"
+    },
+    "pages": 1,
+    "action_date": "2017-09-08",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE4NTE2MzMwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C1m2vZXYUpByB5vddiNdUmcmfdGRE3aZFnufMHryhOM"
+    }
+  },
+  {
+    "transaction_id": "MzE4NTAyNTk1MGFkaXF6a2N4",
+    "barcode": "X6EOMMY3",
+    "type": "AA",
+    "date": "2017-09-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-03-31"
+    },
+    "pages": 2,
+    "action_date": "2017-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE4NTAyNTk1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wIUF3xbl67CeCoJwkSg6xtJ9ESp1vvdQBgOAVZzFx_c"
+    }
+  },
+  {
+    "transaction_id": "MzE3MjU3NjY0NmFkaXF6a2N4",
+    "barcode": "X63CXQQX",
+    "type": "CS01",
+    "date": "2017-03-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-03-25"
+    },
+    "pages": 6,
+    "action_date": "2017-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE3MjU3NjY0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OlJrAFGevnuhwlaQ_Od6DwfloMWm3y39dLk3cM6Am5w"
+    }
+  },
+  {
+    "transaction_id": "MzE3MjU3NTgyMWFkaXF6a2N4",
+    "barcode": "X63CXIKG",
+    "type": "AP01",
+    "date": "2017-03-31",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Ms Daniela Villamar",
+      "appointment_date": "2017-01-01"
+    },
+    "pages": 2,
+    "action_date": "2017-01-01",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE3MjU3NTgyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/H2-FyQTafBU4WcqyBHRG7Oic4AtfzKm4tmqZ3lxBbw4"
+    }
+  },
+  {
+    "transaction_id": "MzE2NDg1NTg2M2FkaXF6a2N4",
+    "barcode": "X5M7YXTT",
+    "type": "AA",
+    "date": "2016-12-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2016-03-31"
+    },
+    "pages": 2,
+    "action_date": "2016-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE2NDg1NTg2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W_Qq_6Z8DsoaSN33qmZOKRiNJMiLQwm6K8tjrxrch2M"
+    }
+  },
+  {
+    "transaction_id": "MzE0Njc2MzYxNGFkaXF6a2N4",
+    "barcode": "X55C0OJL",
+    "type": "AR01",
+    "date": "2016-04-20",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-04-20",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-04-20",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2016-04-20"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2016-03-25"
+    },
+    "pages": 3,
+    "action_date": "2016-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE0Njc2MzYxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZiAY1bBVgC6Pjp28hixzbW-FA5-6gWLa_uc7Xcu1_wE"
+    }
+  },
+  {
+    "transaction_id": "MzE0Mzg4MTc3N2FkaXF6a2N4",
+    "barcode": "X52KBCAP",
+    "type": "TM02",
+    "date": "2016-03-11",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ingrid-Daniela Villamar-Pesantes",
+      "termination_date": "2016-03-11"
+    },
+    "pages": 1,
+    "action_date": "2016-03-11",
+    "links": {
+      "self": "/company/08958090/filing-history/MzE0Mzg4MTc3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/me6AaqBb5tnxIuxv2xf0IvJES_sD6y8gIYqMZ4P7MBY"
+    }
+  },
+  {
+    "transaction_id": "MzEyMjEyMTU4OWFkaXF6a2N4",
+    "barcode": "X46922J5",
+    "type": "AA",
+    "date": "2015-04-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2015-03-31"
+    },
+    "pages": 2,
+    "action_date": "2015-03-31",
+    "links": {
+      "self": "/company/08958090/filing-history/MzEyMjEyMTU4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uTyVeddawcIHURQ6U1u13GV80jx0p5Ka2AllOaIxpsc"
+    }
+  },
+  {
+    "transaction_id": "MzEyMjExOTcyMGFkaXF6a2N4",
+    "barcode": "X4691WTM",
+    "type": "AR01",
+    "date": "2015-04-28",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-04-28",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-04-28",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2015-04-28"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2015-03-25"
+    },
+    "pages": 4,
+    "action_date": "2015-03-25",
+    "links": {
+      "self": "/company/08958090/filing-history/MzEyMjExOTcyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qIYeHwmHN6GiWwhmD7pu2UIqidasNa1l7BlwmLxQYdg"
+    }
+  },
+  {
+    "transaction_id": "MzA5NjkwMjkyM2FkaXF6a2N4",
+    "barcode": "X34DVQ21",
+    "type": "NEWINC",
+    "date": "2014-03-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2014-03-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2014-03-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2014-03-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 21,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08958090/filing-history/MzA5NjkwMjkyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pR_-U0lplB-KsmNsJDVcv5rc0g4O5Cbb0dV2f05-rfo"
+    }
+  }
+]

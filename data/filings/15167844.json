@@ -1,0 +1,89 @@
+[
+  {
+    "transaction_id": "MzQ1NDU3NjM0MGFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2025-02-18",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15167844/filing-history/MzQ1NDU3NjM0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ghz6VKYx1_l83njarpYjxukq2i8U17uYZxiTuQhEpBY"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NDcxNDE0NmFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-12-03",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15167844/filing-history/MzQ0NDcxNDE0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cVe71PJsX6Xdxwwrd0IdUpd2PNHP1RJhBmL04Zh5Tno"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NDcxNDA4N2FkaXF6a2N4",
+    "barcode": "XDGITIUY",
+    "type": "DS01",
+    "date": "2024-11-24",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/15167844/filing-history/MzQ0NDcxNDA4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lark0jFL9GUMlavpF0xTXU7tXQpBpY2OP7qvuyZu7bo"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NDcxMzQ2OWFkaXF6a2N4",
+    "barcode": "XDGITGPN",
+    "type": "CS01",
+    "date": "2024-11-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-09-26"
+    },
+    "pages": 3,
+    "action_date": "2024-09-26",
+    "links": {
+      "self": "/company/15167844/filing-history/MzQ0NDcxMzQ2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/70B87_2hfNBO2tdWS2etL1_Vy9SrvLN0GGN-u-i8Ctc"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDI3MDAyMmFkaXF6a2N4",
+    "barcode": "XCCRZ7A2",
+    "type": "NEWINC",
+    "date": "2023-09-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-09-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-09-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-09-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/15167844/filing-history/MzM5NDI3MDAyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_T-8QJZNOElL1nEW_8XWad2ZCLTTpSxH0iI4TIMV37k"
+    }
+  }
+]

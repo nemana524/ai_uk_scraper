@@ -1,0 +1,63 @@
+{
+  "company_number": "11125769",
+  "company_name": "TECH DIRECT LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SINGH, Manjit",
+      "officer_role": "director",
+      "appointed_on": "2020-12-01",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Mascotts Close",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "NW2 6NS",
+        "premises": "4"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/11125769/appointments/fRQKMPAE07S1cd1pavZyYBS2twc",
+        "officer": {
+          "appointments": "/officers/p8BXjDMay5yhOI7DZNjF3Ii1j7U/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GUL, Ghafoor",
+      "officer_role": "director",
+      "appointed_on": "2017-12-27",
+      "resigned_on": "2020-12-01",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Uxbridge Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "W12 8AA",
+        "premises": "138"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/11125769/appointments/ZMCPvnzUGheJdWn0o042Pf0zOE4",
+        "officer": {
+          "appointments": "/officers/DTUym37Wriy1Rlqk3w0MUpeqk9g/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

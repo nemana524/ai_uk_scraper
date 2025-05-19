@@ -1,0 +1,35 @@
+{
+  "company_number": "15878627",
+  "company_name": "TECH 4 PARTS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "REID, Shauna Grace",
+      "officer_role": "director",
+      "appointed_on": "2024-08-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "5 Vanguard Way",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E17 6DX",
+        "premises": "27 Regency House"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 2005
+      },
+      "links": {
+        "self": "/company/15878627/appointments/pTme7xkEsf0_-xvEgjRVdDH1vx8",
+        "officer": {
+          "appointments": "/officers/9GKpJ_Yh6o5G0z0ZhSPx9KeLSSs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

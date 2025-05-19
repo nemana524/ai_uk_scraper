@@ -1,0 +1,193 @@
+{
+  "company_number": "06937007",
+  "company_name": "TECH FORCE UK LIMITED",
+  "total_officers": 7,
+  "officers": [
+    {
+      "name": "SANDERS, Philip John",
+      "officer_role": "director",
+      "appointed_on": "2014-08-20",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Royal Terrace",
+        "country": "England",
+        "locality": "Southend-On-Sea",
+        "postal_code": "SS1 1EA",
+        "premises": "1"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/06937007/appointments/JZZ77QTGEnLt6j3bcl55KFpnEaU",
+        "officer": {
+          "appointments": "/officers/lN3tSA0GKJd3S5ujaKfFBIlyIeE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SANDERS, Marie",
+      "officer_role": "secretary",
+      "appointed_on": "2014-08-20",
+      "resigned_on": "2024-03-01",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Royal Terrace",
+        "country": "England",
+        "locality": "Southend-On-Sea",
+        "postal_code": "SS1 1EA",
+        "premises": "1"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/06937007/appointments/ITFWEorwwA35mzAFMhWJusiTCls",
+        "officer": {
+          "appointments": "/officers/Vi0z8OTxD-zcV6cTiBp20gwZFqU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SANDERS, Philip John",
+      "officer_role": "secretary",
+      "appointed_on": "2010-05-07",
+      "resigned_on": "2014-08-20",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Wash Road",
+        "locality": "Basildon",
+        "postal_code": "SS15 4ER",
+        "premises": "5",
+        "region": "Essex"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/06937007/appointments/0VabdhqARShzaBRi2VAE8zpMxlY",
+        "officer": {
+          "appointments": "/officers/fIPnvMwyKNjwvZhtl9IPw5NtflI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ABERGAN REED NOMINEES LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2009-06-17",
+      "resigned_on": "2009-06-17",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Brady Road",
+        "address_line_2": "Lyminge",
+        "locality": "Folkestone",
+        "postal_code": "CT18 8EY",
+        "premises": "Ifield House",
+        "region": "Kent"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/06937007/appointments/necl_Y081_30sZGGxYX-ueMw3ss",
+        "officer": {
+          "appointments": "/officers/X8TknYrj-gGSD9cCnuk-si8W2n0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "LAWS, Kevin John",
+      "officer_role": "director",
+      "appointed_on": "2009-06-17",
+      "resigned_on": "2014-08-20",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "10 Wren Road",
+        "locality": "Sidcup",
+        "postal_code": "DA14 4NG",
+        "region": "Kent"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1964
+      },
+      "links": {
+        "self": "/company/06937007/appointments/2algaIU7XR-x8PSBmDgc6FmFZYA",
+        "officer": {
+          "appointments": "/officers/0vOqieVzAydwWWoyYBV0mhkW8Do/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PELLATT, Christopher Michael",
+      "officer_role": "director",
+      "appointed_on": "2009-06-17",
+      "resigned_on": "2009-06-17",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Ingles Manor",
+        "address_line_2": "Castle Hill Avenue",
+        "locality": "Folkestone",
+        "postal_code": "CT20 2RD",
+        "region": "Kent"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/06937007/appointments/H9M4CVOg3XSGh73zvAD1OQW2ECY",
+        "officer": {
+          "appointments": "/officers/VwINKG4nmY1k2N_kuUs-SO8oQrs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "TAYLOR, Jason David",
+      "officer_role": "director",
+      "appointed_on": "2009-06-17",
+      "resigned_on": "2010-05-07",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "12 Gladstone Road",
+        "locality": "Hockley",
+        "postal_code": "SS5 4BT",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/06937007/appointments/CV0RDFTo2pKcoYx_mV0yqQ2uqbE",
+        "officer": {
+          "appointments": "/officers/1oLd0yopcAPOHuOMrEIBWnsvSsg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

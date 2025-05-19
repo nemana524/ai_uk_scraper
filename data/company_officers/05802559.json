@@ -1,0 +1,61 @@
+{
+  "company_number": "05802559",
+  "company_name": "TECH ELECTRICAL & MECHANICAL LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SKEELS, Asa John",
+      "officer_role": "director",
+      "appointed_on": "2006-05-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "351 London Road",
+        "address_line_2": "Hadleigh",
+        "country": "England",
+        "locality": "Benfleet",
+        "postal_code": "SS7 2BT",
+        "premises": "Suite 9 Hadleigh Business Centre",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/05802559/appointments/9LJasr94ZTNxOfq-c4rR3p--bnw",
+        "officer": {
+          "appointments": "/officers/NAG3QVczhB07g0ElGSzZtk2lSys/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "NISON LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2006-05-02",
+      "resigned_on": "2008-05-21",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "124 Inchbonnie Road",
+        "locality": "South Woodham Ferrers",
+        "postal_code": "CM3 5ZW",
+        "region": "Essex"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05802559/appointments/zvG18tWkQrgCrs67SvdHEXGZ6yI",
+        "officer": {
+          "appointments": "/officers/L3mQzt21zZsuVfoN5xDyYRHnrAk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "company_number": "15557371",
+  "company_name": "TECH FAB INTERNATIONAL UK LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-03-12",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46410",
+    "70229"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "1 Grace House Harrovian Business Village",
+    "address_line_2": "Bessborough Road",
+    "country": "United Kingdom",
+    "locality": "Harrow",
+    "postal_code": "HA1 3EX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-12",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-03-12"
+    },
+    "next_due": "2025-12-12",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "19e1ad175cf7eeac1472bf0c5b13b62a57c112a4"
+}

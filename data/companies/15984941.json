@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-28",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-09-28"
+    },
+    "next_due": "2026-06-28",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH LIFE WORLD LIMITED",
+  "company_number": "15984941",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-10-11",
+    "next_made_up_to": "2025-09-27",
+    "overdue": false
+  },
+  "date_of_creation": "2024-09-28",
+  "etag": "b4e49f31a3bfbc4a560966cd870dd172cb057d3e",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15984941/persons-with-significant-control",
+    "self": "/company/15984941",
+    "filing_history": "/company/15984941/filing-history",
+    "officers": "/company/15984941/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

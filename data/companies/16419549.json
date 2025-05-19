@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2027-01-31",
+      "overdue": false,
+      "period_end_on": "2026-04-30",
+      "period_start_on": "2025-04-30"
+    },
+    "next_due": "2027-01-31",
+    "next_made_up_to": "2026-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EXPLORER SOLUTIONS LIMITED",
+  "company_number": "16419549",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-05-13",
+    "next_made_up_to": "2026-04-29",
+    "overdue": false
+  },
+  "date_of_creation": "2025-04-30",
+  "etag": "c9da03fc9d14745c7baaf2769d9d73a5f46fdc09",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16419549/persons-with-significant-control",
+    "self": "/company/16419549",
+    "filing_history": "/company/16419549/filing-history",
+    "officers": "/company/16419549/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "128 City Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47429",
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

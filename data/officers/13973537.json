@@ -1,0 +1,59 @@
+[
+  {
+    "address": {
+      "address_line_1": "Barkerhouse Road",
+      "country": "England",
+      "locality": "Nelson",
+      "postal_code": "BB9 9LS",
+      "premises": "350"
+    },
+    "appointed_on": "2022-03-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1991
+    },
+    "links": {
+      "self": "/company/13973537/appointments/YMrf1TmMx-D2fg9I7Oukv66fZWA",
+      "officer": {
+        "appointments": "/officers/3VfbaetVRmyP7yVCOZUkDmIMqiY/appointments"
+      }
+    },
+    "name": "POTTER, Kyran",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "293530830001"
+  },
+  {
+    "address": {
+      "address_line_1": "Brook Mill Estate",
+      "address_line_2": "Station Road",
+      "country": "United Kingdom",
+      "locality": "Wrea Green",
+      "postal_code": "PR4 2PH",
+      "premises": "Unit 14e",
+      "region": "Lancashire"
+    },
+    "appointed_on": "2022-03-14",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1970
+    },
+    "links": {
+      "self": "/company/13973537/appointments/sQ2NtHjH-8d-jGB8erOMk7ylrhE",
+      "officer": {
+        "appointments": "/officers/y33MoJJGt0anXi82bewBmJb6Ppc/appointments"
+      }
+    },
+    "name": "ELSON, Robert Christopher",
+    "nationality": "British",
+    "occupation": "Computer Consultant",
+    "officer_role": "director",
+    "resigned_on": "2023-01-23",
+    "person_number": "90275880002"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Sienna Gardens",
+      "country": "Scotland",
+      "locality": "Edinburgh",
+      "postal_code": "EH9 1PF",
+      "premises": "1/10"
+    },
+    "appointed_on": "2023-07-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Scotland",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/SC774420/appointments/FCRvfj9QfAmBDcGM5OnhIAr7LlQ",
+      "officer": {
+        "appointments": "/officers/iXL_5tV0XBUH60pGEw4AmhgVw_Q/appointments"
+      }
+    },
+    "name": "ZAHID, Wahab",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "274489970001"
+  }
+]

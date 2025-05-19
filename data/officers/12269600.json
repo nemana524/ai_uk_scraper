@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Somerville Way",
+      "country": "England",
+      "locality": "Aylesbury",
+      "postal_code": "HP19 7QT",
+      "premises": "53"
+    },
+    "appointed_on": "2019-10-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1968
+    },
+    "links": {
+      "self": "/company/12269600/appointments/eNQZOjW8EBl92Plf3SdYAiL6HL0",
+      "officer": {
+        "appointments": "/officers/ORNRst7Fpc0FkfuPlJReKpCjU2A/appointments"
+      }
+    },
+    "name": "CRICK, Paul Allen",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "198315150002"
+  }
+]

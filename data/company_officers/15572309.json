@@ -1,0 +1,35 @@
+{
+  "company_number": "15572309",
+  "company_name": "TECH & DEV SOLUTIONS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PECK, Kurtis Dean",
+      "officer_role": "director",
+      "appointed_on": "2024-03-17",
+      "resigned_on": null,
+      "nationality": "English",
+      "country_of_residence": "England",
+      "occupation": "Project Manager",
+      "address": {
+        "address_line_1": "Montague Avenue",
+        "country": "England",
+        "locality": "South Croydon",
+        "postal_code": "CR2 9NL",
+        "premises": "47"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1999
+      },
+      "links": {
+        "self": "/company/15572309/appointments/tbuUkA5VArQ-zBsJZMEj03O8TpQ",
+        "officer": {
+          "appointments": "/officers/1eBlb5tx7ed4MQgAcbousR4JAJE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

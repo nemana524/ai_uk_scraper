@@ -1,0 +1,35 @@
+{
+  "company_number": "12717492",
+  "company_name": "TECH ISLAND LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NAZIM, Shayan",
+      "officer_role": "director",
+      "appointed_on": "2020-07-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Sales Director",
+      "address": {
+        "address_line_1": "Ragstone Road",
+        "country": "England",
+        "locality": "Slough",
+        "postal_code": "SL1 2PX",
+        "premises": "54"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/12717492/appointments/-sdOs048JU_xx-laqRss3gL6yCA",
+        "officer": {
+          "appointments": "/officers/sCIWhjrDcFssxAoCG3TUaVoKTnM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

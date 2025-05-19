@@ -1,0 +1,51 @@
+[
+  {
+    "address": {
+      "address_line_1": "Shelton Street",
+      "address_line_2": "Covent Garden",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "WC2H 9JQ",
+      "premises": "71-75"
+    },
+    "appointed_on": "2024-09-11",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15950227/appointments/RElsI3gAwHFYOfiGvTblr1EagQY",
+      "officer": {
+        "appointments": "/officers/OhgVTQ9qpEzLuBYK_BJB2BriGV0/appointments"
+      }
+    },
+    "name": "MANCHINEELA, Kalyankumar",
+    "officer_role": "secretary",
+    "person_number": "327035200001"
+  },
+  {
+    "address": {
+      "address_line_1": "Shelton Street",
+      "address_line_2": "Covent Garden",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "WC2H 9JQ",
+      "premises": "71-75"
+    },
+    "appointed_on": "2024-09-11",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1997
+    },
+    "links": {
+      "self": "/company/15950227/appointments/cTVEFXJJTu2A2MF-sjose4j7Mds",
+      "officer": {
+        "appointments": "/officers/-qoC-Md80uB6l0RLXOASTGoeAXw/appointments"
+      }
+    },
+    "name": "MANCHINEELA, Kalyankumar",
+    "nationality": "Indian",
+    "occupation": "Shopkeeper",
+    "officer_role": "director",
+    "person_number": "327035190001"
+  }
+]

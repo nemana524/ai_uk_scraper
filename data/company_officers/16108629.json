@@ -1,0 +1,63 @@
+{
+  "company_number": "16108629",
+  "company_name": "TECH DE QUANTUM LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "FLORA, Amardeep Singh",
+      "officer_role": "director",
+      "appointed_on": "2024-12-19",
+      "resigned_on": null,
+      "nationality": "Canadian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "London Road",
+        "country": "England",
+        "locality": "Morden",
+        "postal_code": "SM4 5BT",
+        "premises": "Suite 3-06 Peel House"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/16108629/appointments/WwRyCa9T3RVdDzxIuP8udkZGkKQ",
+        "officer": {
+          "appointments": "/officers/nK-B98blET0dInZO9NY1wEZBbyo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SINGH, Rajan Deep",
+      "officer_role": "director",
+      "appointed_on": "2024-11-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "London Road",
+        "country": "England",
+        "locality": "Morden",
+        "postal_code": "SM4 5BT",
+        "premises": "Suite 3-06 Peel House"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1987
+      },
+      "links": {
+        "self": "/company/16108629/appointments/JIVo2CXwiUHQTBpEYd3IdJFGUzM",
+        "officer": {
+          "appointments": "/officers/bhupPp36hxe8TjCb1d_FTToWkOU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

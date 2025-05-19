@@ -1,0 +1,47 @@
+{
+  "company_number": "09787757",
+  "company_name": "TECH HAS NO FACE LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2015-09-21",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "62090",
+    "85590"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "82a James Carter Road",
+    "address_line_2": "Mildenhall",
+    "country": "England",
+    "locality": "Bury St. Edmunds",
+    "postal_code": "IP28 7DE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-10-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "6263b04d7610a50d4eecf4fcc44b3dade10fcf46"
+}

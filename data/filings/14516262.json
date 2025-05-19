@@ -1,0 +1,184 @@
+[
+  {
+    "transaction_id": "MzQ0ODE5MjkzMWFkaXF6a2N4",
+    "barcode": "XDI719Q3",
+    "type": "CS01",
+    "date": "2024-12-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-29"
+    },
+    "pages": 3,
+    "action_date": "2024-11-29",
+    "links": {
+      "self": "/company/14516262/filing-history/MzQ0ODE5MjkzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1TjX15cXtV4sG_XcQ3Gao-0fRSbef2kiTdv0GzSp500"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDE1NDQxNmFkaXF6a2N4",
+    "barcode": "XDAT4QN7",
+    "type": "AD01",
+    "date": "2024-09-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-09-02",
+      "old_address": "72 Church Road Ashford TW15 2TW England",
+      "new_address": "Suite S 7 Rays House North Circular Road London NW10 7XP"
+    },
+    "pages": 1,
+    "action_date": "2024-09-02",
+    "links": {
+      "self": "/company/14516262/filing-history/MzQzNDE1NDQxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Cizr2X5KosertMRBVFM9d0FoZdrphSZWt4cjqwGo7sg"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTU4NzA4NGFkaXF6a2N4",
+    "barcode": "XD1OVNWW",
+    "type": "PSC04",
+    "date": "2024-04-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-04-24",
+      "psc_name": "Mr Bahadur Bhanwadiya"
+    },
+    "pages": 2,
+    "action_date": "2024-04-24",
+    "links": {
+      "self": "/company/14516262/filing-history/MzQxOTU4NzA4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ymrkpHbTL-A8OopQXCh9UVTxCwz_Ihnm_eOaAmix3IM"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTU4Njg0NGFkaXF6a2N4",
+    "barcode": "XD1OVMWZ",
+    "type": "CH01",
+    "date": "2024-04-24",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-04-24",
+      "officer_name": "Mr Bahadur Bhanwadiya"
+    },
+    "pages": 2,
+    "action_date": "2024-04-24",
+    "links": {
+      "self": "/company/14516262/filing-history/MzQxOTU4Njg0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bObum6m1IokaAVUoWpYkYJo9AODF32bN-w_Ob_14cgk"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTU4NjUxM2FkaXF6a2N4",
+    "barcode": "XD1OVLQP",
+    "type": "AD01",
+    "date": "2024-04-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-04-24",
+      "old_address": "111 Bear Road Feltham TW13 6SA England",
+      "new_address": "72 Church Road Ashford TW15 2TW"
+    },
+    "pages": 1,
+    "action_date": "2024-04-24",
+    "links": {
+      "self": "/company/14516262/filing-history/MzQxOTU4NjUxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0JFaPEH8YQ2WVq4iOIfmJLjE-mAOFD6qdjBBd78rBxE"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjE1MTc0NWFkaXF6a2N4",
+    "barcode": "XCZQCMAA",
+    "type": "AA",
+    "date": "2024-03-26",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-10-31"
+    },
+    "pages": 2,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/14516262/filing-history/MzQxNjE1MTc0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HDQviNnqWmd6EXS3nDPAhTdtw1Thm_I8JchB3V3ASQY"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzEwNDkxMmFkaXF6a2N4",
+    "barcode": "XCHVTE1L",
+    "type": "CS01",
+    "date": "2023-12-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-29"
+    },
+    "pages": 3,
+    "action_date": "2023-11-29",
+    "links": {
+      "self": "/company/14516262/filing-history/MzQwMzEwNDkxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xfLycKbPf7rvdrsLShHaBg08vm-JmyAUx8AwHPKJefE"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTkxNjA1MGFkaXF6a2N4",
+    "barcode": "XCDTXPJU",
+    "type": "AA01",
+    "date": "2023-10-10",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-shortened",
+    "description_values": {
+      "made_up_date": "2023-11-30",
+      "new_date": "2023-10-31"
+    },
+    "pages": 1,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/14516262/filing-history/MzM5NTkxNjA1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FrM5k4IBT5fzouWwho9WisadeU0rrODZwQN5y63ANUk"
+    }
+  },
+  {
+    "transaction_id": "MzM2MDM3MzEyN2FkaXF6a2N4",
+    "barcode": "XBHWERE9",
+    "type": "NEWINC",
+    "date": "2022-11-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-11-30",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-11-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-11-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-11-30"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14516262/filing-history/MzM2MDM3MzEyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CtQmZYwMkKQHPVFLNVsfZcDK9VYgqXKKMaqpXT_X9FU"
+    }
+  }
+]

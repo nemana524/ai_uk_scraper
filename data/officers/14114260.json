@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Bower Fold",
+      "country": "United Kingdom",
+      "locality": "Blackburn",
+      "postal_code": "BB2 2AS",
+      "premises": "10"
+    },
+    "appointed_on": "2022-05-18",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1990
+    },
+    "links": {
+      "self": "/company/14114260/appointments/P_n6PBQb1k2DJ-8S0GhbcyGDSLg",
+      "officer": {
+        "appointments": "/officers/Ju4N0hogcVArUKmwUDhee4wokJQ/appointments"
+      }
+    },
+    "name": "TELI, Khalid",
+    "nationality": "Indian",
+    "occupation": "Software Developer",
+    "officer_role": "director",
+    "person_number": "295928940002"
+  }
+]

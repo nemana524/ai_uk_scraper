@@ -1,0 +1,36 @@
+{
+  "company_number": "16017628",
+  "company_name": "TECH EVENTS AI LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "WATKINS, Mark Simon",
+      "officer_role": "director",
+      "appointed_on": "2024-10-14",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Roundwood Lane",
+        "country": "United Kingdom",
+        "locality": "Harpenden",
+        "postal_code": "AL5 3BZ",
+        "premises": "6",
+        "region": "Hertfordshire"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/16017628/appointments/ZfKTFDw4R3J9llxq5cNpsTcTKls",
+        "officer": {
+          "appointments": "/officers/3mgNFeRUT2s6tPJWy-7j9Je9WCM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

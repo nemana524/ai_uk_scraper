@@ -1,0 +1,36 @@
+{
+  "company_number": "15253652",
+  "company_name": "TECH DETECTIVE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AHAMED, Md Razu",
+      "officer_role": "director",
+      "appointed_on": "2023-11-01",
+      "resigned_on": null,
+      "nationality": "Bangladeshi",
+      "country_of_residence": "Bangladesh",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "17 King Edwards Road",
+        "address_line_2": "Ruislip",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "HA4 7AE",
+        "premises": "2nd Floor, College House"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1997
+      },
+      "links": {
+        "self": "/company/15253652/appointments/YIziv45aTGLzvHt0fNsqYTUtpkk",
+        "officer": {
+          "appointments": "/officers/KbNfZg85_MTj7_zHZ2YaDM_Hmjc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

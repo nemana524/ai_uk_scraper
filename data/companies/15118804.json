@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-06",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AND TRAINERS LIMITED",
+  "company_number": "15118804",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-05",
+    "next_due": "2025-09-19",
+    "next_made_up_to": "2025-09-05",
+    "overdue": false
+  },
+  "date_of_creation": "2023-09-06",
+  "etag": "2abec995d4d506e96d74175152cd27e9dbb5218f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15118804/persons-with-significant-control",
+    "self": "/company/15118804",
+    "filing_history": "/company/15118804/filing-history",
+    "officers": "/company/15118804/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "14 Steyning Grove",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE9 4NQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

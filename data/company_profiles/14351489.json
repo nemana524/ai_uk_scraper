@@ -1,0 +1,46 @@
+{
+  "company_number": "14351489",
+  "company_name": "TECH LESS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2022-09-12",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47421",
+    "77110",
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "77 Regent Street",
+    "country": "England",
+    "locality": "Swindon",
+    "postal_code": "SN1 1JY"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-09-12",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "e4a3702e77c1b9e095080f22b2aafaf32fe8eae7"
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "07592110",
+  "company_name": "TECH ENGINEERING SYSTEMS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "WEDLAKE, John David",
+      "officer_role": "director",
+      "appointed_on": "2011-04-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Engineer",
+      "address": {
+        "address_line_1": "Privett",
+        "country": "United Kingdom",
+        "locality": "Alton",
+        "postal_code": "GU34 3NS",
+        "premises": "New Lodge"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/07592110/appointments/QJUsT1sAyVU9BhWaoCWtg0vPssA",
+        "officer": {
+          "appointments": "/officers/FzFZX4ddn4I7pvWBGnnSBcMLSTc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

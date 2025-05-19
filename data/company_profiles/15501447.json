@@ -1,0 +1,38 @@
+{
+  "company_number": "15501447",
+  "company_name": "TECH & TREATS LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-02-18",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46520"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "30 Woodwells Road",
+    "country": "England",
+    "locality": "Birmingham",
+    "postal_code": "B8 2TQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-18",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-18"
+    },
+    "next_due": "2025-11-18",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "etag": "23873ff315259bde5aa419ac88a75a25bee6737a"
+}

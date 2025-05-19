@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ACADEMY LTD",
+  "company_number": "12716730",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-02",
+    "next_due": "2025-07-16",
+    "next_made_up_to": "2025-07-02",
+    "overdue": false
+  },
+  "date_of_creation": "2020-07-03",
+  "etag": "740b0ccb7318be6347cde784f43af0346b9ab5f5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12716730/persons-with-significant-control",
+    "self": "/company/12716730",
+    "filing_history": "/company/12716730/filing-history",
+    "officers": "/company/12716730/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "239-241 Kennington Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE11 5QU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62011",
+    "62012",
+    "62020",
+    "85320"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

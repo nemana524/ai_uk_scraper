@@ -1,0 +1,58 @@
+[
+  {
+    "transaction_id": "MzQ0MzE4NDYwMWFkaXF6a2N4",
+    "barcode": "XDFS0KQ0",
+    "type": "AD01",
+    "date": "2024-11-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-11-13",
+      "old_address": "60 Grosvenor Court Adenmore Road London SE6 4FD England",
+      "new_address": "554 Streatham High Road London SW16 3QG"
+    },
+    "pages": 1,
+    "action_date": "2024-11-13",
+    "links": {
+      "self": "/company/15983564/filing-history/MzQ0MzE4NDYwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9HXNt47DL2oJEFtp2V1_40JOetYzZDLV-gsQg03UywU"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzQxNDEwNmFkaXF6a2N4",
+    "barcode": "XDCGQVB4",
+    "type": "NEWINC",
+    "date": "2024-09-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-09-27",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-09-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-09-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2024-09-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/15983564/filing-history/MzQzNzQxNDEwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mfbIorw3SUpUf40XiPTCwCjydMJ_4i1RbGyHd2xnWxw"
+    }
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "transaction_id": "MzQ0ODg2OTM4MGFkaXF6a2N4",
+    "barcode": "XDINBGSZ",
+    "type": "TM01",
+    "date": "2024-12-24",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Megan Lucie West",
+      "termination_date": "2024-12-22"
+    },
+    "pages": 1,
+    "action_date": "2024-12-22",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQ0ODg2OTM4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9YDfHssLJy_u-aKRkok2sUF61Q6S7m4yJJx8gj7vMRs"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjQ3NjMwM2FkaXF6a2N4",
+    "barcode": "XDFH43A8",
+    "type": "AD01",
+    "date": "2024-11-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-11-08",
+      "old_address": "32 High Street Rode Frome BA11 6PA England",
+      "new_address": "Unit 8 Banda Trading Estate Devizes SN10 3DY"
+    },
+    "pages": 1,
+    "action_date": "2024-11-08",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQ0MjQ3NjMwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VmKeN37T2joc1znVOHfvT7Q-pkXXg-AkTi-XlWvE80A"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjQ3NjEyNWFkaXF6a2N4",
+    "barcode": "XDFH42MP",
+    "type": "EH02",
+    "date": "2024-11-08",
+    "category": "officers",
+    "subcategory": "register",
+    "description": "elect-to-keep-the-directors-residential-address-register-information-on-the-public-register",
+    "pages": 1,
+    "links": {
+      "self": "/company/12417622/filing-history/MzQ0MjQ3NjEyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1GxHgGSfKyGVLmaB1vhiAJ_OeVXMHvbeZ02YD2BwoFY"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzUyNTM1OGFkaXF6a2N4",
+    "barcode": "XD45KFI2",
+    "type": "AP01",
+    "date": "2024-05-29",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Megan Lucie West",
+      "appointment_date": "2024-05-29"
+    },
+    "pages": 2,
+    "action_date": "2024-05-29",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQyMzUyNTM1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m60GFFbfyDp3VpVC1bngxpSkQ1r32-PUDf49t8PjNzo"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzEwOTk0MmFkaXF6a2N4",
+    "barcode": "XD3SETJ4",
+    "type": "AA",
+    "date": "2024-05-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 5,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQyMzEwOTk0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9pah9gyG_33WqtY-_u5wJH987lA_WLNS-YRtOq-G-FY"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTU3Mzk3N2FkaXF6a2N4",
+    "barcode": "XD1OU762",
+    "type": "PSC04",
+    "date": "2024-04-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-04-01",
+      "psc_name": "Mr Daniel Gordon Walsh"
+    },
+    "pages": 2,
+    "action_date": "2024-04-01",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQxOTU3Mzk3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rFBZc2H4jJBklFADHL_VyQiHFFTXPP1a2rO0EqrLFcQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTc5OTEwM2FkaXF6a2N4",
+    "barcode": "XCZFKPMR",
+    "type": "RP04CS01",
+    "date": "2024-03-29",
+    "category": "confirmation-statement",
+    "subcategory": "document-replacement",
+    "description": "second-filing-of-confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2024-03-20"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/12417622/filing-history/MzQxNTc5OTEwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K6jJx5k3e5BQ2Q_ed8PCyfJfty9E5_1Ryycwe2BC36o"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTQ2MDA0M2FkaXF6a2N4",
+    "barcode": "XCZA05MP",
+    "type": "CS01",
+    "date": "2024-03-20",
+    "category": "confirmation-statement",
+    "annotations": [
+      {
+        "annotation": "Clarification A SECOND FILED CS01 STATEMENT OF CAPITAL & SHAREHOLDER INFORMATION CHANGE WAS REGISTERED ON 29/03/2024.",
+        "date": "2024-03-29",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Clarification a second filed CS01 statement of capital & shareholder information change was registered on 29/03/2024."
+        }
+      }
+    ],
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-03-20"
+    },
+    "pages": 5,
+    "action_date": "2024-03-20",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12417622/filing-history/MzQxNTQ2MDA0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c_n0FRIHV3ntyrsduVUiT2HtihdC-XtfzzMNMmSatiE"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU2Mjc4OGFkaXF6a2N4",
+    "barcode": "XCYWEKUG",
+    "type": "CH01",
+    "date": "2024-03-14",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-03-14",
+      "officer_name": "Mr Dan Gordon Walsh"
+    },
+    "pages": 2,
+    "action_date": "2024-03-14",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQxNDU2Mjc4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KOgd0MbNqnEqiVm_byvz1bfVx-lIa2zNT7O9fNAgYp0"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDU2MjY4MmFkaXF6a2N4",
+    "barcode": "XCYWEJG8",
+    "type": "PSC04",
+    "date": "2024-03-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-03-14",
+      "psc_name": "Mr Dan Gordon Walsh"
+    },
+    "pages": 2,
+    "action_date": "2024-03-14",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQxNDU2MjY4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/A4QjybruRPIPEJ-b08u00GG4Psd3wJlbC0hnaH-nWXQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwODQwMzA0N2FkaXF6a2N4",
+    "barcode": "XCVAHZMW",
+    "type": "CS01",
+    "date": "2024-01-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-01-20"
+    },
+    "pages": 3,
+    "action_date": "2024-01-20",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQwODQwMzA0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SSxf0iUV_kzpRQoAIYYkhci-IAmrLXuzWgGTy3cl4JM"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDg2ODg5MGFkaXF6a2N4",
+    "barcode": "XCIPNXMZ",
+    "type": "TM01",
+    "date": "2023-12-19",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "David Walsh",
+      "termination_date": "2023-12-16"
+    },
+    "pages": 1,
+    "action_date": "2023-12-16",
+    "links": {
+      "self": "/company/12417622/filing-history/MzQwNDg2ODg5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ifSadF6X9IXmfxlITSBXOWOoVgCwR_La6T15iYjqelk"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTEyMTcyMGFkaXF6a2N4",
+    "barcode": "XC38GUG9",
+    "type": "AA",
+    "date": "2023-05-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 5,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/12417622/filing-history/MzM3OTEyMTcyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ia3ZKaN9ZIuIk3SSsaLX72koXJWgBxjp2or9hU_wnAs"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODA5Mzg4MWFkaXF6a2N4",
+    "barcode": "XBWIBKWP",
+    "type": "CS01",
+    "date": "2023-02-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-01-20"
+    },
+    "pages": 4,
+    "action_date": "2023-01-20",
+    "links": {
+      "self": "/company/12417622/filing-history/MzM2ODA5Mzg4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uWpzCdWm9Ubpfl01JMHAcvg2Dl-6JkV_P1kk5KfkSuY"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODEwNzI5MGFkaXF6a2N4",
+    "barcode": "XBGHGQE2",
+    "type": "TM01",
+    "date": "2022-11-10",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Lorraine Barnett",
+      "termination_date": "2022-11-10"
+    },
+    "pages": 1,
+    "action_date": "2022-11-10",
+    "links": {
+      "self": "/company/12417622/filing-history/MzM1ODEwNzI5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wa0QJzRjOVaFAmSNth7nL_cd0d8ne6xCFealnlwJVPY"
+    }
+  },
+  {
+    "transaction_id": "MzMzNzE4NTYzNGFkaXF6a2N4",
+    "barcode": "XB2P0FO1",
+    "type": "AA",
+    "date": "2022-04-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-01-31"
+    },
+    "pages": 5,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/12417622/filing-history/MzMzNzE4NTYzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SoqvuQb8f2t-C8CPwlsF2FqBTNQkydCBYpwK8rZkR54"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzI4NDY3OWFkaXF6a2N4",
+    "barcode": "XAW2B9QA",
+    "type": "CS01",
+    "date": "2022-01-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-01-20"
+    },
+    "pages": 3,
+    "action_date": "2022-01-20",
+    "links": {
+      "self": "/company/12417622/filing-history/MzMyNzI4NDY3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tNQV-lw334JSHD6P6JfVTbIPP__VtSnNsyspQTYnjXI"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzk0NzI2OGFkaXF6a2N4",
+    "barcode": "XAFOR3OO",
+    "type": "AA",
+    "date": "2021-10-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-01-31"
+    },
+    "pages": 5,
+    "action_date": "2021-01-31",
+    "links": {
+      "self": "/company/12417622/filing-history/MzMxNzk0NzI2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/voydGoO2QfEIqA7UBRkhpaoiYB--1a-cMia3RzOSgjQ"
+    }
+  },
+  {
+    "transaction_id": "MzI5MDE2MDQyOGFkaXF6a2N4",
+    "barcode": "X9XEV7IB",
+    "type": "CS01",
+    "date": "2021-02-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-01-20"
+    },
+    "pages": 3,
+    "action_date": "2021-01-20",
+    "links": {
+      "self": "/company/12417622/filing-history/MzI5MDE2MDQyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WTAabwx1J-kl_D0v60qz089qqBfjYQnbGivj_ETroTQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1NTA4OTc0MWFkaXF6a2N4",
+    "barcode": "X8X3OAHM",
+    "type": "NEWINC",
+    "date": "2020-01-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-01-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-01-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-01-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2020-01-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/12417622/filing-history/MzI1NTA4OTc0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SrepYCOEsuJnHW4G56PAsDoMUhIFF7I4wV3fc6nd7D8"
+    }
+  }
+]

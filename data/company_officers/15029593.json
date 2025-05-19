@@ -1,0 +1,35 @@
+{
+  "company_number": "15029593",
+  "company_name": "TECH FLOW SOLUTIONS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ABEL, Martin Paul",
+      "officer_role": "director",
+      "appointed_on": "2023-07-26",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Wales",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "Oxford Street",
+        "country": "Wales",
+        "locality": "Pontypridd",
+        "postal_code": "CF37 1RU",
+        "premises": "24"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1961
+      },
+      "links": {
+        "self": "/company/15029593/appointments/mfencOVt4d2YlROzUxgwoctHuZA",
+        "officer": {
+          "appointments": "/officers/AnYDSWY3zGk85mv0IQto8oGrKKc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

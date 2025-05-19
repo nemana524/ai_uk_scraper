@@ -1,0 +1,64 @@
+{
+  "company_number": "12540767",
+  "company_name": "TECH EUROPA LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "RITCHIE, Nina Kate",
+      "officer_role": "director",
+      "appointed_on": "2022-07-28",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director Of Marketing",
+      "address": {
+        "address_line_1": "Bury New Road",
+        "country": "England",
+        "locality": "Salford",
+        "postal_code": "M7 4WN",
+        "premises": "Flat 6 Moorhill Court"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/12540767/appointments/xWmEH1BiIwCITrea2GvvyqqeYFY",
+        "officer": {
+          "appointments": "/officers/rF1619O-ebJHS7V_WLEZG17KOVw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "FLETCHER, Yehuda Zev",
+      "officer_role": "director",
+      "appointed_on": "2020-03-31",
+      "resigned_on": "2022-07-29",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Quantity Surveyor",
+      "address": {
+        "address_line_1": "Dovedale Avenue",
+        "address_line_2": "Prestwich",
+        "country": "England",
+        "locality": "Manchester",
+        "postal_code": "M25 0BU",
+        "premises": "14"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/12540767/appointments/j3z7d5mkHQZfVzy5TD1OsaaGgMk",
+        "officer": {
+          "appointments": "/officers/pQjndOsu0xv725DLWbFIOyFujuc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

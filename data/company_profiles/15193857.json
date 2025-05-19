@@ -1,0 +1,41 @@
+{
+  "company_number": "15193857",
+  "company_name": "TECH FUTURE PRIVATE LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-10-06",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62030",
+    "63110",
+    "82990",
+    "96090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "48 St. Nicolas Park Drive",
+    "country": "England",
+    "locality": "Nuneaton",
+    "postal_code": "CV11 6DJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-06",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-06"
+    },
+    "next_due": "2025-07-06",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "etag": "e64771b4c670194d5b69e527fb389211a4a9fbe1"
+}

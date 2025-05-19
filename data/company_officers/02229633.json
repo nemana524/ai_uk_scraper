@@ -1,0 +1,250 @@
+{
+  "company_number": "02229633",
+  "company_name": "T.E.C.H. CADCAM LIMITED",
+  "total_officers": 9,
+  "officers": [
+    {
+      "name": "SMITH, Phillip Alan",
+      "officer_role": "director",
+      "appointed_on": "2024-07-26",
+      "resigned_on": null,
+      "nationality": "English",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Isidore Road",
+        "country": "England",
+        "locality": "Bromsgrove",
+        "postal_code": "B60 3ET",
+        "premises": "Basepoint",
+        "region": "Worcestershire"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/02229633/appointments/e_HWQRT-traG1NSrlOBI72R678o",
+        "officer": {
+          "appointments": "/officers/eIjndBkEd42dhjo_R2lzIqNU8Hw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "STOKES, Richard David",
+      "officer_role": "director",
+      "appointed_on": "2024-07-26",
+      "resigned_on": null,
+      "nationality": "English",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Isidore Road",
+        "country": "England",
+        "locality": "Bromsgrove",
+        "postal_code": "B60 3ET",
+        "premises": "Basepoint"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/02229633/appointments/HEcn6Z7Okwh1ex8rKflcmp8B0pg",
+        "officer": {
+          "appointments": "/officers/PYTLj4Y-t4bs_tPELUhRTktYsmc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BABINGTON, Rita",
+      "officer_role": "secretary",
+      "appointed_on": "2001-05-01",
+      "resigned_on": "2010-06-30",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": "Manageress",
+      "address": {
+        "address_line_1": "69 Mill Lane",
+        "locality": "Fordham",
+        "postal_code": "CB7 5NH",
+        "region": "Cambridgeshire"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/02229633/appointments/xE5pKuoWZDjMKdpKlavPLknvvMc",
+        "officer": {
+          "appointments": "/officers/t1l8KoneB9q0lpLfxy1bB3tHd6U/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MOLLOY, Kevin",
+      "officer_role": "secretary",
+      "appointed_on": "2010-06-30",
+      "resigned_on": "2024-07-26",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Eastern Way",
+        "country": "United Kingdom",
+        "locality": "Bury St Edmunds",
+        "postal_code": "IP32 7AB",
+        "premises": "Unit 8 The Vision Centre",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/02229633/appointments/EjdlDE-xlveTvRzYMq89YDTsjmk",
+        "officer": {
+          "appointments": "/officers/dNaIUj7zikELB1s4MlkUj-xsSsI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "O'NEILL, Michael",
+      "officer_role": "secretary",
+      "appointed_on": null,
+      "resigned_on": "2001-04-12",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "41 Northgate Street",
+        "locality": "Bury St Edmunds",
+        "postal_code": "IP33 1HY",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/02229633/appointments/fQeKdN-8_2575TppbM2IQzIHfas",
+        "officer": {
+          "appointments": "/officers/CysVgJ7eTGulBkc3IwxxIfFAAsk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MALONEY, Stephen Joseph",
+      "officer_role": "director",
+      "appointed_on": null,
+      "resigned_on": "1994-12-31",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "28 Kings Road",
+        "address_line_2": "Mill Hill",
+        "locality": "Blackburn",
+        "postal_code": "BB2 4PX",
+        "region": "Lancashire"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1957
+      },
+      "links": {
+        "self": "/company/02229633/appointments/fg-2ODr2i0FGRyXdjdJoZPtEct8",
+        "officer": {
+          "appointments": "/officers/-7QzB4MJPM4Rwiq7CbCpyWGWLv4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MOLLOY, Kevin",
+      "officer_role": "director",
+      "appointed_on": "1992-04-01",
+      "resigned_on": "2024-07-26",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "The Vision Centre",
+        "address_line_2": "Eastern Way",
+        "country": "United Kingdom",
+        "locality": "Bury St Edmunds",
+        "postal_code": "IP32 7AB",
+        "premises": "Unit 8",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1959
+      },
+      "links": {
+        "self": "/company/02229633/appointments/VXIlZ1Fa501pjY5Tc0jvWUKYhiY",
+        "officer": {
+          "appointments": "/officers/kBI85lVHsIDXqkKT0DnPv1DFqac/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "O'NEILL, Michael",
+      "officer_role": "director",
+      "appointed_on": null,
+      "resigned_on": "2001-04-12",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Secretary",
+      "address": {
+        "address_line_1": "41 Northgate Street",
+        "locality": "Bury St Edmunds",
+        "postal_code": "IP33 1HY",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1959
+      },
+      "links": {
+        "self": "/company/02229633/appointments/DFH5AM9FJTqdSMmatiwhN-i_3v0",
+        "officer": {
+          "appointments": "/officers/CysVgJ7eTGulBkc3IwxxIfFAAsk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SMITH, Michael",
+      "officer_role": "director",
+      "appointed_on": null,
+      "resigned_on": "1994-12-31",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "71 Pole Lane",
+        "locality": "Darwen",
+        "postal_code": "BB3 3LD",
+        "region": "Lancashire"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1952
+      },
+      "links": {
+        "self": "/company/02229633/appointments/pNq_dy3lZjbqz4u_HISP5NdaJTc",
+        "officer": {
+          "appointments": "/officers/cxxP6CNw9w4H7Uun1c0AkyuUVRo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

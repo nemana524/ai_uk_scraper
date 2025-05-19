@@ -1,0 +1,48 @@
+{
+  "company_number": "13753903",
+  "company_name": "TECH FIX LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-11-19",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "26200",
+    "47410",
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 2 East Middlesbrough Events Centre",
+    "address_line_2": "Homerton Road",
+    "country": "United Kingdom",
+    "locality": "Middlesbrough",
+    "postal_code": "TS3 8QD",
+    "region": "North Yorkshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "etag": "c545181b85532a0ae8577b456e70c57c168b2f48"
+}

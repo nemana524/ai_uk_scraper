@@ -1,0 +1,35 @@
+{
+  "company_number": "15726235",
+  "company_name": "TECH FLUXON SOLUTIONS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "YOUSAF, Tahira",
+      "officer_role": "director",
+      "appointed_on": "2024-05-17",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Holly Street",
+        "country": "United Kingdom",
+        "locality": "Nelson",
+        "postal_code": "BB9 0TG",
+        "premises": "9"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/15726235/appointments/9V0gXcsA3lXb6AFIhPc9_3Xl-Bs",
+        "officer": {
+          "appointments": "/officers/srl-8ZyCImrPDU0apQ9NsirP5qs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "company_number": "11072660",
+  "company_name": "TECH GENIUS IT SOLUTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2017-11-20",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "14a Albany Road",
+    "country": "United Kingdom",
+    "locality": "Weymouth",
+    "postal_code": "DT4 9TH",
+    "region": "Dorset"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "etag": "0d9b31cef288943a86c465d695d44376d865e641"
+}

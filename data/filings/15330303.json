@@ -1,0 +1,75 @@
+[
+  {
+    "transaction_id": "MzQ0Nzk4OTkyMmFkaXF6a2N4",
+    "barcode": "XDI6P4JC",
+    "type": "CS01",
+    "date": "2024-12-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-04"
+    },
+    "pages": 3,
+    "action_date": "2024-12-04",
+    "links": {
+      "self": "/company/15330303/filing-history/MzQ0Nzk4OTkyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oSjwUnsN5R5Q0ubuBDgyhS2Fk4R_gzaUQ2AU92BfkOI"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTcwMzQ5OGFkaXF6a2N4",
+    "barcode": "XD5I3IKA",
+    "type": "AP01",
+    "date": "2024-06-18",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Jodie Williams",
+      "appointment_date": "2024-06-05"
+    },
+    "pages": 2,
+    "action_date": "2024-06-05",
+    "links": {
+      "self": "/company/15330303/filing-history/MzQyNTcwMzQ5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QLkKEkozpeU9_UIaI9yT4WKxiFlCxEfrUjNbJZLiMB0"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjY1NjE3NGFkaXF6a2N4",
+    "barcode": "XCHQB6PD",
+    "type": "NEWINC",
+    "date": "2023-12-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-12-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-12-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-12-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15330303/filing-history/MzQwMjY1NjE3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1tmGBH1ibnDmh8Yr8r6NjLQeU8hTWyWiMB7M9GJSG1I"
+    }
+  }
+]

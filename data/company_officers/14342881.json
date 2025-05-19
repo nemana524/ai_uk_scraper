@@ -1,0 +1,35 @@
+{
+  "company_number": "14342881",
+  "company_name": "TECH & COOL LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "JOHN, Roby",
+      "officer_role": "director",
+      "appointed_on": "2022-09-07",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Whin Knoll Avenue",
+        "country": "England",
+        "locality": "Keighley",
+        "postal_code": "BD21 2HX",
+        "premises": "2a"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/14342881/appointments/iEBTOG7UWcW9r9AWb0FdPSw-0KY",
+        "officer": {
+          "appointments": "/officers/fE4E5lF1U3g1nael95GHcgrUqCY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

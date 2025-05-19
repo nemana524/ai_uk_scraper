@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-05-31",
+      "period_end_on": "2023-05-31",
+      "period_start_on": "2022-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-02-28",
+      "overdue": true,
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01"
+    },
+    "next_due": "2025-02-28",
+    "next_made_up_to": "2024-05-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH INVESTORS CLUB LIMITED",
+  "company_number": "11385679",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-28",
+    "next_due": "2025-06-11",
+    "next_made_up_to": "2025-05-28",
+    "overdue": false
+  },
+  "date_of_creation": "2018-05-29",
+  "etag": "3a05c3b1d3cab21b22684643111f6167183df368",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11385679/persons-with-significant-control",
+    "self": "/company/11385679",
+    "filing_history": "/company/11385679/filing-history",
+    "officers": "/company/11385679/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "37 Clydesdale Avenue",
+    "country": "England",
+    "locality": "Stanmore",
+    "postal_code": "HA7 1LN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70221"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

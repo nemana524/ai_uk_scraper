@@ -1,0 +1,37 @@
+{
+  "company_number": "14262528",
+  "company_name": "TECH HOUSER LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "HOUSER, Alasdair Blair",
+      "officer_role": "director",
+      "appointed_on": "2022-07-28",
+      "resigned_on": null,
+      "nationality": "Canadian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Hereward Offices",
+        "address_line_2": "Cherry Holt Road",
+        "country": "United Kingdom",
+        "locality": "Bourne",
+        "postal_code": "PE10 9LA",
+        "premises": "C/O Taxassist Accountants",
+        "region": "Lincolnshire"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/14262528/appointments/Z3prIaACESP97h7HIdt4qo2BIRI",
+        "officer": {
+          "appointments": "/officers/PzYb5A11wodMye3YMLY6aZNhk98/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

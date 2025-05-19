@@ -1,0 +1,65 @@
+{
+  "company_number": "14338058",
+  "company_name": "TECH DELTA LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "COTTRELL, Andrew David",
+      "officer_role": "director",
+      "appointed_on": "2022-09-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Old Ferry Road",
+        "address_line_2": "Wivenhoe",
+        "country": "England",
+        "locality": "Colchester",
+        "postal_code": "CO7 9SW",
+        "premises": "24"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/14338058/appointments/es8a1lH0b5HGgK2v3SB_pNP3Slw",
+        "officer": {
+          "appointments": "/officers/He93lftOMyd-QfUIzoxACO-wsbc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "COTTRELL, Nadine Corinna",
+      "officer_role": "director",
+      "appointed_on": "2022-09-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Old Ferry Road",
+        "address_line_2": "Wivenhoe",
+        "country": "England",
+        "locality": "Colchester",
+        "postal_code": "CO7 9SW",
+        "premises": "24"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/14338058/appointments/G95CEcRBdpyWvBTaJzKabMG8UMQ",
+        "officer": {
+          "appointments": "/officers/rsKNirpAWJmdDX8qV3P5qUMQbiY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "NI700559",
+  "company_name": "TECH LEE LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "LI, Keji",
+      "officer_role": "director",
+      "appointed_on": "2023-08-17",
+      "resigned_on": null,
+      "nationality": "Chinese",
+      "country_of_residence": "China",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Machang Zhen Taikang Xian",
+        "country": "China",
+        "locality": "Henan",
+        "postal_code": "461400",
+        "premises": "44"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 2002
+      },
+      "links": {
+        "self": "/company/NI700559/appointments/7y0tAEaqkmylgjjVPbtgTSKHGcw",
+        "officer": {
+          "appointments": "/officers/AJo2FGUMlc2UFiUNOCJKYAmoYaQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

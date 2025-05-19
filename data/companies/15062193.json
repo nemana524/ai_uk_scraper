@@ -1,0 +1,37 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH FORUM LTD",
+  "company_number": "15062193",
+  "company_status": "dissolved",
+  "date_of_cessation": "2025-01-14",
+  "date_of_creation": "2023-08-10",
+  "etag": "63994e66cfc0b19fa032dd6cd4ac72d57b742af2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15062193/persons-with-significant-control",
+    "self": "/company/15062193",
+    "filing_history": "/company/15062193/filing-history",
+    "officers": "/company/15062193/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "3rd Floor 86-90 Paul Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2A 4NE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "58290"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

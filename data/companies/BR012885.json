@@ -1,0 +1,24 @@
+{
+  "branch_company_details": {
+    "parent_company_name": "TECH INDUSTRIES U.K. LTD.",
+    "parent_company_number": "FC012898"
+  },
+  "can_file": false,
+  "company_name": "TECH INDUSTRIES U.K. LTD.",
+  "company_number": "BR012885",
+  "company_status": "open",
+  "date_of_creation": "2009-10-01",
+  "etag": "24c64d392c4a241d5abebdc20afddf017bfcb3de",
+  "links": {
+    "self": "/company/BR012885",
+    "filing_history": "/company/BR012885/filing-history",
+    "overseas": "/company/FC012898"
+  },
+  "registered_office_address": {
+    "address_line_1": " David Wood",
+    "locality": "3-4 Railway Street",
+    "postal_code": "ST16 2EA",
+    "region": "Wood & Company (Accountants) Ltd"
+  },
+  "type": "uk-establishment"
+}

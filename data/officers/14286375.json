@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "Island Road",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B21 8NR",
+      "premises": "42"
+    },
+    "appointed_on": "2022-08-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 2000
+    },
+    "links": {
+      "self": "/company/14286375/appointments/rCOm-To0DkXWWV98LUN-q-Dwirg",
+      "officer": {
+        "appointments": "/officers/Hl0d4o_XFEutG96ZMZ9DJM0bufU/appointments"
+      }
+    },
+    "name": "BASSEY, Corey Bhupinder Singh",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "298911710001"
+  },
+  {
+    "address": {
+      "address_line_1": "Tew Park Road",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B21 0TR",
+      "premises": "102"
+    },
+    "appointed_on": "2022-08-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 2000
+    },
+    "links": {
+      "self": "/company/14286375/appointments/j8OGv8HnvcMnfsRrZamB-77JTmA",
+      "officer": {
+        "appointments": "/officers/O4M6iR3Q9jWEY5W5r2C1-7-CTak/appointments"
+      }
+    },
+    "name": "FLORA, Priya Kaur",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "298911700001"
+  }
+]

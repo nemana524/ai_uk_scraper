@@ -1,0 +1,43 @@
+{
+  "company_number": "08799551",
+  "company_name": "TECH CITY LAW LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2013-12-03",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "99999"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "86-90 Paul Street",
+    "locality": "London",
+    "postal_code": "EC2A 4NE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "etag": "2df437ded084cfddd8571efb65578fa7adfade38"
+}

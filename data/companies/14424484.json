@@ -1,0 +1,41 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "type": "null"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH HOUSE LTD",
+  "company_number": "14424484",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-07-16",
+  "date_of_creation": "2022-10-17",
+  "etag": "98aa36dd96c5d49ba3e0ad24f227c7fe5ef7260a",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14424484/persons-with-significant-control",
+    "self": "/company/14424484",
+    "filing_history": "/company/14424484/filing-history",
+    "officers": "/company/14424484/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Ali & Co Accountant",
+    "address_line_2": "76-78 Bury Park Road",
+    "country": "England",
+    "locality": "Luton",
+    "postal_code": "LU1 1HE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,67 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH 4 CHANGE LTD",
+  "company_number": "14035709",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-07",
+    "next_due": "2026-04-21",
+    "next_made_up_to": "2026-04-07",
+    "overdue": false
+  },
+  "date_of_creation": "2022-04-08",
+  "etag": "cdd917f013be816e9b993b863444654ae0370df4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14035709/persons-with-significant-control",
+    "self": "/company/14035709",
+    "filing_history": "/company/14035709/filing-history",
+    "officers": "/company/14035709/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2024-11-13",
+      "effective_from": "2022-04-08",
+      "name": "L4L TECHAID LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "10 Wedgwood Court",
+    "address_line_2": "Wedgwood Way",
+    "country": "United Kingdom",
+    "locality": "Stevenage",
+    "postal_code": "SG1 4QR",
+    "region": "Hertfordshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46510",
+    "47410"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

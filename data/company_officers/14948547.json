@@ -1,0 +1,93 @@
+{
+  "company_number": "14948547",
+  "company_name": "TECH DIGITAL FUNNEL LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "MAQSOOD, Awais",
+      "officer_role": "secretary",
+      "appointed_on": "2023-06-20",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Victoria Park",
+        "address_line_2": "Kingswood",
+        "country": "United Kingdom",
+        "locality": "Bristol",
+        "postal_code": "BS15 1SA",
+        "premises": "47",
+        "region": "Avon"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/14948547/appointments/kX0Gv3w71d6XMeGyeIEhXraa6YM",
+        "officer": {
+          "appointments": "/officers/vO0UXkeuPwtuCEM3kMeFoX2UQBw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MAQSOOD, Awais",
+      "officer_role": "director",
+      "appointed_on": "2023-06-20",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Victoria Park",
+        "address_line_2": "Kingswood",
+        "country": "United Kingdom",
+        "locality": "Bristol",
+        "postal_code": "BS15 1SA",
+        "premises": "47",
+        "region": "Avon"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/14948547/appointments/V2mzYaYx2RTC0MrSZNovO2bOU8Q",
+        "officer": {
+          "appointments": "/officers/pksC3Vu5iOhGEL63fqGBgyy-wQ0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MAQSOOD, Sadia",
+      "officer_role": "director",
+      "appointed_on": "2023-12-08",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Scotland",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Mina Road",
+        "address_line_2": "St Werburgh's",
+        "country": "United Kingdom",
+        "locality": "Bristol",
+        "postal_code": "BS2 9XW",
+        "premises": "92"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/14948547/appointments/FN1sqbdF7BMnqAJTin31glutoqE",
+        "officer": {
+          "appointments": "/officers/V5BFyFZuEPTHohd895JMsswkh7Y/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

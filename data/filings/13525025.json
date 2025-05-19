@@ -1,0 +1,222 @@
+[
+  {
+    "transaction_id": "MzQ1NzI5NTM2MGFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-03-11",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13525025/filing-history/MzQ1NzI5NTM2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pzvhr5ZRtV8PnNqEm3MG_q5kAHnAk_OjYQwOQ_-yxVQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDcyNjg5OGFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2025-01-14",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13525025/filing-history/MzQ1MDcyNjg5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iPdbjszqZYo0Kc2870HcI2oudV96CvmKUjZ7SHlYe1o"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzAzMzIxMWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-12-24",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13525025/filing-history/MzQ0NzAzMzIxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ai6JnZHO3SFnYoYR4mtRusT6lVUxZJsRXArOoVNUEgs"
+    }
+  },
+  {
+    "transaction_id": "MzQzMTU5NDQ0OGFkaXF6a2N4",
+    "barcode": "XD93J2D6",
+    "type": "CS01",
+    "date": "2024-08-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-07-21"
+    },
+    "pages": 3,
+    "action_date": "2024-07-21",
+    "links": {
+      "self": "/company/13525025/filing-history/MzQzMTU5NDQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0ioY9HpU_OmlQWpu6Gdej2zrniaOnt1K-0GDbRR3nxs"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjgwMzQyOWFkaXF6a2N4",
+    "barcode": "XCBYG20Q",
+    "type": "PSC04",
+    "date": "2023-09-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-08-31",
+      "psc_name": "Mr Ashish Patel"
+    },
+    "pages": 2,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/13525025/filing-history/MzM5MjgwMzQyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DE3qfoA-09NpVJGI7jMpanTXuVjnYyMauM0lrQQCD54"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjgwMzQxMWFkaXF6a2N4",
+    "barcode": "XCBYG20I",
+    "type": "CH01",
+    "date": "2023-09-13",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-08-31",
+      "officer_name": "Mr Ashish Patel"
+    },
+    "pages": 2,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/13525025/filing-history/MzM5MjgwMzQxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5zQ_Y52JFdcjNu43UjhWkCa1j3pDtycfYTOWBZcybio"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjgwMzk5NmFkaXF6a2N4",
+    "barcode": "XCBYG5CJ",
+    "type": "CS01",
+    "date": "2023-09-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-07-21"
+    },
+    "pages": 3,
+    "action_date": "2023-07-21",
+    "links": {
+      "self": "/company/13525025/filing-history/MzM5MjgwMzk5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vjnvlFa3cDufyMKuncR6il909ypLAf7WMGbPj_AtN_A"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjgwMzQyMGFkaXF6a2N4",
+    "barcode": "XCBYG1YH",
+    "type": "CH01",
+    "date": "2023-09-13",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-08-31",
+      "officer_name": "Mr Ashish Patel"
+    },
+    "pages": 2,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/13525025/filing-history/MzM5MjgwMzQyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/S8HZmxXokUezBzWGB2UthnK47uoLJ8jFfuxyXMEqU7Q"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjgwMzQxMmFkaXF6a2N4",
+    "barcode": "XCBYG22A",
+    "type": "PSC04",
+    "date": "2023-09-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-08-31",
+      "psc_name": "Mr Ashish Patel"
+    },
+    "pages": 2,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/13525025/filing-history/MzM5MjgwMzQxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P2o4uMDvk4D7wZgLZTHHvJ_vli-_hVhEw_twrlSmfRg"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzI4ODk3NGFkaXF6a2N4",
+    "barcode": "XC2416SB",
+    "type": "AA",
+    "date": "2023-04-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-07-31"
+    },
+    "pages": 4,
+    "action_date": "2022-07-31",
+    "links": {
+      "self": "/company/13525025/filing-history/MzM3NzI4ODk3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kU8-ycKkjtvbXq0geshRoJYPnaBDGjOkgrfqzbJd9s0"
+    }
+  },
+  {
+    "transaction_id": "MzM0ODgyNzgyNWFkaXF6a2N4",
+    "barcode": "XBAJ0BB7",
+    "type": "CS01",
+    "date": "2022-08-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-07-21"
+    },
+    "pages": 4,
+    "action_date": "2022-07-21",
+    "links": {
+      "self": "/company/13525025/filing-history/MzM0ODgyNzgyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CWR15fTcucosjUhXhS3TP2FCRLPf7ZdVRGQJmk_PEv0"
+    }
+  },
+  {
+    "transaction_id": "MzMwODMzOTA3OWFkaXF6a2N4",
+    "barcode": "XA982BOH",
+    "type": "NEWINC",
+    "date": "2021-07-22",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-07-22",
+        "description": "model-articles-adopted-amended-provisions",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-07-22",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-07-22",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2021-07-22"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/13525025/filing-history/MzMwODMzOTA3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9N9EqTGn_XvCA1aa97y1IowgBHl8kaxLQgVIPchqg38"
+    }
+  }
+]

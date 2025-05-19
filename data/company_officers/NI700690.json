@@ -1,0 +1,35 @@
+{
+  "company_number": "NI700690",
+  "company_name": "TECH BOUNTY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MONCEF, Miloudi",
+      "officer_role": "director",
+      "appointed_on": "2023-08-21",
+      "resigned_on": null,
+      "nationality": "Moroccan",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "44-46 Elmwood Ave",
+        "country": "United Kingdom",
+        "locality": "Belfast",
+        "postal_code": "BT9 6AZ",
+        "premises": "Suite 10"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1999
+      },
+      "links": {
+        "self": "/company/NI700690/appointments/irgHv7a9BDpcuctdfDHIOjWoMoQ",
+        "officer": {
+          "appointments": "/officers/kEYa5cpdtbtyafWF_GNf5qXFJsQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

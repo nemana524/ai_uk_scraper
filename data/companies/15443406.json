@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-12-31",
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-25",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-30",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2025-01-01"
+    },
+    "next_due": "2026-09-30",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AUTOMOTIVE LTD",
+  "company_number": "15443406",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-08",
+    "next_due": "2026-01-22",
+    "next_made_up_to": "2026-01-08",
+    "overdue": false
+  },
+  "date_of_creation": "2024-01-25",
+  "etag": "f376cede2bd93d09a901078888150b7b000538e8",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15443406/persons-with-significant-control",
+    "self": "/company/15443406",
+    "filing_history": "/company/15443406/filing-history",
+    "officers": "/company/15443406/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "13 Bell House Crescent",
+    "country": "England",
+    "locality": "Bradford",
+    "postal_code": "BD4 6AJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "45200"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

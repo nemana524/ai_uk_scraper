@@ -1,0 +1,35 @@
+{
+  "company_number": "15970477",
+  "company_name": "TECH & TRENDS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHAKIR, Sidra",
+      "officer_role": "director",
+      "appointed_on": "2024-09-21",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Course Park Crescent",
+        "country": "England",
+        "locality": "Fareham",
+        "postal_code": "PO14 4DW",
+        "premises": "44"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1991
+      },
+      "links": {
+        "self": "/company/15970477/appointments/Xkuyfdosp35zZxAloCvhyoMrCew",
+        "officer": {
+          "appointments": "/officers/uGNb5SOjUg9FwB7nc5_-T2bIw6c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

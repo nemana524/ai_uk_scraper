@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2026-11-05",
+      "overdue": false,
+      "period_end_on": "2026-02-28",
+      "period_start_on": "2025-02-05"
+    },
+    "next_due": "2026-11-05",
+    "next_made_up_to": "2026-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EXPERT INDUSTRIAL LTD",
+  "company_number": "16231898",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-02-18",
+    "next_made_up_to": "2026-02-04",
+    "overdue": false
+  },
+  "date_of_creation": "2025-02-05",
+  "etag": "0a8ea63cff22b600974a0921f95f23c6d322b93f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16231898/persons-with-significant-control",
+    "self": "/company/16231898",
+    "filing_history": "/company/16231898/filing-history",
+    "officers": "/company/16231898/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "8 Royal Parade",
+    "address_line_2": "Hanger Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W5 1ET"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "41201",
+    "41202"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

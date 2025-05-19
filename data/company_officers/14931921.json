@@ -1,0 +1,36 @@
+{
+  "company_number": "14931921",
+  "company_name": "TECH LADS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "REED, James Stewart John",
+      "officer_role": "director",
+      "appointed_on": "2023-06-13",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "82 James Carter Road",
+        "address_line_2": "Mildenhall",
+        "country": "United Kingdom",
+        "locality": "Suffolk",
+        "postal_code": "IP28 7DE",
+        "premises": "Unit A"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 2004
+      },
+      "links": {
+        "self": "/company/14931921/appointments/V0zWOMs6DKHzruGTC24knBrEeUE",
+        "officer": {
+          "appointments": "/officers/Yz-Hr2fwP9UXO7kLoDj74O0JGP8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

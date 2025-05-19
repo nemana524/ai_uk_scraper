@@ -1,0 +1,432 @@
+[
+  {
+    "transaction_id": "MzQ0OTk0MTQ3MWFkaXF6a2N4",
+    "barcode": "XDTIF2SR",
+    "type": "CS01",
+    "date": "2025-01-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-21"
+    },
+    "pages": 4,
+    "action_date": "2024-10-21",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQ0OTk0MTQ3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mEdneSgirifaVwOQZxd4aYqviDSPqCs5XawroP8-iqs"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzA3MzAxNWFkaXF6a2N4",
+    "barcode": "YD66SAPD",
+    "type": "COCOMP",
+    "date": "2024-07-03",
+    "category": "insolvency",
+    "subcategory": [
+      "compulsory",
+      "court-order"
+    ],
+    "description": "liquidation-compulsory-winding-up-order",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12986835/filing-history/MzQyNzA3MzAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uAPEu8GiNkcHn4DXkLKK3eWh3JbvSOYCZ6tNM7kmniQ"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTA1MjUyNmFkaXF6a2N4",
+    "barcode": "XD1E2Q2W",
+    "type": "PSC01",
+    "date": "2024-04-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mohammed Khan",
+      "notification_date": "2024-04-19"
+    },
+    "pages": 2,
+    "action_date": "2024-04-19",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxOTA1MjUyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZSjmdTiSGINVKg0-VDDO5KRa-Ix1z2u442g3-qpPlWg"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTA1MjUzM2FkaXF6a2N4",
+    "barcode": "XD1E2Q9D",
+    "type": "TM01",
+    "date": "2024-04-19",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mohammad Khan",
+      "termination_date": "2024-04-19"
+    },
+    "pages": 1,
+    "action_date": "2024-04-19",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxOTA1MjUzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/llE8YgjgSmB78bUSmq3VkwzYSgDEcFpJSnyxGzWHVz8"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTA1MjE5OWFkaXF6a2N4",
+    "barcode": "XD1E2OZI",
+    "type": "AP01",
+    "date": "2024-04-19",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Mohammed Khan",
+      "appointment_date": "2024-04-19"
+    },
+    "pages": 2,
+    "action_date": "2024-04-19",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxOTA1MjE5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JKO3mUbwIc-GAFJN7xd3X4yfSdaAlryQC41xuT3NJuU"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTA1MTk1N2FkaXF6a2N4",
+    "barcode": "XD1E2O4Y",
+    "type": "PSC07",
+    "date": "2024-04-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mohammad Khan",
+      "cessation_date": "2024-04-19"
+    },
+    "pages": 1,
+    "action_date": "2024-04-19",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxOTA1MTk1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w3dRPds5CKk7645HaMGHiqLzXpvUGyiSsm16L2OisVU"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzQwMTE1MWFkaXF6a2N4",
+    "barcode": "XD0K2C8Q",
+    "type": "PSC01",
+    "date": "2024-04-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mohammad Khan",
+      "notification_date": "2024-04-02"
+    },
+    "pages": 2,
+    "action_date": "2024-04-02",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxNzQwMTE1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dAedjavpwvkMudngYXwmixl-0vrRMngkbPH6DXC_Byc"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzQwMTEyMWFkaXF6a2N4",
+    "barcode": "XD0K2BYH",
+    "type": "PSC07",
+    "date": "2024-04-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nasarah Nawaz",
+      "cessation_date": "2024-04-02"
+    },
+    "pages": 1,
+    "action_date": "2024-04-02",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxNzQwMTEyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DayedcdxcUNpD6NI4wiKgRdy1KbtgA1gyEX6KFzCPRk"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzQwMTA4MmFkaXF6a2N4",
+    "barcode": "XD0K2BVS",
+    "type": "AP01",
+    "date": "2024-04-07",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Mohammad Khan",
+      "appointment_date": "2024-04-02"
+    },
+    "pages": 2,
+    "action_date": "2024-04-02",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxNzQwMTA4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5NOyzm-J1IeSvVHuLvI_M1EzLaN0K-N2C1dxHWyJEBM"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzQwMTAxNWFkaXF6a2N4",
+    "barcode": "XD0K2BNV",
+    "type": "TM01",
+    "date": "2024-04-07",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Nasarah Nawaz",
+      "termination_date": "2024-04-01"
+    },
+    "pages": 1,
+    "action_date": "2024-04-01",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQxNzQwMTAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c7DzY_UE7bcvw8UobVZ7VYNwUTBX1CcUW4fuZL1Z1Dw"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjczNzg1MGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-01-10",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12986835/filing-history/MzQwNjczNzg1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lUkeGqtcATwP-8mzdHAlXzM8JEKNTX-OiAhPf7243rI"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjE5Nzk4N2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-01-09",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12986835/filing-history/MzQwNjE5Nzk4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9VXTwsojaZBkFkvmRY-WncHrAqLICqKfWRdy_S7-zZA"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjczNzg0M2FkaXF6a2N4",
+    "barcode": "XCU6CYGY",
+    "type": "CS01",
+    "date": "2024-01-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-21"
+    },
+    "pages": 3,
+    "action_date": "2023-10-21",
+    "links": {
+      "self": "/company/12986835/filing-history/MzQwNjczNzg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TItc5gGbOZuL0-nQy2CLVwio6P_OmscxRhhYk83rf9g"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODQ5NTA2OGFkaXF6a2N4",
+    "barcode": "XC92DGWI",
+    "type": "AA",
+    "date": "2023-08-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-10-31"
+    },
+    "pages": 3,
+    "action_date": "2022-10-31",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM4ODQ5NTA2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bAnamP7-8Wl434ZSiuh0Hy9cmqAYGYye3z7ou4WOjV0"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjA5OTg4OGFkaXF6a2N4",
+    "barcode": "XBF2L6O8",
+    "type": "CS01",
+    "date": "2022-10-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-10-21"
+    },
+    "pages": 4,
+    "action_date": "2022-10-21",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM1NjA5OTg4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cZO4_HoB8tA-7LpHbZ6oF4I9HFn68DPy30Tuxttl8NE"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjA2ODQ0OGFkaXF6a2N4",
+    "barcode": "XBF2HXB5",
+    "type": "PSC01",
+    "date": "2022-10-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nasarah Nawaz",
+      "notification_date": "2022-10-20"
+    },
+    "pages": 2,
+    "action_date": "2022-10-20",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM1NjA2ODQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cRRSw_wMpkJsGkoz7OGoj5rCtFofjNcHdyzSWkLkV-A"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjA2ODI3OGFkaXF6a2N4",
+    "barcode": "XBF2HWHD",
+    "type": "AP01",
+    "date": "2022-10-21",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Miss Nasarah Nawaz",
+      "appointment_date": "2022-10-20"
+    },
+    "pages": 2,
+    "action_date": "2022-10-20",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM1NjA2ODI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/45VlNY98NoDenqul3auVIO1FXnYyKER-EAdgHs4N5aE"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjA2ODA1NGFkaXF6a2N4",
+    "barcode": "XBF2HV8Z",
+    "type": "AD01",
+    "date": "2022-10-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-10-21",
+      "old_address": "35 Firs Avenue London N11 3NE England",
+      "new_address": "122 Doncaster Road Barnsley S70 1TP"
+    },
+    "pages": 1,
+    "action_date": "2022-10-21",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM1NjA2ODA1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kQiCC1p6MfeAQ2S4DcT69bN5mo25T9MVti31ohkqP2g"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjA2ODA0OGFkaXF6a2N4",
+    "barcode": "XBF2HVKH",
+    "type": "TM01",
+    "date": "2022-10-21",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Darren Symes",
+      "termination_date": "2022-10-20"
+    },
+    "pages": 1,
+    "action_date": "2022-10-20",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM1NjA2ODA0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/COGDugc2jdemvE4-pBTJcWCi3uiXc9pSN2m9h6yc_SM"
+    }
+  },
+  {
+    "transaction_id": "MzM1NjA2ODAzOGFkaXF6a2N4",
+    "barcode": "XBF2HVIY",
+    "type": "PSC07",
+    "date": "2022-10-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Darren Symes",
+      "cessation_date": "2022-10-20"
+    },
+    "pages": 1,
+    "action_date": "2022-10-20",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM1NjA2ODAzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IGA_0JeHufOIeht_A2bdKyERvmbaDsHWrkikDYjcJA4"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjY0NDY2OGFkaXF6a2N4",
+    "barcode": "XB8YNEZT",
+    "type": "AA",
+    "date": "2022-07-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2021-10-31"
+    },
+    "pages": 2,
+    "action_date": "2021-10-31",
+    "links": {
+      "self": "/company/12986835/filing-history/MzM0NjY0NDY2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/O8jRsL9sIKQuAhccH3Yr8nczFJZjyyRmpV27FjTCqfc"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTcwODYzMWFkaXF6a2N4",
+    "barcode": "XAV0QZ6B",
+    "type": "CS01",
+    "date": "2022-01-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-10-29"
+    },
+    "pages": 3,
+    "action_date": "2021-10-29",
+    "links": {
+      "self": "/company/12986835/filing-history/MzMyNTcwODYzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xzZ2D-XZDnFq8P-Cfs4A5eliG0XQ6O3Unq4A46lvf14"
+    }
+  },
+  {
+    "transaction_id": "MzI4MjA0OTE0M2FkaXF6a2N4",
+    "barcode": "X9GRP7G3",
+    "type": "NEWINC",
+    "date": "2020-10-30",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-10-30",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-10-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-10-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-10-30"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12986835/filing-history/MzI4MjA0OTE0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BRSzTFgFfsyLttUJl-q92DyAaQAmP0Mn-TOP3CH9EHw"
+    }
+  }
+]

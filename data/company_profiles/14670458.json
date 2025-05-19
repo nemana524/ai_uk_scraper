@@ -1,0 +1,31 @@
+{
+  "company_number": "14670458",
+  "company_name": "TECH GEN CO. LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-02-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "Brookfield Court Selby Road",
+    "address_line_2": "Garforth",
+    "country": "United Kingdom",
+    "locality": "Leeds",
+    "postal_code": "LS25 1NB",
+    "region": "West Yorkshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    }
+  },
+  "etag": "0f9a9820af568c20b5a65b1e307f0510a759da91"
+}

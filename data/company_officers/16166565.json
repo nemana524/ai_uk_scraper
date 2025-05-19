@@ -1,0 +1,60 @@
+{
+  "company_number": "16166565",
+  "company_name": "ITVERGE LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "OLOWOLAYEMO, Adedayo",
+      "officer_role": "secretary",
+      "appointed_on": "2025-01-06",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "City Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "128"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/16166565/appointments/CEIkpEN0nn5PZ129NsY9LlATQN4",
+        "officer": {
+          "appointments": "/officers/aLZsdic5U59ziM9t333aJLGoqEM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "OLOWOLAYEMO, Adedayo",
+      "officer_role": "director",
+      "appointed_on": "2025-01-06",
+      "resigned_on": null,
+      "nationality": "Nigerian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Ceo",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "128"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/16166565/appointments/No29Xky2O0nehWNz1zk5zGVahCE",
+        "officer": {
+          "appointments": "/officers/xCTjh5811V5rrOZ-uRrAhMwlKmY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

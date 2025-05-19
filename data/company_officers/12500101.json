@@ -1,0 +1,36 @@
+{
+  "company_number": "12500101",
+  "company_name": "TECHITY TECH LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NIXON, Taryn Wendy",
+      "officer_role": "director",
+      "appointed_on": "2020-03-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "44 Stafford Road",
+        "country": "United Kingdom",
+        "locality": "Wallington",
+        "postal_code": "SM6 9AA",
+        "premises": "Parker House",
+        "region": "Surrey"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/12500101/appointments/VH6pNH9TmfFn0TjRtzPPqHXgsH4",
+        "officer": {
+          "appointments": "/officers/HBDTC4qQG5Ux833oi-76BYf1C2s/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "transaction_id": "MzQyOTMwMjI4M2FkaXF6a2N4",
+    "barcode": "XD7LR1Q1",
+    "type": "CS01",
+    "date": "2024-07-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-07-12"
+    },
+    "pages": 4,
+    "action_date": "2024-07-12",
+    "links": {
+      "self": "/company/14231698/filing-history/MzQyOTMwMjI4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2SE1aLNrphOAE1kEa4QIIcAzv9__Y6WT83KgFx4E7-A"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTM5MzA5OWFkaXF6a2N4",
+    "barcode": "XD1M6MXE",
+    "type": "AA",
+    "date": "2024-04-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 8,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/14231698/filing-history/MzQxOTM5MzA5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2v8BGsleaavzZZjU1QwJuwUKCvIC_kt0Vq-mxw85qqI"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzI2ODEwMmFkaXF6a2N4",
+    "barcode": "XC8B4UCI",
+    "type": "CS01",
+    "date": "2023-07-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-07-12"
+    },
+    "pages": 4,
+    "action_date": "2023-07-12",
+    "links": {
+      "self": "/company/14231698/filing-history/MzM4NzI2ODEwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-0TN4dE20G0At5gD7QkVc45XyaPEtnogouTRkDMZfjI"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTQ2Mjg2M2FkaXF6a2N4",
+    "barcode": "XB82T9U2",
+    "type": "NEWINC",
+    "date": "2022-07-13",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-07-13",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-13",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-07-13",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "300"
+            }
+          ]
+        },
+        "action_date": "2022-07-13"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 15,
+    "links": {
+      "self": "/company/14231698/filing-history/MzM0NTQ2Mjg2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zgoTgPGi5VWuFX4pj9EDjelP90dAPNGMae4NP727KJg"
+    }
+  }
+]

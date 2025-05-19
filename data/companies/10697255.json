@@ -1,0 +1,66 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CITY VENTURES LTD",
+  "company_number": "10697255",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-28",
+    "next_due": "2026-04-11",
+    "next_made_up_to": "2026-03-28",
+    "overdue": false
+  },
+  "date_of_creation": "2017-03-29",
+  "etag": "336a6491394b1b9b3d96f91d3e933ec8c9a32bf1",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10697255/persons-with-significant-control",
+    "self": "/company/10697255",
+    "charges": "/company/10697255/charges",
+    "filing_history": "/company/10697255/filing-history",
+    "officers": "/company/10697255/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2019-02-11",
+      "effective_from": "2017-03-29",
+      "name": "TCV HOLDINGS LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "3 Totman Crescent",
+    "country": "England",
+    "locality": "Rayleigh",
+    "postal_code": "SS6 7UY",
+    "region": "Essex"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

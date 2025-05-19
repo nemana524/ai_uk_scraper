@@ -1,0 +1,36 @@
+{
+  "company_number": "12783709",
+  "company_name": "TECH BY NEXARISE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ALI, Asad",
+      "officer_role": "director",
+      "appointed_on": "2020-07-31",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Chair Person",
+      "address": {
+        "address_line_1": "Navigation Business Village, Navigation Way",
+        "address_line_2": "Ashton-On-Ribble",
+        "country": "England",
+        "locality": "Preston",
+        "postal_code": "PR2 2YP",
+        "premises": "Unit 7"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1990
+      },
+      "links": {
+        "self": "/company/12783709/appointments/G6sFtDoy1uo-Rbg2e-mWybyn8lc",
+        "officer": {
+          "appointments": "/officers/NdMfesKh3-i7GUIgRMzVuHAPSk0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

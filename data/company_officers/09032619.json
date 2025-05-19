@@ -1,0 +1,63 @@
+{
+  "company_number": "09032619",
+  "company_name": "TECH CONSULTING PARTNERS LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "SUBRAMANI, Archana",
+      "officer_role": "director",
+      "appointed_on": "2014-05-09",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Dean Road",
+        "country": "England",
+        "locality": "Hounslow",
+        "postal_code": "TW3 2EY",
+        "premises": "51"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1980
+      },
+      "links": {
+        "self": "/company/09032619/appointments/EDLSFN_N9hrBgYi7ZIIkQ7EBNIo",
+        "officer": {
+          "appointments": "/officers/bmhOHjFBBGW170GeYXlF6KniuqU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SIVAKUMAR, Subramani",
+      "officer_role": "director",
+      "appointed_on": "2014-05-09",
+      "resigned_on": "2024-02-27",
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Dean Road",
+        "country": "England",
+        "locality": "Hounslow",
+        "postal_code": "TW3 2EY",
+        "premises": "51"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/09032619/appointments/eXYozzA8goxBvduf8ZfPe51Osew",
+        "officer": {
+          "appointments": "/officers/-mQNM_GD374-vW4Oq8kZQKn6Ko4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

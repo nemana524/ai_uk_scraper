@@ -1,0 +1,555 @@
+[
+  {
+    "transaction_id": "MzQ2MTAyOTYyMmFkaXF6a2N4",
+    "barcode": "XDZJRT74",
+    "type": "CS01",
+    "date": "2025-04-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-28"
+    },
+    "pages": 4,
+    "action_date": "2025-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzQ2MTAyOTYyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yt0j1SO37Npe0bZfehzRMr91dL5wYeqBfukt1xfhpnM"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MDk5MzMxM2FkaXF6a2N4",
+    "barcode": "XDZJNCSP",
+    "type": "PSC04",
+    "date": "2025-04-01",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2025-01-13",
+      "psc_name": "Mr George Johnston"
+    },
+    "pages": 2,
+    "action_date": "2025-01-13",
+    "links": {
+      "self": "/company/10697255/filing-history/MzQ2MDk5MzMxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MkLLQocLHu5_-YmP45ULguDWwuwgfeQnvrxe6XtMneA"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MDk5MzI5OGFkaXF6a2N4",
+    "barcode": "XDZJNCDV",
+    "type": "CH01",
+    "date": "2025-04-01",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2025-01-13",
+      "officer_name": "Mr George Noel Johnston"
+    },
+    "pages": 2,
+    "action_date": "2025-01-13",
+    "links": {
+      "self": "/company/10697255/filing-history/MzQ2MDk5MzI5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CuSbsh_2_lsHYcqU_-H7wu2MgqvjxduKEoDwubprxR0"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTUyMzg1NWFkaXF6a2N4",
+    "barcode": "XDBHLAUA",
+    "type": "AA",
+    "date": "2024-09-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 8,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/10697255/filing-history/MzQzNTUyMzg1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4yyERwZkvjPARoSF6-V3AC_efzJqydSTA0apu9pkBXg"
+    }
+  },
+  {
+    "transaction_id": "MzQxNzI4ODg4NWFkaXF6a2N4",
+    "barcode": "XD0EWQIB",
+    "type": "CS01",
+    "date": "2024-04-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-28"
+    },
+    "pages": 3,
+    "action_date": "2024-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzQxNzI4ODg4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gwjCIdyaBYP1NP8F7jg7ehYtZQy2alOgyPwKJwKeXr4"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDgwNjI3MmFkaXF6a2N4",
+    "barcode": "XCIPGOZL",
+    "type": "AA",
+    "date": "2023-12-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 8,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/10697255/filing-history/MzQwNDgwNjI3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vs3ZWbMPXglPiT9N6M15Zqc5Bf-tTYCtxrB300BLGpc"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODY1NzM0N2FkaXF6a2N4",
+    "barcode": "XCFEON97",
+    "type": "AD01",
+    "date": "2023-11-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-11-01",
+      "old_address": "85 Great Portland Street London W1W 7LT England",
+      "new_address": "3 Totman Crescent Rayleigh Essex SS6 7UY"
+    },
+    "pages": 1,
+    "action_date": "2023-11-01",
+    "links": {
+      "self": "/company/10697255/filing-history/MzM5ODY1NzM0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wzn8qLsQj3L7XkxdDBJoHvTQgJ0lOvPGxDaGf6bfxJw"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjEwMTYxNGFkaXF6a2N4",
+    "barcode": "XCBIE1E1",
+    "type": "PSC04",
+    "date": "2023-09-06",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-09-02",
+      "psc_name": "Mr George Johnston"
+    },
+    "pages": 2,
+    "action_date": "2023-09-02",
+    "links": {
+      "self": "/company/10697255/filing-history/MzM5MjEwMTYxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_suQcwtEgZXa9e7yPZ4Avn_Xnaekg34dxNBhj8z3MmI"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjEwMTUyMWFkaXF6a2N4",
+    "barcode": "XCBIE0Q0",
+    "type": "CH01",
+    "date": "2023-09-06",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-09-02",
+      "officer_name": "Mr George Noel Johnston"
+    },
+    "pages": 2,
+    "action_date": "2023-09-02",
+    "links": {
+      "self": "/company/10697255/filing-history/MzM5MjEwMTUyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iZ-sTlfGAoaD6awd7HmDV0FlpVsjvgBs1puPmXJN3-E"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDI2MzU0NWFkaXF6a2N4",
+    "barcode": "XC08SFA9",
+    "type": "CS01",
+    "date": "2023-03-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-03-28"
+    },
+    "pages": 4,
+    "action_date": "2023-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzM3NDI2MzU0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SkHvOk5KGg5__6lAVgENvq58iwDO2vc8LpU2DfrbDt8"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjM4MjM5M2FkaXF6a2N4",
+    "barcode": "XB8QTP1V",
+    "type": "AA",
+    "date": "2022-07-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 8,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/10697255/filing-history/MzM0NjM4MjM5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aYEQ4nYop4sYbYDmmNLB-lAttawjz6Q8zBY6a2-x8ZY"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTkyNzMwOWFkaXF6a2N4",
+    "barcode": "XB8IK6TV",
+    "type": "MR04",
+    "date": "2022-07-18",
+    "category": "mortgage",
+    "subcategory": "satisfy",
+    "description": "mortgage-satisfy-charge-full",
+    "description_values": {
+      "charge_number": "106972550001"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/10697255/filing-history/MzM0NTkyNzMwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bNJhJ-koCHIk6Jzuu_xgl5hBC9iYGmkadxatT5JO2nU"
+    }
+  },
+  {
+    "transaction_id": "MzMzNDk3MDgzMWFkaXF6a2N4",
+    "barcode": "XB100AKA",
+    "type": "CS01",
+    "date": "2022-04-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-03-28"
+    },
+    "pages": 4,
+    "action_date": "2022-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzMzNDk3MDgzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lqDkTTQw7KqjIlD_5E1AN_E6HYABxjvpC5rF1L9Oc5o"
+    }
+  },
+  {
+    "transaction_id": "MzMwODU5OTE0MmFkaXF6a2N4",
+    "barcode": "XA9DFEY2",
+    "type": "AA",
+    "date": "2021-07-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 8,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/10697255/filing-history/MzMwODU5OTE0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YZujI-OA9u5KC-0_aClMsBmI-mS-MDLH-ETDIbvYd-Y"
+    }
+  },
+  {
+    "transaction_id": "MzI5NjYxMzYzNGFkaXF6a2N4",
+    "barcode": "XA1J9KMB",
+    "type": "CS01",
+    "date": "2021-04-01",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-03-28"
+    },
+    "pages": 4,
+    "action_date": "2021-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI5NjYxMzYzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7vWc0iyiLeuFDYC6njQhcyLCHY5IucPcfeih2nOhBHI"
+    }
+  },
+  {
+    "transaction_id": "MzI4NzQ5NTkyNmFkaXF6a2N4",
+    "barcode": "X9VHFUGG",
+    "type": "AA",
+    "date": "2021-01-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 7,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI4NzQ5NTkyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Bqq3XH7nDNBYGCKFyTZ0rRKbNzTBez-zQ3Dj5XQKN9Y"
+    }
+  },
+  {
+    "transaction_id": "MzI2MTIwOTQ0NmFkaXF6a2N4",
+    "barcode": "X91W76CY",
+    "type": "CS01",
+    "date": "2020-03-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-03-28"
+    },
+    "pages": 5,
+    "action_date": "2020-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI2MTIwOTQ0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iOI8U7J9wZQYGemV9rKp-c_RNToLkEZYis3eATtVelc"
+    }
+  },
+  {
+    "transaction_id": "MzI1MjkzMDc1NWFkaXF6a2N4",
+    "barcode": "X8KXG8SQ",
+    "type": "AA",
+    "date": "2019-12-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2019-03-31"
+    },
+    "pages": 7,
+    "action_date": "2019-03-31",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI1MjkzMDc1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qoCXrYJgW6nGQZbL7KNxrGE7xmT8grVx_zHBbLPME4g"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTAxMDUyOGFkaXF6a2N4",
+    "barcode": "X8JIFSJV",
+    "type": "AD01",
+    "date": "2019-12-03",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-12-03",
+      "old_address": "85 Great Portland Street London W1W 7LT England",
+      "new_address": "85 Great Portland Street London W1W 7LT"
+    },
+    "pages": 1,
+    "action_date": "2019-12-03",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI1MTAxMDUyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Paw9RG-XT0QRkg9b_MY9XO2nJKDybQZilZtTViEX-TY"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTAwNzc3MGFkaXF6a2N4",
+    "barcode": "X8JIFHNU",
+    "type": "AD01",
+    "date": "2019-12-03",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-12-03",
+      "old_address": "174D Pentonville Road London N1 9JP United Kingdom",
+      "new_address": "85 Great Portland Street London W1W 7LT"
+    },
+    "pages": 1,
+    "action_date": "2019-12-03",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI1MTAwNzc3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jaXycWtJv2REyBiMkigPBwwhLAztiuJ071qzcc4OdVQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1MDMyODg3MGFkaXF6a2N4",
+    "barcode": "A8IY7EOA",
+    "type": "SH02",
+    "date": "2019-12-02",
+    "category": "capital",
+    "description": "capital-alter-shares-subdivision",
+    "description_values": {
+      "date": "2019-11-19"
+    },
+    "pages": 4,
+    "action_date": "2019-11-19",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/10697255/filing-history/MzI1MDMyODg3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xDM67YgUmg-ABZelF5e8uCxEax40oxVfw0o9hU8YYo4"
+    }
+  },
+  {
+    "transaction_id": "MzI0NzgyMDY2NmFkaXF6a2N4",
+    "barcode": "X8H2IVLN",
+    "type": "CH01",
+    "date": "2019-10-28",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2019-08-21",
+      "officer_name": "Mr George Johnston"
+    },
+    "pages": 2,
+    "action_date": "2019-08-21",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI0NzgyMDY2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iLoQizx7km-3cA1E0qyk_3M41p1muVLn4b3h37YTofo"
+    }
+  },
+  {
+    "transaction_id": "MzI0NzgyMDY0OGFkaXF6a2N4",
+    "barcode": "X8H2IVNN",
+    "type": "PSC04",
+    "date": "2019-10-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2019-08-21",
+      "psc_name": "Mr George Johnston"
+    },
+    "pages": 2,
+    "action_date": "2019-08-21",
+    "links": {
+      "self": "/company/10697255/filing-history/MzI0NzgyMDY0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vkScJyMZCAz3x7tVn54yF5SLDvPZKbr-4nDFwJPb0Jw"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTI1ODU3NWFkaXF6a2N4",
+    "barcode": "X82O604W",
+    "type": "CS01",
+    "date": "2019-04-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2019-03-28"
+    },
+    "pages": 4,
+    "action_date": "2019-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzIzMTI1ODU3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/l__yot1U6krGzVzPnUm-9E50XrWm24flJcI0N_8227k"
+    }
+  },
+  {
+    "transaction_id": "MzIyODUxOTM4M2FkaXF6a2N4",
+    "barcode": "X80IUQCQ",
+    "type": "MR01",
+    "date": "2019-03-04",
+    "category": "mortgage",
+    "subcategory": "create",
+    "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+    "description_values": {
+      "charge_number": "106972550001",
+      "charge_creation_date": "2019-03-04"
+    },
+    "pages": 36,
+    "action_date": "2019-03-04",
+    "links": {
+      "self": "/company/10697255/filing-history/MzIyODUxOTM4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5jelkCoO5k0wEg1fV7-rAVZYnFXfQQg_cYar4ZciIhg"
+    }
+  },
+  {
+    "transaction_id": "MzIyNjY2OTc3NmFkaXF6a2N4",
+    "barcode": "X7YZ2UGX",
+    "type": "RESOLUTIONS",
+    "date": "2019-02-11",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2019-02-10"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2019-02-11",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/10697255/filing-history/MzIyNjY2OTc3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Avu9IYINKIdsA-YpizvjQiFxPbFityXYiXhFosuPQBs"
+    }
+  },
+  {
+    "transaction_id": "MzIxNjIwNDM2MWFkaXF6a2N4",
+    "barcode": "X7FUABA2",
+    "type": "AA",
+    "date": "2018-10-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2018-03-31"
+    },
+    "pages": 7,
+    "action_date": "2018-03-31",
+    "links": {
+      "self": "/company/10697255/filing-history/MzIxNjIwNDM2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oF7dvcGb82IFVQIn4DK_QVYTBp6EhsCDKBbJwFQhOLU"
+    }
+  },
+  {
+    "transaction_id": "MzIwMTI4MjMwM2FkaXF6a2N4",
+    "barcode": "X72NDFP4",
+    "type": "CS01",
+    "date": "2018-03-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2018-03-28"
+    },
+    "pages": 5,
+    "action_date": "2018-03-28",
+    "links": {
+      "self": "/company/10697255/filing-history/MzIwMTI4MjMwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Zutp4SCQtp6hG6bYlwgatZnH775ohFKa56uIfrm8YBs"
+    }
+  },
+  {
+    "transaction_id": "MzE3MjE4MDAxNmFkaXF6a2N4",
+    "barcode": "X634R37V",
+    "type": "NEWINC",
+    "date": "2017-03-29",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2017-03-29",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2017-03-29",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-03-29",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2017-03-29"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/10697255/filing-history/MzE3MjE4MDAxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VhpwxBTOoF82ZwRmEZWlMSS825oA1b7hF-6dW6kgHcs"
+    }
+  }
+]

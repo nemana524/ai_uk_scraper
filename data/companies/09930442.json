@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-12-24",
+      "period_end_on": "2022-12-24",
+      "period_start_on": "2022-01-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-09-30",
+      "overdue": true,
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2022-12-25"
+    },
+    "next_due": "2024-09-30",
+    "next_made_up_to": "2023-12-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH INTEGRATIONS LTD",
+  "company_number": "09930442",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-12-28",
+    "next_due": "2024-01-11",
+    "next_made_up_to": "2023-12-28",
+    "overdue": true
+  },
+  "date_of_creation": "2015-12-29",
+  "etag": "73eab7433324035a0da70ce9de2c22309cd07fc2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/09930442/persons-with-significant-control",
+    "self": "/company/09930442",
+    "filing_history": "/company/09930442/filing-history",
+    "officers": "/company/09930442/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "136 Maple Road",
+    "country": "England",
+    "locality": "Hayes",
+    "postal_code": "UB4 9NE",
+    "region": "Middlesex"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

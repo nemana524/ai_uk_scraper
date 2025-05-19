@@ -1,0 +1,35 @@
+{
+  "company_number": "15983564",
+  "company_name": "TECH CLEARANCE HUB LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "CROITORU, Ionela",
+      "officer_role": "director",
+      "appointed_on": "2024-09-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Streatham High Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW16 3QG",
+        "premises": "554"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/15983564/appointments/gPU1pzjeamXhe83nQLaZCHeozF0",
+        "officer": {
+          "appointments": "/officers/A0zyGvoGHtauLxQ5KYvOP0yFGP4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

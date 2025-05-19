@@ -1,0 +1,382 @@
+[
+  {
+    "transaction_id": "MzQ0NDk4ODQ1OGFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-12-03",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12783709/filing-history/MzQ0NDk4ODQ1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EX323vvJTSzA1G4_V_ZDkGdoyy1lsguaUv7qRN9jrlk"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDQ3NjE5N2FkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-09-17",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12783709/filing-history/MzQzNDQ3NjE5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6GZYKrvQbhvHm6cTaLQmolAT8ZVLEbvY50rHgbq9MtE"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDQ3NTM5NWFkaXF6a2N4",
+    "barcode": "XDAYJCW1",
+    "type": "DS01",
+    "date": "2024-09-04",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/12783709/filing-history/MzQzNDQ3NTM5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JLcmK3AMP_Fv7U1dDBLclqa_7lv23GrMNACsPmD4ZNo"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTQ4NDAyMWFkaXF6a2N4",
+    "barcode": "XCGZ9GI0",
+    "type": "CS01",
+    "date": "2023-11-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-11-24"
+    },
+    "pages": 4,
+    "action_date": "2023-11-24",
+    "links": {
+      "self": "/company/12783709/filing-history/MzQwMTQ4NDAyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o9tVjx4dbNR6aqZhZsWUR5J9fEIXkTIDGF-kkkQkYBQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTQ4Mzc2M2FkaXF6a2N4",
+    "barcode": "XCGZ9FA2",
+    "type": "PSC07",
+    "date": "2023-11-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nexarise Global Llc",
+      "cessation_date": "2023-11-24"
+    },
+    "pages": 1,
+    "action_date": "2023-11-24",
+    "links": {
+      "self": "/company/12783709/filing-history/MzQwMTQ4Mzc2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8IJPeFJM0VslwmtXUqQfkTSNpFKNEViQobab5qAsh2w"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTQ4Mzc1MGFkaXF6a2N4",
+    "barcode": "XCGZ9F2H",
+    "type": "PSC02",
+    "date": "2023-11-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nex Operations Ltd",
+      "notification_date": "2023-11-24"
+    },
+    "pages": 2,
+    "action_date": "2023-11-24",
+    "links": {
+      "self": "/company/12783709/filing-history/MzQwMTQ4Mzc1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qfdEQQWxksSs4-4oTXL4g34CgjIeyiaenn4ppc7rKyw"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDY1NDc2OGFkaXF6a2N4",
+    "barcode": "XCCXJBM8",
+    "type": "AA",
+    "date": "2023-09-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-12-30"
+    },
+    "pages": 7,
+    "action_date": "2022-12-30",
+    "links": {
+      "self": "/company/12783709/filing-history/MzM5NDY1NDc2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yBFvws-8bfpLJUgB8l9xjvVB-rOMgRDervqFaIqcC60"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDEzMzcxN2FkaXF6a2N4",
+    "barcode": "XC068E2O",
+    "type": "AA",
+    "date": "2023-03-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-12-31"
+    },
+    "pages": 3,
+    "action_date": "2021-12-31",
+    "links": {
+      "self": "/company/12783709/filing-history/MzM3NDEzMzcxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o8JSHOKf4QsIy9E1LE2WOUEjHD71mAwLjZog0IX-9W0"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTYwOTcxNmFkaXF6a2N4",
+    "barcode": "XBYQV8XM",
+    "type": "CS01",
+    "date": "2023-03-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-02-20"
+    },
+    "pages": 3,
+    "action_date": "2023-02-20",
+    "links": {
+      "self": "/company/12783709/filing-history/MzM3MTYwOTcxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1HA1Abvn26RcBcfL4_EndLhhd4Q0KxwBdA7aBOSVR3Q"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzgwMjkxN2FkaXF6a2N4",
+    "barcode": "XBJRTIO1",
+    "type": "AA01",
+    "date": "2022-12-27",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-shortened",
+    "description_values": {
+      "made_up_date": "2021-12-28",
+      "new_date": "2021-12-27"
+    },
+    "pages": 1,
+    "action_date": "2021-12-27",
+    "links": {
+      "self": "/company/12783709/filing-history/MzM2MzgwMjkxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5GgEnJzRreAY8v3FfAmOwHBwJo-vVF6HnScV0WTb0nI"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzM1NDM2NmFkaXF6a2N4",
+    "barcode": "XBDHS08G",
+    "type": "AA01",
+    "date": "2022-09-28",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2021-12-29",
+      "new_date": "2021-12-28"
+    },
+    "pages": 1,
+    "action_date": "2021-12-28",
+    "links": {
+      "self": "/company/12783709/filing-history/MzM1MzM1NDM2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dCoHzyFW0wBNowU9CwNZ__qgxAVhJPuTdl4HgkU5810"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzI3NzgzOWFkaXF6a2N4",
+    "barcode": "XB00OI48",
+    "type": "AA",
+    "date": "2022-03-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2020-12-31"
+    },
+    "pages": 4,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMzMzI3NzgzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HWcg8hbZdPUesnMogDzFOuwcGyk5AljK_MAS4uj7mBs"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDQyMzcxNGFkaXF6a2N4",
+    "barcode": "XAY7WZMH",
+    "type": "CS01",
+    "date": "2022-02-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-02-20"
+    },
+    "pages": 4,
+    "action_date": "2022-02-20",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMzMDQyMzcxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lpcDA1WQ2h7HJUReJ_i2dcEBUDV2xgeRi4ftaH5j8XA"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDQyMzcxMWFkaXF6a2N4",
+    "barcode": "XAY7WZOX",
+    "type": "PSC02",
+    "date": "2022-02-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nexarise Global Llc",
+      "notification_date": "2022-01-31"
+    },
+    "pages": 1,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMzMDQyMzcxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vM1JESWK2egQUK13jA-yvSNnyQWRkuQIRPFvITNOn_s"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDQyMzcxMGFkaXF6a2N4",
+    "barcode": "XAY7WZQP",
+    "type": "PSC07",
+    "date": "2022-02-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nexarise Ltd",
+      "cessation_date": "2022-01-31"
+    },
+    "pages": 1,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMzMDQyMzcxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7JP_z-tS5A7ZAY1uVBDer3LbLeKqbJqytbFy5rqQ-0I"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDQyMzcwN2FkaXF6a2N4",
+    "barcode": "XAY7WZKP",
+    "type": "AD01",
+    "date": "2022-02-20",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-02-20",
+      "old_address": "1000 Great West Road Floor 6 Brentford TW8 9DW England",
+      "new_address": "Unit 7 Navigation Business Village, Navigation Way Ashton-on-Ribble Preston PR2 2YP"
+    },
+    "pages": 1,
+    "action_date": "2022-02-20",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMzMDQyMzcwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pDzZPwFVXd-KaXDsJYnKNnGg9GXkCt-n4iXjPk0D-cs"
+    }
+  },
+  {
+    "transaction_id": "MzMyNDE4NDE3OGFkaXF6a2N4",
+    "barcode": "XAJPT5MP",
+    "type": "AA01",
+    "date": "2021-12-20",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2020-12-30",
+      "new_date": "2020-12-29"
+    },
+    "pages": 1,
+    "action_date": "2020-12-29",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMyNDE4NDE3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2-8vxtvwq6VLePnEStc5nEdc4eAq3RoF06-cx4TcUGY"
+    }
+  },
+  {
+    "transaction_id": "MzMxNDY0MzE1OWFkaXF6a2N4",
+    "barcode": "XADLAP4J",
+    "type": "AA01",
+    "date": "2021-09-22",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-previous-shortened",
+    "description_values": {
+      "made_up_date": "2020-12-31",
+      "new_date": "2020-12-30"
+    },
+    "pages": 1,
+    "action_date": "2020-12-30",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMxNDY0MzE1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7aAjScSKim4han2zkzsOrmsXN4T3_AF0vc4v7lndHiA"
+    }
+  },
+  {
+    "transaction_id": "MzMxMDM4MDk4NWFkaXF6a2N4",
+    "barcode": "XAAMSLSG",
+    "type": "CS01",
+    "date": "2021-08-11",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-07-30"
+    },
+    "pages": 3,
+    "action_date": "2021-07-30",
+    "links": {
+      "self": "/company/12783709/filing-history/MzMxMDM4MDk4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/86yxB7Tpo5qoeLw2bNLVrYOWjzC9m0FWtUofMrRBAew"
+    }
+  },
+  {
+    "transaction_id": "MzI4MjkwMDYwMmFkaXF6a2N4",
+    "barcode": "X9HFOJZ6",
+    "type": "AA01",
+    "date": "2020-11-09",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-shortened",
+    "description_values": {
+      "made_up_date": "2021-07-31",
+      "new_date": "2020-12-31"
+    },
+    "pages": 1,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/12783709/filing-history/MzI4MjkwMDYwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0J5dXlell62Q4Nh7vYGlB5TZ4YnlZwLvmKZyeNOkufs"
+    }
+  },
+  {
+    "transaction_id": "MzI3NDI1NjY1NmFkaXF6a2N4",
+    "barcode": "X9AD1XX7",
+    "type": "NEWINC",
+    "date": "2020-07-31",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-07-31",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-07-31",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-07-31",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-07-31"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12783709/filing-history/MzI3NDI1NjY1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7Ank16MeJAgfkfZAfa4B2OjbxiDYsPABaCBKPhnfW-c"
+    }
+  }
+]

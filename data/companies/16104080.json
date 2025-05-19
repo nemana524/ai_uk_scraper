@@ -1,0 +1,50 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-27",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-11-27"
+    },
+    "next_due": "2026-08-27",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH & TOKE LTD",
+  "company_number": "16104080",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-12-10",
+    "next_made_up_to": "2025-11-26",
+    "overdue": false
+  },
+  "date_of_creation": "2024-11-27",
+  "etag": "5ebe54e31ab19825332a9902b78654733381f0fa",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16104080/persons-with-significant-control",
+    "self": "/company/16104080",
+    "filing_history": "/company/16104080/filing-history",
+    "officers": "/company/16104080/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "177 High Street",
+    "country": "England",
+    "locality": "Sutton",
+    "postal_code": "SM1 1JU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-07",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-07"
+    },
+    "next_due": "2025-11-07",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AND CONNECT LTD",
+  "company_number": "15473039",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2025-02-20",
+    "next_made_up_to": "2025-02-06",
+    "overdue": true
+  },
+  "date_of_creation": "2024-02-07",
+  "etag": "781f5d84d4e2f8980d344eee58a28ad415a5ddb7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15473039/persons-with-significant-control",
+    "self": "/company/15473039",
+    "filing_history": "/company/15473039/filing-history",
+    "officers": "/company/15473039/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "2a Kildoran Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW2 5JZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "85590"
+  ],
+  "type": "private-limited-guarant-nsc",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-10-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DOCTOR PLUSE LIMITED",
+  "company_number": "12218542",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-12-31",
+    "next_due": "2026-01-14",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "date_of_creation": "2019-09-20",
+  "etag": "e4393503944f02de5b0cf101e7fbdd45cc8aa934",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12218542/persons-with-significant-control",
+    "self": "/company/12218542",
+    "filing_history": "/company/12218542/filing-history",
+    "officers": "/company/12218542/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Tech Doctor Morrisons",
+    "address_line_2": "Old Warwick Road",
+    "country": "England",
+    "locality": "Lemington Spa",
+    "postal_code": "CV31 3NU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47421",
+    "95110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

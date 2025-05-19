@@ -1,0 +1,45 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "08",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-11-08",
+      "period_end_on": "2024-11-08",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH LEE LIMITED",
+  "company_number": "NI700559",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-16"
+  },
+  "date_of_cessation": "2025-05-20",
+  "date_of_creation": "2023-08-17",
+  "etag": "350220a135168945914785cb2672d3464061be6f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "links": {
+    "persons_with_significant_control": "/company/NI700559/persons-with-significant-control",
+    "self": "/company/NI700559",
+    "filing_history": "/company/NI700559/filing-history",
+    "officers": "/company/NI700559/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "NI700559 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Belfast",
+    "po_box": "2381",
+    "postal_code": "BT1 9DY"
+  },
+  "registered_office_is_in_dispute": true,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

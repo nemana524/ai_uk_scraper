@@ -1,0 +1,36 @@
+{
+  "company_number": "14546339",
+  "company_name": "TECH HEALTH LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "OKOSE, Olayinka Sulaiman",
+      "officer_role": "director",
+      "appointed_on": "2022-12-16",
+      "resigned_on": null,
+      "nationality": "Nigerian",
+      "country_of_residence": "England",
+      "occupation": "Healthcare Assistant",
+      "address": {
+        "address_line_1": "Belmont Avenue",
+        "address_line_2": "Chapeltown",
+        "country": "England",
+        "locality": "Sheffield",
+        "postal_code": "S35 2RG",
+        "premises": "20"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/14546339/appointments/Esa55eMskOreWHza4EKDqUjn_-Y",
+        "officer": {
+          "appointments": "/officers/xJLcbOza_GcbFqcdk93KawEXgUI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

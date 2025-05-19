@@ -1,0 +1,35 @@
+{
+  "company_number": "12542374",
+  "company_name": "TECH CONCIERGE UK LIMITED",
+  "company_status": "dissolved",
+  "date_of_creation": "2020-04-01",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "11b Vicarage Road",
+    "address_line_2": "Marsworth",
+    "country": "England",
+    "locality": "Tring",
+    "postal_code": "HP23 4LT"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-04-30",
+      "period_end_on": "2022-04-30",
+      "type": "dormant"
+    }
+  },
+  "etag": "746072bd28e833293d73f0963652563a0e3afed1"
+}

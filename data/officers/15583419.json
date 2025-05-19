@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "High Street",
+      "country": "United Kingdom",
+      "locality": "Lincoln",
+      "postal_code": "LN5 7PJ",
+      "premises": "129"
+    },
+    "appointed_on": "2024-03-21",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1990
+    },
+    "links": {
+      "self": "/company/15583419/appointments/IxzosVjXMI2atgapMftN_DE5uaI",
+      "officer": {
+        "appointments": "/officers/qeGFi7LoznJb8MJ9VnFxOqWJzDA/appointments"
+      }
+    },
+    "name": "ALI, Muhammed",
+    "nationality": "Bangladeshi",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "320848370001"
+  }
+]

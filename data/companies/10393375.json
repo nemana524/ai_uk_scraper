@@ -1,0 +1,46 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH AND SOFTWARE LIMITED",
+  "company_number": "10393375",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-31"
+  },
+  "date_of_cessation": "2025-05-13",
+  "date_of_creation": "2016-09-26",
+  "etag": "a79778af3f2bbbede86a287483c0012d692ceee9",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10393375/persons-with-significant-control",
+    "self": "/company/10393375",
+    "filing_history": "/company/10393375/filing-history",
+    "officers": "/company/10393375/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "5 Albert Road",
+    "country": "England",
+    "locality": "Southsea",
+    "postal_code": "PO5 2SE",
+    "region": "Hampshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "99999"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

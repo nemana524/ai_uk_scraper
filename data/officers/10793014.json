@@ -1,0 +1,57 @@
+[
+  {
+    "address": {
+      "address_line_1": "Old Gloucester Street",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "WC1N 3AX",
+      "premises": "27"
+    },
+    "appointed_on": "2018-07-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "France",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1993
+    },
+    "links": {
+      "self": "/company/10793014/appointments/u7Jq7JjSjyF8OIytOY3rsFwp7Do",
+      "officer": {
+        "appointments": "/officers/zIjqh-jDive0vQs-xEC2No7AUFI/appointments"
+      }
+    },
+    "name": "JUG, Alexandru",
+    "nationality": "Moldovan",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "248252930001"
+  },
+  {
+    "address": {
+      "address_line_1": "Old Gloucester Street",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "WC1N 3AX",
+      "premises": "27"
+    },
+    "appointed_on": "2017-05-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "India",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1991
+    },
+    "links": {
+      "self": "/company/10793014/appointments/vKkt1cuKUQDGr-CnQ08zs3fm-Zc",
+      "officer": {
+        "appointments": "/officers/9YAWz9zKV5pWp2PydpXxUF2Mfdw/appointments"
+      }
+    },
+    "name": "MAJUMDAR, Suprodip",
+    "nationality": "Indian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2018-07-09",
+    "person_number": "232402380001"
+  }
+]

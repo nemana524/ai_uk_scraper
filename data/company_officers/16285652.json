@@ -1,0 +1,35 @@
+{
+  "company_number": "16285652",
+  "company_name": "TECH COMRADES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AMIN, Muhammad Noor Ul",
+      "officer_role": "director",
+      "appointed_on": "2025-03-02",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Northbrook Road",
+        "country": "England",
+        "locality": "Southampton",
+        "postal_code": "SO14 0BX",
+        "premises": "28"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/16285652/appointments/wNQ2UNGdl2zjvNMD-HzGJte-RNE",
+        "officer": {
+          "appointments": "/officers/KL83IIgmVuDO7fdLMzSB8Ovcj_8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

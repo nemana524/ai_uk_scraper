@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DATACENTRE LIMITED",
+  "company_number": "08972051",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-21",
+    "next_due": "2026-05-05",
+    "next_made_up_to": "2026-04-21",
+    "overdue": false
+  },
+  "date_of_creation": "2014-04-02",
+  "etag": "be73e48e62f6f99688b385e1e140b7fb748c6e70",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-04-02",
+  "links": {
+    "persons_with_significant_control": "/company/08972051/persons-with-significant-control",
+    "self": "/company/08972051",
+    "charges": "/company/08972051/charges",
+    "filing_history": "/company/08972051/filing-history",
+    "officers": "/company/08972051/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Epsilon House The Square, Gloucester Business Park",
+    "address_line_2": "Brockworth",
+    "country": "England",
+    "locality": "Gloucester",
+    "postal_code": "GL3 4AD"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

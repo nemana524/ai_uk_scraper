@@ -1,0 +1,60 @@
+{
+  "company_number": "15118804",
+  "company_name": "TECH AND TRAINERS LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "PEDRO, Oluwaremi",
+      "officer_role": "secretary",
+      "appointed_on": "2023-09-06",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Steyning Grove",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SE9 4NQ",
+        "premises": "14"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15118804/appointments/AUJzQozcJckB9-l4yBDXwHr_Jc4",
+        "officer": {
+          "appointments": "/officers/Le5eKfJ12bmyTwRqSXjt6mzR_M0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PEDRO, Henry Iyin-Oluwa Temitope",
+      "officer_role": "director",
+      "appointed_on": "2023-09-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Professional",
+      "address": {
+        "address_line_1": "Steyning Grove",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SE9 4NQ",
+        "premises": "14"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15118804/appointments/H9ANn1BGQEXXbpIitmGwGt0cc7M",
+        "officer": {
+          "appointments": "/officers/GX3hTyIsCaQWLOO2A9JzufNpvc4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

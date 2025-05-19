@@ -1,0 +1,139 @@
+[
+  {
+    "transaction_id": "MzQ2MjM5NTAzNmFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2025-04-15",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14825173/filing-history/MzQ2MjM5NTAzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/icG4yODbo6C007_i06hDAUBBXHDJZXcsfosGwAvsnOM"
+    }
+  },
+  {
+    "transaction_id": "MzQ1Nzc3MjA3MWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-03-18",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14825173/filing-history/MzQ1Nzc3MjA3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ajJWoGx3KJTluNgkh8T_SXX8hqs3Y7jfO8uJfsOqRLI"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NjQ5NDk1NmFkaXF6a2N4",
+    "barcode": "XDHI595T",
+    "type": "AD01",
+    "date": "2024-12-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-12-08",
+      "old_address": "40 Bank Street London E14 5NR England",
+      "new_address": "25 Canada Square London E14 5LB"
+    },
+    "pages": 1,
+    "action_date": "2024-12-08",
+    "links": {
+      "self": "/company/14825173/filing-history/MzQ0NjQ5NDk1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gIv7fb3CH4-vnQVc6BrxxkPKt2A-lBglzPjm9TVZfcA"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzQyNjI0OGFkaXF6a2N4",
+    "barcode": "XCY83EG0",
+    "type": "AD01",
+    "date": "2024-03-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-03-05",
+      "old_address": "92 Tolworth Broadway Surbiton KT6 7HT England",
+      "new_address": "40 Bank Street London E14 5NR"
+    },
+    "pages": 1,
+    "action_date": "2024-03-05",
+    "links": {
+      "self": "/company/14825173/filing-history/MzQxMzQyNjI0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/u2Xh4o8I40KA0TkeZIfYKZ6NSZhrHDl4kCX-wsBEMIY"
+    }
+  },
+  {
+    "transaction_id": "MzQwOTY4MjA5MGFkaXF6a2N4",
+    "barcode": "XCVW8IX4",
+    "type": "CERTNM",
+    "date": "2024-02-01",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2023-05-26"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-02-01",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed oakwoodland london contractors LTD\\certificate issued on 01/02/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/14825173/filing-history/MzQwOTY4MjA5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PdrPAPBs4W3vF2z7y5h_91UglpwUGzKmGfiNryVbcfg"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzI2NDY0OWFkaXF6a2N4",
+    "barcode": "XC21I195",
+    "type": "NEWINC",
+    "date": "2023-04-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-04-25",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-04-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-04-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-04-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14825173/filing-history/MzM3NzI2NDY0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xiypvjb18GIfR1hXoUjkGEgsffGgmNZ4Xl0eDlLhacY"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-03-31",
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-31",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-04-01"
+    },
+    "next_due": "2026-12-31",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CONSTRUCT LLP",
+  "company_number": "OC337970",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-11",
+    "next_due": "2025-06-25",
+    "next_made_up_to": "2025-06-11",
+    "overdue": false
+  },
+  "date_of_creation": "2008-06-11",
+  "etag": "a5e33943c156caad71c6abc72fd49654a13c1000",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/OC337970/persons-with-significant-control",
+    "self": "/company/OC337970",
+    "filing_history": "/company/OC337970/filing-history",
+    "officers": "/company/OC337970/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "16 Meadow Way",
+    "locality": "Chigwell",
+    "postal_code": "IG7 6LP",
+    "region": "Essex"
+  },
+  "registered_office_is_in_dispute": false,
+  "type": "llp",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

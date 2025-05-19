@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-02-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH BOX LIVI LIMITED",
+  "company_number": "SC721054",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-25",
+    "next_due": "2026-02-08",
+    "next_made_up_to": "2026-01-25",
+    "overdue": false
+  },
+  "date_of_creation": "2022-01-26",
+  "etag": "83de61122e13c011dd1986917284f998fe2bc7f1",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC721054/persons-with-significant-control",
+    "self": "/company/SC721054",
+    "filing_history": "/company/SC721054/filing-history",
+    "officers": "/company/SC721054/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "53 Burdiehouse Terrace",
+    "country": "Scotland",
+    "locality": "Edinburgh",
+    "postal_code": "EH17 8AJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47429"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

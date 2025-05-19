@@ -1,0 +1,36 @@
+{
+  "company_number": "10145296",
+  "company_name": "TECH CITY LONDON & UK LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "BOWN, Christopher John",
+      "officer_role": "director",
+      "appointed_on": "2016-04-25",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Chippendale House",
+        "address_line_2": "Churchill Gardens",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW1V 3BU",
+        "premises": "28"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/10145296/appointments/NNpL7pSYjQhhCqAqZw2IUaq6Pjw",
+        "officer": {
+          "appointments": "/officers/YtGE6JHYvblUxz6lg8Tet1bL9L4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

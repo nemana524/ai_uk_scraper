@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Wesley Close",
+      "country": "England",
+      "locality": "Harrow",
+      "postal_code": "HA2 0QE",
+      "premises": "90"
+    },
+    "appointed_on": "2024-10-24",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 2005
+    },
+    "links": {
+      "self": "/company/16040016/appointments/6G52WryWnSmbeugT1qsdzXjA2iA",
+      "officer": {
+        "appointments": "/officers/n_Ddq9Qf2S4nUj5MKkqZGTZ5i4I/appointments"
+      }
+    },
+    "name": "SHAFI, Khurshid Mohammad",
+    "nationality": "British",
+    "occupation": "Sales Director",
+    "officer_role": "director",
+    "person_number": "328606340001"
+  }
+]

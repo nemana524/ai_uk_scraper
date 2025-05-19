@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-18",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-11-18"
+    },
+    "next_due": "2026-08-18",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ENVISION LIMITED",
+  "company_number": "16087233",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-12-01",
+    "next_made_up_to": "2025-11-17",
+    "overdue": false
+  },
+  "date_of_creation": "2024-11-18",
+  "etag": "1b9da641f236cd388828919d0b9559f31629bff8",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16087233/persons-with-significant-control",
+    "self": "/company/16087233",
+    "filing_history": "/company/16087233/filing-history",
+    "officers": "/company/16087233/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

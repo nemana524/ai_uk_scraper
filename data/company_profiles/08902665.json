@@ -1,0 +1,45 @@
+{
+  "company_number": "08902665",
+  "company_name": "TECH CONNECTIONS WORLDWIDE LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2014-02-19",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "74909"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "12 Harvest Hill Road",
+    "country": "England",
+    "locality": "Maidenhead",
+    "postal_code": "SL6 2QQ",
+    "region": "Berkshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-02-28",
+      "period_end_on": "2023-02-28",
+      "period_start_on": "2022-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-11-30",
+      "overdue": true,
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01"
+    },
+    "next_due": "2024-11-30",
+    "next_made_up_to": "2024-02-28",
+    "overdue": true
+  },
+  "etag": "367e3c6d39486da42afb6d7fd2c48835578aa11d"
+}

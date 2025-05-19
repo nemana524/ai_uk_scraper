@@ -1,0 +1,42 @@
+{
+  "company_number": "15572309",
+  "company_name": "TECH & DEV SOLUTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-03-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 1a Cockridden Farm Industrial Estate Brentwood Road",
+    "address_line_2": "Herongate",
+    "country": "England",
+    "locality": "Brentwood",
+    "postal_code": "CM13 3LH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-17",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-03-17"
+    },
+    "next_due": "2025-12-17",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "787a3bab245ac02969c4e240437211d7bbfbf279"
+}

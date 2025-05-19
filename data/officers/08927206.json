@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Manor Road",
+      "address_line_2": "Bishopsworth",
+      "country": "United Kingdom",
+      "locality": "Bristol",
+      "postal_code": "BS13 8EP",
+      "premises": "28"
+    },
+    "appointed_on": "2014-03-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1962
+    },
+    "links": {
+      "self": "/company/08927206/appointments/njLW0V6y93aDJHyZyER8krYoHpc",
+      "officer": {
+        "appointments": "/officers/rCTMQeqH2IyuxrnP4CZ_4D7dR3c/appointments"
+      }
+    },
+    "name": "BARRETT, Geoffrey Peter",
+    "nationality": "British",
+    "occupation": "Electrician",
+    "officer_role": "director",
+    "person_number": "185716020001"
+  }
+]

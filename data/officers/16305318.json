@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Telham Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E6 6BW",
+      "premises": "15"
+    },
+    "appointed_on": "2025-03-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 2002
+    },
+    "links": {
+      "self": "/company/16305318/appointments/tLMYS_bwo4vhU7aTaf1IGtPIMHY",
+      "officer": {
+        "appointments": "/officers/8XrwERa5xC6Ul_NmPxoX8kpkDwo/appointments"
+      }
+    },
+    "name": "WAHID, Adnaan",
+    "nationality": "British",
+    "occupation": "Retailer",
+    "officer_role": "director",
+    "person_number": "333250140001"
+  }
+]

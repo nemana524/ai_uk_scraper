@@ -1,0 +1,36 @@
+{
+  "company_number": "07951776",
+  "company_name": "TECH AND TRANSPORT LTD.",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KATHIRGAMANATHAN, Kajan",
+      "officer_role": "director",
+      "appointed_on": "2012-02-16",
+      "resigned_on": null,
+      "nationality": "Sri Lankan",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Downland",
+        "address_line_2": "Two Mile Ash",
+        "country": "England",
+        "locality": "Milton Keynes",
+        "postal_code": "MK8 8HU",
+        "premises": "29"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/07951776/appointments/Gg9Ak_pcDa7c97-EqV0NWlMDmO4",
+        "officer": {
+          "appointments": "/officers/arzid7yqYrdxKfkQEx5X8cekXZk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

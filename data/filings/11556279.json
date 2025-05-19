@@ -1,0 +1,429 @@
+[
+  {
+    "transaction_id": "MzQ0NzkxNTQzNGFkaXF6a2N4",
+    "barcode": "XDI6G8VC",
+    "type": "AA",
+    "date": "2024-12-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-09-30"
+    },
+    "pages": 3,
+    "action_date": "2024-09-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzQ0NzkxNTQzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MB6T9lZFoj6zg3YK0V9iil6FLAPhPPnSpgS1E2z9FoE"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzkxMjYxM2FkaXF6a2N4",
+    "barcode": "XDI6FVUZ",
+    "type": "CS01",
+    "date": "2024-12-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-14"
+    },
+    "pages": 3,
+    "action_date": "2024-10-14",
+    "links": {
+      "self": "/company/11556279/filing-history/MzQ0NzkxMjYxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0nXY49-5D54W685oVjAHro6dJo-320M9A_sj195QrCw"
+    }
+  },
+  {
+    "transaction_id": "MzQyNjI2NzAxNWFkaXF6a2N4",
+    "barcode": "XD5SV53M",
+    "type": "AA",
+    "date": "2024-06-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 3,
+    "action_date": "2023-09-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzQyNjI2NzAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MVRAUsVUiyAKYzjve88REJnA4rDrDIMqK6Oi5mTZ0ZU"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg2NDQ5OWFkaXF6a2N4",
+    "barcode": "XD5KQPAY",
+    "type": "AD01",
+    "date": "2024-06-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-06-19",
+      "old_address": "6 High Street Essex Brentwood CM14 4AB England",
+      "new_address": "6 High Street Brentwood, Essex CM14 4AB"
+    },
+    "pages": 1,
+    "action_date": "2024-06-19",
+    "links": {
+      "self": "/company/11556279/filing-history/MzQyNTg2NDQ5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WBjsdkhAL6E7gaRmNyK7qzv3sBMfYzu0KrLqz8-MwPY"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg2MzYwNGFkaXF6a2N4",
+    "barcode": "XD5KQL9M",
+    "type": "AD01",
+    "date": "2024-06-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-06-19",
+      "old_address": "6 High Street Brentwood CM14 4AB England",
+      "new_address": "6 High Street Essex Brentwood CM14 4AB"
+    },
+    "pages": 1,
+    "action_date": "2024-06-19",
+    "links": {
+      "self": "/company/11556279/filing-history/MzQyNTg2MzYwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/40i1ei6P1rchbTjzZW8tIPu_Z7nhuKWQkDWU1WzhXY0"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTY1MDY5OWFkaXF6a2N4",
+    "barcode": "XCH9MBLS",
+    "type": "CS01",
+    "date": "2023-11-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-14"
+    },
+    "pages": 3,
+    "action_date": "2023-10-14",
+    "links": {
+      "self": "/company/11556279/filing-history/MzQwMTY1MDY5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/U-Fxv6skDIYYYV5NWPdG19ZfMBKUYpzMcQ_f5-JKVkg"
+    }
+  },
+  {
+    "transaction_id": "MzM2Njc1NzM3N2FkaXF6a2N4",
+    "barcode": "XBVR1J9D",
+    "type": "AA",
+    "date": "2023-01-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-09-30"
+    },
+    "pages": 3,
+    "action_date": "2022-09-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzM2Njc1NzM3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9KrgxvE5kwMKpDm6WxBsYbrfJAa-I3Hu_zBJssPqaGc"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTAwNjYzNGFkaXF6a2N4",
+    "barcode": "XBH0DIJU",
+    "type": "CS01",
+    "date": "2022-11-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-10-14"
+    },
+    "pages": 3,
+    "action_date": "2022-10-14",
+    "links": {
+      "self": "/company/11556279/filing-history/MzM1OTAwNjYzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rBd2kpsZ8ORJGYmchfpruFHA0ivkkO5M4rZisvJsNF8"
+    }
+  },
+  {
+    "transaction_id": "MzM0NDM1ODk3OGFkaXF6a2N4",
+    "barcode": "XB79HVDL",
+    "type": "AA",
+    "date": "2022-06-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-09-30"
+    },
+    "pages": 3,
+    "action_date": "2021-09-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzM0NDM1ODk3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D3y98hXqwvkRMmErIlpk7qD4D8o_mUNfdCgqRyaosls"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDIxNjYzNmFkaXF6a2N4",
+    "barcode": "XAHBKH4O",
+    "type": "CS01",
+    "date": "2021-11-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-10-14"
+    },
+    "pages": 3,
+    "action_date": "2021-10-14",
+    "links": {
+      "self": "/company/11556279/filing-history/MzMyMDIxNjYzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dCQemL3YcwT_sdXd_Jz0fRsB-BKIQogr6i-ISP1Qfxo"
+    }
+  },
+  {
+    "transaction_id": "MzI5MjM4MDA2OWFkaXF6a2N4",
+    "barcode": "X9YZ5OZE",
+    "type": "CS01",
+    "date": "2021-02-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-10-14"
+    },
+    "pages": 3,
+    "action_date": "2020-10-14",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI5MjM4MDA2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_LhvtzgDW10eLbEPf-lFq_Dm3vixvF3WzaoE5whtAu8"
+    }
+  },
+  {
+    "transaction_id": "MzI5MDA5NDc3MmFkaXF6a2N4",
+    "barcode": "X9X9O36J",
+    "type": "AD01",
+    "date": "2021-01-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-01-30",
+      "old_address": "Unit 6 High Street Brentwood CM14 4AB England",
+      "new_address": "6 High Street Brentwood CM14 4AB"
+    },
+    "pages": 1,
+    "action_date": "2021-01-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI5MDA5NDc3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ffTe9vC1Cb4Gk6BbiUJzdQmxgo3zbWUU-wEkPSZad3c"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODk0MTI0NWFkaXF6a2N4",
+    "barcode": "X9WG0DD4",
+    "type": "RESOLUTIONS",
+    "date": "2021-01-19",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2021-01-18"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2021-01-19",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/11556279/filing-history/MzI4ODk0MTI0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LL-PHlfDdw6TZVKyxq5n0x1xIqTEtreGK83GUbjyRb8"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODg0NTYwMmFkaXF6a2N4",
+    "barcode": "X9WG05UY",
+    "type": "AD01",
+    "date": "2021-01-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-01-18",
+      "old_address": "226 Leicester Causeway Coventry CV1 4HF England",
+      "new_address": "Unit 6 High Street Brentwood CM14 4AB"
+    },
+    "pages": 1,
+    "action_date": "2021-01-18",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI4ODg0NTYwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_inxQI2_3wJg70c5Jtst7_OaU6QBuW3RBs0dEgtM91g"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODcxMzAzNWFkaXF6a2N4",
+    "barcode": "X9W87RGA",
+    "type": "AA",
+    "date": "2021-01-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-09-30"
+    },
+    "pages": 3,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI4ODcxMzAzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/89v9klMos1Ymlp2zvffi-bStAPbJ9KCOBXqxxjUBwLo"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDkwNDY3N2FkaXF6a2N4",
+    "barcode": "X9FY8LDL",
+    "type": "CS01",
+    "date": "2020-10-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-09-30"
+    },
+    "pages": 3,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI4MDkwNDY3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zS4JQWMnvLWFP7-xpA6ik32okYxn3_BxtWiN22kgDP0"
+    }
+  },
+  {
+    "transaction_id": "MzI1Mjg0NDE5MGFkaXF6a2N4",
+    "barcode": "X8KS8SQ2",
+    "type": "AA",
+    "date": "2019-12-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-09-30"
+    },
+    "pages": 2,
+    "action_date": "2019-09-30",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI1Mjg0NDE5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IufJiO9_d73EkBdNp6HcDHgwqkiFDTqfyhYUUVa1oc4"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTU2ODUwMmFkaXF6a2N4",
+    "barcode": "X8JY86T4",
+    "type": "AD01",
+    "date": "2019-12-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-12-09",
+      "old_address": "71-75 Shelton Street London WC2H 9JQ England",
+      "new_address": "226 Leicester Causeway Coventry CV1 4HF"
+    },
+    "pages": 1,
+    "action_date": "2019-12-09",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI1MTU2ODUwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RxnkQlOr9FkGfXBiAu41bK2_xXrtc1HfRCxZ-XGDvaU"
+    }
+  },
+  {
+    "transaction_id": "MzI0NDA3NzMyOGFkaXF6a2N4",
+    "barcode": "X8DTX7EI",
+    "type": "CS01",
+    "date": "2019-09-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-09-05"
+    },
+    "pages": 3,
+    "action_date": "2019-09-05",
+    "links": {
+      "self": "/company/11556279/filing-history/MzI0NDA3NzMyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hHH8n-Z7XFFuu0JulI-Y1u4uHeu16_V66VSB-HkPeyM"
+    }
+  },
+  {
+    "transaction_id": "MzIxNTYyMTY2NmFkaXF6a2N4",
+    "barcode": "X7FDXX2W",
+    "type": "AD01",
+    "date": "2018-09-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-09-27",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ England",
+      "new_address": "71-75 Shelton Street London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2018-09-27",
+    "links": {
+      "self": "/company/11556279/filing-history/MzIxNTYyMTY2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/e19_x4ckvY-XLkOeRCiqaLpSOjQz6mg_t1AycOUiyj8"
+    }
+  },
+  {
+    "transaction_id": "MzIxNTYyMTM5MmFkaXF6a2N4",
+    "barcode": "X7FDXKFC",
+    "type": "AD01",
+    "date": "2018-09-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-09-27",
+      "old_address": "291 Dorset House, 25 Duke Street Chelmsford Essex CM1 1TB United Kingdom",
+      "new_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2018-09-27",
+    "links": {
+      "self": "/company/11556279/filing-history/MzIxNTYyMTM5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PXzHuzmzhQAhpQZnQbWYUO-D2M176zER2RroNth9Jk8"
+    }
+  },
+  {
+    "transaction_id": "MzIxMzgzMTIzMWFkaXF6a2N4",
+    "barcode": "X7DWNY5L",
+    "type": "NEWINC",
+    "date": "2018-09-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-09-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-09-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-09-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-09-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11556279/filing-history/MzIxMzgzMTIzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PyY-bO3Q2HC5k1GSD8AAhL7twQg2fUnfgGxM-EtuFos"
+    }
+  }
+]

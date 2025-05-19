@@ -1,0 +1,109 @@
+[
+  {
+    "address": {
+      "address_line_1": "Woodgate",
+      "country": "United Kingdom",
+      "locality": "Leicester",
+      "postal_code": "LE3 5GF",
+      "premises": "50"
+    },
+    "appointed_on": "2005-07-08",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/05503280/appointments/NnhaHjQXp2xLJmmPTbwRs05bJko",
+      "officer": {
+        "appointments": "/officers/H97w3RnU4ngjkj4H2EsUP0sN2ZY/appointments"
+      }
+    },
+    "name": "GINOUDIS, Aris",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "106879520002"
+  },
+  {
+    "address": {
+      "address_line_1": "97a Narborough Road",
+      "locality": "Leicester",
+      "postal_code": "LE3 0PA",
+      "region": "Leicestershire"
+    },
+    "appointed_on": "2005-07-08",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/05503280/appointments/ETn6tRj6Qz8ixIF0QxM8f2EiF0c",
+      "officer": {
+        "appointments": "/officers/Oa0vYJnEptFp2YFseUl3qOXQlYM/appointments"
+      }
+    },
+    "name": "GINOUDIS, Elias",
+    "nationality": "Greek",
+    "officer_role": "secretary",
+    "resigned_on": "2007-10-01",
+    "person_number": "106649140001"
+  },
+  {
+    "address": {
+      "address_line_1": "56 Gorse Lane",
+      "locality": "Oadby",
+      "postal_code": "LE2 4RQ",
+      "region": "Leicestershire"
+    },
+    "appointed_on": "2007-10-01",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/05503280/appointments/v2YwI6v42brqc6oSdBryddio_C8",
+      "officer": {
+        "appointments": "/officers/be-zgs6bKFo_9osUhG_Ww5nZzcw/appointments"
+      }
+    },
+    "name": "MARTIN MARTIN, Maria Ibalia",
+    "nationality": "British",
+    "officer_role": "secretary",
+    "resigned_on": "2017-03-01",
+    "person_number": "125294730001"
+  },
+  {
+    "address": {
+      "address_line_1": "788-790 Finchley Road",
+      "locality": "London",
+      "postal_code": "NW11 7TJ"
+    },
+    "appointed_on": "2005-07-08",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/05503280/appointments/nrXWAW2SumFSc91XjEHex_-byx8",
+      "officer": {
+        "appointments": "/officers/xLPL0PBzn14BtfuhzOZQswj4AoM/appointments"
+      }
+    },
+    "name": "TEMPLE SECRETARIES LIMITED",
+    "officer_role": "corporate-nominee-secretary",
+    "resigned_on": "2005-09-01",
+    "person_number": "900001120001"
+  },
+  {
+    "address": {
+      "address_line_1": "788-790 Finchley Road",
+      "locality": "London",
+      "postal_code": "NW11 7TJ"
+    },
+    "appointed_on": "2005-07-08",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/05503280/appointments/j_rFfuwNNWUNjMf2uZbZUB-L9bs",
+      "officer": {
+        "appointments": "/officers/C7trUnW0xAvzpaSmVXVviwNi2BY/appointments"
+      }
+    },
+    "name": "COMPANY DIRECTORS LIMITED",
+    "officer_role": "corporate-nominee-director",
+    "resigned_on": "2005-09-01",
+    "person_number": "900001110001"
+  }
+]

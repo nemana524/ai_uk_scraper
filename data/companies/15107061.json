@@ -1,0 +1,39 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH DEBT LTD",
+  "company_number": "15107061",
+  "company_status": "dissolved",
+  "date_of_cessation": "2025-02-04",
+  "date_of_creation": "2023-08-31",
+  "etag": "be00a2e9b5d40ff1ed313c8418cffb132cc8e71b",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15107061/persons-with-significant-control",
+    "self": "/company/15107061",
+    "filing_history": "/company/15107061/filing-history",
+    "officers": "/company/15107061/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "N1 7sr International House",
+    "address_line_2": "64 Nile Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "po_box": "5100",
+    "postal_code": "N1 7SR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,53 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-28"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CAREERS LTD",
+  "company_number": "15529243",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2025-03-13",
+    "next_made_up_to": "2025-02-27",
+    "overdue": true
+  },
+  "date_of_creation": "2024-02-28",
+  "etag": "41c1a2175c5da0ceedbf820acff5eeda9735b58c",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15529243/persons-with-significant-control",
+    "self": "/company/15529243",
+    "filing_history": "/company/15529243/filing-history",
+    "officers": "/company/15529243/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090",
+    "78109",
+    "85590"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

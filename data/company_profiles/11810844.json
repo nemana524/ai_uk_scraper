@@ -1,0 +1,47 @@
+{
+  "company_number": "11810844",
+  "company_name": "TECH COMPUTE LTD",
+  "company_status": "active",
+  "date_of_creation": "2019-02-06",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47990",
+    "62090",
+    "82990",
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "123a Dane Road",
+    "country": "England",
+    "locality": "Southall",
+    "postal_code": "UB1 2EE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-28",
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-29"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "etag": "57c9585a1ddfb8523026680f6353166aea6e769a"
+}

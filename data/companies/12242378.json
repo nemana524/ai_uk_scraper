@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-10-31",
+      "period_end_on": "2023-10-31",
+      "period_start_on": "2022-11-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-31",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-11-01"
+    },
+    "next_due": "2025-07-31",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH EVENTS BIRMINGHAM LIMITED",
+  "company_number": "12242378",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-02",
+    "next_due": "2025-10-16",
+    "next_made_up_to": "2025-10-02",
+    "overdue": false
+  },
+  "date_of_creation": "2019-10-03",
+  "etag": "9611f413ebea71f7dd030e4ac1c882857f9c66d7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12242378/persons-with-significant-control",
+    "self": "/company/12242378",
+    "filing_history": "/company/12242378/filing-history",
+    "officers": "/company/12242378/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "The Coach House",
+    "address_line_2": "77 Regent Street",
+    "country": "England",
+    "locality": "Stonehouse",
+    "postal_code": "GL10 2AA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "82302"
+  ],
+  "type": "private-limited-guarant-nsc",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

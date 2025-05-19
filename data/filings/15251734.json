@@ -1,0 +1,113 @@
+[
+  {
+    "transaction_id": "MzQ1MDcwODYzMGFkaXF6a2N4",
+    "barcode": "XDU67UJM",
+    "type": "CS01",
+    "date": "2025-01-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-31"
+    },
+    "pages": 3,
+    "action_date": "2024-10-31",
+    "links": {
+      "self": "/company/15251734/filing-history/MzQ1MDcwODYzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TJkS6f1K0C17TUX-TBLdnE22MScWnik5H-9BIlq_2i4"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDMxNzE0NWFkaXF6a2N4",
+    "barcode": "XD87E71E",
+    "type": "TM01",
+    "date": "2024-07-27",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Temitope Adelanwa",
+      "termination_date": "2024-07-01"
+    },
+    "pages": 1,
+    "action_date": "2024-07-01",
+    "links": {
+      "self": "/company/15251734/filing-history/MzQzMDMxNzE0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J-IMgdWzgvfKQdKcxMqgqLU34MyQm7XIB7rzbcYnk2M"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjM2MTA2OWFkaXF6a2N4",
+    "barcode": "XD3ES4Z4",
+    "type": "AP01",
+    "date": "2024-05-18",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Temitope Adelanwa",
+      "appointment_date": "2024-05-18"
+    },
+    "pages": 2,
+    "action_date": "2024-05-18",
+    "links": {
+      "self": "/company/15251734/filing-history/MzQyMjM2MTA2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2xEuo0mQaGwBiie2lPwhG2W6oJNKvRvsosyoPvU6s74"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjM2MzU1N2FkaXF6a2N4",
+    "barcode": "XCXOP17E",
+    "type": "AD01",
+    "date": "2024-02-26",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-02-26",
+      "old_address": "Bartle House 9 Oxford Court Manchester M2 3WQ England",
+      "new_address": "26 Jellicoe Avenue Stapleton Bristol BS16 1WJ"
+    },
+    "pages": 1,
+    "action_date": "2024-02-26",
+    "links": {
+      "self": "/company/15251734/filing-history/MzQxMjM2MzU1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mMQaVqURZVn-_K1GVQCt5n-IWlwdGshKcokpbRvnNWM"
+    }
+  },
+  {
+    "transaction_id": "MzM5ODQ2OTMzNGFkaXF6a2N4",
+    "barcode": "XCFBXA57",
+    "type": "NEWINC",
+    "date": "2023-11-01",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-11-01",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-11-01",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-11-01",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-11-01"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15251734/filing-history/MzM5ODQ2OTMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a46AebGJ8pqcuDkqxe4Mh6LA6sJz3iyWi1tdo-NQZJY"
+    }
+  }
+]

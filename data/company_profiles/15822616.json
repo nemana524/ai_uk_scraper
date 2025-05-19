@@ -1,0 +1,41 @@
+{
+  "company_number": "15822616",
+  "company_name": "TECH CREDIT PARTNERS LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-07-06",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "70229"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "3a Berriman Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N7 7PN"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-06",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-07-06"
+    },
+    "next_due": "2026-04-06",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "etag": "f606fa4a995a360a72b6a4dd53271c16c2d6f32a"
+}

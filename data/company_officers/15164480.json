@@ -1,0 +1,60 @@
+{
+  "company_number": "15164480",
+  "company_name": "TECH ENERGIZE LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "TORABI, Afsaneh",
+      "officer_role": "secretary",
+      "appointed_on": "2023-10-09",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Breakspear Road",
+        "country": "England",
+        "locality": "Ruislip",
+        "postal_code": "HA4 7ST",
+        "premises": "Flat 6 Rotary House"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15164480/appointments/Y-WPww2t-g-AqW4uyUq1tI_lryo",
+        "officer": {
+          "appointments": "/officers/eQjfGPoM8akkz6Y944fIFTflJGI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHAHNOOSHI FOROUSHANI, Mojtaba",
+      "officer_role": "director",
+      "appointed_on": "2023-09-26",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Breakspear Road",
+        "country": "England",
+        "locality": "Ruislip",
+        "postal_code": "HA4 7ST",
+        "premises": "Flat 6 Rotary House"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1984
+      },
+      "links": {
+        "self": "/company/15164480/appointments/0Epq3pDPWJjdUqsd0W1hFbfe7Mw",
+        "officer": {
+          "appointments": "/officers/C8dY3WtvMaPsW9bFIgwvY5HhA58/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

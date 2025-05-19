@@ -1,0 +1,35 @@
+{
+  "company_number": "16013599",
+  "company_name": "BRICK BY BRICK DESIGN'S LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ASLAM, Salma",
+      "officer_role": "director",
+      "appointed_on": "2024-10-11",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Southdown Road",
+        "country": "England",
+        "locality": "Hornchurch",
+        "postal_code": "RM11 1LY",
+        "premises": "21"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1992
+      },
+      "links": {
+        "self": "/company/16013599/appointments/h1C6xA4Mz3RrkeItTV-uHLuBoLQ",
+        "officer": {
+          "appointments": "/officers/2xQ2v537ihr9tI-bS6mIkfSYbws/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

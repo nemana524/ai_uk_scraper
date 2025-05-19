@@ -1,0 +1,223 @@
+[
+  {
+    "transaction_id": "MzQ1OTgzMDk4MGFkaXF6a2N4",
+    "barcode": "XDZ01MGP",
+    "type": "AD01",
+    "date": "2025-03-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-03-24",
+      "old_address": "61 Bridge Street Kington HR5 3DJ England",
+      "new_address": "Twelve Quays House Egerton Wharf Wirral CH41 1LD"
+    },
+    "pages": 1,
+    "action_date": "2025-03-24",
+    "links": {
+      "self": "/company/15117595/filing-history/MzQ1OTgzMDk4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/d_pfzwwGM3Fl-J9AyDv7_93GiqBXPhX8aY8czXy50wc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MTMwMDU5NGFkaXF6a2N4",
+    "barcode": "XDEQ2QWY",
+    "type": "CS01",
+    "date": "2024-10-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-29"
+    },
+    "pages": 5,
+    "action_date": "2024-10-29",
+    "links": {
+      "self": "/company/15117595/filing-history/MzQ0MTMwMDU5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2yi19bjkr2FHeyYVACyBLTkr5NE_bqVLTeQqc4V1F1Y"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDg0Nzc1MWFkaXF6a2N4",
+    "barcode": "XDEF4EVV",
+    "type": "CS01",
+    "date": "2024-10-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-09-15"
+    },
+    "pages": 3,
+    "action_date": "2024-09-15",
+    "links": {
+      "self": "/company/15117595/filing-history/MzQ0MDg0Nzc1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TaCMJm_EvSRH63YsxAjjaogvsDDeEoeJ-ve7D4aUWmY"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjk3MDYwNGFkaXF6a2N4",
+    "barcode": "XD3PMFV4",
+    "type": "PSC07",
+    "date": "2024-05-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Tiasha Sen",
+      "cessation_date": "2024-05-16"
+    },
+    "pages": 1,
+    "action_date": "2024-05-16",
+    "links": {
+      "self": "/company/15117595/filing-history/MzQyMjk3MDYwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/k198I-VoWVqtxqE7bk2H5Oqz8XEfVlbdkNwGw2gij0I"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjk3MDUyMmFkaXF6a2N4",
+    "barcode": "XD3PMFK3",
+    "type": "PSC07",
+    "date": "2024-05-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Piyali Sen",
+      "cessation_date": "2024-05-16"
+    },
+    "pages": 1,
+    "action_date": "2024-05-16",
+    "links": {
+      "self": "/company/15117595/filing-history/MzQyMjk3MDUyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K3XO9wAPWaddKWGGRsqgs62RvgVK_YMrGAfLIfyAR6A"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTI2NDgwOGFkaXF6a2N4",
+    "barcode": "XCFUQVYY",
+    "type": "PSC01",
+    "date": "2023-11-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Tiasha Sen",
+      "notification_date": "2023-11-06"
+    },
+    "pages": 2,
+    "action_date": "2023-11-06",
+    "links": {
+      "self": "/company/15117595/filing-history/MzM5OTI2NDgwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7lUn1ED52qsWtSUp8AS0RSzGRkTnc_v9LlzncNonrL8"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTI2NDU3MmFkaXF6a2N4",
+    "barcode": "XCFUQURS",
+    "type": "PSC01",
+    "date": "2023-11-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Piyali Sen",
+      "notification_date": "2023-11-06"
+    },
+    "pages": 2,
+    "action_date": "2023-11-06",
+    "links": {
+      "self": "/company/15117595/filing-history/MzM5OTI2NDU3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3hGMCLtFMEb6SogCjdM_m9ccyDdiK-6VevzSX-yuoRo"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTI2Mzg2NWFkaXF6a2N4",
+    "barcode": "XCFUQRW1",
+    "type": "PSC04",
+    "date": "2023-11-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-11-06",
+      "psc_name": "Mr Indranil Sen"
+    },
+    "pages": 2,
+    "action_date": "2023-11-06",
+    "links": {
+      "self": "/company/15117595/filing-history/MzM5OTI2Mzg2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/-geEmRBSBhJ4J9CeoL6Si1I1v2LiFazYkfgaJjTxz7U"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzMwMzI3MmFkaXF6a2N4",
+    "barcode": "XCC3ULY8",
+    "type": "CS01",
+    "date": "2023-09-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-09-15"
+    },
+    "pages": 3,
+    "action_date": "2023-09-15",
+    "links": {
+      "self": "/company/15117595/filing-history/MzM5MzMwMzI3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/X2f1aiwsdvPu8oKw_A5sdkoCsJpYB9r9Ak3C3mdrYn4"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjMxNjQzNmFkaXF6a2N4",
+    "barcode": "XCBNQBNU",
+    "type": "AD01",
+    "date": "2023-09-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-09-08",
+      "old_address": "333 Edgware Road London Middlesex NW9 6TD England",
+      "new_address": "61 Bridge Street Kington HR5 3DJ"
+    },
+    "pages": 1,
+    "action_date": "2023-09-08",
+    "links": {
+      "self": "/company/15117595/filing-history/MzM5MjMxNjQzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Az7wZg56w_MnTA1U5lrjmd92QG041NMGvTxmGNVli4Y"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTk0MzM4M2FkaXF6a2N4",
+    "barcode": "XCBFOWGI",
+    "type": "NEWINC",
+    "date": "2023-09-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-09-05",
+        "description": "model-articles-adopted-amended-provisions",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-09-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-09-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-09-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 17,
+    "links": {
+      "self": "/company/15117595/filing-history/MzM5MTk0MzM4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KXLOMRFGLW9KUHgDnfNEHPl0ZcGcCLDatezSwLDlvhg"
+    }
+  }
+]

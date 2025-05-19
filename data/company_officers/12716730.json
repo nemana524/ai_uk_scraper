@@ -1,0 +1,36 @@
+{
+  "company_number": "12716730",
+  "company_name": "TECH ACADEMY LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PAK, Kazim Haldun",
+      "officer_role": "director",
+      "appointed_on": "2020-07-03",
+      "resigned_on": null,
+      "nationality": "Turkish",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Avalon Point",
+        "address_line_2": "1 Silvocea Way",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E14 0TZ",
+        "premises": "Flat 1706"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/12716730/appointments/xJBFF3TQa8eb1w32ghgsseoBJw4",
+        "officer": {
+          "appointments": "/officers/rN7x09kKLreHhOpwAE_z5gLPItU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

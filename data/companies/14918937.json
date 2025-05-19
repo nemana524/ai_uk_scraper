@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-06-06",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH BAR REPAIRS LTD",
+  "company_number": "14918937",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-05",
+    "next_due": "2025-06-19",
+    "next_made_up_to": "2025-06-05",
+    "overdue": false
+  },
+  "date_of_creation": "2023-06-06",
+  "etag": "d526299f6ecb267a3d3c6e6f70262e242c3918f4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14918937/persons-with-significant-control",
+    "self": "/company/14918937",
+    "filing_history": "/company/14918937/filing-history",
+    "officers": "/company/14918937/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "26 Downsview Drive",
+    "country": "England",
+    "locality": "Gillingham",
+    "postal_code": "SP8 4RL",
+    "region": "Dorset"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "33140",
+    "47410",
+    "95110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

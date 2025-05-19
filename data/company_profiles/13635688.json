@@ -1,0 +1,45 @@
+{
+  "company_number": "13635688",
+  "company_name": "TECH HANDSHAKE LTD",
+  "company_status": "active",
+  "date_of_creation": "2021-09-21",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "124 City Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-09-30",
+      "period_end_on": "2023-09-30",
+      "period_start_on": "2022-10-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-30",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01"
+    },
+    "next_due": "2025-06-30",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "etag": "6830a15007b110c5cd9eb7b5b5d4e79f680f11a9"
+}

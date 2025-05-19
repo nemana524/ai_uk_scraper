@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-08-31",
+      "period_end_on": "2022-08-31",
+      "period_start_on": "2021-09-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-05-31",
+      "overdue": true,
+      "period_end_on": "2023-08-31",
+      "period_start_on": "2022-09-01"
+    },
+    "next_due": "2024-05-31",
+    "next_made_up_to": "2023-08-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH 49 LTD",
+  "company_number": "09158116",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-08-01",
+    "next_due": "2023-08-15",
+    "next_made_up_to": "2023-08-01",
+    "overdue": true
+  },
+  "date_of_creation": "2014-08-01",
+  "etag": "0b3e9a73b8ffcb6b9694503b107c6e61b99e9e5b",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-08-01",
+  "links": {
+    "persons_with_significant_control": "/company/09158116/persons-with-significant-control",
+    "persons_with_significant_control_statements": "/company/09158116/persons-with-significant-control-statements",
+    "self": "/company/09158116",
+    "filing_history": "/company/09158116/filing-history",
+    "officers": "/company/09158116/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "256 Holyhead Road",
+    "locality": "Wednesbury",
+    "postal_code": "WS10 7DQ",
+    "region": "West Midlands"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

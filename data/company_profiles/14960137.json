@@ -1,0 +1,45 @@
+{
+  "company_number": "14960137",
+  "company_name": "TECH AND TYRES MOBILE VEHICLE SERVICES LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-06-26",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "45200"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "24 Warminster Road",
+    "country": "England",
+    "locality": "Westbury",
+    "postal_code": "BA13 3PE",
+    "region": "Wiltshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-06-26",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "etag": "f636401e7e74ed4a5497a4376835606d4d8639f4"
+}

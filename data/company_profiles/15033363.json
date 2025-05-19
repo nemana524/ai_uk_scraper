@@ -1,0 +1,29 @@
+{
+  "company_number": "15033363",
+  "company_name": "TECH CONSULTANCY WHOLESALER LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-07-27",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46610"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "309a West Green Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N15 3PA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    }
+  },
+  "etag": "153f3f22a266ae25502447caeb318ca7d7f11ab7"
+}

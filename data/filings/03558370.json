@@ -1,0 +1,530 @@
+[
+  {
+    "transaction_id": "MzI1MDkyMDc0MWFkaXF6a2N4",
+    "barcode": "A8H8W4QI",
+    "type": "TM02",
+    "date": "2019-12-02",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Jonathan Edward Lumley Kelly",
+      "termination_date": "2003-11-04"
+    },
+    "pages": 2,
+    "action_date": "2003-11-04",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MzI1MDkyMDc0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cQs96NJeGvG2ua1L4IyqrFdbB784DnOTzh0HejELnok"
+    }
+  },
+  {
+    "transaction_id": "MzIzOTIyMjgzOWFkaXF6a2N4",
+    "barcode": "A88LA1G0",
+    "type": "TM01",
+    "date": "2019-07-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Jonathan Edward Lumley Kelly",
+      "termination_date": "2003-11-04"
+    },
+    "pages": 2,
+    "action_date": "2003-11-04",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MzIzOTIyMjgzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rdWrrW_jz-xuzphYzAS0B2MjQeMs1Zc9iEz21LfYmSc"
+    }
+  },
+  {
+    "transaction_id": "MzAzNzU0OTM5MGFkaXF6a2N4",
+    "barcode": "A534NU8B",
+    "type": "COCOMP",
+    "date": "2011-05-23",
+    "category": "insolvency",
+    "subcategory": [
+      "compulsory",
+      "court-order"
+    ],
+    "description": "liquidation-compulsory-winding-up-order",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MzAzNzU0OTM5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2DcxP1AiPE7TDRxpt3n_sjgGB1PpV6cEUI-RlMXPmXM"
+    }
+  },
+  {
+    "transaction_id": "MTg1NzQ5Mzg4YWRpcXprY3g",
+    "type": "MISC",
+    "date": "2007-09-21",
+    "category": "miscellaneous",
+    "description": "miscellaneous",
+    "description_values": {
+      "description": "O/C replacement of administrator"
+    },
+    "pages": 7,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTg1NzQ5Mzg4YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2HvZ-iBbeI9Y_4EEJtG09JoAQivzCThmF4OotgjQ25M"
+    }
+  },
+  {
+    "transaction_id": "ODc2OTI2NjlhZGlxemtjeA",
+    "type": "2.23",
+    "date": "2000-08-29",
+    "category": "insolvency",
+    "subcategory": "administration",
+    "description": "liquidation-administration-meeting-of-creditors",
+    "pages": 5,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/ODc2OTI2NjlhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ymnlhpl9XI6JQpuEJVJe7znPTRTqIZZNVDiMWPVNOPk"
+    }
+  },
+  {
+    "transaction_id": "MzgxODE1OTBhZGlxemtjeA",
+    "type": "2.21",
+    "date": "2000-08-07",
+    "category": "insolvency",
+    "subcategory": "administration",
+    "description": "liquidation-administration-proposals",
+    "pages": 48,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MzgxODE1OTBhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/obKScSCA5jPWBi1NOAEazf5zh2tvm8j_Zfpc9IscwJU"
+    }
+  },
+  {
+    "transaction_id": "MzIyMjgwODBhZGlxemtjeA",
+    "type": "363s",
+    "date": "2000-06-26",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Return made up to 06/05/00; full list of members"
+    },
+    "pages": 7,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MzIyMjgwODBhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3_iB-urWK5H_ZsKWEqZNbKo5XXTA3g-rj_TgJwdie5Y"
+    }
+  },
+  {
+    "transaction_id": "Mzg4NzU4MDBhZGlxemtjeA",
+    "type": "2.7",
+    "date": "2000-05-30",
+    "category": "insolvency",
+    "subcategory": "administration",
+    "description": "liquidation-administration-order",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/Mzg4NzU4MDBhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lkebHOIpENue2AVBQulX-HO3V4QtpZGrff224tFPLXM"
+    }
+  },
+  {
+    "transaction_id": "MTI2NDEzMzg3YWRpcXprY3g",
+    "type": "2.6",
+    "date": "2000-05-30",
+    "category": "insolvency",
+    "subcategory": "administration",
+    "description": "liquidation-administration-notice-of-administration-order",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTI2NDEzMzg3YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZxTsM2Y8KHOg_Ke0Hpi1Yh2PqhaiplXAil7FGROAHOk"
+    }
+  },
+  {
+    "transaction_id": "NzQwNjc0OTZhZGlxemtjeA",
+    "type": "395",
+    "date": "2000-03-30",
+    "category": "mortgage",
+    "description": "legacy",
+    "description_values": {
+      "description": "Particulars of mortgage/charge"
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/NzQwNjc0OTZhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/R0H7iZObY8WPFMDb6ZimKP3eFX-D2t9qRUPoUYosSr0"
+    }
+  },
+  {
+    "transaction_id": "MTE1MjY5Nzk2YWRpcXprY3g",
+    "type": "AUD",
+    "date": "2000-02-15",
+    "category": "auditors",
+    "description": "auditors-resignation-company",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTE1MjY5Nzk2YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ogv0qiave5dJdyV2LqjFMxDtXH37QYJtGoA8XNf9nVo"
+    }
+  },
+  {
+    "transaction_id": "MTE1OTYzMTI3YWRpcXprY3g",
+    "type": "225",
+    "date": "2000-02-05",
+    "category": "accounts",
+    "description": "legacy",
+    "description_values": {
+      "description": "Accounting reference date extended from 31/08/99 to 31/12/99"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTE1OTYzMTI3YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jgvaefnYzSZbixDY6Xn7fAZKW-NQoigEiAGuaqAmZuo"
+    }
+  },
+  {
+    "transaction_id": "OTQwOTA3NjJhZGlxemtjeA",
+    "type": "AA",
+    "date": "2000-01-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-full",
+    "description_values": {
+      "made_up_date": "1998-08-31"
+    },
+    "pages": 5,
+    "action_date": "1998-08-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/OTQwOTA3NjJhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FEOihrT9yH4RMlayzlVeVMkcpmEPUhSFh0-Bqn27Fh4"
+    }
+  },
+  {
+    "transaction_id": "OTUxMDkzMmFkaXF6a2N4",
+    "type": "403a",
+    "date": "2000-01-07",
+    "category": "mortgage",
+    "description": "legacy",
+    "description_values": {
+      "description": "Declaration of satisfaction of mortgage/charge"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/OTUxMDkzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AwLINjAZi0o4CcOjs6IA9Vg5qdWYSKjW8N7DW6k8-qo"
+    }
+  },
+  {
+    "transaction_id": "NjQyODA4NTRhZGlxemtjeA",
+    "type": "395",
+    "date": "1999-11-25",
+    "category": "mortgage",
+    "description": "legacy",
+    "description_values": {
+      "description": "Particulars of mortgage/charge"
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/NjQyODA4NTRhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/z0rXtGdSeWl6_145ubtnzx3XVjvc5TlBo1chTZNkdX4"
+    }
+  },
+  {
+    "transaction_id": "NTIzNjQ1MjNhZGlxemtjeA",
+    "type": "225",
+    "date": "1999-11-04",
+    "category": "accounts",
+    "description": "legacy",
+    "description_values": {
+      "description": "Accounting reference date shortened from 31/05/99 to 31/08/98"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/NTIzNjQ1MjNhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/R1BtYXlPtSN8Yxb6CT_9GtP3FK_AXIDLMfAi9oNRIGM"
+    }
+  },
+  {
+    "transaction_id": "MTQ4NzQ4OTQ5YWRpcXprY3g",
+    "type": "88(3)",
+    "date": "1999-07-06",
+    "category": "capital",
+    "description": "legacy",
+    "description_values": {
+      "description": "Particulars of contract relating to shares"
+    },
+    "pages": 4,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTQ4NzQ4OTQ5YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3P0BW2B1srxi3VJOLNFm2jsXNZ6UeFi0pgNX3WjNzKM"
+    }
+  },
+  {
+    "transaction_id": "ODEzNzE0MDRhZGlxemtjeA",
+    "type": "88(2)R",
+    "date": "1999-07-06",
+    "category": "capital",
+    "description": "legacy",
+    "description_values": {
+      "description": "Ad 01/09/98--------- \u00a3 si 225000@1"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/ODEzNzE0MDRhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XYs_t9uBCD-UKkkZDsrGvHkuq32RZ6MlQMBYTtsRffI"
+    }
+  },
+  {
+    "transaction_id": "MjQ1NTM0ODZhZGlxemtjeA",
+    "type": "363s",
+    "date": "1999-06-15",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Return made up to 06/05/99; full list of members"
+    },
+    "pages": 6,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MjQ1NTM0ODZhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/e7UDhVyDveyxjfdE1XFApRZThZg8Y6cxL085-qxkdgk"
+    }
+  },
+  {
+    "transaction_id": "OTg1NTM2MTZhZGlxemtjeA",
+    "type": "395",
+    "date": "1999-04-08",
+    "category": "mortgage",
+    "description": "legacy",
+    "description_values": {
+      "description": "Particulars of mortgage/charge"
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/OTg1NTM2MTZhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JhNlF54pEIUeql0uv51fluFoRDEH8eaU4DHhibDQrtU"
+    }
+  },
+  {
+    "transaction_id": "MTEzMzM5Njk1YWRpcXprY3g",
+    "type": "395",
+    "date": "1998-10-30",
+    "category": "mortgage",
+    "description": "legacy",
+    "description_values": {
+      "description": "Particulars of mortgage/charge"
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTEzMzM5Njk1YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NMDhq9mLomdMFDZ3SA2S4cvVULgahigsFz5xcjFzhvM"
+    }
+  },
+  {
+    "transaction_id": "OTQzNzI5M2FkaXF6a2N4",
+    "type": "RESOLUTIONS",
+    "date": "1998-08-21",
+    "category": "resolution",
+    "resolutions": [
+      {
+        "category": "capital",
+        "description": "special-resolution-increase-capital",
+        "type": "SRES04",
+        "subcategory": "resolution"
+      }
+    ],
+    "description": "resolution",
+    "description_values": {
+      "description": "Resolutions"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/OTQzNzI5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vqebd24oy1nnK0nIQF_WLchyYzXszQsE_dng9td9hYo"
+    }
+  },
+  {
+    "transaction_id": "MTExNDk4ODAzYWRpcXprY3g",
+    "type": "288a",
+    "date": "1998-08-21",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "New director appointed"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTExNDk4ODAzYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9lP9SacgAQGueG_JM4bJEChxBmMK3gbQbtoAji8SyNs"
+    }
+  },
+  {
+    "transaction_id": "ODYyMDIxMzhhZGlxemtjeA",
+    "type": "88(2)R",
+    "date": "1998-08-21",
+    "category": "capital",
+    "description": "legacy",
+    "description_values": {
+      "description": "Ad 01/08/98--------- \u00a3 si 75000@1=75000 \u00a3 ic 2/75002"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/ODYyMDIxMzhhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/f4vRr0CloNONJSCoJ_G0v776_KomR2xipPAfFfCaNck"
+    }
+  },
+  {
+    "transaction_id": "NTgzNzY2MzlhZGlxemtjeA",
+    "type": "123",
+    "date": "1998-08-21",
+    "category": "capital",
+    "description": "legacy",
+    "description_values": {
+      "description": "\u00a3 nc 50000/1000000 01/08/98"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/NTgzNzY2MzlhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nr3XGT5y8MTxwlRnZqyF0S-Pt6f4DIOXZ6AgDOGh0cQ"
+    }
+  },
+  {
+    "transaction_id": "MTI5NDE1NDg1YWRpcXprY3g",
+    "type": "CERT8",
+    "date": "1998-07-15",
+    "category": "incorporation",
+    "subcategory": "certificate",
+    "description": "certificate-authorisation-to-commence-business-borrow",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/MTI5NDE1NDg1YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0rzRoezYR8Yc5ztYmu4mVmac8us43ptqsbHXzY_-b5M"
+    }
+  },
+  {
+    "transaction_id": "OTA2NzQyMDlhZGlxemtjeA",
+    "type": "117",
+    "date": "1998-07-15",
+    "category": "incorporation",
+    "description": "application-to-commence-business",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/OTA2NzQyMDlhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xyp4eC1yfCy7vzisf3cyJrFhrIWl4fJaJ-0wUN87p2g"
+    }
+  },
+  {
+    "transaction_id": "NzIxNTIzMjVhZGlxemtjeA",
+    "type": "288a",
+    "date": "1998-05-14",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "New director appointed"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/NzIxNTIzMjVhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MjqWE5lgBC-Cj-nvncp9i4Z0uIZIx-ipCbtbZTAAUP4"
+    }
+  },
+  {
+    "transaction_id": "NDA5OTY2ODlhZGlxemtjeA",
+    "type": "288a",
+    "date": "1998-05-14",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "New secretary appointed;new director appointed"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/NDA5OTY2ODlhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FNG9u9XyKOs23pCMEUwfHq-EfZlq8qHVBizhZnevWS8"
+    }
+  },
+  {
+    "transaction_id": "OTgxMzEzNThhZGlxemtjeA",
+    "type": "288b",
+    "date": "1998-05-14",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Director resigned"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/OTgxMzEzNThhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xfbBt2cts_y5mkvxQtxd4vixVioLPYIIT0x21D6Hxps"
+    }
+  },
+  {
+    "transaction_id": "NjkyMjk4MzBhZGlxemtjeA",
+    "type": "288b",
+    "date": "1998-05-14",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Secretary resigned;director resigned"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/NjkyMjk4MzBhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qFNiT26aI6DEI2F7HFADHDxwLzh4oHyfotJiW3ltrVA"
+    }
+  },
+  {
+    "transaction_id": "OTQ3MjMzNTNhZGlxemtjeA",
+    "type": "287",
+    "date": "1998-05-14",
+    "category": "address",
+    "description": "legacy",
+    "description_values": {
+      "description": "Registered office changed on 14/05/98 from: international house 31 church road, hendon london NW4 4EB"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/OTQ3MjMzNTNhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oCJOVPZ21hfd4HGRSw2UqFf63gCp9aFYPWBRNpzPcQ4"
+    }
+  },
+  {
+    "transaction_id": "ODcwNTUxNDRhZGlxemtjeA",
+    "type": "NEWINC",
+    "date": "1998-05-06",
+    "category": "incorporation",
+    "description": "incorporation-company",
+    "pages": 15,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/03558370/filing-history/ODcwNTUxNDRhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sri6viWKUjR5Tg_gQye1NaXOH2ZI2QI3Fu644Yo44zc"
+    }
+  }
+]

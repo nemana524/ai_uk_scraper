@@ -1,0 +1,41 @@
+{
+  "company_number": "15971652",
+  "company_name": "TECH IT COMPANY GROUP LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2024-09-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "62090",
+    "68100",
+    "69109"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "63 St. Mary Axe",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC3A 8AA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-23",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-09-23"
+    },
+    "next_due": "2026-06-23",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "etag": "3db1ed6157356e3e8cd9f5ddb0b6944419988b09"
+}

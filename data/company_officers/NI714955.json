@@ -1,0 +1,35 @@
+{
+  "company_number": "NI714955",
+  "company_name": "TECH GROWTH SEEKER LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KLECZKOWSKA, Klaudia, Dr",
+      "officer_role": "director",
+      "appointed_on": "2024-04-27",
+      "resigned_on": null,
+      "nationality": "Polish",
+      "country_of_residence": "Northern Ireland",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "68-72 Newtownards Road",
+        "country": "United Kingdom",
+        "locality": "Belfast",
+        "postal_code": "BT4 1GW",
+        "premises": "301 City East Business Centre"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/NI714955/appointments/CH0PBA4sT6YGS2Zi47CWnr2rxno",
+        "officer": {
+          "appointments": "/officers/WiYzlIg8B8QpRXTC7eCqoAdYpBc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2025-01-25",
+      "overdue": true,
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-04-25"
+    },
+    "next_due": "2025-01-25",
+    "next_made_up_to": "2024-04-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH CONTRACTORS TECH LIMITED",
+  "company_number": "14825173",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2024-05-08",
+    "next_made_up_to": "2024-04-24",
+    "overdue": true
+  },
+  "date_of_creation": "2023-04-25",
+  "etag": "6a335abb8f5943106d55be6660059baf7d7a7295",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14825173/persons-with-significant-control",
+    "self": "/company/14825173",
+    "filing_history": "/company/14825173/filing-history",
+    "officers": "/company/14825173/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2024-02-01",
+      "effective_from": "2023-04-25",
+      "name": "OAKWOODLAND LONDON CONTRACTORS LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "25 Canada Square",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E14 5LB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "41201"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,93 @@
+{
+  "company_number": "08963964",
+  "company_name": "TECH LEADERS CLUB LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "MAZOUDIER, Fran\u00e7ois",
+      "officer_role": "director",
+      "appointed_on": "2014-03-27",
+      "resigned_on": null,
+      "nationality": "French",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Tavistock House North",
+        "address_line_2": "Tavistock Square",
+        "locality": "London",
+        "postal_code": "WC1H 9HR",
+        "premises": "Griffins"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1967
+      },
+      "links": {
+        "self": "/company/08963964/appointments/l34FB5lxcP4J1dlGyoDFHz_D7p4",
+        "officer": {
+          "appointments": "/officers/Cl0ExXHCUdYsoWFG4kdN3VlKII0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GILLINGWATER, Peter Barry",
+      "officer_role": "director",
+      "appointed_on": "2014-03-27",
+      "resigned_on": "2014-07-01",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Station Road",
+        "address_line_2": "Woburn Sands",
+        "country": "England",
+        "locality": "Milton Keynes",
+        "postal_code": "MK17 8SG",
+        "premises": "Brick House, 150a",
+        "region": "Bucks"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1964
+      },
+      "links": {
+        "self": "/company/08963964/appointments/hWBz82dz1CVOqPyCrmPaabAztA8",
+        "officer": {
+          "appointments": "/officers/X2_QuO56QcSpLAoaTK-BXMOyXek/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "RANDERSON, Philip Ernest",
+      "officer_role": "director",
+      "appointed_on": "2014-07-01",
+      "resigned_on": "2015-04-13",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Cornwall Avenue",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "N3 1LF",
+        "premises": "Aston House"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/08963964/appointments/IrHBcA9uAhMFBMTYa71pM7uVpEw",
+        "officer": {
+          "appointments": "/officers/fWomHINg0uML9DTtOcgrOQk3sQc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

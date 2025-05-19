@@ -1,0 +1,40 @@
+{
+  "company_number": "16071167",
+  "company_name": "TECH BRIDGE SOLUTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-11-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012",
+    "82200"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Bartle House",
+    "address_line_2": "9 Oxford Court",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M2 3WQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-11",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-11-11"
+    },
+    "next_due": "2026-08-11",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "etag": "4a3fccef3c6b11b4f10c0abf8afc429f810547c0"
+}

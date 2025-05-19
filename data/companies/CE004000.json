@@ -1,0 +1,16 @@
+{
+  "can_file": false,
+  "company_name": "TECH AID CHARITY",
+  "company_number": "CE004000",
+  "etag": "9eaa4017e256ae8be993e5be7375f9301d7aecf7",
+  "external_registration_number": "1161448",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "self": "/company/CE004000"
+  },
+  "registered_office_is_in_dispute": false,
+  "type": "charitable-incorporated-organisation",
+  "undeliverable_registered_office_address": false
+}

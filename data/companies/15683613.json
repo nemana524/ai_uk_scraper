@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-26",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-26"
+    },
+    "next_due": "2026-01-26",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GENESYS LIMITED",
+  "company_number": "15683613",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-05-09",
+    "next_made_up_to": "2025-04-25",
+    "overdue": true
+  },
+  "date_of_creation": "2024-04-26",
+  "etag": "d6e565527843b0a9e2d8002b413af96a263437c5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15683613/persons-with-significant-control",
+    "self": "/company/15683613",
+    "filing_history": "/company/15683613/filing-history",
+    "officers": "/company/15683613/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Trinity Hall",
+    "address_line_2": "51 South Street",
+    "country": "United Kingdom",
+    "locality": "Reading",
+    "postal_code": "RG1 4QT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

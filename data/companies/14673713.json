@@ -1,0 +1,64 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-03-31",
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-02-29",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-31",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-04-01"
+    },
+    "next_due": "2026-12-31",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "COMET IQ LTD",
+  "company_number": "14673713",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-12",
+    "next_due": "2026-02-26",
+    "next_made_up_to": "2026-02-12",
+    "overdue": false
+  },
+  "date_of_creation": "2023-02-18",
+  "etag": "f37574b30651fd43ea1c80077a66b1bee2c08ac5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14673713/persons-with-significant-control",
+    "self": "/company/14673713",
+    "filing_history": "/company/14673713/filing-history",
+    "officers": "/company/14673713/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2025-03-21",
+      "effective_from": "2023-02-18",
+      "name": "TECH WORKER LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "128 City Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

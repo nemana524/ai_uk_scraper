@@ -1,0 +1,38 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH FUSE GLOBAL LIMITED",
+  "company_number": "14800564",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-09-17",
+  "date_of_creation": "2023-04-14",
+  "etag": "5168e55e23045a706e9d6f195dec091abe25fc37",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14800564/persons-with-significant-control",
+    "self": "/company/14800564",
+    "filing_history": "/company/14800564/filing-history",
+    "officers": "/company/14800564/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "4 Raven Road, Unit 1c3-10",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E18 1HB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910",
+    "62012"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

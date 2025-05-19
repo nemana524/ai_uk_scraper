@@ -1,0 +1,35 @@
+{
+  "company_number": "12449838",
+  "company_name": "TECH & BIOECONOMY VENTURE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "WOUTERS, Harold",
+      "officer_role": "director",
+      "appointed_on": "2020-02-07",
+      "resigned_on": null,
+      "nationality": "Belgian",
+      "country_of_residence": "Belgium",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1961
+      },
+      "links": {
+        "self": "/company/12449838/appointments/5WZ3lTFfkS3PPP1xi0GLLQi2JRI",
+        "officer": {
+          "appointments": "/officers/9ZuCo1wM0E8_y7FDQXGhskF1pLs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

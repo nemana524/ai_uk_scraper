@@ -1,0 +1,408 @@
+[
+  {
+    "transaction_id": "MzQ0ODkxOTk5OGFkaXF6a2N4",
+    "barcode": "XDINHEYA",
+    "type": "CS01",
+    "date": "2024-12-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-16"
+    },
+    "pages": 3,
+    "action_date": "2024-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzQ0ODkxOTk5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RLofg5zMeRLaqpXPCXFKrrkRFWSQCh5r-dRIf63cN4g"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDA4NzAyNWFkaXF6a2N4",
+    "barcode": "XDANXSN6",
+    "type": "AA",
+    "date": "2024-08-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-11-30"
+    },
+    "pages": 3,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/10484554/filing-history/MzQzNDA4NzAyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MjIdvAd-tfeJZeEWfQ9UK2eYKvHEWMcpCFzULLvT578"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjQzMjk2N2FkaXF6a2N4",
+    "barcode": "XCTYCQE1",
+    "type": "CS01",
+    "date": "2024-01-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-16"
+    },
+    "pages": 3,
+    "action_date": "2023-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzQwNjQzMjk2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BjCCgLevlK9Ckk9ZCyFtZ-DdbpjytZSy22A-wyppil0"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTQwOTA1MmFkaXF6a2N4",
+    "barcode": "XCB26BBN",
+    "type": "AA",
+    "date": "2023-08-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-11-30"
+    },
+    "pages": 3,
+    "action_date": "2022-11-30",
+    "links": {
+      "self": "/company/10484554/filing-history/MzM5MTQwOTA1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OQa1B7GWlYIywL-j3Q28C4_H2WsFnpKiT0fZZhz3YNM"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjA2NzY1M2FkaXF6a2N4",
+    "barcode": "XBVDPCPL",
+    "type": "CS01",
+    "date": "2023-01-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-11-16"
+    },
+    "pages": 3,
+    "action_date": "2022-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzM2NjA2NzY1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yvbW_45Gyc5yEfLxaFm-UP4vGGE1QNAtY8-_In-sW6A"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDIxNTUxN2FkaXF6a2N4",
+    "barcode": "XBBK2SOP",
+    "type": "AA",
+    "date": "2022-08-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-11-30"
+    },
+    "pages": 3,
+    "action_date": "2021-11-30",
+    "links": {
+      "self": "/company/10484554/filing-history/MzM1MDIxNTUxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/trXQL_SAG8Y-7syzpyuweRnHMlkIhKaBm9F3fKa3ntY"
+    }
+  },
+  {
+    "transaction_id": "MzMyMTcwNDE5MWFkaXF6a2N4",
+    "barcode": "XAIAD7KW",
+    "type": "CS01",
+    "date": "2021-11-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-11-16"
+    },
+    "pages": 3,
+    "action_date": "2021-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzMyMTcwNDE5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kCmlphmHek50eC3dLpsj4EcjHA-ARtRftOOhOz4yMCQ"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjE3NTM4MmFkaXF6a2N4",
+    "barcode": "XABYJUNV",
+    "type": "AA",
+    "date": "2021-08-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-11-30"
+    },
+    "pages": 3,
+    "action_date": "2020-11-30",
+    "links": {
+      "self": "/company/10484554/filing-history/MzMxMjE3NTM4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SvY9sN1PH_hbb6VKcFNhhLMpZEJGOmWYF-GsgaCU0gY"
+    }
+  },
+  {
+    "transaction_id": "MzI5MDQxMzc2N2FkaXF6a2N4",
+    "barcode": "X9XKBWOO",
+    "type": "CS01",
+    "date": "2021-02-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-11-16"
+    },
+    "pages": 3,
+    "action_date": "2020-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI5MDQxMzc2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8KUIG7FmumCc037StmOBRNdiGBLlU_MbcdP_WLarcnY"
+    }
+  },
+  {
+    "transaction_id": "MzI4MTYyMTM3MmFkaXF6a2N4",
+    "barcode": "X9GGZ92J",
+    "type": "AD01",
+    "date": "2020-10-26",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-10-26",
+      "old_address": "255 Old Kent Road Unit 1 London SE1 5LU England",
+      "new_address": "236 Old Kent Road London SE1 5UB"
+    },
+    "pages": 1,
+    "action_date": "2020-10-26",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI4MTYyMTM3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GOS6HAw1VLjnW07r-JZojBl7Gxc2WDDycWh37FcFbO8"
+    }
+  },
+  {
+    "transaction_id": "MzI3NjM5NjU1NmFkaXF6a2N4",
+    "barcode": "X9CER4KO",
+    "type": "AA",
+    "date": "2020-08-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-11-30"
+    },
+    "pages": 3,
+    "action_date": "2019-11-30",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI3NjM5NjU1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HeldA-_875wp1mK7BiAgb5ymD0smeM4P4nq-Pb_f4Ek"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDQ2Njk3NWFkaXF6a2N4",
+    "barcode": "X8WL2CGR",
+    "type": "CS01",
+    "date": "2020-01-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-11-16"
+    },
+    "pages": 3,
+    "action_date": "2019-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI1NDQ2Njk3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TVRxO1rHGEYdnRVGVP1tjNSMwJBQ8UfpYabGEA2AE2U"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc2MTc5N2FkaXF6a2N4",
+    "barcode": "X8G1RKO9",
+    "type": "PSC01",
+    "date": "2019-10-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Jama Hussein Hassan",
+      "notification_date": "2019-10-11"
+    },
+    "pages": 2,
+    "action_date": "2019-10-11",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI0Njc2MTc5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cVjoxtfqoe3ik5pwkbQucjD4gi4ckc5kOntXKO6dkzA"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc2MTYzOWFkaXF6a2N4",
+    "barcode": "X8G1RK0Z",
+    "type": "AP01",
+    "date": "2019-10-14",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Jama Hussein Hassan",
+      "appointment_date": "2019-10-11"
+    },
+    "pages": 2,
+    "action_date": "2019-10-11",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI0Njc2MTYzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dVLlHoBX8b-Bwl4FMRS5eJdbM_QWsQDD3IClsJIh7Io"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc1OTU1NWFkaXF6a2N4",
+    "barcode": "X8G1RAP7",
+    "type": "TM01",
+    "date": "2019-10-14",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Jama Hussein Hassan",
+      "termination_date": "2019-10-10"
+    },
+    "pages": 1,
+    "action_date": "2019-10-10",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI0Njc1OTU1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KhhILOhdeGgl6Kzfl5cLinYV7kQxFsDCKR2BqECdgMQ"
+    }
+  },
+  {
+    "transaction_id": "MzI0Njc1OTU5OGFkaXF6a2N4",
+    "barcode": "X8G1RB21",
+    "type": "PSC07",
+    "date": "2019-10-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Jama Hussein Hassan",
+      "cessation_date": "2019-10-10"
+    },
+    "pages": 1,
+    "action_date": "2019-10-10",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI0Njc1OTU5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YnLXs_nY3Wrs8VrSr-ARIWmXuv9ANPn2hhCK847dx7k"
+    }
+  },
+  {
+    "transaction_id": "MzI0MTg0NjEwOWFkaXF6a2N4",
+    "barcode": "X8BXGK5S",
+    "type": "AA",
+    "date": "2019-08-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-11-30"
+    },
+    "pages": 2,
+    "action_date": "2018-11-30",
+    "links": {
+      "self": "/company/10484554/filing-history/MzI0MTg0NjEwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XXXgQfkiOwpRWRKLIzFR4ZjB_GWRB9oBCjXEqkR1Tbc"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzA1NDQwMGFkaXF6a2N4",
+    "barcode": "X7LMFG9C",
+    "type": "CS01",
+    "date": "2018-12-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-11-16"
+    },
+    "pages": 3,
+    "action_date": "2018-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzIyMzA1NDQwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5klwd9zbeycStVIQXoxw26L_tAwyRGMiEwg3zSLmzzQ"
+    }
+  },
+  {
+    "transaction_id": "MzIxMTY0MjQ5N2FkaXF6a2N4",
+    "barcode": "X7BXGIBE",
+    "type": "AA",
+    "date": "2018-08-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-11-30"
+    },
+    "pages": 2,
+    "action_date": "2017-11-30",
+    "links": {
+      "self": "/company/10484554/filing-history/MzIxMTY0MjQ5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nB9ZoxXcrCngwNietsUcfGN0b0Q_srloizfLL90D82I"
+    }
+  },
+  {
+    "transaction_id": "MzIwNzI5MjAyNWFkaXF6a2N4",
+    "barcode": "X77ZSML7",
+    "type": "AD01",
+    "date": "2018-06-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-06-13",
+      "old_address": "Unit 61B Eurolink Business Centre 49 Effra Road London SW2 1BZ United Kingdom",
+      "new_address": "255 Old Kent Road Unit 1 London SE1 5LU"
+    },
+    "pages": 1,
+    "action_date": "2018-06-13",
+    "links": {
+      "self": "/company/10484554/filing-history/MzIwNzI5MjAyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2CNiTETPy3jqczIc8A3rhzAJ5wBXpY24kuXf4mHZGRg"
+    }
+  },
+  {
+    "transaction_id": "MzE5MDgxNDc2MWFkaXF6a2N4",
+    "barcode": "X6JQVNA2",
+    "type": "CS01",
+    "date": "2017-11-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2017-11-16"
+    },
+    "pages": 3,
+    "action_date": "2017-11-16",
+    "links": {
+      "self": "/company/10484554/filing-history/MzE5MDgxNDc2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8J1AVv4mQ2t6Jd3HNveQ4flXbXXIJqe9hu-a0Kw3KDM"
+    }
+  },
+  {
+    "transaction_id": "MzE2MjA3NDU1MWFkaXF6a2N4",
+    "barcode": "X5JVU0V9",
+    "type": "NEWINC",
+    "date": "2016-11-17",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2016-11-17",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2016-11-17",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-11-17",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1,000"
+            }
+          ]
+        },
+        "action_date": "2016-11-17"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/10484554/filing-history/MzE2MjA3NDU1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/e6Ii0-bJ8osgmpoNNmeTFt0B61ewKj2RSo7XLi7qbi8"
+    }
+  }
+]

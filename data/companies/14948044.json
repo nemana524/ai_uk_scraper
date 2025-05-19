@@ -1,0 +1,38 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH AND WEBS DIGITAL LIMITED",
+  "company_number": "14948044",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-12-10",
+  "date_of_creation": "2023-06-20",
+  "etag": "58b79b4d800939f6c8116db0ea778f36b7983962",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14948044/persons-with-significant-control",
+    "self": "/company/14948044",
+    "filing_history": "/company/14948044/filing-history",
+    "officers": "/company/14948044/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Office 3858 58 Peregrine Road Hainault",
+    "country": "United Kingdom",
+    "locality": "Ilford",
+    "postal_code": "IG6 3SZ",
+    "region": "Essex"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

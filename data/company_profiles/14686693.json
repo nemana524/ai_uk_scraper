@@ -1,0 +1,29 @@
+{
+  "company_number": "14686693",
+  "company_name": "TECH DERBY LIMITED",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-02-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "55 Cowley Street",
+    "country": "England",
+    "locality": "Derby",
+    "postal_code": "DE1 3SL"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    }
+  },
+  "etag": "1330739566a1c8564a8e324b804701626a4fd556"
+}

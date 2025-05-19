@@ -1,0 +1,82 @@
+[
+  {
+    "transaction_id": "MzQ2NDI4MDI2M2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2025-04-29",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15347625/filing-history/MzQ2NDI4MDI2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DdjBTB-pCdfHGLfpXfgGDDUEP5PKNMP2AYHQU9dULvQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NDI4MDI2MGFkaXF6a2N4",
+    "barcode": "XE1FBU0B",
+    "type": "CS01",
+    "date": "2025-04-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-12"
+    },
+    "pages": 3,
+    "action_date": "2024-12-12",
+    "links": {
+      "self": "/company/15347625/filing-history/MzQ2NDI4MDI2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wQlJgL5PQXgOZXwqf8tOVBeV35twvG2LYkmdaGQ6Ohw"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTkyMTI4OWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-03-04",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15347625/filing-history/MzQ1NTkyMTI4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K5kp80BmAQnlmswq0_8EFuTZnqtWdjVJAB1gKoR-Z4M"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzQ3NTA0OGFkaXF6a2N4",
+    "barcode": "XCI8W0QB",
+    "type": "NEWINC",
+    "date": "2023-12-13",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-12-13",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-12-13",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-12-13",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-12-13"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15347625/filing-history/MzQwMzQ3NTA0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kWt1uyrbJEaJ4rMAa-htCC2rh95qAtdcLrbrrWEKngw"
+    }
+  }
+]

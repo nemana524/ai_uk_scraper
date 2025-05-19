@@ -1,0 +1,378 @@
+[
+  {
+    "transaction_id": "MzQ1NTgyMzg4NWFkaXF6a2N4",
+    "barcode": "XDWT6PJS",
+    "type": "AA",
+    "date": "2025-02-20",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 7,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/13156530/filing-history/MzQ1NTgyMzg4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p3RKonn5Dni9Jv5lqrdlz2wc3hHndptkn7YxZhV1ut8"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTcwOTg1OGFkaXF6a2N4",
+    "barcode": "XDH4HRXE",
+    "type": "CS01",
+    "date": "2024-12-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-11-23"
+    },
+    "pages": 3,
+    "action_date": "2024-11-23",
+    "links": {
+      "self": "/company/13156530/filing-history/MzQ0NTcwOTg1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nxSbxkBOaHUIYFzCqdbFFksNRUIPAlt0dTS4Hw7pBeE"
+    }
+  },
+  {
+    "transaction_id": "MzQxODc1MTA3N2FkaXF6a2N4",
+    "barcode": "XD18OCWA",
+    "type": "AA",
+    "date": "2024-04-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-05-31"
+    },
+    "pages": 7,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/13156530/filing-history/MzQxODc1MTA3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LYCbdHsg6sh4cia4aQ8UqZdKW_OTf3fa8obFJqsUDQc"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzkyNjMyOGFkaXF6a2N4",
+    "barcode": "XCIC0S00",
+    "type": "CS01",
+    "date": "2023-12-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-11-23"
+    },
+    "pages": 3,
+    "action_date": "2023-11-23",
+    "links": {
+      "self": "/company/13156530/filing-history/MzQwMzkyNjMyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zp8gEYwz9M9IOOW8m-CL0ic_EkV8wWcrB0ysfjfh4gE"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTM4MjQ4MGFkaXF6a2N4",
+    "barcode": "XCDGM5MP",
+    "type": "PSC07",
+    "date": "2023-10-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Hunza Waseem",
+      "cessation_date": "2023-10-04"
+    },
+    "pages": 1,
+    "action_date": "2023-10-04",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM5NTM4MjQ4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z9ylx65heKk1X2DD981m7hKJXKqvCMBkv5aoARXwpPk"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIyOTA2MWFkaXF6a2N4",
+    "barcode": "XBJBRLZV",
+    "type": "PSC07",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Taha",
+      "cessation_date": "2022-12-21"
+    },
+    "pages": 1,
+    "action_date": "2022-12-21",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MzIyOTA2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wN0j8lk8nvZazMzvjj1sJCSxiAs9-XiEG9X9EBcZRfg"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIyOTA1N2FkaXF6a2N4",
+    "barcode": "XBJBRLUI",
+    "type": "PSC07",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Taha",
+      "cessation_date": "2022-12-21"
+    },
+    "pages": 1,
+    "action_date": "2022-12-21",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MzIyOTA1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GOMGS799qHqjyhp7m6rAIL4dwBdYB2hXz95twbaJhds"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIyODkyN2FkaXF6a2N4",
+    "barcode": "XBJBRLM9",
+    "type": "PSC03",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Taha",
+      "notification_date": "2022-12-20"
+    },
+    "pages": 1,
+    "action_date": "2022-12-20",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MzIyODkyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WQ5EC4Cx_53qrr0rHvtXWH2ZCrSElzyn4x1QQaKzoAQ"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIyODg2NmFkaXF6a2N4",
+    "barcode": "XBJBRLAR",
+    "type": "PSC02",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Taha",
+      "notification_date": "2022-12-21"
+    },
+    "pages": 1,
+    "action_date": "2022-12-21",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MzIyODg2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hHgQploJHUbG18eD8LJyRyQFu9zEbKYCxxsfcovj6u8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIyODgwMmFkaXF6a2N4",
+    "barcode": "XBJBRL77",
+    "type": "PSC04",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-12-21",
+      "psc_name": "Mr Muhammad Taha"
+    },
+    "pages": 2,
+    "action_date": "2022-12-21",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MzIyODgwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZPs1MqeBDTz2r3NBxQ-gqGEN3I_VYPWOQ5aTxJ5BQ-M"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIyODU5NmFkaXF6a2N4",
+    "barcode": "XBJBRKQO",
+    "type": "PSC01",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Taha",
+      "notification_date": "2022-12-17"
+    },
+    "pages": 2,
+    "action_date": "2022-12-17",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MzIyODU5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IQzQW0mV_bj6bHcZ_kQ6vZUOy6NCtdf8j9X09rvAp7Y"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzIyNzM0MGFkaXF6a2N4",
+    "barcode": "XBJBRI4R",
+    "type": "PSC01",
+    "date": "2022-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Hunza Waseem",
+      "notification_date": "2022-12-18"
+    },
+    "pages": 2,
+    "action_date": "2022-12-18",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MzIyNzM0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/O_matOTetkfizdmq1uz0Mhyeop4_8prCvPOgjPNPazU"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjA2Mzc1MmFkaXF6a2N4",
+    "barcode": "XBIVCUCX",
+    "type": "PSC07",
+    "date": "2022-12-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Taha",
+      "cessation_date": "2022-12-13"
+    },
+    "pages": 1,
+    "action_date": "2022-12-13",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MjA2Mzc1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4wdAO5tGARnrMrRKhx2vosZzbHCpzpp8GfBFJTo6n84"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTg4NjA5MmFkaXF6a2N4",
+    "barcode": "XBISLEI9",
+    "type": "PSC03",
+    "date": "2022-12-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Taha",
+      "notification_date": "2022-12-10"
+    },
+    "pages": 1,
+    "action_date": "2022-12-10",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MTg4NjA5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bKyyPF_-xZldf-lbh5P-hXYADQWmCisvc6Bigiscies"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTg4NjEwMWFkaXF6a2N4",
+    "barcode": "XBISLELK",
+    "type": "PSC09",
+    "date": "2022-12-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement",
+    "description_values": {
+      "withdrawal_date": "2022-12-13"
+    },
+    "pages": 2,
+    "action_date": "2022-12-13",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM2MTg4NjEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3m_LXrqGP3A3LKCaKeGLMjh9ykqJvdHJ9rL-b4l5TCo"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTQ4MDIwM2FkaXF6a2N4",
+    "barcode": "XBHDK4Z5",
+    "type": "CS01",
+    "date": "2022-11-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-11-23"
+    },
+    "pages": 3,
+    "action_date": "2022-11-23",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM1OTQ4MDIwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8dET3QO6G095vejtygGeEYoyPG97svkwPCMjOyn4KBo"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTQ4MDAxNGFkaXF6a2N4",
+    "barcode": "XBHDK3U3",
+    "type": "AA",
+    "date": "2022-11-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-01-31"
+    },
+    "pages": 3,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM1OTQ4MDAxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EeLtcOo9E5IyMdFair9KBjhuB_-Fi-oCbMX4iL7__UQ"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTQ3ODU5MWFkaXF6a2N4",
+    "barcode": "XBHDJY80",
+    "type": "AA01",
+    "date": "2022-11-23",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2023-01-31",
+      "new_date": "2023-05-31"
+    },
+    "pages": 1,
+    "action_date": "2023-05-31",
+    "links": {
+      "self": "/company/13156530/filing-history/MzM1OTQ3ODU5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SllXAk452x-gqXPDcMz4V135HUwyZg4dOKsrbf_SBE4"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTA4NDkyNWFkaXF6a2N4",
+    "barcode": "XB12PZ17",
+    "type": "CS01",
+    "date": "2022-04-02",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-01-24"
+    },
+    "pages": 4,
+    "action_date": "2022-01-24",
+    "links": {
+      "self": "/company/13156530/filing-history/MzMzNTA4NDkyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SkKnXsXE_xPPBTGLkuaBxrtCNWV28JzlHCA2maYN79c"
+    }
+  },
+  {
+    "transaction_id": "MzI4OTUxNDQzNmFkaXF6a2N4",
+    "barcode": "X9WW153U",
+    "type": "NEWINC",
+    "date": "2021-01-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2021-01-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-01-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-01-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 27,
+    "links": {
+      "self": "/company/13156530/filing-history/MzI4OTUxNDQzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/v-tVdDsUFTNhLhdaZby5Ml3osJyqYYmdTQvIoLoJiXk"
+    }
+  }
+]

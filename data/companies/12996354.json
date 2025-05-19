@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-11-30",
+      "period_end_on": "2022-11-30",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH ANALYTICS LTD",
+  "company_number": "12996354",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-11-03"
+  },
+  "date_of_cessation": "2024-10-29",
+  "date_of_creation": "2020-11-04",
+  "etag": "8ae79b4972b04315cf67eca892af74a08fab0533",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12996354/persons-with-significant-control",
+    "self": "/company/12996354",
+    "filing_history": "/company/12996354/filing-history",
+    "officers": "/company/12996354/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2022-02-01",
+      "effective_from": "2020-11-04",
+      "name": "TECHNICAL ENTERPRISE LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "159 Booth Court Thurston Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE13 7JG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,129 @@
+{
+  "company_number": "05503280",
+  "company_name": "TECH INFINITY LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "GINOUDIS, Aris",
+      "officer_role": "director",
+      "appointed_on": "2005-07-08",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Woodgate",
+        "country": "United Kingdom",
+        "locality": "Leicester",
+        "postal_code": "LE3 5GF",
+        "premises": "50"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/05503280/appointments/NnhaHjQXp2xLJmmPTbwRs05bJko",
+        "officer": {
+          "appointments": "/officers/H97w3RnU4ngjkj4H2EsUP0sN2ZY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "GINOUDIS, Elias",
+      "officer_role": "secretary",
+      "appointed_on": "2005-07-08",
+      "resigned_on": "2007-10-01",
+      "nationality": "Greek",
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "97a Narborough Road",
+        "locality": "Leicester",
+        "postal_code": "LE3 0PA",
+        "region": "Leicestershire"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05503280/appointments/ETn6tRj6Qz8ixIF0QxM8f2EiF0c",
+        "officer": {
+          "appointments": "/officers/Oa0vYJnEptFp2YFseUl3qOXQlYM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MARTIN MARTIN, Maria Ibalia",
+      "officer_role": "secretary",
+      "appointed_on": "2007-10-01",
+      "resigned_on": "2017-03-01",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "56 Gorse Lane",
+        "locality": "Oadby",
+        "postal_code": "LE2 4RQ",
+        "region": "Leicestershire"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05503280/appointments/v2YwI6v42brqc6oSdBryddio_C8",
+        "officer": {
+          "appointments": "/officers/be-zgs6bKFo_9osUhG_Ww5nZzcw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "TEMPLE SECRETARIES LIMITED",
+      "officer_role": "corporate-nominee-secretary",
+      "appointed_on": "2005-07-08",
+      "resigned_on": "2005-09-01",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "788-790 Finchley Road",
+        "locality": "London",
+        "postal_code": "NW11 7TJ"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05503280/appointments/nrXWAW2SumFSc91XjEHex_-byx8",
+        "officer": {
+          "appointments": "/officers/xLPL0PBzn14BtfuhzOZQswj4AoM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "COMPANY DIRECTORS LIMITED",
+      "officer_role": "corporate-nominee-director",
+      "appointed_on": "2005-07-08",
+      "resigned_on": "2005-09-01",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "788-790 Finchley Road",
+        "locality": "London",
+        "postal_code": "NW11 7TJ"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05503280/appointments/j_rFfuwNNWUNjMf2uZbZUB-L9bs",
+        "officer": {
+          "appointments": "/officers/C7trUnW0xAvzpaSmVXVviwNi2BY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

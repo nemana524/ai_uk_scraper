@@ -1,0 +1,47 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH & COOL LTD",
+  "company_number": "14342881",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-09-06"
+  },
+  "date_of_cessation": "2024-10-15",
+  "date_of_creation": "2022-09-07",
+  "etag": "86de4535b60d744af7178863975fd9f5375d0ae3",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14342881/persons-with-significant-control",
+    "self": "/company/14342881",
+    "filing_history": "/company/14342881/filing-history",
+    "officers": "/company/14342881/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2022-09-09",
+      "effective_from": "2022-09-07",
+      "name": "ROBY DOMESTIC REFRIGERATION LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "2a Whin Knoll Avenue",
+    "country": "England",
+    "locality": "Keighley",
+    "postal_code": "BD21 2HX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "35300"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

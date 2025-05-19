@@ -1,0 +1,46 @@
+{
+  "company_number": "15291828",
+  "company_name": "TECH FOLIO LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-11-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "82 High Street",
+    "address_line_2": "Golborne",
+    "country": "England",
+    "locality": "Warrington",
+    "postal_code": "WA3 3DA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-11-30",
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-11-17",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-31",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-12-01"
+    },
+    "next_due": "2026-08-31",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "etag": "5d86c5e1c061dae68a8d5dfc8b49db06808c7f41"
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "15354194",
+  "company_name": "TECH HUB SOLUTIONS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "RAZA, Shan E",
+      "officer_role": "director",
+      "appointed_on": "2023-12-15",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "1 Lewis Road",
+        "country": "England",
+        "locality": "Mitcham",
+        "postal_code": "CR4 3LS",
+        "premises": "Flat 12 Lime Court"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/15354194/appointments/ZIKhGyn1IwZ4UZWXfIJpQLfu8Qs",
+        "officer": {
+          "appointments": "/officers/hZuEPWpmb9a3Y9nwCZRISuAtXaY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

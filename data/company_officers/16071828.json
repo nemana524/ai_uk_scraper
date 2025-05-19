@@ -1,0 +1,35 @@
+{
+  "company_number": "16071828",
+  "company_name": "TECH FIXON LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "AKBAR, Muhammad, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2024-11-11",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "182-184 High Street North",
+        "country": "United Kingdom",
+        "locality": "East Ham",
+        "postal_code": "E6 2JA",
+        "premises": "10747"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1990
+      },
+      "links": {
+        "self": "/company/16071828/appointments/D3B4lOIRcVriuEYr55k2fXeu96A",
+        "officer": {
+          "appointments": "/officers/wg43fT3aSAN_JPwEsCVped0dHYY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

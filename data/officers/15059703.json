@@ -1,0 +1,51 @@
+[
+  {
+    "address": {
+      "address_line_1": "Cemilbey Street 113/24",
+      "country": "Turkey",
+      "locality": "Corum",
+      "postal_code": "19100",
+      "premises": "Home",
+      "region": "Merkez"
+    },
+    "appointed_on": "2023-08-09",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15059703/appointments/c_nm5pXu0XzvQ-DKq8evh4tKNfw",
+      "officer": {
+        "appointments": "/officers/yD_1vYxYmjTGDnTIRRHaV9BljAE/appointments"
+      }
+    },
+    "name": "GOKDOGAN, Nuri",
+    "officer_role": "secretary",
+    "person_number": "312224080001"
+  },
+  {
+    "address": {
+      "address_line_1": "Cemilbey Street 113/24",
+      "country": "Turkey",
+      "locality": "Corum",
+      "postal_code": "19100",
+      "premises": "Home",
+      "region": "Merkez"
+    },
+    "appointed_on": "2023-08-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Turkey",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1997
+    },
+    "links": {
+      "self": "/company/15059703/appointments/V7j9_xw7xJzDin0Eq8Q_IBZux50",
+      "officer": {
+        "appointments": "/officers/xv7HDbRIw_sy4twwKL01LZCEAp0/appointments"
+      }
+    },
+    "name": "GOKDOGAN, Nuri",
+    "nationality": "Turkish",
+    "occupation": "Marketing",
+    "officer_role": "director",
+    "person_number": "312224070001"
+  }
+]

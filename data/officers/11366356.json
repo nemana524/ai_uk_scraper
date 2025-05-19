@@ -1,0 +1,143 @@
+[
+  {
+    "address": {
+      "address_line_1": "Compair Crescent",
+      "country": "United Kingdom",
+      "locality": "Ipswich",
+      "postal_code": "IP2 0EH",
+      "premises": "80",
+      "region": "Suffolk"
+    },
+    "appointed_on": "2019-06-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1962
+    },
+    "links": {
+      "self": "/company/11366356/appointments/UvYRHhSYtdT-wO9K4V367GwZghM",
+      "officer": {
+        "appointments": "/officers/fg5jtd29F9OWq7QQ_TeCto97Cmo/appointments"
+      }
+    },
+    "name": "AGAR, Anthony James Shelton",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "40677840005"
+  },
+  {
+    "address": {
+      "address_line_1": "Compair Crescent",
+      "country": "United Kingdom",
+      "locality": "Ipswich",
+      "postal_code": "IP2 0EH",
+      "premises": "80",
+      "region": "Suffolk"
+    },
+    "appointed_on": "2024-09-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/11366356/appointments/tzWV8XB4HWNLFO_i_uszFUI7crk",
+      "officer": {
+        "appointments": "/officers/3e26MckkJAWPTa7iezR13r1X45c/appointments"
+      }
+    },
+    "name": "WAITE, Christopher",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "328092710001"
+  },
+  {
+    "address": {
+      "address_line_1": "Compair Crescent",
+      "country": "United Kingdom",
+      "locality": "Ipswich",
+      "postal_code": "IP2 0EH",
+      "premises": "80",
+      "region": "Suffolk"
+    },
+    "appointed_on": "2021-05-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1969
+    },
+    "links": {
+      "self": "/company/11366356/appointments/14SYRkCkJkRC2zj2l1--dRG9dmU",
+      "officer": {
+        "appointments": "/officers/3oBfUcXtlaNqO-2qCe8mLVmS1sg/appointments"
+      }
+    },
+    "name": "CROFT-SHARLAND, Richard Martin Hamilton",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2024-09-30",
+    "person_number": "280542140001"
+  },
+  {
+    "address": {
+      "country": "England",
+      "locality": "Bury St Edmunds",
+      "postal_code": "IP33 1NX",
+      "premises": "15 Whiting Street"
+    },
+    "appointed_on": "2018-05-16",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1972
+    },
+    "links": {
+      "self": "/company/11366356/appointments/7u6rlp5OAtVT3wJzAYyyiVrDMMs",
+      "officer": {
+        "appointments": "/officers/-YR3DsilW-StLzHoj22a06YixZ4/appointments"
+      }
+    },
+    "name": "DUNHILL, David Robert",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "resigned_on": "2020-02-18",
+    "person_number": "103912120002"
+  },
+  {
+    "address": {
+      "address_line_1": "Station Road",
+      "country": "England",
+      "locality": "Sudbury",
+      "postal_code": "CO10 2SP",
+      "premises": "61",
+      "region": "Suffolk"
+    },
+    "appointed_on": "2019-01-15",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 6,
+      "year": 1978
+    },
+    "links": {
+      "self": "/company/11366356/appointments/d2WMOc_bZUdyiKcXtsFcaTYLFLw",
+      "officer": {
+        "appointments": "/officers/o1cK3Xs0-8aID8klXXAMqEBgvyY/appointments"
+      }
+    },
+    "name": "HUTTON, Jonathan Paul",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2020-02-18",
+    "person_number": "213524130001"
+  }
+]

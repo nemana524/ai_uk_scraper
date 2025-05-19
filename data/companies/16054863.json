@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-01",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-11-01"
+    },
+    "next_due": "2026-08-01",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AETHER LIMITED",
+  "company_number": "16054863",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-11-14",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "date_of_creation": "2024-11-01",
+  "etag": "5ec7189a3b44013bcf9259d52bab7925b0369da7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16054863/persons-with-significant-control",
+    "self": "/company/16054863",
+    "filing_history": "/company/16054863/filing-history",
+    "officers": "/company/16054863/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Suite 15, First Floor 213 Kingsbury Road",
+    "address_line_2": "Jubilee Business Centre",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "NW9 8AQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46520",
+    "47421",
+    "61200",
+    "61900"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

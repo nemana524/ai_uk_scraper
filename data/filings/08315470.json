@@ -1,0 +1,876 @@
+[
+  {
+    "transaction_id": "MzQzNjM5MDI3M2FkaXF6a2N4",
+    "barcode": "XDBXJMD3",
+    "type": "AA",
+    "date": "2024-09-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 2,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzQzNjM5MDI3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9necyxxe-vtUy7rNWELqSh8kMuWmz8_GSMZh2mw4hiI"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzY4MjQ0MmFkaXF6a2N4",
+    "barcode": "XD48BSSQ",
+    "type": "CS01",
+    "date": "2024-05-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-05-30"
+    },
+    "pages": 4,
+    "action_date": "2024-05-30",
+    "links": {
+      "self": "/company/08315470/filing-history/MzQyMzY4MjQ0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QHbLopX00wvIuF_628pUYQam2uOLoWMPob0qAxLG1hc"
+    }
+  },
+  {
+    "transaction_id": "MzQyMzY2ODUwOGFkaXF6a2N4",
+    "barcode": "XD48A0SR",
+    "type": "AP01",
+    "date": "2024-05-30",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Dr Beryl Bongkwati Navti",
+      "appointment_date": "2024-05-08"
+    },
+    "pages": 2,
+    "action_date": "2024-05-08",
+    "links": {
+      "self": "/company/08315470/filing-history/MzQyMzY2ODUwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PuMIh1VyNVrK_4z_NtrBRWl6QkevEscifDIwy8vW6T8"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTE3ODc0MGFkaXF6a2N4",
+    "barcode": "XD1LRID4",
+    "type": "PSC04",
+    "date": "2024-04-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2016-04-06",
+      "psc_name": "Dr Shiyghan Emmanuel Navti"
+    },
+    "pages": 2,
+    "action_date": "2016-04-06",
+    "links": {
+      "self": "/company/08315470/filing-history/MzQxOTE3ODc0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/56kRLH6Zot4OYZk0PUvrKTdDz3-6fffOkPRNMmZGCzY"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTIzMzM0NGFkaXF6a2N4",
+    "barcode": "XD1LVP2O",
+    "type": "CS01",
+    "date": "2024-04-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-04-20"
+    },
+    "pages": 4,
+    "action_date": "2024-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzQxOTIzMzM0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jDim3IbsKw84bWFz3z7QxEbWrtf_zvfnnRlFUUjeIJM"
+    }
+  },
+  {
+    "transaction_id": "MzQwNTkyODEwNWFkaXF6a2N4",
+    "barcode": "XCJDVDDC",
+    "type": "AA01",
+    "date": "2023-12-29",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2023-12-31",
+      "new_date": "2024-01-31"
+    },
+    "pages": 1,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzQwNTkyODEwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kCafSsQZ5PRy8a71YBIv-mJau8yORNGeB3TkdUQ2174"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDg4NzM1M2FkaXF6a2N4",
+    "barcode": "XCD2Z93F",
+    "type": "AA",
+    "date": "2023-09-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 2,
+    "action_date": "2022-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzM5NDg4NzM1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IXfIChfxJJsJ7At0oO6vf9JLNoNLtmjclpZCArh6tjY"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTA2NjAxNWFkaXF6a2N4",
+    "barcode": "XCAWOSMO",
+    "type": "CH01",
+    "date": "2023-08-29",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-08-29",
+      "officer_name": "Dr Shiyghan Emmanuel Navti"
+    },
+    "pages": 2,
+    "action_date": "2023-08-29",
+    "links": {
+      "self": "/company/08315470/filing-history/MzM5MTA2NjAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qcn1TGJXga28dkOwBGMJZSQSjvcZu5E0ITSu_kZrrOo"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTA2NTk2M2FkaXF6a2N4",
+    "barcode": "XCAWOSLK",
+    "type": "PSC04",
+    "date": "2023-08-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-10-01",
+      "psc_name": "Dr Shiyghan Emmanuel Navti"
+    },
+    "pages": 2,
+    "action_date": "2022-10-01",
+    "links": {
+      "self": "/company/08315470/filing-history/MzM5MTA2NTk2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/scYr_-N9xnmZg65HdYgysECAcz-qLhGt8vLEye4sRTw"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzY4NDkzOGFkaXF6a2N4",
+    "barcode": "XC2C7VC2",
+    "type": "CS01",
+    "date": "2023-04-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-04-20"
+    },
+    "pages": 3,
+    "action_date": "2023-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzM3NzY4NDkzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1mgHbBHchOEyl-oP1c5R5JiCqokH26PC3RMzpXA-4jA"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzY4MTg4OWFkaXF6a2N4",
+    "barcode": "XC2C7KII",
+    "type": "AD01",
+    "date": "2023-04-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-04-27",
+      "old_address": "C/O Sg Accounting Unit 1 Cobham Road Ferndown Industrial Estate Wimborne BH21 7SB England",
+      "new_address": "C/O Sg Accounting 1 Cedar Office Park Cobham Road Wimborne BH21 7SB"
+    },
+    "pages": 1,
+    "action_date": "2023-04-27",
+    "links": {
+      "self": "/company/08315470/filing-history/MzM3NzY4MTg4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Mp3WUwrIhyDMxoXG6_JPesfHs--ezVeJglNuXNI3zjw"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODg5NDU4MmFkaXF6a2N4",
+    "barcode": "XBH05BR5",
+    "type": "AD01",
+    "date": "2022-11-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-11-17",
+      "old_address": "Sg House 6 st Cross Road Winchester Hampshire SO23 9HX England",
+      "new_address": "C/O Sg Accounting Unit 1 Cobham Road Ferndown Industrial Estate Wimborne BH21 7SB"
+    },
+    "pages": 1,
+    "action_date": "2022-11-17",
+    "links": {
+      "self": "/company/08315470/filing-history/MzM1ODg5NDU4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zDLI4TV6aYWgOTnpglTVfG6TIuUiErHj2i0stRUTh84"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTg4MDY0MWFkaXF6a2N4",
+    "barcode": "XBCJ11AZ",
+    "type": "AA",
+    "date": "2022-09-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-12-31"
+    },
+    "pages": 2,
+    "action_date": "2021-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzM1MTg4MDY0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HSMyBt4QxJJsTXFI0S14gVOF9mmrmia9__1YHKq30rk"
+    }
+  },
+  {
+    "transaction_id": "MzMzODIzMzg4M2FkaXF6a2N4",
+    "barcode": "XB3AS554",
+    "type": "CS01",
+    "date": "2022-05-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-04-20"
+    },
+    "pages": 3,
+    "action_date": "2022-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzMzODIzMzg4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GV_l6JoZOB54GHN5YEOQlsfvd_blibmJlxylAV-f1dY"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjg5NTEzMWFkaXF6a2N4",
+    "barcode": "XACH3VE9",
+    "type": "AA",
+    "date": "2021-09-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-12-31"
+    },
+    "pages": 2,
+    "action_date": "2020-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzMxMjg5NTEzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Iy5f1atBH-jhMqFwhSDbzZG7RunqByW5ohKgS5Z0g0Y"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODY0NjExOWFkaXF6a2N4",
+    "barcode": "XA2Y5QXN",
+    "type": "CS01",
+    "date": "2021-04-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-04-20"
+    },
+    "pages": 3,
+    "action_date": "2021-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzI5ODY0NjExOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5W6ibOCTL9BOCNBwcL8hu23AXW4jYa62UMbjDyJ8LnE"
+    }
+  },
+  {
+    "transaction_id": "MzI3NzI0ODI5NmFkaXF6a2N4",
+    "barcode": "X9D7SGUP",
+    "type": "AA",
+    "date": "2020-09-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-12-31"
+    },
+    "pages": 2,
+    "action_date": "2019-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzI3NzI0ODI5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6Bnln6sUCpRqHNntS_6H-CzEmP6kDw5FNtbTyUQSqP4"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzA5NjE4MGFkaXF6a2N4",
+    "barcode": "X93KSCTV",
+    "type": "CS01",
+    "date": "2020-04-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-04-20"
+    },
+    "pages": 3,
+    "action_date": "2020-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzI2MzA5NjE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YGUZi48s8c3FZdqVtVTlIaPggtmw9MIMELnATaHLb1A"
+    }
+  },
+  {
+    "transaction_id": "MzI0NDIyMjQ2OWFkaXF6a2N4",
+    "barcode": "X8DWQGGW",
+    "type": "AA",
+    "date": "2019-09-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-12-31"
+    },
+    "pages": 2,
+    "action_date": "2018-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzI0NDIyMjQ2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SgGVTV4xBULuWFg18_5_TmCxErm1hCq-VhJ0SykMjB4"
+    }
+  },
+  {
+    "transaction_id": "MzIzMjg2NDcwMGFkaXF6a2N4",
+    "barcode": "X844X1YX",
+    "type": "CS01",
+    "date": "2019-04-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-04-20"
+    },
+    "pages": 3,
+    "action_date": "2019-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIzMjg2NDcwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/69pUlg5zX7TjK-zDxxtqn0b2mOlvJMuuV1TAmzvRpOI"
+    }
+  },
+  {
+    "transaction_id": "MzIxODk2NDIwNWFkaXF6a2N4",
+    "barcode": "X7IAPNBU",
+    "type": "AD01",
+    "date": "2018-11-08",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-11-08",
+      "old_address": "Plaza 9 Kd Tower Cotterells Hemel Hempstead Hertfordshire HP1 1FW England",
+      "new_address": "Sg House 6 st Cross Road Winchester Hampshire SO23 9HX"
+    },
+    "pages": 1,
+    "action_date": "2018-11-08",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIxODk2NDIwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/l6OQnMEN2TrhuRuZODZ8GzaJ0CTFUMFk2b5IfU983VE"
+    }
+  },
+  {
+    "transaction_id": "MzIxODk2NDQ5MmFkaXF6a2N4",
+    "barcode": "X7IAPWEG",
+    "type": "CH01",
+    "date": "2018-11-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2018-11-08",
+      "officer_name": "Mr Shiyghan Emmanuel Navti"
+    },
+    "pages": 2,
+    "action_date": "2018-11-08",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIxODk2NDQ5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cfeKW69DBYKIHp-2AC9mbZpLx9nfL3Rs73SEiv7L4F0"
+    }
+  },
+  {
+    "transaction_id": "MzIxODk2NDMyNmFkaXF6a2N4",
+    "barcode": "X7IAPS2Y",
+    "type": "PSC04",
+    "date": "2018-11-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2018-11-08",
+      "psc_name": "Mr Shiyghan Emmanuel Navti"
+    },
+    "pages": 2,
+    "action_date": "2018-11-08",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIxODk2NDMyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WpxhRrNF-geo3jYnhjNbLexErBUbp0kHG0RZHhbq-qI"
+    }
+  },
+  {
+    "transaction_id": "MzIxODM1MzExNmFkaXF6a2N4",
+    "barcode": "X7HQ7YGP",
+    "type": "AA",
+    "date": "2018-10-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-12-31"
+    },
+    "pages": 2,
+    "action_date": "2017-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIxODM1MzExNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EJQ4vzirI6vZZq1LnzXlc23tc1Lp05eGrpKHfslgRZw"
+    }
+  },
+  {
+    "transaction_id": "MzIxMjM1MDc1MmFkaXF6a2N4",
+    "barcode": "X7CI6DMW",
+    "type": "CS01",
+    "date": "2018-08-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-04-20"
+    },
+    "pages": 3,
+    "action_date": "2018-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIxMjM1MDc1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/loFJ0MAbn80x5rOL4h1L7MqB9IPQHe9rjDJEA5jwKjQ"
+    }
+  },
+  {
+    "transaction_id": "MzIxMjM0NzEzNmFkaXF6a2N4",
+    "barcode": "X7CI1ML7",
+    "type": "CH01",
+    "date": "2018-08-17",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2018-08-17",
+      "officer_name": "Mr Shiyghan Emmanuel Navti"
+    },
+    "pages": 2,
+    "action_date": "2018-08-17",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIxMjM0NzEzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7F2RiBDB759oUPDxfPXj10txc_ovV_yXk5mv8Htx54E"
+    }
+  },
+  {
+    "transaction_id": "MzIxMjM0NzExN2FkaXF6a2N4",
+    "barcode": "X7CI1M3D",
+    "type": "AD01",
+    "date": "2018-08-17",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-08-17",
+      "old_address": "16 Carew Close Chafford Hundred Grays Essex RM16 6RZ",
+      "new_address": "Plaza 9 Kd Tower Cotterells Hemel Hempstead Hertfordshire HP1 1FW"
+    },
+    "pages": 1,
+    "action_date": "2018-08-17",
+    "links": {
+      "self": "/company/08315470/filing-history/MzIxMjM0NzExN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zQV4Lm4Z5WVBcSoonE-F5ytM1L1rHq650XbbHtJURlE"
+    }
+  },
+  {
+    "transaction_id": "MzIwODIwNTMwM2FkaXF6a2N4",
+    "barcode": "A78QQ5D4",
+    "type": "AD01",
+    "date": "2018-06-26",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2018-06-26",
+      "old_address": "Unit 3.21 1110 Great West Road Brentford TW8 0GP England",
+      "new_address": "16 Carew Close Chafford Hundred Grays Essex RM16 6RZ"
+    },
+    "pages": 2,
+    "action_date": "2018-06-26",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzIwODIwNTMwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CAE7ifOLj-gJ8gXcArN2a-xVrxnzonU6wYocAjryjwQ"
+    }
+  },
+  {
+    "transaction_id": "MzE4ODk0OTM4M2FkaXF6a2N4",
+    "barcode": "A6HSSWDU",
+    "type": "DS02",
+    "date": "2017-11-01",
+    "category": "dissolution",
+    "description": "dissolution-withdrawal-application-strike-off-company",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzE4ODk0OTM4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Dya8s6BC2u1KR9e9OSSQK4Y7tKITPz12oJEwxJHYMQg"
+    }
+  },
+  {
+    "transaction_id": "MzE4NjQxMDE3OWFkaXF6a2N4",
+    "barcode": "X6FUFJ15",
+    "type": "AA",
+    "date": "2017-09-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2016-12-31"
+    },
+    "pages": 2,
+    "action_date": "2016-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzE4NjQxMDE3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NRsysxv6VycLRxx4S4pBf69AJy3Ujk75x7_U2UTNqU0"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzcwNDk4NmFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2017-09-05",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzE4MzcwNDk4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RGZ5JPpGCfju52N6GmgAmHW-3hthDl1wfPLTthGdzeY"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzE4MDQ1NmFkaXF6a2N4",
+    "barcode": "A6CNVIMH",
+    "type": "DS01",
+    "date": "2017-08-24",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzE4MzE4MDQ1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EgHH3o8EyvM78q9XqczCMBhEjthy5Oov8Mb47wyACUA"
+    }
+  },
+  {
+    "transaction_id": "MzE3NDU1NzkwOGFkaXF6a2N4",
+    "barcode": "X658Y8GP",
+    "type": "CS01",
+    "date": "2017-04-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2017-04-20"
+    },
+    "pages": 5,
+    "action_date": "2017-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzE3NDU1NzkwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oZHercpCm10ZOeZr2IC23ybKx1dQEai9ZgxjDMmyKPA"
+    }
+  },
+  {
+    "transaction_id": "MzE3Mzg0OTI3OGFkaXF6a2N4",
+    "barcode": "X64NXZJ7",
+    "type": "AD01",
+    "date": "2017-04-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2017-04-19",
+      "old_address": "Nimble Jack Accounting Unit 109 Park Royal Road Park Royal Business Centre London NW10 7LQ",
+      "new_address": "Unit 3.21 1110 Great West Road Brentford TW8 0GP"
+    },
+    "pages": 1,
+    "action_date": "2017-04-19",
+    "links": {
+      "self": "/company/08315470/filing-history/MzE3Mzg0OTI3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tHbWYhTdec386VxBqvLvQE_GvQO0Y0p4-QfKcsmYz6o"
+    }
+  },
+  {
+    "transaction_id": "MzE1MzQ5Njg2OWFkaXF6a2N4",
+    "barcode": "X5BQMOXM",
+    "type": "AA",
+    "date": "2016-07-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2015-12-31"
+    },
+    "pages": 4,
+    "action_date": "2015-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzE1MzQ5Njg2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rXENX2-hG9pmBJFHUcTIGVBf4BaHU5hTPAsjZkWqkCM"
+    }
+  },
+  {
+    "transaction_id": "MzE0NzkwNDUyNmFkaXF6a2N4",
+    "barcode": "X56CSE41",
+    "type": "AR01",
+    "date": "2016-05-06",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2016-05-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2016-05-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2016-05-06"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2016-04-20"
+    },
+    "pages": 3,
+    "action_date": "2016-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzE0NzkwNDUyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jl2uiJRYu9IqiURgJ1iF_2jLKkHJ1V6XKyxnZNKzMmE"
+    }
+  },
+  {
+    "transaction_id": "MzEzMTE5Mjg3NmFkaXF6a2N4",
+    "barcode": "X4G5SOYA",
+    "type": "AA",
+    "date": "2015-09-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2014-12-31"
+    },
+    "pages": 4,
+    "action_date": "2014-12-31",
+    "links": {
+      "self": "/company/08315470/filing-history/MzEzMTE5Mjg3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uNe_rDpHwuQvkEzIAkKQ5d9lA2hfjSuWaFpDl4BMZhA"
+    }
+  },
+  {
+    "transaction_id": "MzEyMTQ3ODUwM2FkaXF6a2N4",
+    "barcode": "X45QMINR",
+    "type": "AR01",
+    "date": "2015-04-20",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2015-04-20",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2015-04-20",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2015-04-20"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2015-04-20"
+    },
+    "pages": 3,
+    "action_date": "2015-04-20",
+    "links": {
+      "self": "/company/08315470/filing-history/MzEyMTQ3ODUwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uRHkxaSbdZmi-ueeuEEkrzgMtykjh1lUn_UwPtDCU6s"
+    }
+  },
+  {
+    "transaction_id": "MzExNzgzOTUzMmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2015-02-24",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzExNzgzOTUzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p1XNNoLYZOkgt-Q2zEglWuabfHIJfpC4qNDsjJzBpz8"
+    }
+  },
+  {
+    "transaction_id": "MzExNzA5OTU0NmFkaXF6a2N4",
+    "barcode": "A40Y0FT5",
+    "type": "AA",
+    "date": "2015-02-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2013-12-31"
+    },
+    "pages": 4,
+    "action_date": "2013-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzExNzA5OTU0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yZvTCEzAo8Dxe1HWZ4janHUqL1G6ARglIOMsDz0MrPQ"
+    }
+  },
+  {
+    "transaction_id": "MzExNjY1MjA0NmFkaXF6a2N4",
+    "barcode": "A405Z46G",
+    "type": "AD01",
+    "date": "2015-02-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2015-02-13",
+      "old_address": "145-157 St. John Street London EC1V 4PW England",
+      "new_address": "Unit 109 Park Royal Road Park Royal Business Centre London NW10 7LQ"
+    },
+    "pages": 2,
+    "action_date": "2015-02-13",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzExNjY1MjA0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7CnjPwQ3X3LEuVBMzEDUl9gcU1KngIdmFaGokknGeR0"
+    }
+  },
+  {
+    "transaction_id": "MzExMTk4MzIzOGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2014-12-02",
+    "category": "gazette",
+    "description": "gazette-notice-compulsary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/08315470/filing-history/MzExMTk4MzIzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vDVFd-kbR6FpAR1oksP7f3t_FfnPtKNSkVyBUvOs3Nk"
+    }
+  },
+  {
+    "transaction_id": "MzEwMTUxMzUwOWFkaXF6a2N4",
+    "barcode": "X39IHVR4",
+    "type": "AD01",
+    "date": "2014-06-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address",
+    "description_values": {
+      "change_date": "2014-06-07",
+      "old_address": " 16 Carew Close Chafford Hundred Grays England RM16 6RZ"
+    },
+    "pages": 1,
+    "action_date": "2014-06-07",
+    "links": {
+      "self": "/company/08315470/filing-history/MzEwMTUxMzUwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fRvYVHQuUR54pmVwV1yoNhkR4jiXazjv7PV7ZnKEdXI"
+    }
+  },
+  {
+    "transaction_id": "MzA5MTYzMDE3MGFkaXF6a2N4",
+    "barcode": "X2OCJWM2",
+    "type": "AR01",
+    "date": "2013-12-30",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2013-12-30",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2013-12-30",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2013-12-30"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2013-12-03"
+    },
+    "pages": 3,
+    "action_date": "2013-12-03",
+    "links": {
+      "self": "/company/08315470/filing-history/MzA5MTYzMDE3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/66J5uROkZm0Jl_vRbpZ-BbfLeHCkPE6bpq_jWysNwd4"
+    }
+  },
+  {
+    "transaction_id": "MzA5MTYzMDAxM2FkaXF6a2N4",
+    "barcode": "X2OCJWLM",
+    "type": "CH01",
+    "date": "2013-12-30",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2013-12-30",
+      "officer_name": "Dr Shiyghan Emmanuel Navti"
+    },
+    "pages": 2,
+    "action_date": "2013-12-30",
+    "links": {
+      "self": "/company/08315470/filing-history/MzA5MTYzMDAxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KPxaBCtjBJUPNtYJ_HW72TvRdulIZE3KkQNaSDloenY"
+    }
+  },
+  {
+    "transaction_id": "MzA5MDQyODE1N2FkaXF6a2N4",
+    "barcode": "X2MWVJ8A",
+    "type": "AD01",
+    "date": "2013-12-10",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address",
+    "description_values": {
+      "change_date": "2013-12-10",
+      "old_address": " 145-157 St John Street London EC1V 4PW England"
+    },
+    "pages": 1,
+    "action_date": "2013-12-10",
+    "links": {
+      "self": "/company/08315470/filing-history/MzA5MDQyODE1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6WQa9HnRskn0PNSzu1gbzv7d1GfUu0kfWtL3a4Szpec"
+    }
+  },
+  {
+    "transaction_id": "MzA2ODU5MTI0OGFkaXF6a2N4",
+    "barcode": "X1MUAVKX",
+    "type": "NEWINC",
+    "date": "2012-12-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2012-12-03",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 7,
+    "links": {
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rtg-YlT-PugLamBU3L6FifMtHgE2yOT5edtOQosJ7-k"
+    }
+  }
+]

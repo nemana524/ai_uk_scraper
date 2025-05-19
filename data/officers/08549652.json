@@ -1,0 +1,161 @@
+[
+  {
+    "address": {
+      "address_line_1": "Whitechapel Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E1 1BJ",
+      "premises": "234"
+    },
+    "appointed_on": "2013-05-30",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/08549652/appointments/1bjkSXZVZgPy3fUL2BsmX1eFJu0",
+      "officer": {
+        "appointments": "/officers/fSZ2wv1WQvXBrbLNVgPly9RZAU4/appointments"
+      }
+    },
+    "name": "HAMID, Abdul",
+    "officer_role": "secretary",
+    "person_number": "178644090001"
+  },
+  {
+    "address": {
+      "address_line_1": "Whitechapel Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E1 1BJ",
+      "premises": "234"
+    },
+    "appointed_on": "2013-05-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/08549652/appointments/epAjOSF-Pggi-OFFqdlj7IJvEv4",
+      "officer": {
+        "appointments": "/officers/bLyqGubqRvwtq0Ohbbqmjuxu7bE/appointments"
+      }
+    },
+    "name": "HAMID, Abdul",
+    "nationality": "British",
+    "occupation": "Data Scientist",
+    "officer_role": "director",
+    "person_number": "173082490001"
+  },
+  {
+    "address": {
+      "address_line_1": "Whitechapel Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E1 1BJ",
+      "premises": "234"
+    },
+    "appointed_on": "2014-05-12",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1986
+    },
+    "links": {
+      "self": "/company/08549652/appointments/9K4o_RVGBoOH_TL09O2Q4QgRSUg",
+      "officer": {
+        "appointments": "/officers/PaDL97DmELQwIiQbrdomYJJ40h8/appointments"
+      }
+    },
+    "name": "CHAN, Angela",
+    "nationality": "British",
+    "occupation": "Businesswoman",
+    "officer_role": "director",
+    "resigned_on": "2017-07-28",
+    "person_number": "188150170001"
+  },
+  {
+    "address": {
+      "address_line_1": "Whitechapel Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E1 1BJ",
+      "premises": "234"
+    },
+    "appointed_on": "2014-05-12",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/08549652/appointments/xqewe43dF5T6Czw3CMN-NoekBOk",
+      "officer": {
+        "appointments": "/officers/q03w0foYAd0bL4hRfUHZtCQAv8Q/appointments"
+      }
+    },
+    "name": "HOQUE, Mahmudul Hassan",
+    "nationality": "British",
+    "occupation": "Businessman",
+    "officer_role": "director",
+    "resigned_on": "2017-07-28",
+    "person_number": "76697350001"
+  },
+  {
+    "address": {
+      "address_line_1": "Whitechapel Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E1 1BJ",
+      "premises": "234"
+    },
+    "appointed_on": "2014-05-12",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1986
+    },
+    "links": {
+      "self": "/company/08549652/appointments/0t2zYi0ChMBwbIvJrjgVlJfvBXE",
+      "officer": {
+        "appointments": "/officers/XAfLhGIkR37x6t5I_Tu7IZc9_Hw/appointments"
+      }
+    },
+    "name": "NAHAR, Asma",
+    "nationality": "British",
+    "occupation": "Businesswoman",
+    "officer_role": "director",
+    "resigned_on": "2017-07-28",
+    "person_number": "188150140001"
+  },
+  {
+    "address": {
+      "address_line_1": "Whitechapel Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E1 1BJ",
+      "premises": "234"
+    },
+    "appointed_on": "2021-03-24",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1991
+    },
+    "links": {
+      "self": "/company/08549652/appointments/RPE3eYoYGTHMK6gsv8tHUdarn8M",
+      "officer": {
+        "appointments": "/officers/9ZkH4UVA9gJWJFmEgWZviGTgRnY/appointments"
+      }
+    },
+    "name": "WAJID, Abdul",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2024-09-15",
+    "person_number": "281701200001"
+  }
+]

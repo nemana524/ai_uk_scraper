@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Gladden Place",
+      "country": "England",
+      "locality": "Skelmersdale",
+      "postal_code": "WN8 9SX",
+      "premises": "Unit 17"
+    },
+    "appointed_on": "2023-09-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1989
+    },
+    "links": {
+      "self": "/company/15127917/appointments/YHdPAuvM6x3EvIBCjQvWR36CT8Q",
+      "officer": {
+        "appointments": "/officers/EVugz6TCfVPjBGC0mFtKmIgru9s/appointments"
+      }
+    },
+    "name": "RICKETT, Anthony",
+    "nationality": "British",
+    "occupation": "Director And Company Secretary",
+    "officer_role": "director",
+    "person_number": "313338750001"
+  }
+]

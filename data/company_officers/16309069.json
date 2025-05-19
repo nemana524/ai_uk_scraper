@@ -1,0 +1,35 @@
+{
+  "company_number": "16309069",
+  "company_name": "TECH FUSION CLOUD LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "GOSWAMI, Tarun",
+      "officer_role": "director",
+      "appointed_on": "2025-03-11",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Software Engineer",
+      "address": {
+        "address_line_1": "90 Navigation Street",
+        "country": "England",
+        "locality": "Birmingham",
+        "postal_code": "B5 4AA",
+        "premises": "Apartment 43 Orion Building"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/16309069/appointments/YnG1vOU5Q-Lj5lZogDgXNkGs2b4",
+        "officer": {
+          "appointments": "/officers/4pzv3as03ZQJLfWClHe623y6hCI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

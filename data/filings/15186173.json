@@ -1,0 +1,76 @@
+[
+  {
+    "transaction_id": "MzQ1MTY1NTYwMWFkaXF6a2N4",
+    "barcode": "ADUE4CI1",
+    "type": "AA",
+    "date": "2025-01-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-10-31"
+    },
+    "pages": 5,
+    "action_date": "2024-10-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15186173/filing-history/MzQ1MTY1NTYwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/izGMXVaw_F1zHYIUtc6RaI1L2FxHEMPBENq0drJ6wi0"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTM3MTA3OWFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-12-31",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15186173/filing-history/MzQ0OTM3MTA3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q1BlSN5y_8hGc2GAKNtOmM813nLdEWvao8lbsq5yaBM"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTM3MTAzMGFkaXF6a2N4",
+    "barcode": "XDJ313YJ",
+    "type": "CS01",
+    "date": "2024-12-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-03"
+    },
+    "pages": 3,
+    "action_date": "2024-10-03",
+    "links": {
+      "self": "/company/15186173/filing-history/MzQ0OTM3MTAzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9NX4CX9Qz5FWkL33c_2gwA7kEnroqcByCERHDduDtRc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzE3MjkzOWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-12-24",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15186173/filing-history/MzQ0NzE3MjkzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VXxAAW80Y_qdop_bzTv-HCRATQ1l3hrRbHJIr3CBvIo"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTE1NDQ5OWFkaXF6a2N4",
+    "barcode": "XCDDQ2ID",
+    "type": "CICINC",
+    "date": "2023-10-04",
+    "category": "incorporation",
+    "description": "incorporation-community-interest-company",
+    "pages": 39,
+    "links": {
+      "self": "/company/15186173/filing-history/MzM5NTE1NDQ5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ld0c1E7JllRkPANcOG3N3Xl6fb4FlS4RnrRP7g7kkes"
+    }
+  }
+]

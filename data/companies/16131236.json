@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-11",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2024-12-11"
+    },
+    "next_due": "2026-09-11",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FOR GOOD CONSULTING LIMITED",
+  "company_number": "16131236",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-12-24",
+    "next_made_up_to": "2025-12-10",
+    "overdue": false
+  },
+  "date_of_creation": "2024-12-11",
+  "etag": "aa933024116a4fc04e2596cc95fc5aa52e5c7c21",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16131236/persons-with-significant-control",
+    "self": "/company/16131236",
+    "filing_history": "/company/16131236/filing-history",
+    "officers": "/company/16131236/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Flat 7 Vickery House",
+    "address_line_2": "Rubens Place",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW4 7RB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,48 @@
+{
+  "company_number": "12820742",
+  "company_name": "TECH FUTURAE LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2020-08-18",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47910",
+    "62020",
+    "70229",
+    "78109"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "74 Cornwall Road",
+    "address_line_2": "Chandler's Ford",
+    "country": "England",
+    "locality": "Eastleigh",
+    "postal_code": "SO53 3GG"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-08-31",
+      "period_end_on": "2023-08-31",
+      "period_start_on": "2022-09-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-05-31",
+      "overdue": false,
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01"
+    },
+    "next_due": "2025-05-31",
+    "next_made_up_to": "2024-08-31",
+    "overdue": false
+  },
+  "etag": "a13c0249683d0545f8571515ff1499a906c5c58a"
+}

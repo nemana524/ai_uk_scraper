@@ -1,0 +1,36 @@
+{
+  "company_number": "13561408",
+  "company_name": "TECH EQUITY CLOUD SERVICES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NAVTI, Shiyghan Emmanuel, Dr",
+      "officer_role": "director",
+      "appointed_on": "2021-08-11",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "It Consultancy",
+      "address": {
+        "address_line_1": "Carew Close",
+        "address_line_2": "Chafford Hundred",
+        "country": "England",
+        "locality": "Grays",
+        "postal_code": "RM16 6RZ",
+        "premises": "16"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/13561408/appointments/ICAVFEW6Krq5mQXUseqqMQdGFaM",
+        "officer": {
+          "appointments": "/officers/jup_nTU9pi7BhFTXgn411AfBqOI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

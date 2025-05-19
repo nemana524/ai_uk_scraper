@@ -1,0 +1,36 @@
+{
+  "company_number": "12820742",
+  "company_name": "TECH FUTURAE LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "NDABALA, Alain Hongong",
+      "officer_role": "director",
+      "appointed_on": "2020-08-18",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Head Of Department",
+      "address": {
+        "address_line_1": "Cornwall Road",
+        "address_line_2": "Chandler's Ford",
+        "country": "England",
+        "locality": "Eastleigh",
+        "postal_code": "SO53 3GG",
+        "premises": "74"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/12820742/appointments/74Kmwon5-uRFV5Nn73FyV3ZcgOY",
+        "officer": {
+          "appointments": "/officers/n2VT1jILc6wIZwZfwbTIQFzUtMY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

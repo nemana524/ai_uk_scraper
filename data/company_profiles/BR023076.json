@@ -1,0 +1,21 @@
+{
+  "company_number": "BR023076",
+  "company_name": "TECH MAHINDRA",
+  "company_status": "open",
+  "date_of_creation": "2020-09-21",
+  "type": "uk-establishment",
+  "jurisdiction": null,
+  "sic_codes": [],
+  "has_insolvency_history": null,
+  "has_charges": null,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "4th & 5th Floor, The Victoria At Media City The Quays",
+    "locality": "Salford",
+    "postal_code": "M50 3SP"
+  },
+  "annual_return": {},
+  "accounts": {},
+  "etag": "59506f97cfea23c7f1a7189692adf5bd007eabb6"
+}

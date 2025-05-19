@@ -1,0 +1,35 @@
+{
+  "company_number": "15009579",
+  "company_name": "TECH BRIDGE DIGITAL LTD.",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SENDA, Sambulo",
+      "officer_role": "director",
+      "appointed_on": "2023-07-18",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Glenfield Road",
+        "country": "England",
+        "locality": "Luton",
+        "postal_code": "LU3 2JA",
+        "premises": "93"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/15009579/appointments/_YyQxCwROFvQ8pUHSMfC14N_T_k",
+        "officer": {
+          "appointments": "/officers/LxZfNwogN66tdib4-M93kpDsYbA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

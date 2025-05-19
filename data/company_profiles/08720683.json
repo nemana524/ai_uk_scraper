@@ -1,0 +1,44 @@
+{
+  "company_number": "08720683",
+  "company_name": "TECH INSPECTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2013-10-07",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "81100"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "32 The Crescent",
+    "locality": "Spalding",
+    "postal_code": "PE11 1AF",
+    "region": "Lincolnshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-10-31",
+      "period_end_on": "2023-10-31",
+      "period_start_on": "2022-11-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-31",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-11-01"
+    },
+    "next_due": "2025-07-31",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "etag": "d30d0f8da5ed142dcb0ace7fa397c7a44d8cb8b0"
+}

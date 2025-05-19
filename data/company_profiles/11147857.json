@@ -1,0 +1,44 @@
+{
+  "company_number": "11147857",
+  "company_name": "TECH CORNER UK LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2018-01-12",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47410"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 20b Spring Gardens Centre",
+    "country": "United Kingdom",
+    "locality": "Buxton",
+    "postal_code": "SK17 6DF"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-01-31",
+      "period_end_on": "2024-01-31",
+      "period_start_on": "2023-02-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-31",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-02-01"
+    },
+    "next_due": "2025-10-31",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "etag": "dc3defc33d1ea5fbfd7b5e62daef4ec98f955cd7"
+}

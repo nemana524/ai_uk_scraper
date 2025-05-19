@@ -1,0 +1,37 @@
+{
+  "company_number": "SC631161",
+  "company_name": "TECH GS SERVICES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SNABEL, Glenn",
+      "officer_role": "director",
+      "appointed_on": "2019-05-22",
+      "resigned_on": null,
+      "nationality": "English",
+      "country_of_residence": "Scotland",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Gaet-A-Gott",
+        "address_line_2": "Gott",
+        "country": "Scotland",
+        "locality": "Shetland",
+        "postal_code": "ZE2 9WH",
+        "premises": "26b",
+        "region": "Shetland Islands"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/SC631161/appointments/P_wTH4RzTAY66Vci13iy1uNTvuA",
+        "officer": {
+          "appointments": "/officers/keMN1RzKFryKRkCJv2EQ6_97AcE/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

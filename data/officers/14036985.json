@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "167-169 Great Portland Street, 5th Floor, London,",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "W1W 5PF",
+      "premises": "167-169 Great Portland Street, 5th Floor, London,",
+      "region": "London"
+    },
+    "appointed_on": "2022-04-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/14036985/appointments/M2GuBRioqbcvC1CzM5QzQMIzYNk",
+      "officer": {
+        "appointments": "/officers/e0n3qsh9jFKOT6B13hBXWR-Yzkg/appointments"
+      }
+    },
+    "name": "OLUKITIBI, Denise",
+    "nationality": "British",
+    "occupation": "Analyst",
+    "officer_role": "director",
+    "person_number": "294617740001"
+  }
+]

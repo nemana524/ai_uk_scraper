@@ -1,0 +1,75 @@
+[
+  {
+    "transaction_id": "MzQ2NTAwMjE3MGFkaXF6a2N4",
+    "barcode": "XE1T1NRV",
+    "type": "CS01",
+    "date": "2025-05-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-04-22"
+    },
+    "pages": 3,
+    "action_date": "2025-04-22",
+    "links": {
+      "self": "/company/15672695/filing-history/MzQ2NTAwMjE3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/T0IaFFqPm8DXBLyUnXu7FVxdYCXBtkLWX1XkvP88ip0"
+    }
+  },
+  {
+    "transaction_id": "MzQzNjc2NTYwMWFkaXF6a2N4",
+    "barcode": "XDC33JMZ",
+    "type": "AD01",
+    "date": "2024-09-21",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-09-21",
+      "old_address": "The Cargo Building 9 Grayson Street, Flat 505 Liverpool Merseyside L1 8AG United Kingdom",
+      "new_address": "The Cargo Building 7 Grayson Street Flat 304 Liverpool United Kingdom L1 8AF"
+    },
+    "pages": 1,
+    "action_date": "2024-09-21",
+    "links": {
+      "self": "/company/15672695/filing-history/MzQzNjc2NTYwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/P3k73Yj5EKXal6eqYzWgVl0n7hgEpafmQ4R1FbV6LYc"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTM1OTkwOGFkaXF6a2N4",
+    "barcode": "XD1M2W0Q",
+    "type": "NEWINC",
+    "date": "2024-04-23",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-04-23",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-04-23",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-04-23",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2024-04-23"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/15672695/filing-history/MzQxOTM1OTkwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZBg1ffgA6WHTe2MN74xOnQE3eNvfz5fZih7aaoS0WCM"
+    }
+  }
+]

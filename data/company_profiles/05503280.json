@@ -1,0 +1,45 @@
+{
+  "company_number": "05503280",
+  "company_name": "TECH INFINITY LIMITED",
+  "company_status": "liquidation",
+  "date_of_creation": "2005-07-08",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62030",
+    "62090"
+  ],
+  "has_insolvency_history": true,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Trinity House",
+    "address_line_2": "28-30 Blucher Street",
+    "locality": "Birmingham",
+    "postal_code": "B1 1QH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-07-31",
+      "period_end_on": "2020-07-31",
+      "period_start_on": "2019-08-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2022-04-30",
+      "overdue": true,
+      "period_end_on": "2021-07-31",
+      "period_start_on": "2020-08-01"
+    },
+    "next_due": "2022-04-30",
+    "next_made_up_to": "2021-07-31",
+    "overdue": true
+  },
+  "etag": "e879d90ce4b4190cf927f771626ac192e3ddb2a8"
+}

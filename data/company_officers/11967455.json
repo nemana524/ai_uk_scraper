@@ -1,0 +1,64 @@
+{
+  "company_number": "11967455",
+  "company_name": "TECH 4 REPAIR LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "HAMMADOU, Larbi",
+      "officer_role": "director",
+      "appointed_on": "2019-04-29",
+      "resigned_on": null,
+      "nationality": "Algerian",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Albion Place",
+        "address_line_2": "Campbell Park",
+        "country": "England",
+        "locality": "Milton Keynes",
+        "postal_code": "MK9 4AB",
+        "premises": "82"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/11967455/appointments/DFWxwfGxK3EvtPqyehb86D8GHww",
+        "officer": {
+          "appointments": "/officers/e27cK-61SUeHEsXVhcx3b0XTk1o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KADRI, Nabil",
+      "officer_role": "director",
+      "appointed_on": "2019-04-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Queensway",
+        "country": "England",
+        "locality": "Milton Keynes",
+        "postal_code": "MK2 2RU",
+        "premises": "88"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/11967455/appointments/xkqCpE7coM4jvDpRmjlPz3I5wD0",
+        "officer": {
+          "appointments": "/officers/q_3yKhDxp_3KoFtKUVTln--dfko/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

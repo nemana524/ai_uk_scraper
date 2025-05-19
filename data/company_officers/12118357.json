@@ -1,0 +1,35 @@
+{
+  "company_number": "12118357",
+  "company_name": "TECH EDGE ENTERPRISES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SIDDIQUI, Mohammad Naveed",
+      "officer_role": "director",
+      "appointed_on": "2019-07-23",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Great Cheetham Street East",
+        "country": "England",
+        "locality": "Salford",
+        "postal_code": "M7 4UJ",
+        "premises": "350-352"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/12118357/appointments/QsGL72xqPF7kVMoDnrlQXweA6tA",
+        "officer": {
+          "appointments": "/officers/TWgbAgDb6FBxRXMimKEftTtaQYM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "address": {
+      "address_line_1": "373 High Street North",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E12 6PG",
+      "premises": "C/O Carter Pearson Limited",
+      "region": "England"
+    },
+    "appointed_on": "2024-03-26",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/15595287/appointments/6HtAA8G0CQGw2vQAVUtvpLXw3GI",
+      "officer": {
+        "appointments": "/officers/A8BoiW0vrvxU4t2JPIOw_yVyjEY/appointments"
+      }
+    },
+    "name": "KHALID, Nabeel",
+    "nationality": "Pakistani",
+    "occupation": "Vice Chair Person",
+    "officer_role": "director",
+    "person_number": "296625600001"
+  },
+  {
+    "address": {
+      "address_line_1": "373 High Street North",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E12 6PG",
+      "premises": "C/O Carter Pearson Limited",
+      "region": "England"
+    },
+    "appointed_on": "2024-03-26",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 2,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/15595287/appointments/jKIqLrifW6UMoqVoEQ_DnoCMLSw",
+      "officer": {
+        "appointments": "/officers/9B_e_1XnFj19q-uXFBl1DeJNKO8/appointments"
+      }
+    },
+    "name": "SHUAIB, Osama",
+    "nationality": "Pakistani",
+    "occupation": "Chair Person",
+    "officer_role": "director",
+    "resigned_on": "2025-04-07",
+    "person_number": "321036560001"
+  }
+]

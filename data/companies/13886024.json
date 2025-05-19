@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-28",
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-29"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CHEAPER LIMITED",
+  "company_number": "13886024",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-31",
+    "next_due": "2026-02-14",
+    "next_made_up_to": "2026-01-31",
+    "overdue": false
+  },
+  "date_of_creation": "2022-02-01",
+  "etag": "7365580dcb5aff83dd5db2c48f422b28f6bea54a",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13886024/persons-with-significant-control",
+    "self": "/company/13886024",
+    "filing_history": "/company/13886024/filing-history",
+    "officers": "/company/13886024/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Suite 8 6 Floor, St James\u2019S House",
+    "address_line_2": "Pendleton Way",
+    "country": "England",
+    "locality": "Salford",
+    "postal_code": "M6 5FW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "18203",
+    "46510",
+    "62012",
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

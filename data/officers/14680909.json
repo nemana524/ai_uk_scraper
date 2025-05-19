@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "37 Old Parsonage Lane, Hoton",
+      "country": "England",
+      "locality": "Loughborough",
+      "postal_code": "LE12 5SG",
+      "premises": "Unit 1, Rectory Place",
+      "region": "Leicestershire"
+    },
+    "appointed_on": "2023-02-22",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1995
+    },
+    "links": {
+      "self": "/company/14680909/appointments/XpXs8So4EmOXDTay_BQn-G8wzXY",
+      "officer": {
+        "appointments": "/officers/J-WdBUly4k50aUHUDpBLUM2BoWM/appointments"
+      }
+    },
+    "name": "CHILTON, William Ashley",
+    "nationality": "British",
+    "occupation": "Telecom Installer",
+    "officer_role": "director",
+    "person_number": "305869030002"
+  }
+]

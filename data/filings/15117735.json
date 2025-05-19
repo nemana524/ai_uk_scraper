@@ -1,0 +1,145 @@
+[
+  {
+    "transaction_id": "MzQ2MjY4NDQ0NWFkaXF6a2N4",
+    "barcode": "XE0IYLND",
+    "type": "AP01",
+    "date": "2025-04-15",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Youssef Sarhani",
+      "appointment_date": "2025-04-01"
+    },
+    "pages": 2,
+    "action_date": "2025-04-01",
+    "links": {
+      "self": "/company/15117735/filing-history/MzQ2MjY4NDQ0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nie3j6_rs87Jc2tHa3x6aW9BJiB9EDVcfR6tG9EWEpY"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NzAzNTI5OGFkaXF6a2N4",
+    "barcode": "XDXKAIU2",
+    "type": "TM01",
+    "date": "2025-03-03",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Youssef Sarhani",
+      "termination_date": "2025-02-22"
+    },
+    "pages": 1,
+    "action_date": "2025-02-22",
+    "links": {
+      "self": "/company/15117735/filing-history/MzQ1NzAzNTI5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fjCFZFk50FVmI_z9U9ov3huYnAbN3txhgFbP_BFVzGs"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NzAzNDc0OWFkaXF6a2N4",
+    "barcode": "XDXKAGOX",
+    "type": "PSC07",
+    "date": "2025-03-03",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Youssef Sarhani",
+      "cessation_date": "2025-02-02"
+    },
+    "pages": 1,
+    "action_date": "2025-02-02",
+    "links": {
+      "self": "/company/15117735/filing-history/MzQ1NzAzNDc0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eE8VUi-j_N97ca7_jS2Rh4SfJIZprk4J1HKLQr5vjBw"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDI4MDQ4MGFkaXF6a2N4",
+    "barcode": "XDAVRW2H",
+    "type": "CS01",
+    "date": "2024-09-03",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-09-03"
+    },
+    "pages": 3,
+    "action_date": "2024-09-03",
+    "links": {
+      "self": "/company/15117735/filing-history/MzQzNDI4MDQ4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pXoudQ6wGsH8wvost_k1wwf0EtRQk3l6vAWk9Oiv1OI"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDY1NjMzNGFkaXF6a2N4",
+    "barcode": "XCYWKISH",
+    "type": "TM02",
+    "date": "2024-03-15",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Rf Secretaries Limited",
+      "termination_date": "2024-03-01"
+    },
+    "pages": 1,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/15117735/filing-history/MzQxNDY1NjMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1hPXrXDnbvAstAI09s4-mC-8T84lNlB6tkzYkJSoiDg"
+    }
+  },
+  {
+    "transaction_id": "MzM5MzkzNTYxMmFkaXF6a2N4",
+    "barcode": "XCCJSDTC",
+    "type": "AP04",
+    "date": "2023-09-21",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-corporate-secretary-company-with-name-date",
+    "description_values": {
+      "officer_name": "Rf Secretaries Limited",
+      "appointment_date": "2023-09-20"
+    },
+    "pages": 2,
+    "action_date": "2023-09-20",
+    "links": {
+      "self": "/company/15117735/filing-history/MzM5MzkzNTYxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZN1vqDP_TSGBPIebJLLU4vuP-Y7szBhLJPwrIlca-Mw"
+    }
+  },
+  {
+    "transaction_id": "MzM5MTc0MTczM2FkaXF6a2N4",
+    "barcode": "XCBCUDTK",
+    "type": "NEWINC",
+    "date": "2023-09-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-09-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-09-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2023-09-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 31,
+    "links": {
+      "self": "/company/15117735/filing-history/MzM5MTc0MTczM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xtmoxbl9IpkH8q8rvL_uPpfYvFeH353ZVrSboSy0B4I"
+    }
+  }
+]

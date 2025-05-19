@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-05-16",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INVEST SERIES 4 LTD",
+  "company_number": "14871951",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-24",
+    "next_due": "2026-04-07",
+    "next_made_up_to": "2026-03-24",
+    "overdue": false
+  },
+  "date_of_creation": "2023-05-16",
+  "etag": "22752abd267c3b796b69c99de3df749474bda99b",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14871951/persons-with-significant-control",
+    "self": "/company/14871951",
+    "filing_history": "/company/14871951/filing-history",
+    "officers": "/company/14871951/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20-22 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

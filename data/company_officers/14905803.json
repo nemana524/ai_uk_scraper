@@ -1,0 +1,35 @@
+{
+  "company_number": "14905803",
+  "company_name": "TECH 4 TITANS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ROBERTS-LEVY, Stefan Leonard Junior",
+      "officer_role": "director",
+      "appointed_on": "2023-05-31",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Engineer",
+      "address": {
+        "address_line_1": "Cranworth Gardens",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW9 0NR",
+        "premises": "64"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/14905803/appointments/JGHXPqbNdUxQXIq8aVxGsjy2xk0",
+        "officer": {
+          "appointments": "/officers/_Kli2cBxHOLmsVyD7migV0HokUs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

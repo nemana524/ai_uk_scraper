@@ -1,0 +1,52 @@
+[
+  {
+    "transaction_id": "MzQ2NjE3MjkxM2FkaXF6a2N4",
+    "barcode": "XE2JV3CQ",
+    "type": "TM01",
+    "date": "2025-05-14",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ravi Sispal",
+      "termination_date": "2025-05-01"
+    },
+    "pages": 1,
+    "action_date": "2025-05-01",
+    "links": {
+      "self": "/company/16243794/filing-history/MzQ2NjE3MjkxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cWLOJiKbuJrl52021rDnfN4oWmlU5qpjKelGUR9wMt4"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NDMwMTUxMWFkaXF6a2N4",
+    "barcode": "XDW28X7C",
+    "type": "NEWINC",
+    "date": "2025-02-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2025-02-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2025-02-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2025-02-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 31,
+    "links": {
+      "self": "/company/16243794/filing-history/MzQ1NDMwMTUxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q2gB6GYwgUih6CNroBJVp1GiTiiqyAcvEywqHTZjJ1k"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "company_number": "16271450",
+  "company_name": "TECH COACH LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MORRIS, Adam David",
+      "officer_role": "director",
+      "appointed_on": "2025-02-24",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultancy",
+      "address": {
+        "address_line_1": "Bowling Green Road",
+        "address_line_2": "Stainland",
+        "country": "England",
+        "locality": "Halifax",
+        "postal_code": "HX4 9PF",
+        "premises": "9"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/16271450/appointments/jG04KM9AsVO9VurBziSk4sgzEJY",
+        "officer": {
+          "appointments": "/officers/cnvzMNbbRjgMy7wVuYgOkKPDiJ0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

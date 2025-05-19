@@ -1,0 +1,48 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-01-31",
+      "period_end_on": "2023-01-31",
+      "type": "dormant"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH ACQUISITION VENTURES LTD",
+  "company_number": "13855875",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-01-17"
+  },
+  "date_of_cessation": "2024-09-10",
+  "date_of_creation": "2022-01-18",
+  "etag": "1b12321c07c8ab5c4ac39a2a163bd24324618feb",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13855875/persons-with-significant-control",
+    "self": "/company/13855875",
+    "filing_history": "/company/13855875/filing-history",
+    "officers": "/company/13855875/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "2nd Floor College House",
+    "address_line_2": "17 King Edwards Road,",
+    "country": "United Kingdom",
+    "locality": "Ruislip,",
+    "postal_code": "HA4 7AE",
+    "region": "London,"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "63990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

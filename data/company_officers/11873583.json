@@ -1,0 +1,63 @@
+{
+  "company_number": "11873583",
+  "company_name": "TECH BLOQ LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "RIAZ, Wajid",
+      "officer_role": "director",
+      "appointed_on": "2020-10-10",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Teacher",
+      "address": {
+        "address_line_1": "Stopford Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "E13 0LY",
+        "premises": "17"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/11873583/appointments/UnA8q_z4EX3qVXAuwNWg0fJ08Rs",
+        "officer": {
+          "appointments": "/officers/cBvkzgiEZ1EeB96tNZLRL9HQv_0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "RAFIQ, Saqib Israr",
+      "officer_role": "director",
+      "appointed_on": "2019-03-11",
+      "resigned_on": "2020-09-30",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Tutor",
+      "address": {
+        "address_line_1": "Stopford Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "E13 0LY",
+        "premises": "17"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1997
+      },
+      "links": {
+        "self": "/company/11873583/appointments/sqPWwYDCFsz4grOvBfeec7jpWc8",
+        "officer": {
+          "appointments": "/officers/l8-NPb1UQ-FlqT31aEKs4uu-4oo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

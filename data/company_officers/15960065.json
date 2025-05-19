@@ -1,0 +1,63 @@
+{
+  "company_number": "15960065",
+  "company_name": "TECH G GLOBAL LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "NASSER, Izzat",
+      "officer_role": "director",
+      "appointed_on": "2024-09-17",
+      "resigned_on": null,
+      "nationality": "Malaysian",
+      "country_of_residence": "Malaysia",
+      "occupation": "Product Manager",
+      "address": {
+        "address_line_1": "Osprey Avenue",
+        "country": "England",
+        "locality": "Bracknell",
+        "postal_code": "RG12 8AT",
+        "premises": "41"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/15960065/appointments/mFBA31XY1XfmAdAy2MNaZfJNn0c",
+        "officer": {
+          "appointments": "/officers/aXUs6YtKUyq2e6W7DO72yQcwC3o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "RUBBANI, Hamza Abbas Syed",
+      "officer_role": "director",
+      "appointed_on": "2024-09-17",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Account Executive",
+      "address": {
+        "address_line_1": "Osprey Avenue",
+        "country": "England",
+        "locality": "Bracknell",
+        "postal_code": "RG12 8AT",
+        "premises": "41"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/15960065/appointments/voazzwS25xnE-p9-JyJC6IZCrQs",
+        "officer": {
+          "appointments": "/officers/qQ7F19R7WZD9S2Luk9BeQvi0t_g/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

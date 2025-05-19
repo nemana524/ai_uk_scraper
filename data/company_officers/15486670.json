@@ -1,0 +1,36 @@
+{
+  "company_number": "15486670",
+  "company_name": "TECH GENIUS PRO LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SIMSIVE, Ketevan",
+      "officer_role": "director",
+      "appointed_on": "2024-02-13",
+      "resigned_on": null,
+      "nationality": "Georgian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/15486670/appointments/5IljCjAey5mb8DkHcVCaWb41R0Y",
+        "officer": {
+          "appointments": "/officers/DFm4JM0trep7ASgWu-KujjLz5Jc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

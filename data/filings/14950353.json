@@ -1,0 +1,84 @@
+[
+  {
+    "transaction_id": "MzQ1Mjk3OTUzM2FkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-02-11",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14950353/filing-history/MzQ1Mjk3OTUzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4-6dZY4ELBvBOzf0HLFVp8_jlqP7kcAuLTKdlqVwO_4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjQyOTI5OWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-11-19",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14950353/filing-history/MzQ0MjQyOTI5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NWO_V5-8IDV75i2kjNPlOT9Btnn8U2gOQww-qmMUx7Y"
+    }
+  },
+  {
+    "transaction_id": "MzQxMjkyMzkzN2FkaXF6a2N4",
+    "barcode": "RCXEQWGA",
+    "type": "RP05",
+    "date": "2024-02-29",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2024-02-29",
+      "default_address": "PO Box 4385, 14950353 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2024-02-29",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14950353/filing-history/MzQxMjkyMzkzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lkc36wbVJV_dfevOi4Ch0roUep4Ylo49n0XVNV5Off8"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzM5MTY5OGFkaXF6a2N4",
+    "barcode": "XC5ZO0L7",
+    "type": "NEWINC",
+    "date": "2023-06-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-06-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-06-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-06-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14950353/filing-history/MzM4MzM5MTY5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3ej3GTeWE0fS1bki7Fphqwo9uIjlu0lVkYV1wmck61A"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Alcester Road South",
+      "country": "England",
+      "locality": "Birmingham",
+      "postal_code": "B14 6EP",
+      "premises": "484"
+    },
+    "appointed_on": "2025-04-23",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1976
+    },
+    "links": {
+      "self": "/company/16404057/appointments/6_elfZXmr-elehzngGR9huxKjao",
+      "officer": {
+        "appointments": "/officers/VE7GLHT3rohEiOYywbsaDrFBP1s/appointments"
+      }
+    },
+    "name": "BIBI, Anwar",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "335001360001"
+  }
+]

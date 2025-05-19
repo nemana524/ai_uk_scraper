@@ -1,0 +1,45 @@
+{
+  "company_number": "01393990",
+  "company_name": "TECH LIMITED",
+  "company_status": "active",
+  "date_of_creation": "1978-10-13",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "82990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "424 Margate Road",
+    "country": "England",
+    "locality": "Ramsgate",
+    "postal_code": "CT12 6SJ",
+    "region": "Kent"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "etag": "9396bf62e851c57e23cf9bc1638f63e3f01ed2ed"
+}

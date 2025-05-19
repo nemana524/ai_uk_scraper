@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-27",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-09-27"
+    },
+    "next_due": "2026-06-27",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH BOUTIQUE E-COM SERVICES LTD",
+  "company_number": "15982073",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-10-10",
+    "next_made_up_to": "2025-09-26",
+    "overdue": false
+  },
+  "date_of_creation": "2024-09-27",
+  "etag": "6a2782ba013948d279988b0e263785af91973a42",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15982073/persons-with-significant-control",
+    "self": "/company/15982073",
+    "filing_history": "/company/15982073/filing-history",
+    "officers": "/company/15982073/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

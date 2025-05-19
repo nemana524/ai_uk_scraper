@@ -1,0 +1,46 @@
+{
+  "company_number": "11861848",
+  "company_name": "TECH FORTY TWO LTD",
+  "company_status": "active",
+  "date_of_creation": "2019-03-05",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "61900"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "1 Park Road",
+    "address_line_2": "Hampton Wick",
+    "country": "United Kingdom",
+    "locality": "Kingston Upon Thames",
+    "postal_code": "KT1 4AS",
+    "region": "Surrey"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-08-31",
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-31",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01"
+    },
+    "next_due": "2026-05-31",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "etag": "14e9545a8e0c5cfd1b83db119d5033db22a1c18b"
+}

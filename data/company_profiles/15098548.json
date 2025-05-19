@@ -1,0 +1,40 @@
+{
+  "company_number": "15098548",
+  "company_name": "DELICIOUS CIRCLE LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-08-27",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47910",
+    "56103",
+    "70229"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "23 Silver Street",
+    "country": "England",
+    "locality": "Wellingborough",
+    "postal_code": "NN8 1AY"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "next_accounts": {
+      "due_on": "2025-05-27",
+      "overdue": false,
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-08-27"
+    },
+    "next_due": "2025-05-27",
+    "next_made_up_to": "2024-08-31",
+    "overdue": false
+  },
+  "etag": "b266315b01fff2b3484c74db53a2e43ee6021e2c"
+}

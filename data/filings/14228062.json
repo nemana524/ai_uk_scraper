@@ -1,0 +1,126 @@
+[
+  {
+    "transaction_id": "MzQ2NDY5MTg1MGFkaXF6a2N4",
+    "barcode": "XE1L0QE3",
+    "type": "AA",
+    "date": "2025-04-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 3,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/14228062/filing-history/MzQ2NDY5MTg1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9oko5_IKUg6O_oyyAv4OoErgxY78fwpxNH_x2Vs-zzc"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTk2MDk1MGFkaXF6a2N4",
+    "barcode": "XD81VQM9",
+    "type": "CS01",
+    "date": "2024-07-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-07-11"
+    },
+    "pages": 3,
+    "action_date": "2024-07-11",
+    "links": {
+      "self": "/company/14228062/filing-history/MzQyOTk2MDk1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ESnfWfoqXR84E8HGAIOGCDsDdxg_1CrFPAoviHDdnjw"
+    }
+  },
+  {
+    "transaction_id": "MzQxODA0NTM0OWFkaXF6a2N4",
+    "barcode": "XD0V70HD",
+    "type": "AA",
+    "date": "2024-04-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 3,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/14228062/filing-history/MzQxODA0NTM0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aqOcBk4_9fnTTByyi1FPg2jDG-mKiPcXbdX6BFG9D_0"
+    }
+  },
+  {
+    "transaction_id": "MzM4Nzg0MTI3NGFkaXF6a2N4",
+    "barcode": "XC8M4RWB",
+    "type": "CS01",
+    "date": "2023-07-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-07-11"
+    },
+    "pages": 3,
+    "action_date": "2023-07-11",
+    "links": {
+      "self": "/company/14228062/filing-history/MzM4Nzg0MTI3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2_vy0RYXYdsCyoCfAIoYs5gVeq9GkfpnyGb1C5v6RKQ"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTg4MjAxN2FkaXF6a2N4",
+    "barcode": "XBB72L63",
+    "type": "AP03",
+    "date": "2022-08-26",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-secretary-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Raymond Samson Mawanda",
+      "appointment_date": "2022-08-26"
+    },
+    "pages": 2,
+    "action_date": "2022-08-26",
+    "links": {
+      "self": "/company/14228062/filing-history/MzM0OTg4MjAxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AkZ03Coi5h-fSt9QDxCiHbPWaRWF0YPnrsZAoqA3SY8"
+    }
+  },
+  {
+    "transaction_id": "MzM0NTIzODA3M2FkaXF6a2N4",
+    "barcode": "XB7ZZ3QR",
+    "type": "NEWINC",
+    "date": "2022-07-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-07-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-07-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "50"
+            }
+          ]
+        },
+        "action_date": "2022-07-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14228062/filing-history/MzM0NTIzODA3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Y8JuWGYcYHuBuO1mmL9PnFeSnrvHP21yD6vxteu9IyM"
+    }
+  }
+]

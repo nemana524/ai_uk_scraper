@@ -1,0 +1,72 @@
+[
+  {
+    "transaction_id": "MzQyNzQzODc0OWFkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-07-09",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14854241/filing-history/MzQyNzQzODc0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i-jqRV1oPm6QzRT2xuMgWLnIUp3M0wJbR95qSnJjzX4"
+    }
+  },
+  {
+    "transaction_id": "MzQxODE2MzY2NWFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-04-23",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14854241/filing-history/MzQxODE2MzY2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6up9xBDNzFpyeQeV5SQFeRR8L8btwE1aNwYT_18mV88"
+    }
+  },
+  {
+    "transaction_id": "MzQxODE2MzYwM2FkaXF6a2N4",
+    "barcode": "XD0PULVU",
+    "type": "DS01",
+    "date": "2024-04-14",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/14854241/filing-history/MzQxODE2MzYwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wmO_Taei6WarmvZ7DYpxBlk-0aZp2I2QZkDbbMr6tFI"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODczNDMwNWFkaXF6a2N4",
+    "barcode": "XC2XYAP6",
+    "type": "NEWINC",
+    "date": "2023-05-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-05-08",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-05-08",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-05-08"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/14854241/filing-history/MzM3ODczNDMwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sEu_f317lhix7uuv2VEm7jXG26l-ohnOxnWrDO9UoPk"
+    }
+  }
+]

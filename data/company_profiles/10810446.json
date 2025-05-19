@@ -1,0 +1,45 @@
+{
+  "company_number": "10810446",
+  "company_name": "TECH COMMERCE SOLUTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2017-06-08",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Flat 12, Linnell Court",
+    "address_line_2": "Nash Gardens",
+    "country": "England",
+    "locality": "Redhill",
+    "postal_code": "RH1 1LT"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "etag": "2cf91838e7d0da3fb708b2c0a1cbe81c8e31a0f0"
+}

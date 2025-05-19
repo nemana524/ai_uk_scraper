@@ -1,0 +1,202 @@
+[
+  {
+    "transaction_id": "MzQ1MjAyMzk4NGFkaXF6a2N4",
+    "barcode": "XDUP7QI9",
+    "type": "AA",
+    "date": "2025-01-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 4,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/14262528/filing-history/MzQ1MjAyMzk4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Y1_kentz4Rc0tqFy5mYK4nygz3pjD2q781JTXijLUVE"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTE3MzU2OGFkaXF6a2N4",
+    "barcode": "XDDIR41S",
+    "type": "CH01",
+    "date": "2024-10-11",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-10-11",
+      "officer_name": "Mr Alasdair Blair Houser"
+    },
+    "pages": 2,
+    "action_date": "2024-10-11",
+    "links": {
+      "self": "/company/14262528/filing-history/MzQzOTE3MzU2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5B5nwZV4mCbM7MPLoPEMoHU-uOLftkDbANz7mx7mGJg"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTE3MzQ3M2FkaXF6a2N4",
+    "barcode": "XDDIR3O2",
+    "type": "PSC04",
+    "date": "2024-10-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-10-11",
+      "psc_name": "Mr Alasdair Blair Houser"
+    },
+    "pages": 2,
+    "action_date": "2024-10-11",
+    "links": {
+      "self": "/company/14262528/filing-history/MzQzOTE3MzQ3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/btWCZUCDJVZBlz7tAaBfgpLcD71JewcAf0RYdM5S2dM"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg3MDIwM2FkaXF6a2N4",
+    "barcode": "XD5KREOA",
+    "type": "CS01",
+    "date": "2024-06-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-19"
+    },
+    "pages": 3,
+    "action_date": "2024-06-19",
+    "links": {
+      "self": "/company/14262528/filing-history/MzQyNTg3MDIwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VKfQefXRwFlLtVgDvwZqd0DChKn2rs32_RTZKdaqdeI"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjI4MzcwMGFkaXF6a2N4",
+    "barcode": "XCZQI9MG",
+    "type": "AA",
+    "date": "2024-03-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 3,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/14262528/filing-history/MzQxNjI4MzcwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t0wDuck4PfxCQuUBDg_kbZ2n9bIl4UHbK4luSVQVKO8"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDQ5MTU5NmFkaXF6a2N4",
+    "barcode": "XC6NVPR5",
+    "type": "CS01",
+    "date": "2023-06-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-06-28"
+    },
+    "pages": 3,
+    "action_date": "2023-06-28",
+    "links": {
+      "self": "/company/14262528/filing-history/MzM4NDQ5MTU5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qEBFhkQTqnUkJDgRCPPVbE5kzxMBiWmLwQEhtmQXG4k"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzI5NDUzOWFkaXF6a2N4",
+    "barcode": "XC241M5T",
+    "type": "CH01",
+    "date": "2023-04-24",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-04-24",
+      "officer_name": "Mr Alasdair Blair Houser"
+    },
+    "pages": 2,
+    "action_date": "2023-04-24",
+    "links": {
+      "self": "/company/14262528/filing-history/MzM3NzI5NDUzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KCQpNdj68gPImgZqMm2DWiZP8AwCj8ZYNAVqMl-mYZs"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzI5NDMzOGFkaXF6a2N4",
+    "barcode": "XC241LGP",
+    "type": "PSC04",
+    "date": "2023-04-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-04-24",
+      "psc_name": "Mr Alasdair Blair Houser"
+    },
+    "pages": 2,
+    "action_date": "2023-04-24",
+    "links": {
+      "self": "/company/14262528/filing-history/MzM3NzI5NDMzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uWN-oC_jGlpPMp9Be9WkMf6Z5VgHX9Ocs6RF_QRdNfw"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzI5NDA4MWFkaXF6a2N4",
+    "barcode": "XC241K0G",
+    "type": "AD01",
+    "date": "2023-04-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-04-24",
+      "old_address": "74 Bath Road Bracebridge Heath Lincoln LN4 2TW England",
+      "new_address": "C/O Taxassist Accountants Hereward Offices Cherry Holt Road Bourne Lincolnshire PE10 9LA"
+    },
+    "pages": 1,
+    "action_date": "2023-04-24",
+    "links": {
+      "self": "/company/14262528/filing-history/MzM3NzI5NDA4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dL9mq9fBuWStHL4DEEtcVFVnUBlMSZe3sM3u9rEfAbI"
+    }
+  },
+  {
+    "transaction_id": "MzM0NzEyOTE5NGFkaXF6a2N4",
+    "barcode": "XB970GIA",
+    "type": "NEWINC",
+    "date": "2022-07-28",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-07-28",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-07-28",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-07-28",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-07-28"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14262528/filing-history/MzM0NzEyOTE5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FVWhaPgJKq0Blme-4kd_LVxGAXj16w1yPRUPApeFra0"
+    }
+  }
+]

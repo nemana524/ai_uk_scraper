@@ -1,0 +1,63 @@
+{
+  "company_number": "16029793",
+  "company_name": "TECH FOCUSED LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "MANDHANIA, Mishal Anilkumar",
+      "officer_role": "director",
+      "appointed_on": "2024-10-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Ebchester Road",
+        "country": "England",
+        "locality": "Leicester",
+        "postal_code": "LE2 9LR",
+        "premises": "25"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1991
+      },
+      "links": {
+        "self": "/company/16029793/appointments/71Ch4HQY-sqskUq6qn8KWDzU8zQ",
+        "officer": {
+          "appointments": "/officers/3H7J0sY6CYWB5GixZvjix25XyIM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SONI, Madhuri Kirti",
+      "officer_role": "director",
+      "appointed_on": "2024-10-21",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Ebchester Road",
+        "country": "England",
+        "locality": "Leicester",
+        "postal_code": "LE2 9LR",
+        "premises": "25"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/16029793/appointments/CHNsAx8z2GPdEjO91SkUECbFPNU",
+        "officer": {
+          "appointments": "/officers/szCSnMDwSoUw7yvxhW7LuH5ySsM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

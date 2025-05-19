@@ -1,0 +1,65 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-29",
+      "period_end_on": "2024-02-29",
+      "period_start_on": "2023-03-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-03-01"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ELECTRICAL SYSTEMS LTD.",
+  "company_number": "11230537",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-23",
+    "next_due": "2026-05-07",
+    "next_made_up_to": "2026-04-23",
+    "overdue": false
+  },
+  "date_of_creation": "2018-02-28",
+  "etag": "2d5ed70ca90daa9a7eec67caa5264259cf206f55",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11230537/persons-with-significant-control",
+    "self": "/company/11230537",
+    "filing_history": "/company/11230537/filing-history",
+    "officers": "/company/11230537/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2022-10-26",
+      "effective_from": "2018-02-28",
+      "name": "M FOSTER ELECTRICAL LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "The Rambles Main Street",
+    "address_line_2": "East Ardsley",
+    "country": "United Kingdom",
+    "locality": "Wakefield",
+    "postal_code": "WF3 2AT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43210"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

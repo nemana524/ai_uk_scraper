@@ -1,0 +1,47 @@
+{
+  "company_number": "12030112",
+  "company_name": "TECH CAMEL LTD",
+  "company_status": "active",
+  "date_of_creation": "2019-06-03",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46510",
+    "46520"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": true,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Office 9 The Coach House",
+    "address_line_2": "Desford Hall",
+    "country": "England",
+    "locality": "Leicester",
+    "postal_code": "LE9 9JJ",
+    "region": "Leicestershire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-06-30",
+      "period_end_on": "2023-06-30",
+      "period_start_on": "2022-07-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-03-31",
+      "overdue": true,
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01"
+    },
+    "next_due": "2025-03-31",
+    "next_made_up_to": "2024-06-30",
+    "overdue": true
+  },
+  "etag": "0d5788aa36d7afdce1ed44fea3f0ed309a45723b"
+}

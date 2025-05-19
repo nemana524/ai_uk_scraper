@@ -1,0 +1,41 @@
+{
+  "company_number": "15773229",
+  "company_name": "TECH DEPOT LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-06-12",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47910"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Islington Suite 1543 275 New North Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N1 7AA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-12",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-06-12"
+    },
+    "next_due": "2026-03-12",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "etag": "87f65d88a1fb40c208fab03ff46d3b48f8f4baa5"
+}

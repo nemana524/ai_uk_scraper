@@ -1,0 +1,35 @@
+{
+  "company_number": "16183677",
+  "company_name": "TECH HUB S5 LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MAHAMAD, Kamaran",
+      "officer_role": "director",
+      "appointed_on": "2025-01-14",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Firth Park Road",
+        "country": "England",
+        "locality": "Sheffield",
+        "postal_code": "S5 6WP",
+        "premises": "156"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/16183677/appointments/SotTvkHaB0NZmbsxbdxIEX2RiwA",
+        "officer": {
+          "appointments": "/officers/tMXsEwGfNfj7yrPxmO5ZPGvh-Q4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

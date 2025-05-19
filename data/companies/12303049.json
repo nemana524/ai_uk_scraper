@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-12-31",
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-30",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2025-01-01"
+    },
+    "next_due": "2026-09-30",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CONNECT GROUP LIMITED",
+  "company_number": "12303049",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-15",
+    "next_due": "2025-10-29",
+    "next_made_up_to": "2025-10-15",
+    "overdue": false
+  },
+  "date_of_creation": "2019-11-07",
+  "etag": "8a9c931d945a1c3d0f386fd049ae02be2a2cc645",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12303049/persons-with-significant-control",
+    "self": "/company/12303049",
+    "filing_history": "/company/12303049/filing-history",
+    "officers": "/company/12303049/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "The Gantry Calcot Mount Business Park",
+    "address_line_2": "Calcot Lane",
+    "country": "England",
+    "locality": "Curdridge",
+    "postal_code": "SO32 2BN",
+    "region": "Hampshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "78109"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

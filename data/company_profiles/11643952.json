@@ -1,0 +1,44 @@
+{
+  "company_number": "11643952",
+  "company_name": "TECH EXCHANGE ENTERPRISE LTD",
+  "company_status": "active",
+  "date_of_creation": "2018-10-26",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "99999"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "37 Delves Crescent",
+    "country": "England",
+    "locality": "Walsall",
+    "postal_code": "WS5 4LS"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-10-31",
+      "period_end_on": "2023-10-31",
+      "period_start_on": "2022-11-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-31",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-11-01"
+    },
+    "next_due": "2025-07-31",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "etag": "baa42ea9d996422c8b97f7fd472479901276992e"
+}

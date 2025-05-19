@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2025-06-10",
+      "overdue": false,
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-09-10"
+    },
+    "next_due": "2025-06-10",
+    "next_made_up_to": "2024-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CONNECT SOLUTIONS LIMITED",
+  "company_number": "15127917",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-17",
+    "next_due": "2025-05-31",
+    "next_made_up_to": "2025-05-17",
+    "overdue": false
+  },
+  "date_of_creation": "2023-09-10",
+  "etag": "603a4d316e67407ecb065ca3c9e97992df95e9a5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15127917/persons-with-significant-control",
+    "self": "/company/15127917",
+    "filing_history": "/company/15127917/filing-history",
+    "officers": "/company/15127917/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Unit 17 Gladden Place",
+    "country": "England",
+    "locality": "Skelmersdale",
+    "postal_code": "WN8 9SX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

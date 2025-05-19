@@ -1,0 +1,38 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH HUNTERS LTD",
+  "company_number": "15038677",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-12-31",
+  "date_of_creation": "2023-07-31",
+  "etag": "fcb7b9c31ac1f40877dc4ab1f5ec13f4d055427d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15038677/persons-with-significant-control",
+    "self": "/company/15038677",
+    "filing_history": "/company/15038677/filing-history",
+    "officers": "/company/15038677/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "50 Sandhill Close",
+    "country": "United Kingdom",
+    "locality": "Bolton",
+    "postal_code": "BL3 2UB",
+    "region": "Greater Manchester"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "78300"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

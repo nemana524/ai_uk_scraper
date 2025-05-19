@@ -1,0 +1,103 @@
+[
+  {
+    "transaction_id": "MzQ2Mjc3MTc1NmFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-04-22",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15270855/filing-history/MzQ2Mjc3MTc1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xsJtVID3XxflK_1Wme7LvmvzpdJsyUinIyHdqSPEEVw"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MTgyOTYyNWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-02-04",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15270855/filing-history/MzQ1MTgyOTYyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2M6hzb4tgtVTHtYxkWWE7KhJ7yKt3uj-vlUM_VGrjc8"
+    }
+  },
+  {
+    "transaction_id": "MzQwMDMxNDk0MWFkaXF6a2N4",
+    "barcode": "XCGDS9Y8",
+    "type": "CH01",
+    "date": "2023-11-16",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-11-16",
+      "officer_name": "Mrs. Fainche Mac Carthy Batashvili"
+    },
+    "pages": 2,
+    "action_date": "2023-11-16",
+    "links": {
+      "self": "/company/15270855/filing-history/MzQwMDMxNDk0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FqgA6CRyFk8pd1xk4jMCPubv4n9tQSSifsTZua52lyA"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTkwMDE5NmFkaXF6a2N4",
+    "barcode": "XCGAS4RF",
+    "type": "PSC04",
+    "date": "2023-11-14",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-11-14",
+      "psc_name": "Mrs. Fainche Mac Carthy Batashvili"
+    },
+    "pages": 2,
+    "action_date": "2023-11-14",
+    "links": {
+      "self": "/company/15270855/filing-history/MzM5OTkwMDE5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3rqYyNEi73Q0JlHjjEPgQ6coJRtn2h0hpW1hXOecHzc"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTI3MDE2OGFkaXF6a2N4",
+    "barcode": "XCFURGSJ",
+    "type": "NEWINC",
+    "date": "2023-11-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-11-08",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-11-08",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-11-08",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-11-08"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15270855/filing-history/MzM5OTI3MDE2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2Hh09m8rs6qfi-s6VxeDfOQYvNpYnULgQCcWmokRDgM"
+    }
+  }
+]

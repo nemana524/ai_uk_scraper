@@ -1,0 +1,45 @@
+{
+  "company_number": "14136317",
+  "company_name": "TECH CONSULTANCY LTD",
+  "company_status": "active",
+  "date_of_creation": "2022-05-27",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "4 York House",
+    "address_line_2": "Langston Road",
+    "country": "England",
+    "locality": "Loughton",
+    "postal_code": "IG10 3TQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "etag": "14e0c7ded37a6c3e2cb88aa2f5b4736dbdb7bbbe"
+}

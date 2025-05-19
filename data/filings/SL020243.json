@@ -1,0 +1,77 @@
+[
+  {
+    "transaction_id": "MzIyMjc3NDQ1MGFkaXF6a2N4",
+    "barcode": "S7L7LB2Y",
+    "type": "LP6",
+    "date": "2018-12-21",
+    "category": "incorporation",
+    "description": "legacy",
+    "description_values": {
+      "description": "LIMITED PARTNERSHIP has been dissolved."
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL020243/filing-history/MzIyMjc3NDQ1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/46as3nsxYTQ525pJvCEhIF-Um-QA8e-zW4fiH1xPN5Y"
+    }
+  },
+  {
+    "transaction_id": "MzIwMjYxNzc4N2FkaXF6a2N4",
+    "barcode": "S73K8ICB",
+    "type": "SLPCS01",
+    "date": "2018-04-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2018-04-07"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL020243/filing-history/MzIwMjYxNzc4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/k0g65nLzu34SbcGGWmbU35KMSaEf5hVs8K6jSlwy9CQ"
+    }
+  },
+  {
+    "transaction_id": "MzE4NDI0NTA4N2FkaXF6a2N4",
+    "barcode": "S6DNPYNM",
+    "type": "SLPPSC08",
+    "date": "2017-08-31",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "notification-of-a-person-with-significant-control-statement-scottish-limited-partnership",
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL020243/filing-history/MzE4NDI0NTA4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c3jqTDLPXvt6sOEHzWOIU239YDe2hUKafzoWQRfrGF8"
+    }
+  },
+  {
+    "transaction_id": "MzEyMDgyMzA4N2FkaXF6a2N4",
+    "barcode": "S44BTW3S",
+    "type": "LP5",
+    "date": "2015-04-08",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2015-04-08",
+        "description": "certificate-registration-limited-partnership",
+        "type": "CERT12",
+        "subcategory": "certificate"
+      }
+    ],
+    "description": "legacy",
+    "description_values": {
+      "description": "1 general partner appointed, 1 LIMITED partner appointed and the total amount contributed is 50 gbp. General partner appointed:WINTON associates LIMITED. LIMITED partner appointed:CARBERRY investments LIMITED."
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SL020243/filing-history/MzEyMDgyMzA4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qDCjKrS1RJnkRLZCiKoHwy3ztsAcQVw5-h36cO41zmM"
+    }
+  }
+]

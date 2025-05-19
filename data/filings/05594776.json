@@ -1,0 +1,349 @@
+[
+  {
+    "transaction_id": "MzA0MjAxNTQzOWFkaXF6a2N4",
+    "barcode": "AM8ZNWG2",
+    "type": "COCOMP",
+    "date": "2011-08-12",
+    "category": "insolvency",
+    "subcategory": [
+      "compulsory",
+      "court-order"
+    ],
+    "description": "liquidation-compulsory-winding-up-order",
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MzA0MjAxNTQzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hpIZexoh7F1SO2VXjRlgRWI-PLWVNTOafaEyOcRfs2U"
+    }
+  },
+  {
+    "transaction_id": "MzAyNTY2NTk5M2FkaXF6a2N4",
+    "barcode": "XQ5ADOFI",
+    "type": "AR01",
+    "date": "2010-10-22",
+    "category": "annual-return",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2010-10-22",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2010-10-22",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2010-10-22"
+      }
+    ],
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2010-10-17"
+    },
+    "pages": 3,
+    "action_date": "2010-10-17",
+    "links": {
+      "self": "/company/05594776/filing-history/MzAyNTY2NTk5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/V42CO3RZsWuBMuss0lGDZffTK_2iSvsCpGl9nNChXxs"
+    }
+  },
+  {
+    "transaction_id": "MzAyMDQ2ODk2M2FkaXF6a2N4",
+    "barcode": "AYR3ULYF",
+    "type": "AA",
+    "date": "2010-07-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2009-10-31"
+    },
+    "pages": 8,
+    "action_date": "2009-10-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MzAyMDQ2ODk2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LIMIgT-JizsePHJdoH06dpIseq8VKPOmKFfVtTXKijs"
+    }
+  },
+  {
+    "transaction_id": "MzAwMzcxNjQ1N2FkaXF6a2N4",
+    "barcode": "X71D9F9F",
+    "type": "AR01",
+    "date": "2009-11-26",
+    "category": "annual-return",
+    "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+    "description_values": {
+      "made_up_date": "2009-10-17"
+    },
+    "pages": 4,
+    "action_date": "2009-10-17",
+    "links": {
+      "self": "/company/05594776/filing-history/MzAwMzcxNjQ1N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xCLiKnoooNH5nILMZc5XYiEbk4ef2ZSr82GEASugWLQ"
+    }
+  },
+  {
+    "transaction_id": "MzAwMzcxNjEzMmFkaXF6a2N4",
+    "barcode": "X71D8F9E",
+    "type": "CH01",
+    "date": "2009-11-26",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2009-10-01",
+      "officer_name": "Paul David Thorburn"
+    },
+    "pages": 2,
+    "action_date": "2009-10-01",
+    "links": {
+      "self": "/company/05594776/filing-history/MzAwMzcxNjEzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oco19RAl9rKpIluvFoschMqOXd-6QCdGsvuT1DCBLA4"
+    }
+  },
+  {
+    "transaction_id": "MjAzODYyODUyN2FkaXF6a2N4",
+    "barcode": "AJT1FC1F",
+    "type": "AA",
+    "date": "2009-08-05",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2008-10-31"
+    },
+    "pages": 8,
+    "action_date": "2008-10-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MjAzODYyODUyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GZxjuWqT8gGqnADya8gW4okuN0VnPMZVA8J24XMX1G4"
+    }
+  },
+  {
+    "transaction_id": "MjAzODEyOTM2N2FkaXF6a2N4",
+    "barcode": "XYCV2BYD",
+    "type": "288b",
+    "date": "2009-07-29",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Appointment terminated secretary david butler"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/05594776/filing-history/MjAzODEyOTM2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2b8QTt4Fw4_pQ6gP49x80GUub8qxsfzvet9-wibd-k0"
+    }
+  },
+  {
+    "transaction_id": "MjAyMzcxNjAwN2FkaXF6a2N4",
+    "barcode": "XJX026N8",
+    "type": "363a",
+    "date": "2009-01-20",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Return made up to 17/10/08; full list of members"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/05594776/filing-history/MjAyMzcxNjAwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/R5BEDppIxzRRazEdg-OsXrj7rXaUnJESlNXr5GcCcOc"
+    }
+  },
+  {
+    "transaction_id": "MjAwMDUyMzExNmFkaXF6a2N4",
+    "barcode": "AWC23XK4",
+    "type": "AA",
+    "date": "2008-02-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2007-10-31"
+    },
+    "pages": 8,
+    "action_date": "2007-10-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MjAwMDUyMzExNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cTRynXjfbbU1cGXx1321ByCJXWb8E9QRGFdQt04kQ8U"
+    }
+  },
+  {
+    "transaction_id": "MTkwMzExMzYwYWRpcXprY3g",
+    "type": "363a",
+    "date": "2008-01-08",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Return made up to 17/10/07; full list of members"
+    },
+    "pages": 2,
+    "links": {
+      "self": "/company/05594776/filing-history/MTkwMzExMzYwYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BxbF8etSzrXbIGuF_787TTwtKbu1dMhVH1gYFIxbF58"
+    }
+  },
+  {
+    "transaction_id": "MTkwMzEzMDEwYWRpcXprY3g",
+    "type": "288c",
+    "date": "2008-01-08",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Secretary's particulars changed"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/05594776/filing-history/MTkwMzEzMDEwYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/us_nVp-zW-NY_2OPVCp11UPHa7MldHqE9zQIWKcbxrU"
+    }
+  },
+  {
+    "transaction_id": "MTg5MTAxOTEwYWRpcXprY3g",
+    "type": "287",
+    "date": "2007-12-05",
+    "category": "address",
+    "description": "legacy",
+    "description_values": {
+      "description": "Registered office changed on 05/12/07 from: phoenix house kingmoor road carlisle cumbria CA3 9QJ"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MTg5MTAxOTEwYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/E2aifC3LU89SLlZKCR0nQ2bzIQ0ouTWXBH33ccbOwKo"
+    }
+  },
+  {
+    "transaction_id": "MTgxNDg4MjMxYWRpcXprY3g",
+    "type": "AA",
+    "date": "2007-06-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2006-10-31"
+    },
+    "pages": 8,
+    "action_date": "2006-10-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MTgxNDg4MjMxYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GtjwGjTUl60IaNfaeZ1p42S6bjjTJMi-KStq6DnCIk4"
+    }
+  },
+  {
+    "transaction_id": "MTcwNTU0OTUwYWRpcXprY3g",
+    "type": "363a",
+    "date": "2006-11-07",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Return made up to 17/10/06; full list of members"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/05594776/filing-history/MTcwNTU0OTUwYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_h35JNorus-NshiP19v3HECKLr_DehSSzaTwK-yR7Xg"
+    }
+  },
+  {
+    "transaction_id": "MTM4MTg4NzAzYWRpcXprY3g",
+    "type": "288b",
+    "date": "2005-11-15",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Secretary resigned"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MTM4MTg4NzAzYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ppoKk_iNwdCuH-24Acy00q4sP8EGngbtEilRvLm_h6w"
+    }
+  },
+  {
+    "transaction_id": "OTY4MjU3NzhhZGlxemtjeA",
+    "type": "288b",
+    "date": "2005-11-15",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Director resigned"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/OTY4MjU3NzhhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VugnoEfLBB0rtmK3AVsvGrggE1TbWYrrgDLbfhL20yo"
+    }
+  },
+  {
+    "transaction_id": "MTM5MDQ2Nzk4YWRpcXprY3g",
+    "type": "288a",
+    "date": "2005-11-15",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "New director appointed"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MTM5MDQ2Nzk4YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Fjwe9cKkFvtR9j-di4-WUO0VSq4lWpF6R97TDMMqcrU"
+    }
+  },
+  {
+    "transaction_id": "MTE1MjkyMDI5YWRpcXprY3g",
+    "type": "288a",
+    "date": "2005-11-15",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "New secretary appointed"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MTE1MjkyMDI5YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hDCgKWBPUvliv2FUimCyH31ZmRv4b821XjcIxGW6tQg"
+    }
+  },
+  {
+    "transaction_id": "MTM3MTIxNzc1YWRpcXprY3g",
+    "type": "CERTNM",
+    "date": "2005-11-11",
+    "category": "change-of-name",
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed bas (ninety nine) LIMITED\\certificate issued on 11/11/05"
+    },
+    "pages": 2,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MTM3MTIxNzc1YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KNX4SYvB_EJsyJHVVQShxel5jESOsPnbHnfSk3Erslg"
+    }
+  },
+  {
+    "transaction_id": "MTU3NzUyOThhZGlxemtjeA",
+    "type": "NEWINC",
+    "date": "2005-10-17",
+    "category": "incorporation",
+    "description": "incorporation-company",
+    "pages": 15,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/05594776/filing-history/MTU3NzUyOThhZGlxemtjeA",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UcAnQNrhylMljd3ZtKUn1WX65gbFYh4fRV4jcHsoxmU"
+    }
+  }
+]

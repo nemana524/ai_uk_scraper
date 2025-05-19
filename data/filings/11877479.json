@@ -1,0 +1,359 @@
+[
+  {
+    "transaction_id": "MzQ2NTc3NjE5MWFkaXF6a2N4",
+    "barcode": "XE2EDZQ2",
+    "type": "AD01",
+    "date": "2025-05-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-05-12",
+      "old_address": "64 Markmanor Avenue Walthamstow London E17 8HH United Kingdom",
+      "new_address": "6 Ravenings House, Goodmayes Road Ilford London IG3 9NR"
+    },
+    "pages": 1,
+    "action_date": "2025-05-12",
+    "links": {
+      "self": "/company/11877479/filing-history/MzQ2NTc3NjE5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7rYsJuS1Hg_5eMaQ2ZPwTl1-mMzj6I4YW0GHtwS_1dk"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NTE1NjI4OGFkaXF6a2N4",
+    "barcode": "XE20R9KQ",
+    "type": "PSC07",
+    "date": "2025-05-06",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ulisses Bezerra Da Silva",
+      "cessation_date": "2025-04-28"
+    },
+    "pages": 1,
+    "action_date": "2025-04-28",
+    "links": {
+      "self": "/company/11877479/filing-history/MzQ2NTE1NjI4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FEB67HIpYgduAE5Etg0gBAqnstkuQjFWu-CThxmSp_Q"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NTE1NjAyNWFkaXF6a2N4",
+    "barcode": "XE20R8T6",
+    "type": "TM01",
+    "date": "2025-05-06",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ulisses Bezerra Da Silva",
+      "termination_date": "2025-04-28"
+    },
+    "pages": 1,
+    "action_date": "2025-04-28",
+    "links": {
+      "self": "/company/11877479/filing-history/MzQ2NTE1NjAyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qRGkpi9r5NOmi8ktQCUKWGNtAxE7jmog72l_2TNEOfc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTUyMTMwNGFkaXF6a2N4",
+    "barcode": "XDJ38OD4",
+    "type": "CS01",
+    "date": "2024-12-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-06"
+    },
+    "pages": 3,
+    "action_date": "2024-12-06",
+    "links": {
+      "self": "/company/11877479/filing-history/MzQ0OTUyMTMwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5QucQCUO5W8VLAfwQzVvjjSBu_thJmKa_By9luU5nLg"
+    }
+  },
+  {
+    "transaction_id": "MzQ0ODkxNzQwOGFkaXF6a2N4",
+    "barcode": "XDINH2SO",
+    "type": "AA",
+    "date": "2024-12-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/11877479/filing-history/MzQ0ODkxNzQwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oyLNvjO8p4DAOa90pA4tnRBM4Z9BKy6c5Y7bQAH8WRM"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDg3MDEyOWFkaXF6a2N4",
+    "barcode": "XCIPO2YQ",
+    "type": "AA",
+    "date": "2023-12-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 3,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/11877479/filing-history/MzQwNDg3MDEyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/37kYPuIPQzJTfuHvF5N6bpHGE1JwmZzPcf0T5PxXuL0"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDg0OTY4N2FkaXF6a2N4",
+    "barcode": "XCIPLONV",
+    "type": "CS01",
+    "date": "2023-12-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-06"
+    },
+    "pages": 3,
+    "action_date": "2023-12-06",
+    "links": {
+      "self": "/company/11877479/filing-history/MzQwNDg0OTY4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IlRB8AjH2V3nK4xhEdFUy7cCiorVQNg6UFiKsw_tXGo"
+    }
+  },
+  {
+    "transaction_id": "MzM2OTkwMTY0N2FkaXF6a2N4",
+    "barcode": "XBXRLGSX",
+    "type": "CH01",
+    "date": "2023-02-20",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-02-20",
+      "officer_name": "Mrs Tanja Pfitzner"
+    },
+    "pages": 2,
+    "action_date": "2023-02-20",
+    "links": {
+      "self": "/company/11877479/filing-history/MzM2OTkwMTY0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XZA06m2ALuK1qiOMzs4yRdF84ZpPdJ7FbvR0v7PT8Oc"
+    }
+  },
+  {
+    "transaction_id": "MzM2Mzc0MTM0M2FkaXF6a2N4",
+    "barcode": "XBJMR7OA",
+    "type": "AA",
+    "date": "2022-12-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 3,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/11877479/filing-history/MzM2Mzc0MTM0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9GUPk8_lNtqCssEkxnlKwRD7-bbR5r934DjO0dwhbnM"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTE1NDAxMWFkaXF6a2N4",
+    "barcode": "XBIA0E9R",
+    "type": "CS01",
+    "date": "2022-12-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-12-06"
+    },
+    "pages": 4,
+    "action_date": "2022-12-06",
+    "links": {
+      "self": "/company/11877479/filing-history/MzM2MTE1NDAxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/aUiHK6suP3Wgvq-63hd4U3g5doEuEuM1r9IGhmBK8BM"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTE1MzcwN2FkaXF6a2N4",
+    "barcode": "XBIA0CM8",
+    "type": "PSC01",
+    "date": "2022-12-06",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Tanja Pfitzner",
+      "notification_date": "2022-12-06"
+    },
+    "pages": 2,
+    "action_date": "2022-12-06",
+    "links": {
+      "self": "/company/11877479/filing-history/MzM2MTE1MzcwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5FlJoAg7CJBGabGofgidAlWClgPmzW7hFQtatTAwAF8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTE1MzMyN2FkaXF6a2N4",
+    "barcode": "XBIA0BL5",
+    "type": "PSC04",
+    "date": "2022-12-06",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-12-06",
+      "psc_name": "Mr Ulisses Bezerra Da Silva"
+    },
+    "pages": 2,
+    "action_date": "2022-12-06",
+    "links": {
+      "self": "/company/11877479/filing-history/MzM2MTE1MzMyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/l3756VqUJ1Pnk005zOjqGHmyf4v397iLLNo3cg0xltU"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTE1MzIzOWFkaXF6a2N4",
+    "barcode": "XBIA0B1K",
+    "type": "AP01",
+    "date": "2022-12-06",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Tanja Pfitzner",
+      "appointment_date": "2022-12-06"
+    },
+    "pages": 2,
+    "action_date": "2022-12-06",
+    "links": {
+      "self": "/company/11877479/filing-history/MzM2MTE1MzIzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3kFZ4BuV9QT2g8FMsb7XnrFCMDRZzv8MvxVgR4OjYm8"
+    }
+  },
+  {
+    "transaction_id": "MzMzNjMwODAzOWFkaXF6a2N4",
+    "barcode": "XB1WATA9",
+    "type": "CS01",
+    "date": "2022-04-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-03-11"
+    },
+    "pages": 3,
+    "action_date": "2022-03-11",
+    "links": {
+      "self": "/company/11877479/filing-history/MzMzNjMwODAzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2b-CuZNtmn1j2L3M_BmUvDwchO8ohrvJbGgC1EAo0hk"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTI0NTE4MGFkaXF6a2N4",
+    "barcode": "XAKGEW40",
+    "type": "AA",
+    "date": "2021-12-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 3,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/11877479/filing-history/MzMyNTI0NTE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7LAT0sQ8FSRtprXJets4JjGaFHSgASt0egADgWUVLZI"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODIzODUxMWFkaXF6a2N4",
+    "barcode": "XA2SLXCB",
+    "type": "CS01",
+    "date": "2021-04-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-03-11"
+    },
+    "pages": 3,
+    "action_date": "2021-03-11",
+    "links": {
+      "self": "/company/11877479/filing-history/MzI5ODIzODUxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LqHIEoXlpVS2qUL58Y0YNWl4usNSJVQ5JQwB7VuI2LA"
+    }
+  },
+  {
+    "transaction_id": "MzI5NjA3NjYwNmFkaXF6a2N4",
+    "barcode": "XA1AONA9",
+    "type": "AA",
+    "date": "2021-03-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 3,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/11877479/filing-history/MzI5NjA3NjYwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2C9vO37ZHz5Z0zk76mpN2DwpCiXH-C-J572u2v7XuoM"
+    }
+  },
+  {
+    "transaction_id": "MzI2MjY0NzQxNmFkaXF6a2N4",
+    "barcode": "X935306A",
+    "type": "CS01",
+    "date": "2020-04-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-03-11"
+    },
+    "pages": 3,
+    "action_date": "2020-03-11",
+    "links": {
+      "self": "/company/11877479/filing-history/MzI2MjY0NzQxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0xxcQvrrgs1t0pINmntJ2Se2QegM3ItA7WbTXcHmRwY"
+    }
+  },
+  {
+    "transaction_id": "MzIyOTA4MTg4M2FkaXF6a2N4",
+    "barcode": "X811CM9C",
+    "type": "NEWINC",
+    "date": "2019-03-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-03-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-03-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-03-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2019-03-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11877479/filing-history/MzIyOTA4MTg4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kAa8mBw-9e1EnruHpxb9w8MGgKUsm8EXT4afdB080uw"
+    }
+  }
+]

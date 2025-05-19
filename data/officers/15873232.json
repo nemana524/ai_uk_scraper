@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "High Street North",
+      "address_line_2": "Office 17",
+      "country": "United Kingdom",
+      "locality": "London",
+      "postal_code": "E12 6SJ",
+      "premises": "241e"
+    },
+    "appointed_on": "2024-08-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/15873232/appointments/ouN309RGoZeCHhLPdWm2Gu1uvVY",
+      "officer": {
+        "appointments": "/officers/Ggv5JgtJmeL8TDVKGIsIOytW_dA/appointments"
+      }
+    },
+    "name": "ALAM, Rubel",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "325745690001"
+  }
+]

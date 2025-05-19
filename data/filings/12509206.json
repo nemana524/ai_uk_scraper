@@ -1,0 +1,224 @@
+[
+  {
+    "transaction_id": "MzQ1NzgzOTY0MGFkaXF6a2N4",
+    "barcode": "XDY0OJ0Z",
+    "type": "CS01",
+    "date": "2025-03-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-09"
+    },
+    "pages": 5,
+    "action_date": "2025-03-09",
+    "links": {
+      "self": "/company/12509206/filing-history/MzQ1NzgzOTY0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jakQ7aSAimx1AIcwqiXiKlbNp8Lrf1lXUnmN2p-cup4"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzU4MTY5M2FkaXF6a2N4",
+    "barcode": "XDI3PNYJ",
+    "type": "AA",
+    "date": "2024-12-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 5,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/12509206/filing-history/MzQ0NzU4MTY5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LyJochbKrwf61x-XHXggBNpxSyg_fVEA0jVEAhjTADo"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTc4OTM0OWFkaXF6a2N4",
+    "barcode": "XCZFJKAH",
+    "type": "CS01",
+    "date": "2024-03-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-03-09"
+    },
+    "pages": 5,
+    "action_date": "2024-03-09",
+    "links": {
+      "self": "/company/12509206/filing-history/MzQxNTc4OTM0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Y_p7LW_enI60n7IgbmseYkCwA-Uz3zLLADF9G5FiKw"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjgyNzk5M2FkaXF6a2N4",
+    "barcode": "XCUBHX2Q",
+    "type": "AA",
+    "date": "2024-01-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 5,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/12509206/filing-history/MzQwNjgyNzk5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uRupB-F42LRsVSE-KlklI1S9MUnSKmP_M4cwld3orSo"
+    }
+  },
+  {
+    "transaction_id": "MzM3MzY0MjkxMmFkaXF6a2N4",
+    "barcode": "XBZVDZ21",
+    "type": "AA",
+    "date": "2023-03-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 5,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/12509206/filing-history/MzM3MzY0MjkxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MNPBQu5eecjC-U2HFP_gpR26DnhgiiwKlp9pzcq35o0"
+    }
+  },
+  {
+    "transaction_id": "MzM3MjIwODI0NmFkaXF6a2N4",
+    "barcode": "XBYZ4ZB5",
+    "type": "CS01",
+    "date": "2023-03-10",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-03-09"
+    },
+    "pages": 5,
+    "action_date": "2023-03-09",
+    "links": {
+      "self": "/company/12509206/filing-history/MzM3MjIwODI0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vhpLFGM_EMPhiKKMnDelHbubewQP0OUlAyy-DmbBRFs"
+    }
+  },
+  {
+    "transaction_id": "MzM3MjIwODE4MWFkaXF6a2N4",
+    "barcode": "XBYZ4Z4Y",
+    "type": "PSC04",
+    "date": "2023-03-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-03-09",
+      "psc_name": "Ms Sophia Matveeva"
+    },
+    "pages": 2,
+    "action_date": "2023-03-09",
+    "links": {
+      "self": "/company/12509206/filing-history/MzM3MjIwODE4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vvZxoC7gglWirc7lzrKlO8jqfLUr_5B57bV3Lq5kArM"
+    }
+  },
+  {
+    "transaction_id": "MzM3MjIwODE1MWFkaXF6a2N4",
+    "barcode": "XBYZ4YQO",
+    "type": "CH01",
+    "date": "2023-03-10",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-03-09",
+      "officer_name": "Ms Sophia Matveeva"
+    },
+    "pages": 2,
+    "action_date": "2023-03-09",
+    "links": {
+      "self": "/company/12509206/filing-history/MzM3MjIwODE1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TJ48WzTj35ImzBIghjkqdWr5x0Is16REdQjoI55TXMw"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzI3NzMyMWFkaXF6a2N4",
+    "barcode": "XB00OGG8",
+    "type": "CS01",
+    "date": "2022-03-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-03-09"
+    },
+    "pages": 4,
+    "action_date": "2022-03-09",
+    "links": {
+      "self": "/company/12509206/filing-history/MzMzMzI3NzMyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zNOJ6Ux8cnxfwxPQ03JT0gWYTuwXiU5GJo068g38zwE"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzEyNDg3OWFkaXF6a2N4",
+    "barcode": "XAIYWA0G",
+    "type": "AA",
+    "date": "2021-12-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 5,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/12509206/filing-history/MzMyMzEyNDg3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/i2ljSbtkvdQdQRpop_-wXITA2srhhhcM1NpfcIWbQbw"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjY0NjIxNGFkaXF6a2N4",
+    "barcode": "XA5FELYB",
+    "type": "CS01",
+    "date": "2021-05-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-03-09"
+    },
+    "pages": 5,
+    "action_date": "2021-03-09",
+    "links": {
+      "self": "/company/12509206/filing-history/MzMwMjY0NjIxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MG8YJn-AsMuKlNuDVZXFkJp0nx8Q3oHrRf_v0WScEqM"
+    }
+  },
+  {
+    "transaction_id": "MzI1OTMxMDEwMWFkaXF6a2N4",
+    "barcode": "X90HS78I",
+    "type": "NEWINC",
+    "date": "2020-03-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2020-03-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-03-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-03-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 30,
+    "links": {
+      "self": "/company/12509206/filing-history/MzI1OTMxMDEwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p-ds_8dhQjo90KJ06opJrmz7Z-w-Q9pq982huV-7ywQ"
+    }
+  }
+]

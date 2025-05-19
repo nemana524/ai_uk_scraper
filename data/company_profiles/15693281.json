@@ -1,0 +1,40 @@
+{
+  "company_number": "15693281",
+  "company_name": "TECH BRANCH LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-04-30",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46770",
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Office 28, Ground Floor, The Tube Business Centre",
+    "address_line_2": "86 North Street",
+    "country": "United Kingdom",
+    "locality": "Manchester",
+    "postal_code": "M8 8RA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-30"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "b826bb4e4495a1e80538f2881a97293bcf6ce36b"
+}

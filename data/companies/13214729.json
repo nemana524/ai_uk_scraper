@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-28",
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-29"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH COOKIE LTD",
+  "company_number": "13214729",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-12-16",
+    "next_due": "2025-12-30",
+    "next_made_up_to": "2025-12-16",
+    "overdue": false
+  },
+  "date_of_creation": "2021-02-19",
+  "etag": "c8d8fe1287d8856d1b1a8ee05bb9b0bd550a6f65",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13214729/persons-with-significant-control",
+    "self": "/company/13214729",
+    "filing_history": "/company/13214729/filing-history",
+    "officers": "/company/13214729/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "7 Bell Yard",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2A 2JR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910",
+    "62090",
+    "82990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

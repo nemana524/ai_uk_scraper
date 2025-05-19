@@ -1,0 +1,36 @@
+{
+  "company_number": "09476156",
+  "company_name": "TECH COATINGS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SHEPPARD, Andrew Monty",
+      "officer_role": "director",
+      "appointed_on": "2015-03-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Tuckers Lane",
+        "country": "England",
+        "locality": "Poole",
+        "postal_code": "BH15 4BT",
+        "premises": "9a",
+        "region": "Dorset"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/09476156/appointments/qII6MZ1kwZ6gK6Qp2FVjI6cqyd4",
+        "officer": {
+          "appointments": "/officers/7zZt4Yxzt80dGcdQHpI-potD8Ck/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

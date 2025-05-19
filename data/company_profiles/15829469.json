@@ -1,0 +1,45 @@
+{
+  "company_number": "15829469",
+  "company_name": "TECH FORCE LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-07-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "61900",
+    "63990",
+    "82990",
+    "85600"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Unit 6, 450 Charter House, Charter Business Centre",
+    "address_line_2": "450 High Road",
+    "country": "United Kingdom",
+    "locality": "Ilford",
+    "postal_code": "IG1 1ZG"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-09",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-07-09"
+    },
+    "next_due": "2026-04-09",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "etag": "c131c3ca41ac298d0505f52dab88b03101062ec5"
+}

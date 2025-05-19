@@ -1,0 +1,47 @@
+{
+  "company_number": "10916974",
+  "company_name": "TECH INFLUENCE LTD",
+  "company_status": "active",
+  "date_of_creation": "2017-08-15",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "63120"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "C/O Hillier Hopkins Llp First Floor, Radius House",
+    "address_line_2": "51 Clarendon Road",
+    "country": "United Kingdom",
+    "locality": "Watford",
+    "postal_code": "WD17 1HP",
+    "region": "Hertfordshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-08-31",
+      "period_end_on": "2023-08-31",
+      "period_start_on": "2022-09-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-05-31",
+      "overdue": false,
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01"
+    },
+    "next_due": "2025-05-31",
+    "next_made_up_to": "2024-08-31",
+    "overdue": false
+  },
+  "etag": "20dc994a68f77e4eeb7cc01205f878d903f64917"
+}

@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-12",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-11-12"
+    },
+    "next_due": "2026-08-12",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CHILD LTD",
+  "company_number": "16076354",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-11-25",
+    "next_made_up_to": "2025-11-11",
+    "overdue": false
+  },
+  "date_of_creation": "2024-11-12",
+  "etag": "275519d8b363db30ceccda3691ab09c322d59233",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16076354/persons-with-significant-control",
+    "registers": "/company/16076354/registers",
+    "self": "/company/16076354",
+    "filing_history": "/company/16076354/filing-history",
+    "officers": "/company/16076354/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "16 Garter Court Knights Field",
+    "country": "England",
+    "locality": "Luton",
+    "postal_code": "LU2 7LL"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

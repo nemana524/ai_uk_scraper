@@ -1,0 +1,30 @@
+[
+  {
+    "address": {
+      "address_line_1": "Charlestown Road",
+      "country": "England",
+      "locality": "Manchester",
+      "postal_code": "M9 7DE",
+      "premises": "176"
+    },
+    "appointed_on": "2023-03-06",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 2004
+    },
+    "links": {
+      "self": "/company/14708825/appointments/VxrnBZixVbQuCIHJPMJ6zK3btyU",
+      "officer": {
+        "appointments": "/officers/MPGWrZT80-tC6rv0zSWU5NhrAyI/appointments"
+      }
+    },
+    "name": "GREEN, Tallie Isabella",
+    "nationality": "British",
+    "occupation": "Administrator",
+    "officer_role": "director",
+    "resigned_on": "2024-03-06",
+    "person_number": "306344820001"
+  }
+]

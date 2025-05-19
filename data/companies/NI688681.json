@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH IT FROM ME LTD",
+  "company_number": "NI688681",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-31",
+    "next_due": "2025-06-14",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "date_of_creation": "2022-06-01",
+  "etag": "1a86975eab8d2a07c0531585f41818b1ec0ccbb0",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "links": {
+    "persons_with_significant_control": "/company/NI688681/persons-with-significant-control",
+    "self": "/company/NI688681",
+    "filing_history": "/company/NI688681/filing-history",
+    "officers": "/company/NI688681/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "48 Rushfield Avenue",
+    "country": "Northern Ireland",
+    "locality": "Belfast",
+    "postal_code": "BT7 3FQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

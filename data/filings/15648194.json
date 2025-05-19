@@ -1,0 +1,111 @@
+[
+  {
+    "transaction_id": "MzQ1OTA3OTI2NWFkaXF6a2N4",
+    "barcode": "XDYMD12E",
+    "type": "CS01",
+    "date": "2025-03-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-18"
+    },
+    "pages": 3,
+    "action_date": "2025-03-18",
+    "links": {
+      "self": "/company/15648194/filing-history/MzQ1OTA3OTI2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DwMz3cmrAxL4mEzMRHiKl6uVJIdLiGdORavngQexRVk"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTA3MzA0NGFkaXF6a2N4",
+    "barcode": "XDYMC94X",
+    "type": "AD01",
+    "date": "2025-03-18",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-03-18",
+      "old_address": "10 Ambrose Road Swindon SN1 4DX England",
+      "new_address": "4 Havelock Square Swindon SN1 1LE"
+    },
+    "pages": 1,
+    "action_date": "2025-03-18",
+    "links": {
+      "self": "/company/15648194/filing-history/MzQ1OTA3MzA0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bfbEXjiX4JKNkK7qURqHgus-J6uYxp8_gC_Su8sMIbg"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTE3MDE0MmFkaXF6a2N4",
+    "barcode": "XDIV3S0B",
+    "type": "CERTNM",
+    "date": "2024-12-27",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2024-12-27"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2024-12-27",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed tech ess LTD\\certificate issued on 27/12/24"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/15648194/filing-history/MzQ0OTE3MDE0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hVN8vLbmB2wZkXbc_LObJLhUXShKSf6WFdcvs3WmGy8"
+    }
+  },
+  {
+    "transaction_id": "MzQxODA3NjUxM2FkaXF6a2N4",
+    "barcode": "XD0VAO1D",
+    "type": "NEWINC",
+    "date": "2024-04-15",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-04-15",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-04-15",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-04-15",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-04-15"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/15648194/filing-history/MzQxODA3NjUxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p03EKDIwq4fGjx2fb2QWaQAF19OKZP1K0aCV8o0qqYM"
+    }
+  }
+]

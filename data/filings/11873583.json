@@ -1,0 +1,501 @@
+[
+  {
+    "transaction_id": "MzQ2MTQ1MDE4NGFkaXF6a2N4",
+    "barcode": "XDZRYGR4",
+    "type": "CS01",
+    "date": "2025-04-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-02-23"
+    },
+    "pages": 3,
+    "action_date": "2025-02-23",
+    "links": {
+      "self": "/company/11873583/filing-history/MzQ2MTQ1MDE4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iAkmof1tECi_qwvoKW-74ICbZoUYuPTyLoUmBrf2Lys"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NzkxODgyOGFkaXF6a2N4",
+    "barcode": "XDI6GO9M",
+    "type": "AA",
+    "date": "2024-12-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/11873583/filing-history/MzQ0NzkxODgyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OzLC47qOHybhIL61ziL7j1KHulLFoPRkFH-Xect7LjI"
+    }
+  },
+  {
+    "transaction_id": "MzQxODE1NzU4NGFkaXF6a2N4",
+    "barcode": "XD0XUWAZ",
+    "type": "CS01",
+    "date": "2024-04-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-24"
+    },
+    "pages": 3,
+    "action_date": "2024-03-24",
+    "links": {
+      "self": "/company/11873583/filing-history/MzQxODE1NzU4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NnbXt3BsVd7CndokwQA2NIoIj5HiOnHR2caoODJgRGw"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTk0NTI2MmFkaXF6a2N4",
+    "barcode": "XCGAXBAJ",
+    "type": "AA",
+    "date": "2023-11-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 3,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/11873583/filing-history/MzM5OTk0NTI2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YSvl2mATUgNi7cUrTp1gJTu4C0JgA7xvzhdMO3yii8E"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzYwNDMwMmFkaXF6a2N4",
+    "barcode": "XC29JFYH",
+    "type": "CS01",
+    "date": "2023-04-26",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-24"
+    },
+    "pages": 3,
+    "action_date": "2023-03-24",
+    "links": {
+      "self": "/company/11873583/filing-history/MzM3NzYwNDMwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0eLfRv67umKfqq8eweac6bmmGg2NXR8N9aM-BNqJS00"
+    }
+  },
+  {
+    "transaction_id": "MzM2MjA4NDAyMWFkaXF6a2N4",
+    "barcode": "XBIVF1LC",
+    "type": "AA",
+    "date": "2022-12-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 3,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/11873583/filing-history/MzM2MjA4NDAyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Tq-4mXz8jhhyNSTbTufyXeyLzrDs9cjwsF9Cv1YukEY"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzk5MzM0MWFkaXF6a2N4",
+    "barcode": "XB0GTPWX",
+    "type": "CS01",
+    "date": "2022-03-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-03-24"
+    },
+    "pages": 4,
+    "action_date": "2022-03-24",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMzMzk5MzM0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ENmUuezCFdPmXexizmNCJuuGaMdiis49Gat5CCBf9bU"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzk5MjI5NmFkaXF6a2N4",
+    "barcode": "XB0GTLIR",
+    "type": "PSC01",
+    "date": "2022-03-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Adeel Javed",
+      "notification_date": "2022-03-17"
+    },
+    "pages": 2,
+    "action_date": "2022-03-17",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMzMzk5MjI5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TVRSJnnCWrUf8OZol4YbLEcVT64myemc65bsEtguFcE"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzk5MDk3NWFkaXF6a2N4",
+    "barcode": "XB0GTFGA",
+    "type": "PSC07",
+    "date": "2022-03-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Saima Qureshi",
+      "cessation_date": "2022-03-17"
+    },
+    "pages": 1,
+    "action_date": "2022-03-17",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMzMzk5MDk3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TJZB5EgicSLnqtboeyBSKdYtIudba6ZIC1vDf77tnGM"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDMxODUzMGFkaXF6a2N4",
+    "barcode": "XAY2TSGY",
+    "type": "PSC01",
+    "date": "2022-02-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Saima Qureshi",
+      "notification_date": "2022-02-10"
+    },
+    "pages": 2,
+    "action_date": "2022-02-10",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMzMDMxODUzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/glQwT7lJlYFMxQETT1mL2QoNXPGuHEEIdUi67-n2oAI"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDMwNjMyN2FkaXF6a2N4",
+    "barcode": "XAY2S9FU",
+    "type": "PSC07",
+    "date": "2022-02-18",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Adeel Javed",
+      "cessation_date": "2022-02-10"
+    },
+    "pages": 1,
+    "action_date": "2022-02-10",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMzMDMwNjMyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/afWGe5XQgw7Pny0z48sXco68q6NQwweX0SQsWxeVO0s"
+    }
+  },
+  {
+    "transaction_id": "MzMzMDMwNjExM2FkaXF6a2N4",
+    "barcode": "XAY2S868",
+    "type": "CS01",
+    "date": "2022-02-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-02-18"
+    },
+    "pages": 4,
+    "action_date": "2022-02-18",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMzMDMwNjExM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eV0GX64EdD50xmTHpGwy9DCWN29EPcoIe9Siz9ZqGVE"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzc1NzkwM2FkaXF6a2N4",
+    "barcode": "XAFLZSWB",
+    "type": "AA",
+    "date": "2021-10-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-03-31"
+    },
+    "pages": 3,
+    "action_date": "2021-03-31",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMxNzc1NzkwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yx_zFEJ9orHidJhBKPstaObyllDBUtIVv0UQLNnAPNs"
+    }
+  },
+  {
+    "transaction_id": "MzMwOTA3MTA5NGFkaXF6a2N4",
+    "barcode": "XA9O75QZ",
+    "type": "PSC01",
+    "date": "2021-07-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Adeel Javed",
+      "notification_date": "2021-07-28"
+    },
+    "pages": 2,
+    "action_date": "2021-07-28",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMwOTA3MTA5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bDw8Lt2XSl_OKoyNzyxB3H0gqDgOaJTSHUjVe85repw"
+    }
+  },
+  {
+    "transaction_id": "MzMwOTA2NTYyMmFkaXF6a2N4",
+    "barcode": "XA9O6I5U",
+    "type": "PSC04",
+    "date": "2021-07-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-07-28",
+      "psc_name": "Mr Wajid Riaz"
+    },
+    "pages": 3,
+    "action_date": "2021-07-28",
+    "links": {
+      "self": "/company/11873583/filing-history/MzMwOTA2NTYyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nKE9nalyojf-fve3im-gjZaPZM12mFqv-hklG6pZD1s"
+    }
+  },
+  {
+    "transaction_id": "MzMwODg3Nzc3NmFkaXF6a2N4",
+    "barcode": "XA9LD9BU",
+    "type": "RP04CS01",
+    "date": "2021-07-28",
+    "category": "confirmation-statement",
+    "subcategory": "document-replacement",
+    "description": "second-filing-of-confirmation-statement-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2021-03-16"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/11873583/filing-history/MzMwODg3Nzc3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VreN4k20B1cFSWyiwgcBoMw0PvKTpY6i1l_XO2bmf4c"
+    }
+  },
+  {
+    "transaction_id": "MzMwMjcwMjQ1MGFkaXF6a2N4",
+    "barcode": "XA5FMGO8",
+    "type": "CS01",
+    "date": "2021-05-28",
+    "category": "confirmation-statement",
+    "annotations": [
+      {
+        "annotation": "Clarification A second filed CS01 (Statement of Capital and Shareholder Information) was registered on 28/07/2021.",
+        "date": "2021-07-28",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Clarification a second filed CS01 (Statement of Capital and Shareholder Information) was registered on 28/07/2021."
+        }
+      }
+    ],
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-03-16"
+    },
+    "pages": 6,
+    "action_date": "2021-03-16",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11873583/filing-history/MzMwMjcwMjQ1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VvfZnaBYFXWsStU9RCuqHMAnh-FTVvD8KImwyRtaIJo"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODY4Mjg3MmFkaXF6a2N4",
+    "barcode": "XA2Y8Z96",
+    "type": "PSC04",
+    "date": "2021-04-26",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-10-10",
+      "psc_name": "Mr Wajid Riaz"
+    },
+    "pages": 2,
+    "action_date": "2020-10-10",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI5ODY4Mjg3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NgpsY6UwpMdhLzzj4HeaA7CrR6c5EWt9VKsngPPZ2Cg"
+    }
+  },
+  {
+    "transaction_id": "MzI5MTU1Njk0OGFkaXF6a2N4",
+    "barcode": "X9YGFZAO",
+    "type": "AA",
+    "date": "2021-02-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-03-31"
+    },
+    "pages": 3,
+    "action_date": "2020-03-31",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI5MTU1Njk0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/p5IB02UIoFG3NquzRqe6BYpULmI9X-YwkSzdvfXBf44"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTEzMzM0NGFkaXF6a2N4",
+    "barcode": "X9J5CPEY",
+    "type": "PSC04",
+    "date": "2020-12-03",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2020-12-03",
+      "psc_name": "Mr Wajid Riaz"
+    },
+    "pages": 2,
+    "action_date": "2020-12-03",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI4NTEzMzM0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LZvzqbW4A3lKZeZ_vB2bPJKAwC2xQu-OdONSGi85elk"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDE4OTU4MGFkaXF6a2N4",
+    "barcode": "X9FD578Z",
+    "type": "AP01",
+    "date": "2020-10-10",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Wajid Riaz",
+      "appointment_date": "2020-10-10"
+    },
+    "pages": 2,
+    "action_date": "2020-10-10",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI4MDE4OTU4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Fmd91yxbBcxdo1Y4wMEzlq5HZrW2peZ_uPxKu5Vq-ZI"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDE4ODcyNWFkaXF6a2N4",
+    "barcode": "X9FD52OP",
+    "type": "PSC01",
+    "date": "2020-10-10",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Wajid Riaz",
+      "notification_date": "2020-09-30"
+    },
+    "pages": 2,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI4MDE4ODcyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TuGH61N6Rf1Pgy3PFyApJCZq-mg6IEloq-cGgFNrLQw"
+    }
+  },
+  {
+    "transaction_id": "MzI3OTk3NjcxNWFkaXF6a2N4",
+    "barcode": "X9F59323",
+    "type": "TM01",
+    "date": "2020-10-07",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Saqib Israr Rafiq",
+      "termination_date": "2020-09-30"
+    },
+    "pages": 1,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI3OTk3NjcxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/b06Aa4_vY_n-ikJeQlXlxz72FcxOznBavqDYKFcKzOc"
+    }
+  },
+  {
+    "transaction_id": "MzI3OTk3NjcwN2FkaXF6a2N4",
+    "barcode": "X9F5931V",
+    "type": "PSC07",
+    "date": "2020-10-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Saqib Israr Rafiq",
+      "cessation_date": "2020-09-30"
+    },
+    "pages": 1,
+    "action_date": "2020-09-30",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI3OTk3NjcwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KjE4thsioejMWT37dklII-yV3ebERYnZbdcvljoja6s"
+    }
+  },
+  {
+    "transaction_id": "MzI1OTk0Mjg4MWFkaXF6a2N4",
+    "barcode": "X90XTT0G",
+    "type": "CS01",
+    "date": "2020-03-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-03-16"
+    },
+    "pages": 3,
+    "action_date": "2020-03-16",
+    "links": {
+      "self": "/company/11873583/filing-history/MzI1OTk0Mjg4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sxRYQ2xyQ2bdkroCEdoWkl-J89s3TvjOtRV50IiKhUE"
+    }
+  },
+  {
+    "transaction_id": "MzIyODk3OTE4MWFkaXF6a2N4",
+    "barcode": "X80W3U5L",
+    "type": "NEWINC",
+    "date": "2019-03-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-03-11",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-03-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-03-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2019-03-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11873583/filing-history/MzIyODk3OTE4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/G0_y07SQr9fE_mf2rLQVD0W0pRRkumGqYWIhROItUEc"
+    }
+  }
+]

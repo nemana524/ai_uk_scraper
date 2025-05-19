@@ -1,0 +1,403 @@
+[
+  {
+    "transaction_id": "MzQ2NjE5MzUwMGFkaXF6a2N4",
+    "barcode": "XE2JXJ5M",
+    "type": "AA",
+    "date": "2025-05-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2025-01-31"
+    },
+    "pages": 8,
+    "action_date": "2025-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ2NjE5MzUwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/r1Hk-cAH9KFO_Vq3lvZtmtgIVbULxcbZx4P6BnOvWWw"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzYzMDEyMmFkaXF6a2N4",
+    "barcode": "XDVOKXPV",
+    "type": "PSC04",
+    "date": "2025-02-05",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2025-01-31",
+      "psc_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2025-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ1MzYzMDEyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zMNA4RH89gZ2ZEPgRMfj1oHSr2X67_Mz4De3_sUB_pE"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzYzMDA3MGFkaXF6a2N4",
+    "barcode": "XDVOKXJ6",
+    "type": "CH01",
+    "date": "2025-02-04",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2025-01-31",
+      "officer_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2025-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ1MzYzMDA3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bgU8VzeTSxYFSbvvVUn2FKlRuZ34luBxnBVcBWywZcY"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzQ2MDk4N2FkaXF6a2N4",
+    "barcode": "XDVLT4SP",
+    "type": "PSC04",
+    "date": "2025-02-03",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2025-01-31",
+      "psc_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2025-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ1MzQ2MDk4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Rqh4-AeMXQBthnAiLlIMSzOOjNzE7vd0AwJlQzMbKBs"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzQ2MDQyN2FkaXF6a2N4",
+    "barcode": "XDVLT243",
+    "type": "PSC04",
+    "date": "2025-02-03",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2025-01-31",
+      "psc_name": "Dr Nurjaha Vali Adam"
+    },
+    "pages": 2,
+    "action_date": "2025-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ1MzQ2MDQyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1aApcEY14IDUK-nj4B96y4p8j1CxDdB-49FGQF68Enw"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzQ1NDU1MGFkaXF6a2N4",
+    "barcode": "XDVLSBQO",
+    "type": "CH01",
+    "date": "2025-02-03",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2025-02-03",
+      "officer_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2025-02-03",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ1MzQ1NDU1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6WhQgrph3gFEkkzs9qVbttDTA0SaNLlxg7injR-DmFg"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzQ1NDU0MmFkaXF6a2N4",
+    "barcode": "XDVLSBS8",
+    "type": "PSC04",
+    "date": "2025-02-03",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2025-02-03",
+      "psc_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2025-02-03",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ1MzQ1NDU0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MVUQL-O7ZHSZXnEjsZR3K5tD-wQftXifEBLQ7NomJpM"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTE2MTQxN2FkaXF6a2N4",
+    "barcode": "XDGR3ZEO",
+    "type": "CS01",
+    "date": "2024-11-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-11-27"
+    },
+    "pages": 5,
+    "action_date": "2024-11-27",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ0NTE2MTQxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_zYLDqKDfYVsu6jCI3dr8RLFFQ5Yon5xE2sCozbw4KE"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDg2Mjc5OWFkaXF6a2N4",
+    "barcode": "XDEF6BV5",
+    "type": "AA",
+    "date": "2024-10-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 9,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQ0MDg2Mjc5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J_Bct8ouG1jNPtJbXIdygo41n5MW_sKRHbKJJTLukq8"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjQ1MzgzOWFkaXF6a2N4",
+    "barcode": "XCHNG3RE",
+    "type": "CS01",
+    "date": "2023-12-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-11-30"
+    },
+    "pages": 5,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQwMjQ1MzgzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IyXQfG3ksIrpUhTc24-Mlp84bBSOBnEa9jB7Tg9gGeI"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjQ1MjgyM2FkaXF6a2N4",
+    "barcode": "XCHNFZUI",
+    "type": "PSC01",
+    "date": "2023-12-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Nurjaha Vali Adam",
+      "notification_date": "2022-11-29"
+    },
+    "pages": 2,
+    "action_date": "2022-11-29",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQwMjQ1MjgyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eOeSQOVUHHiClXnk8NiAS_lelGIUlMFPZ0ICBJjFvpE"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjQ1MjM5NGFkaXF6a2N4",
+    "barcode": "XCHNFY61",
+    "type": "PSC04",
+    "date": "2023-12-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-11-29",
+      "psc_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2022-11-29",
+    "links": {
+      "self": "/company/13118479/filing-history/MzQwMjQ1MjM5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uJFyUmx3RtqCz_HAwUqaTYoq_mcDxeqFWIHEpBLOOE0"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjY5ODM3NWFkaXF6a2N4",
+    "barcode": "XC5M56GW",
+    "type": "AA",
+    "date": "2023-06-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 7,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzM4MjY5ODM3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6nFoyV31a7TeuQc3ZxxuOFazrtNkb468346pKgPGZw4"
+    }
+  },
+  {
+    "transaction_id": "MzM2NjQ3MjI0MmFkaXF6a2N4",
+    "barcode": "XBVJ52BM",
+    "type": "CH01",
+    "date": "2023-01-19",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-09-02",
+      "officer_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2021-09-02",
+    "links": {
+      "self": "/company/13118479/filing-history/MzM2NjQ3MjI0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kc-CajRWSah3M_eeLSBRpBdF1LzrJ7IDPwSxgH7a9Mo"
+    }
+  },
+  {
+    "transaction_id": "MzM2MDM1NTYzMGFkaXF6a2N4",
+    "barcode": "XBHWCL97",
+    "type": "CS01",
+    "date": "2022-11-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-11-30"
+    },
+    "pages": 5,
+    "action_date": "2022-11-30",
+    "links": {
+      "self": "/company/13118479/filing-history/MzM2MDM1NTYzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LZ7eTMcrNgRzIidhIYzP5FWLQWKtLsJXmcyHzsW-rgQ"
+    }
+  },
+  {
+    "transaction_id": "MzM1Mzg3OTAxNGFkaXF6a2N4",
+    "barcode": "XBDVAAOQ",
+    "type": "AA",
+    "date": "2022-10-03",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-01-31"
+    },
+    "pages": 9,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/13118479/filing-history/MzM1Mzg3OTAxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iyecNBuZpTeofQ3d5C4nNmkU12xNv69crVNVF5pHZ4U"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzc0OTY0N2FkaXF6a2N4",
+    "barcode": "XAWFKMSA",
+    "type": "CS01",
+    "date": "2022-01-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-01-05"
+    },
+    "pages": 3,
+    "action_date": "2022-01-05",
+    "links": {
+      "self": "/company/13118479/filing-history/MzMyNzc0OTY0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xi-6LG536_qrkbDLTs8FJM088BuuHB2fSpGvydYpUvg"
+    }
+  },
+  {
+    "transaction_id": "MzMxMjY2MzE2MmFkaXF6a2N4",
+    "barcode": "XAC6S4TT",
+    "type": "AD01",
+    "date": "2021-09-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-09-02",
+      "old_address": "Pod 8, Third Floor Halliwell Industrial Estate Rossini St Bolton BL1 8DL England",
+      "new_address": "Unit 44 Halliwell Industrial Estate Rossini Street Bolton BL1 8DL"
+    },
+    "pages": 1,
+    "action_date": "2021-09-02",
+    "links": {
+      "self": "/company/13118479/filing-history/MzMxMjY2MzE2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CiG0MWOcjFOtAri8R1-qliecFUHcWS9_lf3Dg_E80cc"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODAxODg2M2FkaXF6a2N4",
+    "barcode": "X9VPLE35",
+    "type": "CH01",
+    "date": "2021-01-08",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-01-06",
+      "officer_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2021-01-06",
+    "links": {
+      "self": "/company/13118479/filing-history/MzI4ODAxODg2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EbGXCm__CQhnRaXAuF-rudkLA5pNlVkAAS0plRZWP8s"
+    }
+  },
+  {
+    "transaction_id": "MzI4ODAxODUzNGFkaXF6a2N4",
+    "barcode": "X9VPLD48",
+    "type": "PSC04",
+    "date": "2021-01-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-01-06",
+      "psc_name": "Mr Khalid Farouk Desouky"
+    },
+    "pages": 2,
+    "action_date": "2021-01-06",
+    "links": {
+      "self": "/company/13118479/filing-history/MzI4ODAxODUzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ecFfH3PU2D4NqJPjGj54yNCnwairqBdPl_5SjfeSgmE"
+    }
+  },
+  {
+    "transaction_id": "MzI4NzcyODk1M2FkaXF6a2N4",
+    "barcode": "X9VMT7RS",
+    "type": "NEWINC",
+    "date": "2021-01-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-01-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-01-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-01-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2021-01-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13118479/filing-history/MzI4NzcyODk1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OHv5WXxDdD4or2zJSbIeAcaMIbTxD01zJibckLW_2Vc"
+    }
+  }
+]

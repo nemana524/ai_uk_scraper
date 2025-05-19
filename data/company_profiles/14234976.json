@@ -1,0 +1,47 @@
+{
+  "company_number": "14234976",
+  "company_name": "TECH HOME TRADE LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2022-07-14",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "14190",
+    "14200",
+    "14310",
+    "14390"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "7 Bell Yard",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2A 2JR"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-31",
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-08-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-08-01"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "etag": "61b726861ff6fddd07880f6cf03be973f7bc74ed"
+}

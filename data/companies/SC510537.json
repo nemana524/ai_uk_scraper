@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-31",
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-08-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-08-01"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH BASE BEARSDEN LIMITED",
+  "company_number": "SC510537",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-09",
+    "next_due": "2025-07-23",
+    "next_made_up_to": "2025-07-09",
+    "overdue": false
+  },
+  "date_of_creation": "2015-07-10",
+  "etag": "654678ed5098ba5980013574b6926f86fbe3c052",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC510537/persons-with-significant-control",
+    "self": "/company/SC510537",
+    "filing_history": "/company/SC510537/filing-history",
+    "officers": "/company/SC510537/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "3 Canniesburn Toll",
+    "address_line_2": "Bearsden",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G61 2QU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "33190",
+    "47190"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

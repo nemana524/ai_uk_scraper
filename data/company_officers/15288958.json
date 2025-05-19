@@ -1,0 +1,60 @@
+{
+  "company_number": "15288958",
+  "company_name": "TECH HOSTERS LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "ALRASHED, Mohammad Khair, Mr.",
+      "officer_role": "secretary",
+      "appointed_on": "2023-11-16",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "City Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "128"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15288958/appointments/VFEeWhs6nyNSxP0wcsHxr2gcOlc",
+        "officer": {
+          "appointments": "/officers/Lx0cT1XxsjWnOHaTxffl8jxnmYs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ALRASHED, Mohammad Khair, Mr.",
+      "officer_role": "director",
+      "appointed_on": "2023-11-16",
+      "resigned_on": null,
+      "nationality": "Swedish",
+      "country_of_residence": "Sweden",
+      "occupation": "It System Administrator",
+      "address": {
+        "address_line_1": "City Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC1V 2NX",
+        "premises": "128"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/15288958/appointments/d8nz7_n1SesMvwWiB-vqHo_-z7A",
+        "officer": {
+          "appointments": "/officers/dCRYbYZjL24MJc6_TYvlIyAibPU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

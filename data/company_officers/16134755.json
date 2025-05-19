@@ -1,0 +1,35 @@
+{
+  "company_number": "16134755",
+  "company_name": "TECH CABIN LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "TARIQ, Muhammad Hashim",
+      "officer_role": "director",
+      "appointed_on": "2024-12-13",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "The Loning",
+        "country": "United Kingdom",
+        "locality": "Enfield",
+        "postal_code": "EN3 5RE",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1998
+      },
+      "links": {
+        "self": "/company/16134755/appointments/u8ttldtsW2f9dBB3mn-JM1Jj3UY",
+        "officer": {
+          "appointments": "/officers/sRO8UlWApJS7gJE-YBdRbP0eR6U/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

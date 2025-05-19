@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH INNO SERVICES LTD",
+  "company_number": "13335635",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-31",
+    "next_due": "2025-08-14",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "date_of_creation": "2021-04-14",
+  "etag": "53651ca736b2c7caca82d311efcfb0f5dd21edc4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13335635/persons-with-significant-control",
+    "self": "/company/13335635",
+    "filing_history": "/company/13335635/filing-history",
+    "officers": "/company/13335635/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "3 Arbroath Road",
+    "country": "United Kingdom",
+    "locality": "Luton",
+    "postal_code": "LU3 3LA",
+    "region": "Bedfordshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

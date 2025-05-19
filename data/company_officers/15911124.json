@@ -1,0 +1,36 @@
+{
+  "company_number": "15911124",
+  "company_name": "TECH GENIUSES LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MANZOOR, Malik Adeel",
+      "officer_role": "director",
+      "appointed_on": "2024-08-21",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "Stanton Court Stanton Street",
+        "address_line_2": "Stretford",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M32 0JS",
+        "premises": "Flat 8"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/15911124/appointments/aYxwFQcFYsINu-DVxtLr1xCbD8M",
+        "officer": {
+          "appointments": "/officers/wclTSkOrH4E7ilpR5P_LZK05GQo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

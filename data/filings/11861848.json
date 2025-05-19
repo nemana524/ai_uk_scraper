@@ -1,0 +1,638 @@
+[
+  {
+    "transaction_id": "MzQ1NzIyMzg1OWFkaXF6a2N4",
+    "barcode": "XDXN3X86",
+    "type": "CS01",
+    "date": "2025-03-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-04"
+    },
+    "pages": 5,
+    "action_date": "2025-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzQ1NzIyMzg1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vKAxIr9tx-RmEv6KZ8XPa6F0OaskmHD9jgDiGw_hiEw"
+    }
+  },
+  {
+    "transaction_id": "MzQ0NTkwNDY2NmFkaXF6a2N4",
+    "barcode": "XDH798Y0",
+    "type": "AA",
+    "date": "2024-12-03",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-08-31"
+    },
+    "pages": 4,
+    "action_date": "2024-08-31",
+    "links": {
+      "self": "/company/11861848/filing-history/MzQ0NTkwNDY2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pK7Zijd06sXmyrAs4CS79e4ap6GnMlGL4MvR7IQ0IJE"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzQ3MTE5MmFkaXF6a2N4",
+    "barcode": "XCY5BXLE",
+    "type": "CS01",
+    "date": "2024-03-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-03-04"
+    },
+    "pages": 5,
+    "action_date": "2024-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzQxMzQ3MTE5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5cKyXidSiGNCl7Y2cd42QjVj--WBJNcB0vRRTIUpG7E"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzE3MDIwMGFkaXF6a2N4",
+    "barcode": "XCXXLOM0",
+    "type": "AA",
+    "date": "2024-03-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-08-31"
+    },
+    "pages": 4,
+    "action_date": "2023-08-31",
+    "links": {
+      "self": "/company/11861848/filing-history/MzQxMzE3MDIwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/s1dvAb6ohNY3NhUA_SJ1oL00J-ZhbXsPW0TXnW4wJ-s"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTI5NTg0MGFkaXF6a2N4",
+    "barcode": "XCFUUFII",
+    "type": "AP01",
+    "date": "2023-11-08",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Piyali Sen",
+      "appointment_date": "2023-03-05"
+    },
+    "pages": 2,
+    "action_date": "2023-03-05",
+    "links": {
+      "self": "/company/11861848/filing-history/MzM5OTI5NTg0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2HHrROzY4YXu4WIjUK3xHFqVu3V1hR3JehByOWcSoEk"
+    }
+  },
+  {
+    "transaction_id": "MzM3MTczODMwNGFkaXF6a2N4",
+    "barcode": "XBYTH63E",
+    "type": "CS01",
+    "date": "2023-03-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-03-04"
+    },
+    "pages": 5,
+    "action_date": "2023-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzM3MTczODMwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/982INglJmsLtFsAS6VJMieOyLXAA3lT-cX-Gdez55ZM"
+    }
+  },
+  {
+    "transaction_id": "MzM1OTk2MTE0OWFkaXF6a2N4",
+    "barcode": "XBHQR5WI",
+    "type": "AA",
+    "date": "2022-11-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-08-31"
+    },
+    "pages": 4,
+    "action_date": "2022-08-31",
+    "links": {
+      "self": "/company/11861848/filing-history/MzM1OTk2MTE0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QvkPQ58knBF4gjGypcvFA8E1Mm7XwtF4AMY0prHZqVo"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTkyMTAwN2FkaXF6a2N4",
+    "barcode": "XAZ1UP17",
+    "type": "CS01",
+    "date": "2022-03-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-03-04"
+    },
+    "pages": 5,
+    "action_date": "2022-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzMzMTkyMTAwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7pUbcyW20s9PQwrMZNyWiTe3qKIbDdndUj6tuW1X2b8"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTkxNzY3MGFkaXF6a2N4",
+    "barcode": "XAZ1UBBL",
+    "type": "CH01",
+    "date": "2022-03-04",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2022-03-04",
+      "officer_name": "Mr Indranil Sen"
+    },
+    "pages": 2,
+    "action_date": "2022-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzMzMTkxNzY3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oY5Qiyk9abLlg5CZutnesh0aWkfn6j5hYD18cCHUJfY"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTkxNzU5NGFkaXF6a2N4",
+    "barcode": "XAZ1UB1K",
+    "type": "PSC04",
+    "date": "2022-03-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-03-04",
+      "psc_name": "Mr Indranil Sen"
+    },
+    "pages": 2,
+    "action_date": "2022-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzMzMTkxNzU5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hxuoxvvygIrJfsle37l6QuOo6HXhk2Zp-w7eE0dNLG8"
+    }
+  },
+  {
+    "transaction_id": "MzMyODQ5MTg3N2FkaXF6a2N4",
+    "barcode": "XAWYEBS8",
+    "type": "AA",
+    "date": "2022-02-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-08-31"
+    },
+    "pages": 4,
+    "action_date": "2021-08-31",
+    "links": {
+      "self": "/company/11861848/filing-history/MzMyODQ5MTg3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/W0t-jQVuuCCxwnWVzq3eoX_iLnPIkObxj7_EPUqzIyc"
+    }
+  },
+  {
+    "transaction_id": "MzMxODkzNTExNGFkaXF6a2N4",
+    "barcode": "XAGFF6NV",
+    "type": "CERTNM",
+    "date": "2021-11-02",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2021-11-02"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2021-11-02",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed next generations telco LTD\\certificate issued on 02/11/21"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/11861848/filing-history/MzMxODkzNTExNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qwlU4Nqnvq_LuENyYOXvCDjsv_SCtHXUFdgo5cy4adc"
+    }
+  },
+  {
+    "transaction_id": "MzI5Mzc2MzIyOGFkaXF6a2N4",
+    "barcode": "X9ZVL961",
+    "type": "CS01",
+    "date": "2021-03-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2021-03-04"
+    },
+    "pages": 6,
+    "action_date": "2021-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI5Mzc2MzIyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PcFBFk7-MkkpUhkXUzgf_ubTNcT-6N2G6H8ziOZpDNQ"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTkzMzQ2N2FkaXF6a2N4",
+    "barcode": "X9JVUVIJ",
+    "type": "AA",
+    "date": "2020-12-14",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-08-31"
+    },
+    "pages": 4,
+    "action_date": "2020-08-31",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI4NTkzMzQ2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WYwnkTe5ZHqtWPVdUjwYD_nFX2kNjIr51ztQV0F_lz8"
+    }
+  },
+  {
+    "transaction_id": "MzI3NDg1OTEzNWFkaXF6a2N4",
+    "barcode": "X9AY2PTL",
+    "type": "SH01",
+    "date": "2020-08-07",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2020-08-06",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "202"
+        }
+      ]
+    },
+    "pages": 4,
+    "action_date": "2020-08-06",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI3NDg1OTEzNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xnFXSAHiBvcXdRSsbYY8ure_Ri8DzHTtXWoX6ntqm6Y"
+    }
+  },
+  {
+    "transaction_id": "MzI3NDg1ODkzMmFkaXF6a2N4",
+    "barcode": "X9AY2OYW",
+    "type": "SH01",
+    "date": "2020-08-07",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2020-08-06",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "201"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2020-08-06",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI3NDg1ODkzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KitI114LeUoBxJ5FRYF2sbsyxu1C6Cw_mXlALsYrKK8"
+    }
+  },
+  {
+    "transaction_id": "MzI3NDg1ODYyMWFkaXF6a2N4",
+    "barcode": "X9AY2NUJ",
+    "type": "SH01",
+    "date": "2020-08-07",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2020-08-06",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "153"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2020-08-06",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI3NDg1ODYyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LGa8p7JodSxY5SfEdC0MlnMTuI1dmnMbPfRMN-8Hn38"
+    }
+  },
+  {
+    "transaction_id": "MzI3NDg1ODE2NWFkaXF6a2N4",
+    "barcode": "X9AY2MMX",
+    "type": "SH01",
+    "date": "2020-08-07",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2020-08-06",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "152"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2020-08-06",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI3NDg1ODE2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JyZUQa1nx7P3aQdSKNLQW8-fBVNgmdJZfKpbOS97LkI"
+    }
+  },
+  {
+    "transaction_id": "MzI2MDM4NDM0M2FkaXF6a2N4",
+    "barcode": "X918K7CZ",
+    "type": "CS01",
+    "date": "2020-03-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-03-04"
+    },
+    "pages": 5,
+    "action_date": "2020-03-04",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI2MDM4NDM0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WwHc1P6tGWWGRFjLvw7LctrrsaQdM0vAjgor1Bc_CwU"
+    }
+  },
+  {
+    "transaction_id": "MzI2MDM1OTg0NWFkaXF6a2N4",
+    "barcode": "X918HETU",
+    "type": "PSC01",
+    "date": "2020-03-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Indranil Sen",
+      "notification_date": "2019-07-09"
+    },
+    "pages": 2,
+    "action_date": "2019-07-09",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI2MDM1OTg0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XzeHFPO003k_i54sAkcDJvOrHgYWFOv7IKph819QbEY"
+    }
+  },
+  {
+    "transaction_id": "MzI2MDM1OTY3MWFkaXF6a2N4",
+    "barcode": "X918HECP",
+    "type": "PSC07",
+    "date": "2020-03-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Jamie Dipak Jotangia",
+      "cessation_date": "2020-01-20"
+    },
+    "pages": 1,
+    "action_date": "2020-01-20",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI2MDM1OTY3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FRD4GSZns-DWqYsKoD7cHYtZK1etxxJ5h8EJdUtD6cY"
+    }
+  },
+  {
+    "transaction_id": "MzI2MDM1ODUwOGFkaXF6a2N4",
+    "barcode": "X918H9EI",
+    "type": "AD01",
+    "date": "2020-03-20",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2020-03-20",
+      "old_address": "170 Draycott Avenue Harrow HA3 0BX United Kingdom",
+      "new_address": "1 Park Road Hampton Wick Kingston upon Thames Surrey KT1 4AS"
+    },
+    "pages": 1,
+    "action_date": "2020-03-20",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI2MDM1ODUwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/__uCxidkOz5xaM_KE8bs9AeN6sWsxuQlqN7ZMwOX2qQ"
+    }
+  },
+  {
+    "transaction_id": "MzI2MDM1NzQyNGFkaXF6a2N4",
+    "barcode": "X918H4VL",
+    "type": "TM01",
+    "date": "2020-03-20",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Jamie Dipak Jotangia",
+      "termination_date": "2020-01-20"
+    },
+    "pages": 1,
+    "action_date": "2020-01-20",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI2MDM1NzQyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8kZg-Qf-ZCHGuLAIaPOomtVqZ2S_kaSVS49MtlxcpRI"
+    }
+  },
+  {
+    "transaction_id": "MzI1OTI4NTgwMWFkaXF6a2N4",
+    "barcode": "X90HPU6Y",
+    "type": "AA01",
+    "date": "2020-03-09",
+    "category": "accounts",
+    "description": "change-account-reference-date-company-current-extended",
+    "description_values": {
+      "made_up_date": "2020-03-31",
+      "new_date": "2020-08-31"
+    },
+    "pages": 1,
+    "action_date": "2020-08-31",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1OTI4NTgwMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5G73mFnjem1ZjU4oXKnrjUrsxq2IJm3Dr8C_hWyAgZ4"
+    }
+  },
+  {
+    "transaction_id": "MzI1NzA2NjE5M2FkaXF6a2N4",
+    "barcode": "X8YNHHEB",
+    "type": "TM01",
+    "date": "2020-02-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Dipak Chandrakant Jotangia",
+      "termination_date": "2020-02-07"
+    },
+    "pages": 1,
+    "action_date": "2020-02-07",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1NzA2NjE5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HoZdf8gApDBnS88ICSAY9q-kaXKSXDCNNG1wnpZU5zo"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDUxMjU5MWFkaXF6a2N4",
+    "barcode": "X8WNM38P",
+    "type": "AP01",
+    "date": "2020-01-14",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Indranil Sen",
+      "appointment_date": "2020-01-13"
+    },
+    "pages": 2,
+    "action_date": "2020-01-13",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1NDUxMjU5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/nVXoLLnrPMrRkKh8W0siOOObkEterRIv_mIgcmdtURE"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDE5OTA4MWFkaXF6a2N4",
+    "barcode": "X8WAJ8MG",
+    "type": "AP01",
+    "date": "2020-01-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Dipak Chandrakant Jotangia",
+      "appointment_date": "2020-01-09"
+    },
+    "pages": 2,
+    "action_date": "2020-01-09",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1NDE5OTA4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/K5GLGdOeDmV89_VKocwemYVCOQJCVrmMNPCXr6FY-pQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDE4OTk1NmFkaXF6a2N4",
+    "barcode": "X8WAIF4J",
+    "type": "PSC01",
+    "date": "2020-01-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Jamie Dipak Jotangia",
+      "notification_date": "2020-01-08"
+    },
+    "pages": 2,
+    "action_date": "2020-01-08",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1NDE4OTk1NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dYGYQ6qIR68QO1kNYfsH3dH3OLHdeneEMmjZGDxJZzs"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDE4OTA4OWFkaXF6a2N4",
+    "barcode": "X8WAICEP",
+    "type": "PSC07",
+    "date": "2020-01-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Dipak Chandrakant Jotangia",
+      "cessation_date": "2020-01-08"
+    },
+    "pages": 1,
+    "action_date": "2020-01-08",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1NDE4OTA4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VLMAAiFKwRAgXryM4JGlu0XVxd-FNYjvV9v7wHCtZ1s"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDE4OTAzN2FkaXF6a2N4",
+    "barcode": "X8WAIBVU",
+    "type": "TM01",
+    "date": "2020-01-09",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Dipak Chandrakant Jotangia",
+      "termination_date": "2020-01-08"
+    },
+    "pages": 1,
+    "action_date": "2020-01-08",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1NDE4OTAzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KA136xjP6P86_l0_pLDldxwPODfMp3-cuaotRkmd1K0"
+    }
+  },
+  {
+    "transaction_id": "MzI1NDE4ODg4N2FkaXF6a2N4",
+    "barcode": "X8WAIB9V",
+    "type": "AP01",
+    "date": "2020-01-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Jamie Dipak Jotangia",
+      "appointment_date": "2020-01-08"
+    },
+    "pages": 2,
+    "action_date": "2020-01-08",
+    "links": {
+      "self": "/company/11861848/filing-history/MzI1NDE4ODg4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FsGon9UutOd25ykO-aBGWqlOdMV2-tumhCln0EbCL7I"
+    }
+  },
+  {
+    "transaction_id": "MzIyODUxMjczOGFkaXF6a2N4",
+    "barcode": "X80ITX8R",
+    "type": "NEWINC",
+    "date": "2019-03-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-03-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-03-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-03-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2019-03-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11861848/filing-history/MzIyODUxMjczOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Sy-yCh1okgpQyBHUlNiNKdo2bNsHaUcXPabza3mfmU8"
+    }
+  }
+]

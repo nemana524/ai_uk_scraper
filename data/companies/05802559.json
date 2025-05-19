@@ -1,0 +1,63 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-05-31",
+      "period_end_on": "2020-05-31",
+      "period_start_on": "2019-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2022-06-30",
+      "overdue": true,
+      "period_end_on": "2021-06-30",
+      "period_start_on": "2020-06-01"
+    },
+    "next_due": "2022-06-30",
+    "next_made_up_to": "2021-06-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH ELECTRICAL & MECHANICAL LIMITED",
+  "company_number": "05802559",
+  "company_status": "liquidation",
+  "status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2021-05-02",
+    "next_due": "2022-05-16",
+    "next_made_up_to": "2022-05-02",
+    "overdue": true
+  },
+  "date_of_creation": "2006-05-02",
+  "etag": "0483afb7a59d94e67f9cb347fa0cc6d4a4a19a05",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": true,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-05-02",
+  "links": {
+    "persons_with_significant_control": "/company/05802559/persons-with-significant-control",
+    "self": "/company/05802559",
+    "filing_history": "/company/05802559/filing-history",
+    "insolvency": "/company/05802559/insolvency",
+    "officers": "/company/05802559/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Suite 9 Hadleigh Business Centre 351 London Road",
+    "address_line_2": "Hadleigh",
+    "country": "England",
+    "locality": "Benfleet",
+    "postal_code": "SS7 2BT",
+    "region": "Essex"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "43210"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

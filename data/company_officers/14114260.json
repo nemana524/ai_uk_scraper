@@ -1,0 +1,35 @@
+{
+  "company_number": "14114260",
+  "company_name": "TECH KNACKS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "TELI, Khalid",
+      "officer_role": "director",
+      "appointed_on": "2022-05-18",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Software Developer",
+      "address": {
+        "address_line_1": "Bower Fold",
+        "country": "United Kingdom",
+        "locality": "Blackburn",
+        "postal_code": "BB2 2AS",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1990
+      },
+      "links": {
+        "self": "/company/14114260/appointments/P_n6PBQb1k2DJ-8S0GhbcyGDSLg",
+        "officer": {
+          "appointments": "/officers/Ju4N0hogcVArUKmwUDhee4wokJQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

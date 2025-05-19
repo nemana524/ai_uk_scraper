@@ -1,0 +1,151 @@
+{
+  "company_number": "11861848",
+  "company_name": "TECH FORTY TWO LTD",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "SEN, Indranil",
+      "officer_role": "director",
+      "appointed_on": "2020-01-13",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Park Road",
+        "address_line_2": "Hampton Wick",
+        "country": "United Kingdom",
+        "locality": "Kingston Upon Thames",
+        "postal_code": "KT1 4AS",
+        "premises": "1",
+        "region": "Surrey"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/11861848/appointments/VEx3d7gN3m9OazlcmIt3JTMQh84",
+        "officer": {
+          "appointments": "/officers/Bw45GhcHXd-5XcvE2ywTWYjXHMg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SEN, Piyali",
+      "officer_role": "director",
+      "appointed_on": "2023-03-05",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Park Road",
+        "address_line_2": "Hampton Wick",
+        "country": "United Kingdom",
+        "locality": "Kingston Upon Thames",
+        "postal_code": "KT1 4AS",
+        "premises": "1",
+        "region": "Surrey"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/11861848/appointments/wxEhpgfbVQktDIqDlJ9I6Nm4UjQ",
+        "officer": {
+          "appointments": "/officers/oWaUBVdG4uqIu8IF-ip69EyyPVY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JOTANGIA, Dipak Chandrakant",
+      "officer_role": "director",
+      "appointed_on": "2020-01-09",
+      "resigned_on": "2020-02-07",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Solicitor",
+      "address": {
+        "address_line_1": "Draycott Avenue",
+        "country": "United Kingdom",
+        "locality": "Harrow",
+        "postal_code": "HA3 0BX",
+        "premises": "170"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1965
+      },
+      "links": {
+        "self": "/company/11861848/appointments/_Ozpm3lgxx6jV9o3Lxc9MK7u-SE",
+        "officer": {
+          "appointments": "/officers/_my1Hlw1bTwhQRCzqN9BPWViimI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JOTANGIA, Dipak Chandrakant",
+      "officer_role": "director",
+      "appointed_on": "2019-03-05",
+      "resigned_on": "2020-01-08",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Solicitor",
+      "address": {
+        "address_line_1": "Draycott Avenue",
+        "country": "United Kingdom",
+        "locality": "Harrow",
+        "postal_code": "HA3 0BX",
+        "premises": "170"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1965
+      },
+      "links": {
+        "self": "/company/11861848/appointments/pd0NkRdxRnRBaHeDequmM2PnZZw",
+        "officer": {
+          "appointments": "/officers/sPlnH7awZVYDiY2oamwKtYdVNfc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JOTANGIA, Jamie Dipak",
+      "officer_role": "director",
+      "appointed_on": "2020-01-08",
+      "resigned_on": "2020-01-20",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Salesman",
+      "address": {
+        "address_line_1": "Draycott Avenue",
+        "country": "United Kingdom",
+        "locality": "Harrow",
+        "postal_code": "HA3 0BX",
+        "premises": "170"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/11861848/appointments/Hz8TgYTrk5i8fTkOf4KFHJYFrng",
+        "officer": {
+          "appointments": "/officers/-RFpjcl8yrnyV8iDzcgY7xJSgDw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

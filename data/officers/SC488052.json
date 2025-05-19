@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Centre Park",
+      "country": "England",
+      "locality": "Warrington",
+      "postal_code": "WA1 1RL",
+      "premises": "840 Ibis Court"
+    },
+    "appointed_on": "2014-10-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Scotland",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/SC488052/appointments/TLL1u_eubJzORU_z8LHVXJN5wyw",
+      "officer": {
+        "appointments": "/officers/-YLs5FU3-bRpghLrvu25D8A2kQg/appointments"
+      }
+    },
+    "name": "AHMAD, Muhammad Rifaquat",
+    "nationality": "Pakistani",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "191468960002"
+  }
+]

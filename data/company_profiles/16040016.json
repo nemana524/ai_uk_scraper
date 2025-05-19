@@ -1,0 +1,38 @@
+{
+  "company_number": "16040016",
+  "company_name": "TECH HOST LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-10-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47421"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "90 Wesley Close",
+    "country": "England",
+    "locality": "Harrow",
+    "postal_code": "HA2 0QE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-24",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-10-24"
+    },
+    "next_due": "2026-07-24",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "etag": "afebb1b50e19507c02a797562cde9e64cdef8b67"
+}

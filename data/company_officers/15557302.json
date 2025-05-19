@@ -1,0 +1,35 @@
+{
+  "company_number": "15557302",
+  "company_name": "TECH DUNGEON LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "KUNWAR, Madan",
+      "officer_role": "director",
+      "appointed_on": "2024-03-12",
+      "resigned_on": null,
+      "nationality": "Nepalese",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business Manager",
+      "address": {
+        "address_line_1": "Station Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW4 4PZ",
+        "premises": "2 & 2a-2b"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/15557302/appointments/MQ8-U_Oc9CBOV7lzWBOFZVU1QyY",
+        "officer": {
+          "appointments": "/officers/JfXUG1uUSr2UBH0VpVl8AYMQVLU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "company_number": "SC774420",
+  "company_name": "TECH BOX EDI LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ZAHID, Wahab",
+      "officer_role": "director",
+      "appointed_on": "2023-07-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Scotland",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Sienna Gardens",
+        "country": "Scotland",
+        "locality": "Edinburgh",
+        "postal_code": "EH9 1PF",
+        "premises": "1/10"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/SC774420/appointments/FCRvfj9QfAmBDcGM5OnhIAr7LlQ",
+        "officer": {
+          "appointments": "/officers/iXL_5tV0XBUH60pGEw4AmhgVw_Q/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "company_number": "11624126",
+  "company_name": "TECH ICS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MIAH, Shajjad",
+      "officer_role": "director",
+      "appointed_on": "2018-10-15",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Tech Ics, Unit 11",
+        "address_line_2": "City Business Center, Lower Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "SE16 2XB",
+        "premises": "Unit 11"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/11624126/appointments/ydZHXfZ4ByOQrIIDE1iiK9NbZe8",
+        "officer": {
+          "appointments": "/officers/cL20mSodU3oVm6vMPdeI6roH6sk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

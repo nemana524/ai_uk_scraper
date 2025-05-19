@@ -1,0 +1,46 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH EQUITY FINANCIAL SERVICES LTD",
+  "company_number": "13499909",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-07-07"
+  },
+  "date_of_cessation": "2024-10-15",
+  "date_of_creation": "2021-07-08",
+  "etag": "afbb239df37885527d343f05c8be523eeaa9be99",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13499909/persons-with-significant-control",
+    "self": "/company/13499909",
+    "filing_history": "/company/13499909/filing-history",
+    "officers": "/company/13499909/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "16 Carew Close",
+    "address_line_2": "Chafford Hundred",
+    "country": "England",
+    "locality": "Grays",
+    "postal_code": "RM16 6RZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "64205"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "transaction_id": "MzQ0MjM3MzEwMGFkaXF6a2N4",
+    "barcode": "XDFEDKGP",
+    "type": "PSC04",
+    "date": "2024-11-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-11-06",
+      "psc_name": "Rachel Irene Hulin"
+    },
+    "pages": 2,
+    "action_date": "2024-11-06",
+    "links": {
+      "self": "/company/14960137/filing-history/MzQ0MjM3MzEwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TmWMxywLrJNZW9I7BDEdSRRMzIkDoqn8PDzLDn5QWzA"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjM3MzEwMmFkaXF6a2N4",
+    "barcode": "XDFEDKEP",
+    "type": "PSC04",
+    "date": "2024-11-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-11-06",
+      "psc_name": "Lewis Charles Harwood"
+    },
+    "pages": 2,
+    "action_date": "2024-11-06",
+    "links": {
+      "self": "/company/14960137/filing-history/MzQ0MjM3MzEwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dAn_S4uLXdo9AWOfxZaudfcixLQbqZQCwrYdW3dP7WU"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjM3MzAyMGFkaXF6a2N4",
+    "barcode": "XDFEDK0B",
+    "type": "AD01",
+    "date": "2024-11-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-11-07",
+      "old_address": "The Courtyard 33 Duke Street Trowbridge Wiltshire BA14 8EA United Kingdom",
+      "new_address": "24 Warminster Road Westbury Wiltshire BA13 3PE"
+    },
+    "pages": 1,
+    "action_date": "2024-11-07",
+    "links": {
+      "self": "/company/14960137/filing-history/MzQ0MjM3MzAyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rXKyt8URXtenGZ3JNDXU2ZC4_2rP9GyZZU-hz75Jnj0"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjM3MzAxNWFkaXF6a2N4",
+    "barcode": "XDFEDJYB",
+    "type": "CH01",
+    "date": "2024-11-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-11-06",
+      "officer_name": "Rachel Irene Hulin"
+    },
+    "pages": 2,
+    "action_date": "2024-11-06",
+    "links": {
+      "self": "/company/14960137/filing-history/MzQ0MjM3MzAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FtS2WHLNSR0GbKywMwcoTXBqCupy1Wbsw3wM4sNGe7Q"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjM3MzAxMWFkaXF6a2N4",
+    "barcode": "XDFEDJZV",
+    "type": "CH01",
+    "date": "2024-11-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-11-06",
+      "officer_name": "Lewis Charles Harwood"
+    },
+    "pages": 2,
+    "action_date": "2024-11-06",
+    "links": {
+      "self": "/company/14960137/filing-history/MzQ0MjM3MzAxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c_JfDo70nuPQq7E4325lJxssFCBB-UCu4abtdHJ5I7A"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTA2Mjc5NmFkaXF6a2N4",
+    "barcode": "XDDG2EQZ",
+    "type": "AA",
+    "date": "2024-10-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-06-30"
+    },
+    "pages": 4,
+    "action_date": "2024-06-30",
+    "links": {
+      "self": "/company/14960137/filing-history/MzQzOTA2Mjc5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ck4JUaUzQdvP9nQEpBhWqY4EJ5FvZmQ6IeD9p2a6A2U"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTIxMDMyOWFkaXF6a2N4",
+    "barcode": "XD7J4LU1",
+    "type": "CS01",
+    "date": "2024-07-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-25"
+    },
+    "pages": 3,
+    "action_date": "2024-06-25",
+    "links": {
+      "self": "/company/14960137/filing-history/MzQyOTIxMDMyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yrayi7CqbnpuOgis5qOGQDRzIjyjvqPgxVo5q0z6FiA"
+    }
+  },
+  {
+    "transaction_id": "MzM4NDAwNzE0MmFkaXF6a2N4",
+    "barcode": "XC6AJXHS",
+    "type": "NEWINC",
+    "date": "2023-06-26",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-06-26",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-06-26",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-06-26"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 32,
+    "links": {
+      "self": "/company/14960137/filing-history/MzM4NDAwNzE0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rjz6Kq6fNz4wBqIXjAW2GS6efAu9ZzMFm8GHp6r50lw"
+    }
+  }
+]

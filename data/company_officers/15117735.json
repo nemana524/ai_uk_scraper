@@ -1,0 +1,123 @@
+{
+  "company_number": "15117735",
+  "company_name": "TECH ASSISTANCE LTD",
+  "total_officers": 4,
+  "officers": [
+    {
+      "name": "MOUTASSIM, Samy",
+      "officer_role": "director",
+      "appointed_on": "2023-09-06",
+      "resigned_on": null,
+      "nationality": "Moroccan",
+      "country_of_residence": "Morocco",
+      "occupation": "Co-Founder",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1991
+      },
+      "links": {
+        "self": "/company/15117735/appointments/vgZK8Rr1wG6Ri-JBf20oM2ecxjA",
+        "officer": {
+          "appointments": "/officers/iE2r638HTsMJmy1PE8wv1E9OLrk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SARHANI, Youssef",
+      "officer_role": "director",
+      "appointed_on": "2025-04-01",
+      "resigned_on": null,
+      "nationality": "Moroccan",
+      "country_of_residence": "Morocco",
+      "occupation": "Co-Founder / Ceo",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/15117735/appointments/kmn9udsNkQ1trS9WQiUasT06wQA",
+        "officer": {
+          "appointments": "/officers/jkZO7q318w_F4XqVCn4hqE64wvU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "RF SECRETARIES LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2023-09-20",
+      "resigned_on": "2024-03-01",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15117735/appointments/V-T9elBQI12GHKVf3eM9H0bONfM",
+        "officer": {
+          "appointments": "/officers/3v-dbJHF19N5t5Back0kEQgqdag/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {
+        "identification_type": "uk-limited-company",
+        "registration_number": "12269067"
+      }
+    },
+    {
+      "name": "SARHANI, Youssef",
+      "officer_role": "director",
+      "appointed_on": "2023-09-06",
+      "resigned_on": "2025-02-22",
+      "nationality": "Moroccan",
+      "country_of_residence": "Morocco",
+      "occupation": "Co-Founder",
+      "address": {
+        "address_line_1": "Shelton Street",
+        "address_line_2": "Covent Garden",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "premises": "71-75"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/15117735/appointments/Vrk-eZqmgmA7KTt6V-v_iXyWj_U",
+        "officer": {
+          "appointments": "/officers/By10ieUstsx467bfsDRHQ2WEZYk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

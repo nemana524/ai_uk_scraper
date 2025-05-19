@@ -1,0 +1,310 @@
+[
+  {
+    "transaction_id": "MzQ2NDEyMzY3NGFkaXF6a2N4",
+    "barcode": "XE1CGZUI",
+    "type": "AA",
+    "date": "2025-04-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 2,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQ2NDEyMzY3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1A_Wkxym40jMWCggMUXpXx5njTD4ggggisc8GJKLzio"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDk0MzY2MmFkaXF6a2N4",
+    "barcode": "XDB9AWXK",
+    "type": "CS01",
+    "date": "2024-09-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-09-09"
+    },
+    "pages": 4,
+    "action_date": "2024-09-09",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQzNDk0MzY2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o9RRNJ-v5wlDolsIkKxsW6tIy_mlalX5RJqQcasR_o0"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDY0Nzg4OWFkaXF6a2N4",
+    "barcode": "XDB1CPI2",
+    "type": "AD01",
+    "date": "2024-09-05",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-09-05",
+      "old_address": "6 the Rushes Maidenhead SL6 1UW England",
+      "new_address": "Suite 525, 5 High Street Maidenhead SL6 1JN"
+    },
+    "pages": 1,
+    "action_date": "2024-09-05",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQzNDY0Nzg4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hMOApx5A3a6y_SKs1iiK4tPyFWns4Q0G9ERxi1br7EE"
+    }
+  },
+  {
+    "transaction_id": "MzQyODEwOTc0OGFkaXF6a2N4",
+    "barcode": "XD706Q23",
+    "type": "CS01",
+    "date": "2024-07-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-07-05"
+    },
+    "pages": 3,
+    "action_date": "2024-07-05",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQyODEwOTc0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lC9qzZ-0ztgejoiwtR6ILSr-P88f-efaIwf-H7kFPFo"
+    }
+  },
+  {
+    "transaction_id": "MzQyODEwOTQ1OGFkaXF6a2N4",
+    "barcode": "XD706OZD",
+    "type": "PSC01",
+    "date": "2024-07-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Paul David Tacey-Green",
+      "notification_date": "2024-07-09"
+    },
+    "pages": 2,
+    "action_date": "2024-07-09",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQyODEwOTQ1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9mfsmACXNTJylctD6m-Me-xCY4ozCZA0FRToVtjlIgQ"
+    }
+  },
+  {
+    "transaction_id": "MzQyODEwNzYxMWFkaXF6a2N4",
+    "barcode": "XD706GVD",
+    "type": "AP01",
+    "date": "2024-07-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Paul David Tacey-Green",
+      "appointment_date": "2024-07-09"
+    },
+    "pages": 2,
+    "action_date": "2024-07-09",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQyODEwNzYxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0bWM3F3o6bTMtDl5uMP972ID14LZBaaQnBkz8xw8J_Y"
+    }
+  },
+  {
+    "transaction_id": "MzQxNjYwMzcyNWFkaXF6a2N4",
+    "barcode": "XCZW4RR5",
+    "type": "AA",
+    "date": "2024-03-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 2,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQxNjYwMzcyNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8CJhl2ZgAcnkLM4f7AjnSo0GnDiZMwAvb54889YkwP4"
+    }
+  },
+  {
+    "transaction_id": "MzQwODIyMjI5MGFkaXF6a2N4",
+    "barcode": "XCV2LCWX",
+    "type": "PSC01",
+    "date": "2024-01-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Jenny Tacey-Green",
+      "notification_date": "2024-01-19"
+    },
+    "pages": 2,
+    "action_date": "2024-01-19",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQwODIyMjI5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9hYOPVf8gqCue2vfFQEkEUL2oXGjkS4iZ-VSMmlFz60"
+    }
+  },
+  {
+    "transaction_id": "MzQwODIyMjE4MmFkaXF6a2N4",
+    "barcode": "XCV2LCGB",
+    "type": "AP01",
+    "date": "2024-01-19",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Jenny Tacey-Green",
+      "appointment_date": "2024-01-19"
+    },
+    "pages": 2,
+    "action_date": "2024-01-19",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQwODIyMjE4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KWihFd2hv14FlT_e0xFmMP54OlNjinc3r6QnxByRV34"
+    }
+  },
+  {
+    "transaction_id": "MzQwODIyMjA1MWFkaXF6a2N4",
+    "barcode": "XCV2LC29",
+    "type": "TM01",
+    "date": "2024-01-19",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Darren Symes",
+      "termination_date": "2024-01-19"
+    },
+    "pages": 1,
+    "action_date": "2024-01-19",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQwODIyMjA1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gnD8IDL5eG-6qGeAiMjNrudog_lAbEMRGJ3dneFRs6Q"
+    }
+  },
+  {
+    "transaction_id": "MzQwODIyMTk3OWFkaXF6a2N4",
+    "barcode": "XCV2LC0X",
+    "type": "PSC07",
+    "date": "2024-01-19",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Darren Symes",
+      "cessation_date": "2024-01-19"
+    },
+    "pages": 1,
+    "action_date": "2024-01-19",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQwODIyMTk3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3AZSA3tgSVZUxYqCgQcLISh8kBhVw5-03rdCZV3l6ho"
+    }
+  },
+  {
+    "transaction_id": "MzQwODIyMTg4NGFkaXF6a2N4",
+    "barcode": "XCV2LBM3",
+    "type": "AD01",
+    "date": "2024-01-19",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-01-19",
+      "old_address": "35 Firs Avenue London N11 3NE England",
+      "new_address": "6 the Rushes Maidenhead SL6 1UW"
+    },
+    "pages": 1,
+    "action_date": "2024-01-19",
+    "links": {
+      "self": "/company/13495362/filing-history/MzQwODIyMTg4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4HbgmxDK-gMJFTXSXzeHvQY5aL31UxzJKv1yGoBpEAU"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDgzMDM5MmFkaXF6a2N4",
+    "barcode": "XCAOUXZM",
+    "type": "CS01",
+    "date": "2023-08-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-07-05"
+    },
+    "pages": 3,
+    "action_date": "2023-07-05",
+    "links": {
+      "self": "/company/13495362/filing-history/MzM5MDgzMDM5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zoJccovSweQ3V5X-7i-uIY2z_uJaXguvaNM0Bg8bDQE"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDMwMjk0M2FkaXF6a2N4",
+    "barcode": "XC08WX8Y",
+    "type": "AA",
+    "date": "2023-03-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-07-31"
+    },
+    "pages": 2,
+    "action_date": "2022-07-31",
+    "links": {
+      "self": "/company/13495362/filing-history/MzM3NDMwMjk0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MsKpKxL7dpdSVdWzXmkmczy5SEjEGpDdUNZQAZgfvtc"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDkyNjM3MWFkaXF6a2N4",
+    "barcode": "XBC06U0O",
+    "type": "CS01",
+    "date": "2022-09-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-07-05"
+    },
+    "pages": 3,
+    "action_date": "2022-07-05",
+    "links": {
+      "self": "/company/13495362/filing-history/MzM1MDkyNjM3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Uu8urVUjrsC9yZh5Ubvg0ZQUhtNd5NFbsOMHqCNHTYE"
+    }
+  },
+  {
+    "transaction_id": "MzMwNjc4NTY5MmFkaXF6a2N4",
+    "barcode": "XA86NR4Y",
+    "type": "NEWINC",
+    "date": "2021-07-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-07-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-07-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-07-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2021-07-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13495362/filing-history/MzMwNjc4NTY5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bUduW7SP1VTA1yo7cs9GSvsQ-5FeWsyoUsJO-PsADGw"
+    }
+  }
+]

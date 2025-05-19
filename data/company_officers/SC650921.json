@@ -1,0 +1,34 @@
+{
+  "company_number": "SC650921",
+  "company_name": "TECH & TRAVEL LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "TARIQ, Muhammad",
+      "officer_role": "director",
+      "appointed_on": "2020-01-08",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Scotland",
+      "occupation": "Director",
+      "address": {
+        "country": "Scotland",
+        "locality": "Greenock",
+        "postal_code": "PA15 1UE",
+        "premises": "2a West Blackhaul Street"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/SC650921/appointments/E-KU2ev82mgeZk3rIbA0sjVWwY8",
+        "officer": {
+          "appointments": "/officers/FmzMNxQXrik8YOcglde36MtkWJg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

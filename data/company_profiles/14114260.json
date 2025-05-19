@@ -1,0 +1,35 @@
+{
+  "company_number": "14114260",
+  "company_name": "TECH KNACKS LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2022-05-18",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012",
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "128 City Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-05-31",
+      "period_end_on": "2023-05-31",
+      "type": "dormant"
+    }
+  },
+  "etag": "51a70ea896140c6e17e9193f6a026645f9bd11d8"
+}

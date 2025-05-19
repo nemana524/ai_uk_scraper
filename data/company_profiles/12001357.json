@@ -1,0 +1,45 @@
+{
+  "company_number": "12001357",
+  "company_name": "LINFORD DIGITAL LTD",
+  "company_status": "active",
+  "date_of_creation": "2019-05-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020",
+    "85320"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "22 Watford Road",
+    "country": "England",
+    "locality": "Wembley",
+    "postal_code": "HA0 3EP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-05-31",
+      "period_end_on": "2023-05-31",
+      "period_start_on": "2022-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-02-28",
+      "overdue": true,
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01"
+    },
+    "next_due": "2025-02-28",
+    "next_made_up_to": "2024-05-31",
+    "overdue": true
+  },
+  "etag": "ca5f60d586111614aa16b5a1c2a8df968051f6a9"
+}

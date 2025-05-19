@@ -1,0 +1,33 @@
+{
+  "company_number": "11572898",
+  "company_name": "TECH BUFF LIMITED",
+  "company_status": "dissolved",
+  "date_of_creation": "2018-09-17",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "6 Cardrona Street",
+    "locality": "Manchester",
+    "postal_code": "M18 7TH"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-09-30",
+      "period_end_on": "2020-09-30",
+      "type": "micro-entity"
+    }
+  },
+  "etag": "08c15055683499ff6d6dce1bee053ddcd9a09f22"
+}

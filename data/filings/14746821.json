@@ -1,0 +1,145 @@
+[
+  {
+    "transaction_id": "MzQ2MjEzMTc0N2FkaXF6a2N4",
+    "barcode": "XE05MTND",
+    "type": "AA",
+    "date": "2025-04-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2025-03-31"
+    },
+    "pages": 4,
+    "action_date": "2025-03-31",
+    "links": {
+      "self": "/company/14746821/filing-history/MzQ2MjEzMTc0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xv9wAqPynhzi1EiL8EZiTvd6KuuOBKctuNeUKaxyMO4"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTczNDkyOGFkaXF6a2N4",
+    "barcode": "XDYURH88",
+    "type": "CS01",
+    "date": "2025-03-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-20"
+    },
+    "pages": 3,
+    "action_date": "2025-03-20",
+    "links": {
+      "self": "/company/14746821/filing-history/MzQ1OTczNDkyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EjV7ooLSLknjvqm1YfuTABZnGuT_6pQ15oKf_-mcZ5I"
+    }
+  },
+  {
+    "transaction_id": "MzQxODM3MjgzNmFkaXF6a2N4",
+    "barcode": "XD135TVE",
+    "type": "AA",
+    "date": "2024-04-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 4,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/14746821/filing-history/MzQxODM3MjgzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JoqA9w0jaOuGRMZivMf-AcXjlrJvW_EgHizQ4NB0lGs"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTMxNjY0MGFkaXF6a2N4",
+    "barcode": "XCZ9URAX",
+    "type": "CS01",
+    "date": "2024-03-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-20"
+    },
+    "pages": 3,
+    "action_date": "2024-03-20",
+    "links": {
+      "self": "/company/14746821/filing-history/MzQxNTMxNjY0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9XN_m3n1FHIK8gA7Dc7JTHh56BSVBEQvTD_apeajaAM"
+    }
+  },
+  {
+    "transaction_id": "MzM3NTQ0MDY1M2FkaXF6a2N4",
+    "barcode": "XC0V0OYG",
+    "type": "AD01",
+    "date": "2023-04-06",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-04-06",
+      "old_address": "71 to 75 Shelton Street London WC2H 9JQ England",
+      "new_address": "71-75 Shelton Street London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2023-04-06",
+    "links": {
+      "self": "/company/14746821/filing-history/MzM3NTQ0MDY1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RBSFKXyYFf13RAa63QQBm8nMMFRei8XhpeYlrw3eDpg"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDcxNTc4M2FkaXF6a2N4",
+    "barcode": "XC0EN0UH",
+    "type": "AD01",
+    "date": "2023-03-30",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-03-30",
+      "old_address": "18 Kibblewhite Crescent Twyford Reading RG10 9AX England",
+      "new_address": "71 to 75 Shelton Street London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2023-03-30",
+    "links": {
+      "self": "/company/14746821/filing-history/MzM3NDcxNTc4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OF2wPX15Oxdn105C57tdXqeIBCIbQlxpWZdFp5gLwXs"
+    }
+  },
+  {
+    "transaction_id": "MzM3MzQzMjM4M2FkaXF6a2N4",
+    "barcode": "XBZSLJBC",
+    "type": "NEWINC",
+    "date": "2023-03-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-03-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-03-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-03-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-03-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14746821/filing-history/MzM3MzQzMjM4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UKy2LS4SDleANzqMkaa_WOsY75iQZifwPbRYxGJ2xZI"
+    }
+  }
+]

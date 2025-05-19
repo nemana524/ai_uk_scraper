@@ -1,0 +1,172 @@
+{
+  "company_number": "05625560",
+  "company_name": "TECH ART (UK) LIMITED",
+  "total_officers": 6,
+  "officers": [
+    {
+      "name": "TRIGG, Andrew Robert",
+      "officer_role": "director",
+      "appointed_on": "2005-11-16",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "New Wood Lane",
+        "address_line_2": "Blakedown",
+        "country": "United Kingdom",
+        "locality": "Kidderminster",
+        "postal_code": "DY10 3LD",
+        "premises": "Hunters Lodge",
+        "region": "Worcestershire"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1966
+      },
+      "links": {
+        "self": "/company/05625560/appointments/K1dikJ1piE9P5jrCgIMCdtZEIPk",
+        "officer": {
+          "appointments": "/officers/XeHbkyFwJOx_-d1DqqAa4iEqXSU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "TRIGG, James",
+      "officer_role": "director",
+      "appointed_on": "2019-04-01",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "New Wood Lane",
+        "address_line_2": "Blakedown",
+        "country": "United Kingdom",
+        "locality": "Kidderminster",
+        "postal_code": "DY10 3LD",
+        "premises": "Hunters Lodge",
+        "region": "Worcestershire"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/05625560/appointments/2Fx-ZeGeazo_dk7AVutPxqGtCGs",
+        "officer": {
+          "appointments": "/officers/jSlFtbfD5umNN4J46kQlGbNhv5M/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "TRIGG, Samantha Claire",
+      "officer_role": "secretary",
+      "appointed_on": "2005-11-16",
+      "resigned_on": "2020-12-18",
+      "nationality": "British",
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "New Wood Lane",
+        "address_line_2": "Blakedown",
+        "country": "United Kingdom",
+        "locality": "Kidderminster",
+        "postal_code": "DY10 3LD",
+        "premises": "Hunters Lodge",
+        "region": "Worcestershire"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05625560/appointments/zhf4AC46AuiCa_iUNbLAfm7rMSg",
+        "officer": {
+          "appointments": "/officers/z6ek4dKyfcQy-2yU_z3ytp4EZ6M/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "FORM 10 SECRETARIES FD LTD",
+      "officer_role": "corporate-nominee-secretary",
+      "appointed_on": "2005-11-16",
+      "resigned_on": "2005-11-17",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "39a Leicester Road",
+        "address_line_2": "Salford",
+        "locality": "Manchester",
+        "postal_code": "M7 4AS"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05625560/appointments/xSO9jDehMDsfnVluQL9QTyZCT8U",
+        "officer": {
+          "appointments": "/officers/Yg4rTn5QucYg_hJOxGTnx3B51WY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "TRIGG, Samantha",
+      "officer_role": "director",
+      "appointed_on": "2013-04-06",
+      "resigned_on": "2020-12-18",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "New Wood Lane",
+        "address_line_2": "Blakedown",
+        "country": "United Kingdom",
+        "locality": "Kidderminster",
+        "postal_code": "DY10 3LD",
+        "premises": "Hunters Lodge",
+        "region": "Worcestershire"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1967
+      },
+      "links": {
+        "self": "/company/05625560/appointments/Nr0d2_gR09oTgrEDTahE-MuUnrI",
+        "officer": {
+          "appointments": "/officers/5wVVu29RtnYFzGqbR_AQ_g4ku-A/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "FORM 10 DIRECTORS FD LTD",
+      "officer_role": "corporate-nominee-director",
+      "appointed_on": "2005-11-16",
+      "resigned_on": "2005-11-17",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "39a Leicester Road",
+        "address_line_2": "Salford",
+        "locality": "Manchester",
+        "postal_code": "M7 4AS"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/05625560/appointments/W8MN1d9-u0UshrjiRonJ18BOxXg",
+        "officer": {
+          "appointments": "/officers/aDjhOpnMaB_uAHDxRnMLWpa9C-I/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

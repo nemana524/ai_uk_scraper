@@ -1,0 +1,36 @@
+{
+  "company_number": "NI630140",
+  "company_name": "TECH FACILITIES SERVICES LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "GROGAN, Gary",
+      "officer_role": "director",
+      "appointed_on": "2015-03-20",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Moss Road",
+        "address_line_2": "Gawleys Gate",
+        "country": "Northern Ireland",
+        "locality": "Aghalee",
+        "postal_code": "BT67 0BU",
+        "premises": "5"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/NI630140/appointments/2l1LUgpF_SM3bdIrjU7_SCDChOc",
+        "officer": {
+          "appointments": "/officers/LfA4iQg8cGb-KhSLYVErBuvLtUo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

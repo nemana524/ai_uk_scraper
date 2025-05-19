@@ -1,0 +1,49 @@
+[
+  {
+    "address": {
+      "address_line_1": "Block 26, Block 10",
+      "country": "Egypt",
+      "locality": "Nasr City",
+      "postal_code": "11765",
+      "premises": "Area 9"
+    },
+    "appointed_on": "2024-10-31",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/16053184/appointments/LRBTN0GjSKpJJz1oa5jTwmoTyx0",
+      "officer": {
+        "appointments": "/officers/_oRuPxpgo1dfDqMitaqI221asYU/appointments"
+      }
+    },
+    "name": "ABOELENIEN, Mai Salah Mohamed",
+    "officer_role": "secretary",
+    "person_number": "328842520001"
+  },
+  {
+    "address": {
+      "address_line_1": "Block 26, Block 10",
+      "country": "Egypt",
+      "locality": "Nasr City",
+      "postal_code": "11765",
+      "premises": "Area 9"
+    },
+    "appointed_on": "2024-10-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Egypt",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1984
+    },
+    "links": {
+      "self": "/company/16053184/appointments/lKMSYBbCBD-rRCbFQqgm7I-iJFs",
+      "officer": {
+        "appointments": "/officers/enBVCAM1EF6_0EKSQ8hv7xoE5C4/appointments"
+      }
+    },
+    "name": "ABOELENIEN, Mai Salah Mohamed",
+    "nationality": "Egyptian",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "328842510001"
+  }
+]

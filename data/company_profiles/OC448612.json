@@ -1,0 +1,43 @@
+{
+  "company_number": "OC448612",
+  "company_name": "TECH HARBOUR LLP",
+  "company_status": "active",
+  "date_of_creation": "2023-08-11",
+  "type": "llp",
+  "jurisdiction": "england-wales",
+  "sic_codes": [],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "2 Shackleton Drive",
+    "country": "United Kingdom",
+    "locality": "Daventry",
+    "postal_code": "NN11 0RE",
+    "region": "Northamptonshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-08-11",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "3c3e3c32dfcd2cb7aaa1cdb50b6ea66e233b6ee1"
+}

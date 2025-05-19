@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Exchange Street",
+      "country": "England",
+      "locality": "Doncaster",
+      "postal_code": "DN1 3QW",
+      "premises": "43"
+    },
+    "appointed_on": "2024-01-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1999
+    },
+    "links": {
+      "self": "/company/15379466/appointments/BMn9qcGYb58aX3de0LdruNOxSCU",
+      "officer": {
+        "appointments": "/officers/vWocY5nFNWJbFGSkYv7MGPEUOME/appointments"
+      }
+    },
+    "name": "CLAYTON, Denzel Marcus",
+    "nationality": "British",
+    "occupation": "Labourer",
+    "officer_role": "director",
+    "person_number": "317550530001"
+  }
+]

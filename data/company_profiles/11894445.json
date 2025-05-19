@@ -1,0 +1,44 @@
+{
+  "company_number": "11894445",
+  "company_name": "TECH BOX TRADING LTD",
+  "company_status": "active",
+  "date_of_creation": "2019-03-20",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "47410"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Bridge House, 9-13 Holbrook Lane",
+    "country": "United Kingdom",
+    "locality": "Coventry",
+    "postal_code": "CV6 4AD"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-29",
+      "period_end_on": "2024-02-29",
+      "period_start_on": "2023-03-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-03-01"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "etag": "80772cc5c45fd72e1a58f4e59df63fbe904a88a2"
+}

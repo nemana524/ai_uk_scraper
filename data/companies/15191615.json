@@ -1,0 +1,40 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "type": "null"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH IN DEPTH LTD",
+  "company_number": "15191615",
+  "company_status": "dissolved",
+  "date_of_cessation": "2024-06-11",
+  "date_of_creation": "2023-10-05",
+  "etag": "1e23f9e39eb360f8e07ec5a80182a9b08b6b4bd0",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15191615/persons-with-significant-control",
+    "self": "/company/15191615",
+    "filing_history": "/company/15191615/filing-history",
+    "officers": "/company/15191615/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "3 Sidney Road",
+    "country": "England",
+    "locality": "Staines-Upon-Thames",
+    "postal_code": "TW18 4QJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

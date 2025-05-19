@@ -1,0 +1,36 @@
+{
+  "company_number": "14567309",
+  "company_name": "TECH CHAMPS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ROBINSON, Donna",
+      "officer_role": "director",
+      "appointed_on": "2023-01-03",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Project Manager",
+      "address": {
+        "address_line_1": "Amp House",
+        "address_line_2": "Dingwall Road",
+        "country": "United Kingdom",
+        "locality": "Croydon",
+        "postal_code": "CR0 2LX",
+        "premises": "6th Floor"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/14567309/appointments/OOdWU0xtyEvSTzbBkRUnUxUBTYc",
+        "officer": {
+          "appointments": "/officers/zJaT9PDbRGssYIpVb1U3ntOU_Jc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

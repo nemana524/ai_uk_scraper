@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Canada Square",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "E14 5LB",
+      "premises": "25"
+    },
+    "appointed_on": "2023-04-25",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/14825173/appointments/d4Msm_rLDJyGUtxcgv6Q1OHtcmo",
+      "officer": {
+        "appointments": "/officers/pN-B_epGkFz20Xb5bNI4zBrD5Xg/appointments"
+      }
+    },
+    "name": "LITVINENKO, Alexander",
+    "nationality": "British",
+    "occupation": "Civil Engineer",
+    "officer_role": "director",
+    "person_number": "308289250001"
+  }
+]

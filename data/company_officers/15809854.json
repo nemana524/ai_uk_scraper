@@ -1,0 +1,35 @@
+{
+  "company_number": "15809854",
+  "company_name": "TECH ELYSIS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "JOBES, Steven Jonathon",
+      "officer_role": "director",
+      "appointed_on": "2024-06-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "50 Station Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N22 7DE",
+        "premises": "Greenside House"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/15809854/appointments/rLJFhMY2UjbQwnKFtT21ytHlF2U",
+        "officer": {
+          "appointments": "/officers/enYP65GbmnpZZ25ZyLM3STJubic/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

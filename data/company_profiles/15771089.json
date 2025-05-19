@@ -1,0 +1,39 @@
+{
+  "company_number": "15771089",
+  "company_name": "OFFNDEEP LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-06-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "59200"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Flat 4 Cairn House",
+    "address_line_2": "7 Lodge Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N12 8JG"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-11",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-06-11"
+    },
+    "next_due": "2026-03-11",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "etag": "47b39d303792839d792577ddeb00e3a8a013284c"
+}

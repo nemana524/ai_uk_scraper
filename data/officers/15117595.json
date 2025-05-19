@@ -1,0 +1,49 @@
+[
+  {
+    "address": {
+      "address_line_1": "Egerton Wharf",
+      "country": "England",
+      "locality": "Wirral",
+      "postal_code": "CH41 1LD",
+      "premises": "Twelve Quays House"
+    },
+    "appointed_on": "2023-09-05",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/15117595/appointments/yyJbw2mndPI6TVrcd5aMWMsIGqI",
+      "officer": {
+        "appointments": "/officers/MuRQsbIGeUGD3RcsFhTpe90O3RA/appointments"
+      }
+    },
+    "name": "SEN, Indranil",
+    "officer_role": "secretary",
+    "person_number": "313174140001"
+  },
+  {
+    "address": {
+      "address_line_1": "Egerton Wharf",
+      "country": "England",
+      "locality": "Wirral",
+      "postal_code": "CH41 1LD",
+      "premises": "Twelve Quays House"
+    },
+    "appointed_on": "2023-09-05",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1973
+    },
+    "links": {
+      "self": "/company/15117595/appointments/2hsdiCabn7TDMG51uTBLyOana4o",
+      "officer": {
+        "appointments": "/officers/Bw45GhcHXd-5XcvE2ywTWYjXHMg/appointments"
+      }
+    },
+    "name": "SEN, Indranil",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "266062020001"
+  }
+]

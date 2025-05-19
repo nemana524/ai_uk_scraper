@@ -1,0 +1,62 @@
+{
+  "company_number": "08774623",
+  "company_name": "TECH BITZ LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "HUSSAIN, Tanveer",
+      "officer_role": "director",
+      "appointed_on": "2020-10-27",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "Westgate Mall, Kirkgate Centre",
+        "locality": "Bradford",
+        "postal_code": "BD1 1QR",
+        "premises": "6a"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/08774623/appointments/45K8mU_OV0jDXUWgNBFCapy2tm4",
+        "officer": {
+          "appointments": "/officers/sNguTcFdNJJiIr8OCunddN_4Y10/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BI, Shaida",
+      "officer_role": "director",
+      "appointed_on": "2013-11-14",
+      "resigned_on": "2020-10-27",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "None",
+      "address": {
+        "address_line_1": "Aberdeen Terrace",
+        "country": "England",
+        "locality": "Bradford",
+        "postal_code": "BD7 2EL",
+        "premises": "31"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/08774623/appointments/aFEPbUjNuHqUowkfa9cpYo2mXhA",
+        "officer": {
+          "appointments": "/officers/Ez4rT6O2mCHAPTeCncIEaCEznuc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

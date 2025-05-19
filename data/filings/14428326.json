@@ -1,0 +1,90 @@
+[
+  {
+    "transaction_id": "MzQ0NzExNTU3OGFkaXF6a2N4",
+    "barcode": "XDHT6GTF",
+    "type": "CS01",
+    "date": "2024-12-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-10-18"
+    },
+    "pages": 3,
+    "action_date": "2024-10-18",
+    "links": {
+      "self": "/company/14428326/filing-history/MzQ0NzExNTU3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BViOrl5xkhFICfLTjTlQTTSxWWSoWr1Evq4Onio2xg8"
+    }
+  },
+  {
+    "transaction_id": "MzQyNzY1MzU3M2FkaXF6a2N4",
+    "barcode": "XD6MTF1V",
+    "type": "AA",
+    "date": "2024-07-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-10-31"
+    },
+    "pages": 2,
+    "action_date": "2023-10-31",
+    "links": {
+      "self": "/company/14428326/filing-history/MzQyNzY1MzU3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yfA7t4e8KV_Ewn1e7tftwjmGlKOcK3b8aCEoaNcW6Vc"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjkzNzg1MGFkaXF6a2N4",
+    "barcode": "XCHVMPLL",
+    "type": "CS01",
+    "date": "2023-12-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-10-18"
+    },
+    "pages": 3,
+    "action_date": "2023-10-18",
+    "links": {
+      "self": "/company/14428326/filing-history/MzQwMjkzNzg1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/32iZR9oIqeNx7YcJA-uF630joETt52Rz7eQzqZopr3o"
+    }
+  },
+  {
+    "transaction_id": "MzM1NTc1NzM5OWFkaXF6a2N4",
+    "barcode": "XBEZK0O2",
+    "type": "NEWINC",
+    "date": "2022-10-19",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-10-19",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-10-19",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-10-19",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-10-19"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14428326/filing-history/MzM1NTc1NzM5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/a2vvoUc3ngbJZskybZc31270258BKHN6DCgZP8XDRWU"
+    }
+  }
+]

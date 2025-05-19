@@ -1,0 +1,45 @@
+{
+  "company_number": "12503798",
+  "company_name": "SC PORTFOLIO 3 LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2020-03-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "82990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "2nd Floor, 16-26 Albert Road",
+    "country": "United Kingdom",
+    "locality": "Middlesbrough",
+    "postal_code": "TS1 1QA",
+    "region": "Cleveland"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2022-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "etag": "2b908faccf64e781492452c9552b6f16b2c3feaa"
+}

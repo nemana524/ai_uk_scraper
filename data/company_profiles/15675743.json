@@ -1,0 +1,42 @@
+{
+  "company_number": "15675743",
+  "company_name": "TECH EXPRESS SOLUTIONS LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-04-24",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46520"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "23 Third Avenue",
+    "country": "United Kingdom",
+    "locality": "Bradford",
+    "postal_code": "BD3 7JN",
+    "region": "West Yorkshire"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-24",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-04-24"
+    },
+    "next_due": "2026-01-24",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "6896b4c5df665134487573809e3b947b90c721a9"
+}

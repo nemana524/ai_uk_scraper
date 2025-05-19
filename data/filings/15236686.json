@@ -1,0 +1,211 @@
+[
+  {
+    "transaction_id": "MzQ2MDA2NDQyNmFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-04-01",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15236686/filing-history/MzQ2MDA2NDQyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/afZnTUbz8XFyzQ8XKtp29CKZorLtZ-l1fTYiMAugiTM"
+    }
+  },
+  {
+    "transaction_id": "MzQ0OTgzMjg5MGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-01-14",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15236686/filing-history/MzQ0OTgzMjg5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3WZ6o5cfbe6EOxqPvmaIuubneNe4l4xkcVvatiI9tMc"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjYwMDI2MWFkaXF6a2N4",
+    "barcode": "XDFOSA3D",
+    "type": "TM01",
+    "date": "2024-11-11",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Amran Ali",
+      "termination_date": "2024-11-11"
+    },
+    "pages": 1,
+    "action_date": "2024-11-11",
+    "links": {
+      "self": "/company/15236686/filing-history/MzQ0MjYwMDI2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6Pztxk-cN17hnXokNKAU5rPlM6acn3HQV1_k_T_6ueU"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MjYwMDIzOGFkaXF6a2N4",
+    "barcode": "XDFOSA0A",
+    "type": "PSC07",
+    "date": "2024-11-11",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Amran Ali",
+      "cessation_date": "2024-11-11"
+    },
+    "pages": 1,
+    "action_date": "2024-11-11",
+    "links": {
+      "self": "/company/15236686/filing-history/MzQ0MjYwMDIzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/99dWF1SsnqfIzxdAz5wE7JAkn9r81pH3V20GA3xNndQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjA1OTgzOWFkaXF6a2N4",
+    "barcode": "XCHF70Y9",
+    "type": "PSC07",
+    "date": "2023-11-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Shanza Kanwal",
+      "cessation_date": "2023-11-30"
+    },
+    "pages": 1,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/15236686/filing-history/MzQwMjA1OTgzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GmnQZeryOTWJxBgxHUXXgpEU0tJByOB5cofP7s0S7yg"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjA1OTgwNmFkaXF6a2N4",
+    "barcode": "XCHF70Q8",
+    "type": "PSC01",
+    "date": "2023-11-30",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Amran Ali",
+      "notification_date": "2023-11-30"
+    },
+    "pages": 2,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/15236686/filing-history/MzQwMjA1OTgwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zWQr7falIF0oFUopVsDnWHw1Tozj7rYaRh0tILUxnwc"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjA1OTYwM2FkaXF6a2N4",
+    "barcode": "XCHF70IR",
+    "type": "TM01",
+    "date": "2023-11-30",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Shanza Kanwal",
+      "termination_date": "2023-11-30"
+    },
+    "pages": 1,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/15236686/filing-history/MzQwMjA1OTYwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/j3uUhfxXOQsarG6tC0_2V4VLRSGzvcKYJMtjWT31LWk"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTkxOTI4M2FkaXF6a2N4",
+    "barcode": "XCHCEAAH",
+    "type": "TM02",
+    "date": "2023-11-29",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-secretary-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Amran Ali",
+      "termination_date": "2023-11-29"
+    },
+    "pages": 1,
+    "action_date": "2023-11-29",
+    "links": {
+      "self": "/company/15236686/filing-history/MzQwMTkxOTI4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iGh_EttHOu3OHGmoVgkuPLqkFCvsSrZbGqFpR7wwApE"
+    }
+  },
+  {
+    "transaction_id": "MzQwMTU1MTI2M2FkaXF6a2N4",
+    "barcode": "XCH6UNO8",
+    "type": "AP01",
+    "date": "2023-11-27",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Amran Ali",
+      "appointment_date": "2023-11-27"
+    },
+    "pages": 2,
+    "action_date": "2023-11-27",
+    "links": {
+      "self": "/company/15236686/filing-history/MzQwMTU1MTI2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EOqDUE-sVkPnlyGwi95PIQS0O9wgmtKgD57WDOhNMMI"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTYzMTUxNWFkaXF6a2N4",
+    "barcode": "XCG0CWER",
+    "type": "AP03",
+    "date": "2023-11-10",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-secretary-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Amran Ali",
+      "appointment_date": "2023-11-10"
+    },
+    "pages": 2,
+    "action_date": "2023-11-10",
+    "links": {
+      "self": "/company/15236686/filing-history/MzM5OTYzMTUxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uQi28hHubVxcTSMkxqXvO6lsEhVNYJIjzShPyR1Ix2M"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzY2MzE5NmFkaXF6a2N4",
+    "barcode": "XCET06TE",
+    "type": "NEWINC",
+    "date": "2023-10-25",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-10-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-10-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1,000"
+            }
+          ]
+        },
+        "action_date": "2023-10-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 28,
+    "links": {
+      "self": "/company/15236686/filing-history/MzM5NzY2MzE5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7-yeesHFTN4xbY9o3gclPtZ6N9GdnKd32AC4uW6EuU4"
+    }
+  }
+]

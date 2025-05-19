@@ -1,0 +1,276 @@
+[
+  {
+    "transaction_id": "MzMwNTcwNTQ0OGFkaXF6a2N4",
+    "type": "SOAS(A)",
+    "date": "2021-06-26",
+    "category": "dissolution",
+    "description": "dissolution-voluntary-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11125769/filing-history/MzMwNTcwNTQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kYhVDKLu8NveYAszjaIgNmsKpQnxBduM0xOPphe9p5w"
+    }
+  },
+  {
+    "transaction_id": "MzMwMzMwNjk0MGFkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2021-06-15",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11125769/filing-history/MzMwMzMwNjk0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Sch8iq7FMpeVnMMMkamnob8jM5EYAbnlP-yPGWGcH4g"
+    }
+  },
+  {
+    "transaction_id": "MzMwMzMwNjUyMGFkaXF6a2N4",
+    "barcode": "XA5VJJTL",
+    "type": "DS01",
+    "date": "2021-06-03",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/11125769/filing-history/MzMwMzMwNjUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WLxFFRYt86AxlX2VfxshpPfzGoAuyMnfWv1yQIWWdy0"
+    }
+  },
+  {
+    "transaction_id": "MzI5OTA4ODgxMGFkaXF6a2N4",
+    "barcode": "XA3BGYGH",
+    "type": "AD01",
+    "date": "2021-04-27",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-04-27",
+      "old_address": "138 Uxbridge Road London W12 8AA England",
+      "new_address": "4 Mascotts Close London NW2 6NS"
+    },
+    "pages": 1,
+    "action_date": "2021-04-27",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI5OTA4ODgxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pQ1qwIwApGeosFl2vrvnlgFId26oz3VTVuUKSFcVMIw"
+    }
+  },
+  {
+    "transaction_id": "MzI5NTU2MTM2MGFkaXF6a2N4",
+    "barcode": "XA0ZYMI1",
+    "type": "AA",
+    "date": "2021-03-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-12-31"
+    },
+    "pages": 2,
+    "action_date": "2019-12-31",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI5NTU2MTM2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Yn8BYHneiRfn4BpsRkQAsxquU9HAiaUUvdBk3Hye76E"
+    }
+  },
+  {
+    "transaction_id": "MzI4Njc5MzM3NWFkaXF6a2N4",
+    "barcode": "X9KHNKOO",
+    "type": "CS01",
+    "date": "2020-12-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2020-12-17"
+    },
+    "pages": 4,
+    "action_date": "2020-12-17",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI4Njc5MzM3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GEjrg9xvHdYA9BV32xUHM-lko0h1LFZ0GQAr6JuTcnM"
+    }
+  },
+  {
+    "transaction_id": "MzI4Njc4NjEyOWFkaXF6a2N4",
+    "barcode": "X9KHMOF7",
+    "type": "TM01",
+    "date": "2020-12-23",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ghafoor Gul",
+      "termination_date": "2020-12-01"
+    },
+    "pages": 1,
+    "action_date": "2020-12-01",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI4Njc4NjEyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BsupssTNUP6Rvq-FS-o9kNZnbj_ddKTDYzl6o_eNNKg"
+    }
+  },
+  {
+    "transaction_id": "MzI4Njc4NjExNWFkaXF6a2N4",
+    "barcode": "X9KHMO8W",
+    "type": "PSC07",
+    "date": "2020-12-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ghafoor Gul",
+      "cessation_date": "2020-12-01"
+    },
+    "pages": 1,
+    "action_date": "2020-12-01",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI4Njc4NjExNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/42xhSA79WHZo99z_vgB8Nfa3_rMeyOr8xLf_j_iYWd0"
+    }
+  },
+  {
+    "transaction_id": "MzI4Njc4MzA5MmFkaXF6a2N4",
+    "barcode": "X9KHMBJE",
+    "type": "PSC01",
+    "date": "2020-12-23",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Manjit Singh",
+      "notification_date": "2020-12-01"
+    },
+    "pages": 2,
+    "action_date": "2020-12-01",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI4Njc4MzA5MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8QCf7q5_GTxt5w8x2eA5ownox6BtdZnvWHjm37yjC8o"
+    }
+  },
+  {
+    "transaction_id": "MzI4Njc4Mjk1M2FkaXF6a2N4",
+    "barcode": "X9KHMAX3",
+    "type": "AP01",
+    "date": "2020-12-23",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Manjit Singh",
+      "appointment_date": "2020-12-01"
+    },
+    "pages": 2,
+    "action_date": "2020-12-01",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI4Njc4Mjk1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/w66f7BJCMxFcCN12bovONMFeQ-FRaV3ADOx7hxzg_1s"
+    }
+  },
+  {
+    "transaction_id": "MzI1Nzg3MDc3MGFkaXF6a2N4",
+    "barcode": "A8Z76K09",
+    "type": "AAMD",
+    "date": "2020-02-24",
+    "category": "accounts",
+    "description": "accounts-amended-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-12-31"
+    },
+    "pages": 2,
+    "action_date": "2018-12-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11125769/filing-history/MzI1Nzg3MDc3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wGDHn9kORjLfcKSdDXH1v3qrquezEflafU0ixxWiCBQ"
+    }
+  },
+  {
+    "transaction_id": "MzI1Mjg5ODU3N2FkaXF6a2N4",
+    "barcode": "X8KXC0PT",
+    "type": "CS01",
+    "date": "2019-12-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-12-17"
+    },
+    "pages": 3,
+    "action_date": "2019-12-17",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI1Mjg5ODU3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/eWvXHBzLpXtXZLdNDYPlTubSz5v0fpogQGzkqLeMjxA"
+    }
+  },
+  {
+    "transaction_id": "MzI0MjY0MzM4NWFkaXF6a2N4",
+    "barcode": "X8CQ5Y7F",
+    "type": "AA",
+    "date": "2019-08-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-12-31"
+    },
+    "pages": 2,
+    "action_date": "2018-12-31",
+    "links": {
+      "self": "/company/11125769/filing-history/MzI0MjY0MzM4NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Kpz_5NQIo2CoubnqmmDx7zC90GeOB3flzbBVZZ_F_RQ"
+    }
+  },
+  {
+    "transaction_id": "MzIyMjI4NjEyOWFkaXF6a2N4",
+    "barcode": "X7L0WFVN",
+    "type": "CS01",
+    "date": "2018-12-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-12-17"
+    },
+    "pages": 3,
+    "action_date": "2018-12-17",
+    "links": {
+      "self": "/company/11125769/filing-history/MzIyMjI4NjEyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3A5ZAWXVkR583z1hGXMnfa_KLwPNC5ElHfhapoBI0eA"
+    }
+  },
+  {
+    "transaction_id": "MzE5MzgxNjcwNmFkaXF6a2N4",
+    "barcode": "X6M70YJC",
+    "type": "NEWINC",
+    "date": "2017-12-27",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2017-12-27",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2017-12-27",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-12-27",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "300"
+            }
+          ]
+        },
+        "action_date": "2017-12-27"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11125769/filing-history/MzE5MzgxNjcwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D0Pd4y1wB94qZSKvnw9kWS-t5gQqHNQUi34eoPwboiA"
+    }
+  }
+]

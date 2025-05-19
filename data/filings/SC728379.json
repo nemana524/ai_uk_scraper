@@ -1,0 +1,167 @@
+[
+  {
+    "transaction_id": "MzQ2MjExMDk3NWFkaXF6a2N4",
+    "barcode": "XE05HPEJ",
+    "type": "CERTNM",
+    "date": "2025-04-10",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2025-04-09"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2025-04-10",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed tech corporartion LIMITED\\certificate issued on 10/04/25"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/SC728379/filing-history/MzQ2MjExMDk3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/07h1qJgfxFJgc-lwtWZ2sPWvIL4Q0yH4UAo-YUMekAI"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MzM1Nzg5M2FkaXF6a2N4",
+    "barcode": "XDVE5N1L",
+    "type": "AA",
+    "date": "2025-01-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2024-04-30"
+    },
+    "pages": 2,
+    "action_date": "2024-04-30",
+    "links": {
+      "self": "/company/SC728379/filing-history/MzQ1MzM1Nzg5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rY8lu-4vykuqZaS0PiOkCMp6afvP3d0lrCjJeLXVQcE"
+    }
+  },
+  {
+    "transaction_id": "MzQxOTQxODMxM2FkaXF6a2N4",
+    "barcode": "XD1M8JJS",
+    "type": "CS01",
+    "date": "2024-04-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-04-02"
+    },
+    "pages": 3,
+    "action_date": "2024-04-02",
+    "links": {
+      "self": "/company/SC728379/filing-history/MzQxOTQxODMxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_9J0wPK4vASdsW_43crbbEqfK_xeMnO0qmpN08NchM0"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzc3NTkwOGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-03-13",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SC728379/filing-history/MzQxMzc3NTkwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3uF2DRrDInq8zLLP7ec0VWzE65LIF5l8IPNKllvpDFY"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzI1NTc5MmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-03-12",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SC728379/filing-history/MzQxMzI1NTc5MmFkaXF6a2N4"
+    }
+  },
+  {
+    "transaction_id": "MzQxMzc3NTg1OWFkaXF6a2N4",
+    "barcode": "XCYDOUMP",
+    "type": "AA",
+    "date": "2024-03-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2023-04-30"
+    },
+    "pages": 2,
+    "action_date": "2023-04-30",
+    "links": {
+      "self": "/company/SC728379/filing-history/MzQxMzc3NTg1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/28Q8lwX1q60rNhlXw85ZsW0OqPShLf0XPAR4dOcDeOI"
+    }
+  },
+  {
+    "transaction_id": "MzM3NzcxOTI2N2FkaXF6a2N4",
+    "barcode": "XC2C97CY",
+    "type": "CS01",
+    "date": "2023-04-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-04-02"
+    },
+    "pages": 3,
+    "action_date": "2023-04-02",
+    "links": {
+      "self": "/company/SC728379/filing-history/MzM3NzcxOTI2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fVGfkvC7344gYvqtiBQ_WQtkDKg0-8_BUnF8iTDpg0s"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTA4ODYzN2FkaXF6a2N4",
+    "barcode": "XB1589HN",
+    "type": "NEWINC",
+    "date": "2022-04-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-04-03",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-04-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-04-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-04-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/SC728379/filing-history/MzMzNTA4ODYzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/idXVUrcytrwy7T0B4RPIpHc1Jkh70lQgOrt0i7r-KZw"
+    }
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "company_number": "15813867",
+  "company_name": "TECH EQUITY PROPERTY LTD",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "NAVTI, Aurora",
+      "officer_role": "secretary",
+      "appointed_on": "2024-07-02",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Carew Close",
+        "address_line_2": "Chafford Hundred",
+        "country": "United Kingdom",
+        "locality": "Grays",
+        "postal_code": "RM16 6RZ",
+        "premises": "16",
+        "region": "Essex"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15813867/appointments/RuTUrALaKJkQiSVl32S6iVy6WCY",
+        "officer": {
+          "appointments": "/officers/hO7MVfKkibqnJZKX-GwKXnMBBLo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "NAVTI, Litika",
+      "officer_role": "secretary",
+      "appointed_on": "2024-07-02",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Carew Close",
+        "address_line_2": "Chafford Hundred",
+        "country": "United Kingdom",
+        "locality": "Grays",
+        "postal_code": "RM16 6RZ",
+        "premises": "16",
+        "region": "Essex"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15813867/appointments/fp8pe_1SLPQQ7YxaoCrjxm9rySw",
+        "officer": {
+          "appointments": "/officers/PL2rhHzreUl2XHoBZFRFBAh7KQI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "NAVTI, Yurila, Dr",
+      "officer_role": "secretary",
+      "appointed_on": "2024-07-02",
+      "resigned_on": null,
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Carew Close",
+        "address_line_2": "Chafford Hundred",
+        "country": "United Kingdom",
+        "locality": "Grays",
+        "postal_code": "RM16 6RZ",
+        "premises": "16",
+        "region": "Essex"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/15813867/appointments/cx3mQ5_Y_OVL8WyuVzGSQW5d4CM",
+        "officer": {
+          "appointments": "/officers/6wComW1diQk2QxL6QUIAd3CW1pA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "NAVTI, Beryl Bongkwati, Dr",
+      "officer_role": "director",
+      "appointed_on": "2024-07-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Carew Close",
+        "address_line_2": "Chafford Hundred",
+        "country": "United Kingdom",
+        "locality": "Grays",
+        "postal_code": "RM16 6RZ",
+        "premises": "16",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/15813867/appointments/mbwzlEzquGbHeKyJ3Gd0n1Sh0XM",
+        "officer": {
+          "appointments": "/officers/oBJmMtmyA4cfGEYCEeazNo_dtPA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "NAVTI, Shiyghan Emmanuel, Dr",
+      "officer_role": "director",
+      "appointed_on": "2024-07-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Engineer",
+      "address": {
+        "address_line_1": "Carew Close",
+        "address_line_2": "Chafford Hundred",
+        "country": "United Kingdom",
+        "locality": "Grays",
+        "postal_code": "RM16 6RZ",
+        "premises": "16",
+        "region": "Essex"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/15813867/appointments/Yd05oH9iR5Gkh-u4ltt2QenVBl4",
+        "officer": {
+          "appointments": "/officers/jup_nTU9pi7BhFTXgn411AfBqOI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

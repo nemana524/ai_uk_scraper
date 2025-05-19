@@ -1,0 +1,35 @@
+{
+  "company_number": "15671493",
+  "company_name": "TECH BREEZE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "GRECH, Alex",
+      "officer_role": "director",
+      "appointed_on": "2024-04-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Hoveton Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SE28 8LW",
+        "premises": "23"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1997
+      },
+      "links": {
+        "self": "/company/15671493/appointments/LeYJnrlxahjykuS_DhkRFz-nS2M",
+        "officer": {
+          "appointments": "/officers/1G2u0Lbxm6E-8wdc4Rhi8cMR8CA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

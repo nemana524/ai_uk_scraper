@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-01-31",
+      "period_end_on": "2024-01-31",
+      "period_start_on": "2023-02-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-31",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-02-01"
+    },
+    "next_due": "2025-10-31",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ELECTRONS LIMITED",
+  "company_number": "10547822",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-01",
+    "next_due": "2026-01-15",
+    "next_made_up_to": "2026-01-01",
+    "overdue": false
+  },
+  "date_of_creation": "2017-01-05",
+  "etag": "7b8b88fe8e976ff62f68d68c447b9593da0ab971",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10547822/persons-with-significant-control",
+    "self": "/company/10547822",
+    "filing_history": "/company/10547822/filing-history",
+    "officers": "/company/10547822/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Osprey House Unit 5 Osprey House Unit 5",
+    "address_line_2": "Trinity Park, Trinity Way",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E4 8TD",
+    "region": "Chingford"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47410",
+    "47650"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

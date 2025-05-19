@@ -1,0 +1,44 @@
+{
+  "company_number": "11987097",
+  "company_name": "TECH CLOUD LTD",
+  "company_status": "active",
+  "date_of_creation": "2019-05-09",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46520"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "96 Heaton Road",
+    "country": "England",
+    "locality": "Bradford",
+    "postal_code": "BD9 4RJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-05-31",
+      "period_end_on": "2022-05-31",
+      "period_start_on": "2021-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-02-29",
+      "overdue": true,
+      "period_end_on": "2023-05-31",
+      "period_start_on": "2022-06-01"
+    },
+    "next_due": "2024-02-29",
+    "next_made_up_to": "2023-05-31",
+    "overdue": true
+  },
+  "etag": "aa14fc362e0e1eeb0bb0c598551c589afbfba7ee"
+}

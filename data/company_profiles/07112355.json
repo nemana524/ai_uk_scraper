@@ -1,0 +1,45 @@
+{
+  "company_number": "07112355",
+  "company_name": "TECH 4 OFFICE EQUIPMENT LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2009-12-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "77330"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Skiddaw Building",
+    "address_line_2": "Carlisle Airport Business Park",
+    "country": "United Kingdom",
+    "locality": "Carlisle",
+    "postal_code": "CA6 4NW"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "51f996f3a98c92b624223088cf1ce40db3a991ef"
+}

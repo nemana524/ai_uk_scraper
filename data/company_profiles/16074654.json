@@ -1,0 +1,38 @@
+{
+  "company_number": "16074654",
+  "company_name": "TECH EMPS LTD",
+  "company_status": "active",
+  "date_of_creation": "2024-11-12",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "124-128 City Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-12",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-11-12"
+    },
+    "next_due": "2026-08-12",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "etag": "62680238732a533b0ee71d84f85368d729522621"
+}

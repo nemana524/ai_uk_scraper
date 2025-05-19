@@ -1,0 +1,64 @@
+{
+  "company_number": "15857708",
+  "company_name": "TECH FIX SC LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "FAISAL, Faiza",
+      "officer_role": "director",
+      "appointed_on": "2024-07-24",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Prestage Street",
+        "address_line_2": "Old Trafford",
+        "country": "England",
+        "locality": "Manchester",
+        "postal_code": "M16 9LH",
+        "premises": "12"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/15857708/appointments/I5ORQqF0hGOnDuZaNiKd4w7LYCM",
+        "officer": {
+          "appointments": "/officers/7IvlGedQTInTGIkz7tjHIqI-mlQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "RASHEED, Faisal",
+      "officer_role": "director",
+      "appointed_on": "2024-07-24",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Edward Street",
+        "country": "United Kingdom",
+        "locality": "Salford",
+        "postal_code": "M7 1SN",
+        "premises": "9"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/15857708/appointments/z32qrvPVu5DDz6LAM5cE8gEleu0",
+        "officer": {
+          "appointments": "/officers/bqzOt7ZOGWx8yHRs6dNrvoZ0ro0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

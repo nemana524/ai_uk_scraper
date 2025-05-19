@@ -1,0 +1,36 @@
+{
+  "company_number": "10414860",
+  "company_name": "TECH & MEDIA GROUP LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "TZEZAIRLIDIS, Anastasios",
+      "officer_role": "director",
+      "appointed_on": "2016-10-06",
+      "resigned_on": null,
+      "nationality": "Greek",
+      "country_of_residence": "United Kingdom",
+      "occupation": "It And Media Support",
+      "address": {
+        "address_line_1": "Plot 4300 Solent Business Park",
+        "address_line_2": "Whiteley",
+        "locality": "Fareham",
+        "postal_code": "PO15 7FP",
+        "premises": "Bizspace Steel House",
+        "region": "Hampshire"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1988
+      },
+      "links": {
+        "self": "/company/10414860/appointments/LT8ilNJT72g-zipuDEwL6fBl7ko",
+        "officer": {
+          "appointments": "/officers/07jAvKd93A9W4IJ7DXNHZAjKSxc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

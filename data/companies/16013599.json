@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2026-07-11",
+      "overdue": false,
+      "period_end_on": "2025-10-31",
+      "period_start_on": "2024-10-11"
+    },
+    "next_due": "2026-07-11",
+    "next_made_up_to": "2025-10-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "BRICK BY BRICK DESIGN'S LTD",
+  "company_number": "16013599",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-29",
+    "next_due": "2025-11-12",
+    "next_made_up_to": "2025-10-29",
+    "overdue": false
+  },
+  "date_of_creation": "2024-10-11",
+  "etag": "a9cd35c5f4b98a3d1b7c49b45372721e2d8a189c",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16013599/persons-with-significant-control",
+    "self": "/company/16013599",
+    "filing_history": "/company/16013599/filing-history",
+    "officers": "/company/16013599/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2024-10-29",
+      "effective_from": "2024-10-11",
+      "name": "TECH SLOUTION LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "21 Southdown Road",
+    "country": "England",
+    "locality": "Hornchurch",
+    "postal_code": "RM11 1LY"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "71111",
+    "74100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

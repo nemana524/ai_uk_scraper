@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH & TELEPHONY LIMITED",
+  "company_number": "SC640375",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-12-17",
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-12-17",
+    "overdue": false
+  },
+  "date_of_creation": "2019-09-02",
+  "etag": "cc0061e27a01222c91203fed7940b8390e38de58",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC640375/persons-with-significant-control",
+    "self": "/company/SC640375",
+    "filing_history": "/company/SC640375/filing-history",
+    "officers": "/company/SC640375/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "4 Langside Drive",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G43 2EE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

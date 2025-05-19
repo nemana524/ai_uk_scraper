@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CONTRACTS UK LTD",
+  "company_number": "12194510",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-09-05",
+    "next_due": "2025-09-19",
+    "next_made_up_to": "2025-09-05",
+    "overdue": false
+  },
+  "date_of_creation": "2019-09-06",
+  "etag": "34c01b4a00036066a393cbca65b711fea1da941f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12194510/persons-with-significant-control",
+    "self": "/company/12194510",
+    "filing_history": "/company/12194510/filing-history",
+    "officers": "/company/12194510/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20-22 Wenlock Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N1 7GU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "41202"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

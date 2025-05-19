@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "182-184 High Street North",
+      "country": "United Kingdom",
+      "locality": "East Ham",
+      "postal_code": "E6 2JA",
+      "premises": "Office 2538"
+    },
+    "appointed_on": "2024-04-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1983
+    },
+    "links": {
+      "self": "/company/15630719/appointments/7nGTq1RAxxWYoHrI9wdR67i39cE",
+      "officer": {
+        "appointments": "/officers/0IbqKECHLYpXYF3YVMle9mjGD4U/appointments"
+      }
+    },
+    "name": "GILL, Noman Noor",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "321606780001"
+  }
+]

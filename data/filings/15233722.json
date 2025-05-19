@@ -1,0 +1,109 @@
+[
+  {
+    "transaction_id": "MzQzOTE1NzUyM2FkaXF6a2N4",
+    "barcode": "IDDHAX6Z",
+    "type": "RP05",
+    "date": "2024-10-11",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2024-10-11",
+      "default_address": "PO Box 4385, 15233722 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2024-10-11",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15233722/filing-history/MzQzOTE1NzUyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4GqRyqzpD3BiWSagq5f2NKN0Cei0wVysF_yH0rUsv-0"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTE1NzQzOWFkaXF6a2N4",
+    "barcode": "XDDIPDPN",
+    "type": "RP10",
+    "date": "2024-10-11",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-psc",
+    "description_values": {
+      "change_date": "2024-10-11",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "15233722",
+      "psc_name": "Luka Kresic"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/15233722/filing-history/MzQzOTE1NzQzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JS65RqXZJcQo6tES9R_hRaXZrMc2Hv8hSwx__PhGq6U"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTE1NzQxN2FkaXF6a2N4",
+    "barcode": "XDDIPDJU",
+    "type": "RP09",
+    "date": "2024-10-11",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-officer",
+    "description_values": {
+      "change_date": "2024-10-11",
+      "officer_name": "Luka Kresic",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "15233722"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/15233722/filing-history/MzQzOTE1NzQxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xHYO_ms0De7Fzja3jYcHl2d2P2YQLsjH6NWn35BTAFI"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzQxNDQ2MmFkaXF6a2N4",
+    "barcode": "XCEL02EX",
+    "type": "NEWINC",
+    "date": "2023-10-25",
+    "category": "incorporation",
+    "annotations": [
+      {
+        "annotation": "Part Admin Removed The registered office address and the service address of the director, person with significant control and shareholder on the IN01 were administratively removed from the public register on 11/10/2024 as the material was not properly delivered.",
+        "date": "2024-10-11",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Admin Removed The registered office address and the service address of the director, person with significant control and shareholder on the IN01 were administratively removed from the public register on 11/10/2024 as the material was not properly delivered."
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-10-25",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-10-25",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-10-25",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-10-25"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15233722/filing-history/MzM5NzQxNDQ2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2bJwQPyMMDimVboSI-JjPFo14XHLRKxrz5dSeFzc3W4"
+    }
+  }
+]

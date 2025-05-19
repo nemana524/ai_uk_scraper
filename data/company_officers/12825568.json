@@ -1,0 +1,93 @@
+{
+  "company_number": "12825568",
+  "company_name": "TECH GLOVES COMMS LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "RUBIN, Michael Alexander",
+      "officer_role": "director",
+      "appointed_on": "2021-08-20",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Fourthfloor Unit 5b",
+        "locality": "The Parklands",
+        "postal_code": "BL64SD",
+        "premises": "Cowgill Holoway Business Recovery Llp",
+        "region": "Bolton"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/12825568/appointments/x34Jr8cGOzn79X_6o2KxY7HERvI",
+        "officer": {
+          "appointments": "/officers/n6SVCv1zMDT0EP28sRVV7Ba7LgI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ABBASS, Derek James",
+      "officer_role": "director",
+      "appointed_on": "2020-08-21",
+      "resigned_on": "2021-08-20",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Rossall Road",
+        "country": "United Kingdom",
+        "locality": "Thornton-Cleveleys",
+        "postal_code": "FY5 1AP",
+        "premises": "13",
+        "region": "Lancashire"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1966
+      },
+      "links": {
+        "self": "/company/12825568/appointments/VdAUrlmNMmdLS0e1umYNl-BXJLQ",
+        "officer": {
+          "appointments": "/officers/gFnY4-FFyAtfLMRIR59hTGWdN58/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "DUKE, Michael",
+      "officer_role": "director",
+      "appointed_on": "2020-08-19",
+      "resigned_on": "2020-08-19",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Administrator",
+      "address": {
+        "address_line_1": "2 Woodberry Grove",
+        "country": "United Kingdom",
+        "locality": "Finchley",
+        "postal_code": "N12 0DR",
+        "premises": "Winnington House",
+        "region": "London"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1959
+      },
+      "links": {
+        "self": "/company/12825568/appointments/YwWFUeGI3_njrF0D5rQ87U44us4",
+        "officer": {
+          "appointments": "/officers/Q95tb8WpmOfsw_-cxyk2AqVgdHY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

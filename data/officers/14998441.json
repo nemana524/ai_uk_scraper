@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "124"
+    },
+    "appointed_on": "2023-07-12",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 4,
+      "year": 1977
+    },
+    "links": {
+      "self": "/company/14998441/appointments/5_rAGivcQfSiTSkRhZoLpBdHoB0",
+      "officer": {
+        "appointments": "/officers/mHieR1kj9MmBffZdlyoFr9pCjGg/appointments"
+      }
+    },
+    "name": "CALLEGARI, Marco",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "311208190001"
+  },
+  {
+    "address": {
+      "address_line_1": "City Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "EC1V 2NX",
+      "premises": "124"
+    },
+    "appointed_on": "2023-07-12",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1957
+    },
+    "links": {
+      "self": "/company/14998441/appointments/AFlLOhdY0YpLuLK_EO87r7EqpnY",
+      "officer": {
+        "appointments": "/officers/6zPWnLTfRm6t0T9BwwMjh83xct8/appointments"
+      }
+    },
+    "name": "SHARMA, Ramesh Kumar",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "311208200001"
+  }
+]

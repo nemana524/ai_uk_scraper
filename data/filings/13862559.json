@@ -1,0 +1,198 @@
+[
+  {
+    "transaction_id": "MzQ1OTM3Mzg1MGFkaXF6a2N4",
+    "barcode": "XDYMP0H7",
+    "type": "CS01",
+    "date": "2025-03-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-03-18"
+    },
+    "pages": 3,
+    "action_date": "2025-03-18",
+    "links": {
+      "self": "/company/13862559/filing-history/MzQ1OTM3Mzg1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fHzV3AzFH9MKW_zOs14aj5A_bAX6xjtzEu3oZBiwEVM"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTgyMjczMGFkaXF6a2N4",
+    "barcode": "XDDTJW8R",
+    "type": "AA",
+    "date": "2024-10-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 4,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/13862559/filing-history/MzQzOTgyMjczMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2GFwNBAC_R2f3OCiYJPD6vy7B-dy4E0qDDgsW2Ij-Cg"
+    }
+  },
+  {
+    "transaction_id": "MzQzMjAwMzgyNGFkaXF6a2N4",
+    "barcode": "XD9ED2XV",
+    "type": "AD01",
+    "date": "2024-08-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-08-13",
+      "old_address": "35 Wild Street Derby DE1 1GP England",
+      "new_address": "69 Stanley Street Derby DE22 3GU"
+    },
+    "pages": 1,
+    "action_date": "2024-08-13",
+    "links": {
+      "self": "/company/13862559/filing-history/MzQzMjAwMzgyNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/gBAofP55ze54Cn64OSZy_DfpO0bhWaDD45klkpwjZig"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTYzMjI1OWFkaXF6a2N4",
+    "barcode": "XCZCRWEA",
+    "type": "CS01",
+    "date": "2024-03-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-03-18"
+    },
+    "pages": 3,
+    "action_date": "2024-03-18",
+    "links": {
+      "self": "/company/13862559/filing-history/MzQxNTYzMjI1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WhNfEdStfmVWt5H-F0-S_BK6PlGaV1UbnanaYM67Ezg"
+    }
+  },
+  {
+    "transaction_id": "MzM3NjAwNTg3NWFkaXF6a2N4",
+    "barcode": "XC1AQSZ6",
+    "type": "AA",
+    "date": "2023-04-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 4,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/13862559/filing-history/MzM3NjAwNTg3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qIujM4SXsBJy-eFqNTDR-VBWIokk3CmCS3KfqiZCHRc"
+    }
+  },
+  {
+    "transaction_id": "MzM3NDAxNzQ5OWFkaXF6a2N4",
+    "barcode": "XC00WEZV",
+    "type": "CS01",
+    "date": "2023-03-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-18"
+    },
+    "pages": 3,
+    "action_date": "2023-03-18",
+    "links": {
+      "self": "/company/13862559/filing-history/MzM3NDAxNzQ5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Gy0d5_ZtqdMuOBeyBmXHFdkNVNem7TQcHYw-ftm19SQ"
+    }
+  },
+  {
+    "transaction_id": "MzM3MDYxNzg5NWFkaXF6a2N4",
+    "barcode": "XBY2HUNV",
+    "type": "PSC04",
+    "date": "2023-02-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2022-02-13",
+      "psc_name": "Mr Adnan Ali"
+    },
+    "pages": 2,
+    "action_date": "2022-02-13",
+    "links": {
+      "self": "/company/13862559/filing-history/MzM3MDYxNzg5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9twM3e9oOZOWq_j5Bu0iu5iDvcEfh4ACBzEPdTWmDjg"
+    }
+  },
+  {
+    "transaction_id": "MzMzMzI5NjEwOGFkaXF6a2N4",
+    "barcode": "XB00QH43",
+    "type": "CS01",
+    "date": "2022-03-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-03-18"
+    },
+    "pages": 4,
+    "action_date": "2022-03-18",
+    "links": {
+      "self": "/company/13862559/filing-history/MzMzMzI5NjEwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AP8Ras-zF9fLlsc5imuFLJFfsgQLtS-UR4kdSOCZfkw"
+    }
+  },
+  {
+    "transaction_id": "MzMyOTcyMDEzMGFkaXF6a2N4",
+    "barcode": "XAXRTUKA",
+    "type": "PSC07",
+    "date": "2022-02-13",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Adeel Ali",
+      "cessation_date": "2022-02-13"
+    },
+    "pages": 1,
+    "action_date": "2022-02-13",
+    "links": {
+      "self": "/company/13862559/filing-history/MzMyOTcyMDEzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VjBJK4vkZ-IH6qGDSpXMtwHxnZM9mSzgochwpZLnS3o"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzI4MjczNGFkaXF6a2N4",
+    "barcode": "XAW2B2H5",
+    "type": "NEWINC",
+    "date": "2022-01-20",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-01-20",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-01-20",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-01-20",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2022-01-20"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 12,
+    "links": {
+      "self": "/company/13862559/filing-history/MzMyNzI4MjczNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/lN-2gMB7WNaDRuAM3sU4yyn9ZyOtAbrzrTkLBfV90hI"
+    }
+  }
+]

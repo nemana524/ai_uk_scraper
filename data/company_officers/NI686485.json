@@ -1,0 +1,35 @@
+{
+  "company_number": "NI686485",
+  "company_name": "TECH A CHANCE ON IT TRAINING SOLUTIONS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MCLAUGHLIN, Kevin",
+      "officer_role": "director",
+      "appointed_on": "2022-03-10",
+      "resigned_on": null,
+      "nationality": "Irish",
+      "country_of_residence": "Ireland",
+      "occupation": "Lecturer",
+      "address": {
+        "address_line_1": "Ballmagorry",
+        "country": "Northern Ireland",
+        "locality": "Strabane",
+        "postal_code": "BT82 0AT",
+        "premises": "434 Victoria Road"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/NI686485/appointments/RyJZH0w3ETD2Q7qECqWLgvAPSO4",
+        "officer": {
+          "appointments": "/officers/QTosY6uQi8YIlDrKHdosrNhlHJM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

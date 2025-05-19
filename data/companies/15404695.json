@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-10",
+      "overdue": false,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-01-10"
+    },
+    "next_due": "2025-10-10",
+    "next_made_up_to": "2025-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ASCEND CONSULTANCY LTD",
+  "company_number": "15404695",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-09",
+    "next_due": "2026-01-23",
+    "next_made_up_to": "2026-01-09",
+    "overdue": false
+  },
+  "date_of_creation": "2024-01-10",
+  "etag": "87a61079fa5f7e891615b125a340fcc046bcf186",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15404695/persons-with-significant-control",
+    "self": "/company/15404695",
+    "filing_history": "/company/15404695/filing-history",
+    "officers": "/company/15404695/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

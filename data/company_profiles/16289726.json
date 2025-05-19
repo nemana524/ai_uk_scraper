@@ -1,0 +1,39 @@
+{
+  "company_number": "16289726",
+  "company_name": "TECH LIFE WIZARD LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-03-04",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "95110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "46 Cranmer House",
+    "address_line_2": "60 Surrey Lane",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "SW11 3TA"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-04",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-03-04"
+    },
+    "next_due": "2026-12-04",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "etag": "3a7ecf47997cccec7f61bf67e1402cce65b330c0"
+}

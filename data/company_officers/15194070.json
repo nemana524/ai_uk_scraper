@@ -1,0 +1,35 @@
+{
+  "company_number": "15194070",
+  "company_name": "TECH IN FINANCE LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "CRUZ, Melissa Mennah",
+      "officer_role": "director",
+      "appointed_on": "2023-10-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Gladstone Road",
+        "country": "England",
+        "locality": "Surbiton",
+        "postal_code": "KT6 5DD",
+        "premises": "55"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1983
+      },
+      "links": {
+        "self": "/company/15194070/appointments/M30vYhSdY50-V1kbRN3z4ku6D_M",
+        "officer": {
+          "appointments": "/officers/7hfoqaesCXeoaDJn_TMLlromt34/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

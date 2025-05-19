@@ -1,0 +1,172 @@
+[
+  {
+    "transaction_id": "MzMxOTYxNjY3N2FkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2021-11-10",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11459584/filing-history/MzMxOTYxNjY3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Uo5GuyLWo-_rQON4D5yuUoqQPOMKZul72ZGZRAdKN0"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTAyMzY5NGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2021-10-05",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11459584/filing-history/MzMxNTAyMzY5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MjhNAov1JBj-6oYjVoJGeVdTYG_j9q0Kw9iDuxT7v9g"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTUwOTcyOGFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2021-05-20",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11459584/filing-history/MzMwMTUwOTcyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AM4nUFCHCN1oStYI2xhXxdAO6XwqjDFTZjW3aB1yiew"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTUxNzA2M2FkaXF6a2N4",
+    "barcode": "XA4TMSW3",
+    "type": "AA",
+    "date": "2021-05-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-07-31"
+    },
+    "pages": 3,
+    "action_date": "2020-07-31",
+    "links": {
+      "self": "/company/11459584/filing-history/MzMwMTUxNzA2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/E0BLWL7TFz6Y1XOAK5VF41NGcQjT7hUqEOc4AStQaIo"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTUxNjc1MWFkaXF6a2N4",
+    "barcode": "XA4TMRUO",
+    "type": "CS01",
+    "date": "2021-05-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-07-10"
+    },
+    "pages": 3,
+    "action_date": "2020-07-10",
+    "links": {
+      "self": "/company/11459584/filing-history/MzMwMTUxNjc1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zkd9yynsGshY2z7Wq-xQ_2dynpTveM-nuH7P5BFsCtg"
+    }
+  },
+  {
+    "transaction_id": "MzMwMTUwOTYwNGFkaXF6a2N4",
+    "barcode": "XA4TM009",
+    "type": "AA",
+    "date": "2021-05-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-07-31"
+    },
+    "pages": 3,
+    "action_date": "2019-07-31",
+    "links": {
+      "self": "/company/11459584/filing-history/MzMwMTUwOTYwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yNcO5biPTs4VI9d07T5atsVKgXSP__0jPWpDc-LkALM"
+    }
+  },
+  {
+    "transaction_id": "MzI4NjU5OTk2MGFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2020-12-23",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11459584/filing-history/MzI4NjU5OTk2MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fJ7EshOPry4H1KCyzR2jphJNSBVggCCSEkBmZKqYt_4"
+    }
+  },
+  {
+    "transaction_id": "MzI4MDg3MTUwOWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2020-10-27",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/11459584/filing-history/MzI4MDg3MTUwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yu4FTYYDMLxuz7_tZGHrHfWJd8LroX88Qgw72PjtgOc"
+    }
+  },
+  {
+    "transaction_id": "MzIzOTQwODI3NmFkaXF6a2N4",
+    "barcode": "X89SQ81E",
+    "type": "CS01",
+    "date": "2019-07-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-07-10"
+    },
+    "pages": 3,
+    "action_date": "2019-07-10",
+    "links": {
+      "self": "/company/11459584/filing-history/MzIzOTQwODI3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/B9YkqjWbaolhYcCifUoWu6JsniBiY0aGJlX8bv1V4PE"
+    }
+  },
+  {
+    "transaction_id": "MzIwOTQyNzExN2FkaXF6a2N4",
+    "barcode": "X79VUCVE",
+    "type": "NEWINC",
+    "date": "2018-07-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2018-07-11",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2018-07-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2018-07-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2018-07-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11459584/filing-history/MzIwOTQyNzExN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kdGyUWodmJ0Tor-5bnjvGFiuRnsVkPbUXsr1lg7sY7s"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "company_number": "12424554",
+  "company_name": "TECH DRIVING LTD",
+  "company_status": "active",
+  "date_of_creation": "2020-01-27",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "49410"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "109 Ranelagh Road",
+    "country": "England",
+    "locality": "Southall",
+    "postal_code": "UB1 1DJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-01-31",
+      "period_end_on": "2021-01-31",
+      "period_start_on": "2020-01-27",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2022-10-31",
+      "overdue": true,
+      "period_end_on": "2022-01-31",
+      "period_start_on": "2021-02-01"
+    },
+    "next_due": "2022-10-31",
+    "next_made_up_to": "2022-01-31",
+    "overdue": true
+  },
+  "etag": "1eceaca8e16234208e1244a80130d636b53c0472"
+}

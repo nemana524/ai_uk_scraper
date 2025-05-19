@@ -1,0 +1,65 @@
+{
+  "company_number": "15922584",
+  "company_name": "TECH ENABLED MARKETING LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "GILBERT, Andrew Richard",
+      "officer_role": "director",
+      "appointed_on": "2024-08-28",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Bolt Court",
+        "address_line_2": "3rd Floor",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC4A 3DQ",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1948
+      },
+      "links": {
+        "self": "/company/15922584/appointments/waeZqHgUBkbWePD34zmE61gbq9k",
+        "officer": {
+          "appointments": "/officers/iKxbysiLTZRaL5-iyXcoseP-8_k/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "JOHN, Anoop",
+      "officer_role": "director",
+      "appointed_on": "2024-08-28",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "United States",
+      "occupation": "Chief Technology Officer",
+      "address": {
+        "address_line_1": "Bolt Court",
+        "address_line_2": "3rd Floor",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC4A 3DQ",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15922584/appointments/un3dLIofGiV86bftc0_ioqPv_es",
+        "officer": {
+          "appointments": "/officers/62b1TGBOimc1Pnwb3V5y0pIK-dc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

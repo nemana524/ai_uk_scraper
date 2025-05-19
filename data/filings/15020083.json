@@ -1,0 +1,338 @@
+[
+  {
+    "transaction_id": "MzQ2NjE1NTk2M2FkaXF6a2N4",
+    "barcode": "XE2JT2E1",
+    "type": "CS01",
+    "date": "2025-05-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-05-14"
+    },
+    "pages": 3,
+    "action_date": "2025-05-14",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2NjE1NTk2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yN2B5z9VjHd0NYcAs_4XioNOfk7gbvJOuZp3X7fHOSQ"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MzgwMjE0OGFkaXF6a2N4",
+    "barcode": "XE16XT37",
+    "type": "CS01",
+    "date": "2025-04-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-04-24"
+    },
+    "pages": 3,
+    "action_date": "2025-04-24",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MzgwMjE0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CL7IRAodG8Aw-n5Mvlxb0DWAeEqV7_HlJslYb8J96uk"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MzA3NDA2N2FkaXF6a2N4",
+    "barcode": "XE0OH1BF",
+    "type": "AA",
+    "date": "2025-04-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 3,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MzA3NDA2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HJ5wtqkvWaEEmS0MIw1AuKHbu85w_2oXXR3iVaREvkA"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTYzMTQ2OWFkaXF6a2N4",
+    "barcode": "XDZZUR23",
+    "type": "AD01",
+    "date": "2025-04-07",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-04-07",
+      "old_address": "63 Woodgate Road Wootton Northampton NN4 6ET England",
+      "new_address": "40 Richmond Road Ilford IG1 1JZ"
+    },
+    "pages": 1,
+    "action_date": "2025-04-07",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MTYzMTQ2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wj29BiptRpLzGABJjtTj_HK5ver062dJPoLgZcbhm-U"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTQ5NDM4MmFkaXF6a2N4",
+    "barcode": "XDZS3WIB",
+    "type": "CS01",
+    "date": "2025-04-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-04-04"
+    },
+    "pages": 4,
+    "action_date": "2025-04-04",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MTQ5NDM4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/702IiOOOfGqFoPkmoSwWEiXKEAr9rVEmLsOZ5Ph6Kuk"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTQ5NDEyM2FkaXF6a2N4",
+    "barcode": "XDZS3V8O",
+    "type": "PSC07",
+    "date": "2025-04-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Sher Khan",
+      "cessation_date": "2025-04-04"
+    },
+    "pages": 1,
+    "action_date": "2025-04-04",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MTQ5NDEyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hb8KX9XkFtDbTiCtf-qGNbaLlklupKgB0nfaGjJTovU"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTQ5Mzk2NGFkaXF6a2N4",
+    "barcode": "XDZS3UF4",
+    "type": "PSC01",
+    "date": "2025-04-04",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ali Khan",
+      "notification_date": "2025-04-04"
+    },
+    "pages": 2,
+    "action_date": "2025-04-04",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MTQ5Mzk2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RyfCHvfHCq-MJTkLlO6rEQA9Hr3VeGXesaCw-umzTnY"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTQ5MzY4NGFkaXF6a2N4",
+    "barcode": "XDZS3T76",
+    "type": "TM01",
+    "date": "2025-04-04",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Sher Khan",
+      "termination_date": "2025-04-04"
+    },
+    "pages": 1,
+    "action_date": "2025-04-04",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MTQ5MzY4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/c-4qAa1A6pT9vcFVyMzTfEph2KtUoaiJVNc-8P-bltI"
+    }
+  },
+  {
+    "transaction_id": "MzQ2MTQ5MzUzN2FkaXF6a2N4",
+    "barcode": "XDZS3SE2",
+    "type": "AP01",
+    "date": "2025-04-04",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Ali Khan",
+      "appointment_date": "2025-04-04"
+    },
+    "pages": 2,
+    "action_date": "2025-04-04",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ2MTQ5MzUzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fB_MdsEEmAahCO-eEZS28vcLQfcWOnnhWLYAs0Iv_vc"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTk1MzczMmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2024-10-19",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15020083/filing-history/MzQzOTk1MzczMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5Q8bGvX5XjndZYPYWN6ajsYDsX40RirXAk9LgHhaKkY"
+    }
+  },
+  {
+    "transaction_id": "MzQ0MDA2MzgzOWFkaXF6a2N4",
+    "barcode": "XDDZ03DC",
+    "type": "CS01",
+    "date": "2024-10-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-18"
+    },
+    "pages": 4,
+    "action_date": "2024-10-18",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQ0MDA2MzgzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3y1Ypvgq27MWuiPnUmiDY0IfC3lEKHk-xyg8z6t-2Qs"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTk1MzY0NGFkaXF6a2N4",
+    "barcode": "XDDWB6PM",
+    "type": "CS01",
+    "date": "2024-10-17",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-07-20"
+    },
+    "pages": 3,
+    "action_date": "2024-07-20",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQzOTk1MzY0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0iXr2Hmo5nmJqhRu19bU91_TKsbQu0c6qc7SJ6rYfEM"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTk0Njg1NGFkaXF6a2N4",
+    "barcode": "XDDWAEXL",
+    "type": "PSC07",
+    "date": "2024-10-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Mihaly Bedo",
+      "cessation_date": "2024-10-17"
+    },
+    "pages": 1,
+    "action_date": "2024-10-17",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQzOTk0Njg1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tFyvV7r8AgPVsGlDsM8SIx9yKg_9lMtGVRYmMYtgLzA"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTk0NTgzMWFkaXF6a2N4",
+    "barcode": "XDDWAAOZ",
+    "type": "TM01",
+    "date": "2024-10-17",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Mihaly Bedo",
+      "termination_date": "2024-10-17"
+    },
+    "pages": 1,
+    "action_date": "2024-10-17",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQzOTk0NTgzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hsnfYCYOfUwT-aixFMhf_-KeNODU7UIdky1PGmob3Dc"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTk0NTc3NGFkaXF6a2N4",
+    "barcode": "XDDWAA8H",
+    "type": "PSC01",
+    "date": "2024-10-17",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Sher Khan",
+      "notification_date": "2024-10-17"
+    },
+    "pages": 2,
+    "action_date": "2024-10-17",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQzOTk0NTc3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OE4qPHcSZa1TaEWgmUtI6ortSqdcxXDBXLoiN9XQGYk"
+    }
+  },
+  {
+    "transaction_id": "MzQzOTk0NTMyMmFkaXF6a2N4",
+    "barcode": "XDDWA8P5",
+    "type": "AP01",
+    "date": "2024-10-17",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Sher Khan",
+      "appointment_date": "2024-10-17"
+    },
+    "pages": 2,
+    "action_date": "2024-10-17",
+    "links": {
+      "self": "/company/15020083/filing-history/MzQzOTk0NTMyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UJtcDQiL3tl6fm1BxpQDQSMlL1QTsJpOHoV0igG7UpM"
+    }
+  },
+  {
+    "transaction_id": "MzQzNzg5ODIxNmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-10-08",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15020083/filing-history/MzQzNzg5ODIxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EPXEPLIQUjwGtfcXAmbnx2V9I5CX8JC6RwHNRV3kWN8"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzE5ODc0M2FkaXF6a2N4",
+    "barcode": "XC88LB29",
+    "type": "NEWINC",
+    "date": "2023-07-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-07-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-07-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-07-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-07-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15020083/filing-history/MzM4NzE5ODc0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bQOM9g2BqolZ4zjFT-sPx4OtsJU7FYC0yNEsK9BGOWc"
+    }
+  }
+]

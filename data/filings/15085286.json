@@ -1,0 +1,116 @@
+[
+  {
+    "transaction_id": "MzQ0NDE2MzY4N2FkaXF6a2N4",
+    "type": "GAZ2(A)",
+    "date": "2024-11-26",
+    "category": "gazette",
+    "description": "gazette-dissolved-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15085286/filing-history/MzQ0NDE2MzY4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mPZpyqoAOmjGQMu66_J9Evqdg00lBne4E6myDXFlokY"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDExMTgyN2FkaXF6a2N4",
+    "type": "GAZ1(A)",
+    "date": "2024-09-10",
+    "category": "gazette",
+    "description": "gazette-notice-voluntary",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15085286/filing-history/MzQzNDExMTgyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pk2U5ajtqc8531EMrhkrPin1h_srKgZZspa8oTFEQ_U"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDExMTYwN2FkaXF6a2N4",
+    "barcode": "XDANXGQQ",
+    "type": "DS01",
+    "date": "2024-09-02",
+    "category": "dissolution",
+    "description": "dissolution-application-strike-off-company",
+    "pages": 1,
+    "links": {
+      "self": "/company/15085286/filing-history/MzQzNDExMTYwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pA2-utlpuBCn9SJPmDtlIL40calh-hKMS5ZxjCiboN4"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDA4NDMxNGFkaXF6a2N4",
+    "barcode": "XDANXG1E",
+    "type": "AP01",
+    "date": "2024-08-31",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Abid Mehmood",
+      "appointment_date": "2024-08-30"
+    },
+    "pages": 2,
+    "action_date": "2024-08-30",
+    "links": {
+      "self": "/company/15085286/filing-history/MzQzNDA4NDMxNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D-x_65lSE9H9BW6HYIZ6Zl_i8PjZmOrQZJ6rFERPtaM"
+    }
+  },
+  {
+    "transaction_id": "MzQxNTY3NzQ3MWFkaXF6a2N4",
+    "barcode": "XCZCWQAJ",
+    "type": "TM01",
+    "date": "2024-03-21",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Abid Mehmood",
+      "termination_date": "2024-03-18"
+    },
+    "pages": 1,
+    "action_date": "2024-03-18",
+    "links": {
+      "self": "/company/15085286/filing-history/MzQxNTY3NzQ3MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BUDP1r80YvAL1vod4C0kkdp-M_aFZ88RbS2o6Fn1tl4"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDExMzczNGFkaXF6a2N4",
+    "barcode": "XCA6EG83",
+    "type": "NEWINC",
+    "date": "2023-08-21",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-08-21",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-21",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-08-21",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-08-21"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15085286/filing-history/MzM5MDExMzczNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ftIycl8oje-9GRdJsrP_CVVJZzsNG-X3vR8b0KTvWvM"
+    }
+  }
+]

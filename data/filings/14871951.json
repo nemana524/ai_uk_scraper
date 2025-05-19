@@ -1,0 +1,201 @@
+[
+  {
+    "transaction_id": "MzQ1OTc4ODc4OGFkaXF6a2N4",
+    "barcode": "XDYZWQB6",
+    "type": "CS01",
+    "date": "2025-03-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-24"
+    },
+    "pages": 7,
+    "action_date": "2025-03-24",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQ1OTc4ODc4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pZt-uU0rNgO1p7NmL4cXbyxlwyDN46_FAk0IuPj7uv4"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTc1NTc4NmFkaXF6a2N4",
+    "barcode": "XDYXBMAY",
+    "type": "SH01",
+    "date": "2025-03-23",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2025-02-27",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "235"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2025-02-27",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQ1OTc1NTc4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m7dCTO8FOvfZjTBhRK-sisO4XcVZTicnxZwtgvLG5mU"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTc1NTcyNmFkaXF6a2N4",
+    "barcode": "XDYXBM4P",
+    "type": "SH01",
+    "date": "2025-03-23",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2025-02-27",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "219"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2025-02-27",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQ1OTc1NTcyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D1a9HhJkc0PqEjdeZH9OHSEWmP6ovgbMXIQre3Bsf7E"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTY1MTMwNGFkaXF6a2N4",
+    "barcode": "XDYS7WIR",
+    "type": "SH01",
+    "date": "2025-03-21",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2025-02-27",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "251"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2025-02-27",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQ1OTY1MTMwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yPZxRvN_j2s7nOyUPXJ5rNIcpQ4RSrDxdBHzh8ZY6EU"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NTIxNjk5N2FkaXF6a2N4",
+    "barcode": "XDWKZVQQ",
+    "type": "AA",
+    "date": "2025-02-17",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-05-31"
+    },
+    "pages": 3,
+    "action_date": "2024-05-31",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQ1NTIxNjk5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5_DHIS6F2ZttreMU6chNoL1tze61p9o8gDEO9DGHXYI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDczNDU0MWFkaXF6a2N4",
+    "barcode": "XD8I63RF",
+    "type": "SH01",
+    "date": "2024-07-31",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2024-07-31",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "204"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQzMDczNDU0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SuSTgOEXBoFc6dlRd7GEPv3NVv8kdham9Id_h4Dec3Q"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDcyMTU3M2FkaXF6a2N4",
+    "barcode": "XD8I4I6H",
+    "type": "PSC04",
+    "date": "2024-07-31",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-07-31",
+      "psc_name": "Mr Andrew Pritchard"
+    },
+    "pages": 2,
+    "action_date": "2024-07-31",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQzMDcyMTU3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LOau6XBRAIlWlULrIo48WmY_DMzDihHOGDn-TT37HTA"
+    }
+  },
+  {
+    "transaction_id": "MzQyMjk4Mjg0M2FkaXF6a2N4",
+    "barcode": "XD3PNXBE",
+    "type": "CS01",
+    "date": "2024-05-23",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-05-15"
+    },
+    "pages": 5,
+    "action_date": "2024-05-15",
+    "links": {
+      "self": "/company/14871951/filing-history/MzQyMjk4Mjg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BZkHVkMrDDvoogaFv5dwSp_fD95Z7-Kxtdo1bnUaaK8"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTU0MDgyMWFkaXF6a2N4",
+    "barcode": "XC3LP9O1",
+    "type": "NEWINC",
+    "date": "2023-05-16",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-05-16",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-05-16",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-05-16",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "104"
+            }
+          ]
+        },
+        "action_date": "2023-05-16"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/14871951/filing-history/MzM3OTU0MDgyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9AnMGaouyoTNjMGjz2gtdnDchBL1SwurXovKmBIibN8"
+    }
+  }
+]

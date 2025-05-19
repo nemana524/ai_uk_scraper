@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-02-28",
+      "period_end_on": "2021-02-28",
+      "period_start_on": "2020-02-29",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2022-11-30",
+      "overdue": true,
+      "period_end_on": "2022-02-28",
+      "period_start_on": "2021-03-01"
+    },
+    "next_due": "2022-11-30",
+    "next_made_up_to": "2022-02-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECH HELP CENTRE LTD",
+  "company_number": "11833171",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-02-17",
+    "next_due": "2023-03-03",
+    "next_made_up_to": "2023-02-17",
+    "overdue": true
+  },
+  "date_of_creation": "2019-02-18",
+  "etag": "2acdc40ca91c383aee2a83211f5f2baa9919f9fb",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11833171/persons-with-significant-control",
+    "self": "/company/11833171",
+    "filing_history": "/company/11833171/filing-history",
+    "officers": "/company/11833171/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "6 Belmont Parade Temple Fortune",
+    "address_line_2": "Finchley Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "NW11 6XP"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "33140",
+    "95110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

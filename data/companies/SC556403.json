@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH 4 U  LANARK LTD",
+  "company_number": "SC556403",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-01",
+    "next_due": "2026-02-15",
+    "next_made_up_to": "2026-02-01",
+    "overdue": false
+  },
+  "date_of_creation": "2017-02-02",
+  "etag": "6ff536ca1e0d582b51ad8d64d1b017b6a6e0a9eb",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC556403/persons-with-significant-control",
+    "self": "/company/SC556403",
+    "filing_history": "/company/SC556403/filing-history",
+    "officers": "/company/SC556403/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "23 Loch Park",
+    "country": "Scotland",
+    "locality": "Wishaw",
+    "postal_code": "ML2 7EB"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090",
+    "95110",
+    "95120"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

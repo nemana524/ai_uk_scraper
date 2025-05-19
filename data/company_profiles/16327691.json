@@ -1,0 +1,39 @@
+{
+  "company_number": "16327691",
+  "company_name": "TECH DEVOURS LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-03-19",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Victoria Works Williams Road",
+    "address_line_2": "Gorton",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M18 7AY"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-19",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-03-19"
+    },
+    "next_due": "2026-12-19",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "etag": "bbbb1f1e020996dd8c7e732d53c1fbd4be6d8f92"
+}

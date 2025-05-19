@@ -1,0 +1,36 @@
+{
+  "company_number": "13118479",
+  "company_name": "TECH LABZ LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "DESOUKY, Khalid Farouk",
+      "officer_role": "director",
+      "appointed_on": "2021-01-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Halliwell Industrial Estate",
+        "address_line_2": "Rossini Street",
+        "country": "England",
+        "locality": "Bolton",
+        "postal_code": "BL1 8DL",
+        "premises": "Unit 44"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/13118479/appointments/gP_WIm9WROwLb67PWCLEUU6zKUg",
+        "officer": {
+          "appointments": "/officers/9i1SKzd3aRGvQqt4xKYY053A8Wg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

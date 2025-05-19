@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-11-23",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ASTRONAUT LTD",
+  "company_number": "14502817",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-22",
+    "next_due": "2025-12-06",
+    "next_made_up_to": "2025-11-22",
+    "overdue": false
+  },
+  "date_of_creation": "2022-11-23",
+  "etag": "33d4d07c03581f5d9a66fe970924250d04fc9a04",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14502817/persons-with-significant-control",
+    "self": "/company/14502817",
+    "filing_history": "/company/14502817/filing-history",
+    "officers": "/company/14502817/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "72 Willow Way",
+    "country": "United Kingdom",
+    "locality": "Coventry",
+    "postal_code": "CV3 3JT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

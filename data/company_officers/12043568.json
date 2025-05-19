@@ -1,0 +1,35 @@
+{
+  "company_number": "12043568",
+  "company_name": "TECH & NOLOGY INTERNATIONAL LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "PEREZ, Ignacio",
+      "officer_role": "director",
+      "appointed_on": "2019-06-11",
+      "resigned_on": null,
+      "nationality": "Spanish",
+      "country_of_residence": "Spain",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20-22"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1964
+      },
+      "links": {
+        "self": "/company/12043568/appointments/KZJhqcnuyFr9L4PGNpNHWcytvxU",
+        "officer": {
+          "appointments": "/officers/Af0rZ31KJS1maDnvPTXzB-kauxQ/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

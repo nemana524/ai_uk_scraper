@@ -1,0 +1,347 @@
+[
+  {
+    "transaction_id": "MzQ0NTY1NzYwN2FkaXF6a2N4",
+    "barcode": "XDH1USZL",
+    "type": "AA",
+    "date": "2024-12-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13279273/filing-history/MzQ0NTY1NzYwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pmIjKhqkMqJZ67i4SOp_hEapMmiDVCBeYSiwe5TosXk"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTYyMTY0NmFkaXF6a2N4",
+    "barcode": "XD7WGL7K",
+    "type": "CS01",
+    "date": "2024-07-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-20"
+    },
+    "pages": 3,
+    "action_date": "2024-06-20",
+    "links": {
+      "self": "/company/13279273/filing-history/MzQyOTYyMTY0NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/1hEMtocF-pEFRm_8G7hLq0teab8em6zOXjqjlFaGeMM"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTM4ODMzNGFkaXF6a2N4",
+    "barcode": "XD317H03",
+    "type": "CH01",
+    "date": "2024-05-13",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-05-01",
+      "officer_name": "Mrs Rabica Mohib Kazmi"
+    },
+    "pages": 2,
+    "action_date": "2024-05-01",
+    "links": {
+      "self": "/company/13279273/filing-history/MzQyMTM4ODMzNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qcPUr4hMc641czfTAu3AoqLsJmX9uGkJp1ySAnflOGo"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTM4Nzk2NWFkaXF6a2N4",
+    "barcode": "XD317FJ6",
+    "type": "CH01",
+    "date": "2024-05-13",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-05-01",
+      "officer_name": "Mr Muhammad Hashir Hussain"
+    },
+    "pages": 2,
+    "action_date": "2024-05-01",
+    "links": {
+      "self": "/company/13279273/filing-history/MzQyMTM4Nzk2NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2_YVe1z54fzvphfCNp6amjGEmSj_VWLvgIYCK3Nh14Q"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDA1NjAxNWFkaXF6a2N4",
+    "barcode": "XCYO7R0O",
+    "type": "AP01",
+    "date": "2024-03-11",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Rabica Mohib Kazmi",
+      "appointment_date": "2024-03-01"
+    },
+    "pages": 2,
+    "action_date": "2024-03-01",
+    "links": {
+      "self": "/company/13279273/filing-history/MzQxNDA1NjAxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xr1fqu_2fH4nK6m985jj74zKF9g-35OhR2IfjNVyEj4"
+    }
+  },
+  {
+    "transaction_id": "MzM5Nzk0ODczMWFkaXF6a2N4",
+    "barcode": "ACEHDAUO",
+    "type": "AAMD",
+    "date": "2023-10-26",
+    "category": "accounts",
+    "description": "accounts-amended-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 2,
+    "action_date": "2023-03-31",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13279273/filing-history/MzM5Nzk0ODczMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wy2RDAaFhYPGqvCpgHjpL906rSzH5tCdKxPgIl9ygbE"
+    }
+  },
+  {
+    "transaction_id": "MzM5MDExMDc3MGFkaXF6a2N4",
+    "barcode": "XCA6E3XK",
+    "type": "CH01",
+    "date": "2023-08-18",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-08-10",
+      "officer_name": "Mr Muhammad Hussain"
+    },
+    "pages": 2,
+    "action_date": "2023-08-10",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM5MDExMDc3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LDFy-v514wXiini7D6ylj2uf02FAFOATycdVVSAWLqM"
+    }
+  },
+  {
+    "transaction_id": "MzM4NjUxODczNmFkaXF6a2N4",
+    "barcode": "XC7SI6YX",
+    "type": "AA",
+    "date": "2023-07-15",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 3,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM4NjUxODczNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Pnp0wti2o6Fyvuweha9LacUhcsTtdmGq-LA2z_G-deM"
+    }
+  },
+  {
+    "transaction_id": "MzM4MzUxNDgzMGFkaXF6a2N4",
+    "barcode": "XC62CPYK",
+    "type": "CS01",
+    "date": "2023-06-20",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-06-20"
+    },
+    "pages": 4,
+    "action_date": "2023-06-20",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM4MzUxNDgzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UBay0mbJTluHnQnCzEjyB-QGYKqhNmTgM2CmtwqSJ5w"
+    }
+  },
+  {
+    "transaction_id": "MzM4MTA5NjYyNmFkaXF6a2N4",
+    "barcode": "XC4KJ9GG",
+    "type": "PSC01",
+    "date": "2023-05-29",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Hussain",
+      "notification_date": "2023-05-15"
+    },
+    "pages": 2,
+    "action_date": "2023-05-15",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM4MTA5NjYyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9L8ViMJ62OCD2SbRWu1_P5iSoAueiUbNGV9e_kAsy4g"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTU1NDM5N2FkaXF6a2N4",
+    "barcode": "XC3LQVDF",
+    "type": "AD01",
+    "date": "2023-05-15",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-05-15",
+      "old_address": "1 Brandforth Road Manchester M8 0AH England",
+      "new_address": "Tech Corner 20 Benson Road Birchwood Warrington WA3 7PQ"
+    },
+    "pages": 1,
+    "action_date": "2023-05-15",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM3OTU1NDM5N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CTmeikr8_kHoTut_1kW0BNN14tSjHsd6f3XwUqdR0cc"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTU1NDE4MGFkaXF6a2N4",
+    "barcode": "XC3LQUMW",
+    "type": "TM01",
+    "date": "2023-05-15",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Hannah Elizabeth Colbourne",
+      "termination_date": "2023-05-15"
+    },
+    "pages": 1,
+    "action_date": "2023-05-15",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM3OTU1NDE4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XWyTW8ncGAgw-1Jg9b-MkdDpccQ00b6gcDRGq27o3wc"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTU1NDA2M2FkaXF6a2N4",
+    "barcode": "XC3LQU3D",
+    "type": "PSC07",
+    "date": "2023-05-15",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Hannah Elizabeth Colbourne",
+      "cessation_date": "2023-05-15"
+    },
+    "pages": 1,
+    "action_date": "2023-05-15",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM3OTU1NDA2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4Y3knonfxtCNTlFUl5yF6MKEF31AlwVMuOGZe6uPkTw"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTU1MjUyM2FkaXF6a2N4",
+    "barcode": "XC3LQMVL",
+    "type": "AP01",
+    "date": "2023-05-15",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Muhammad Hussain",
+      "appointment_date": "2023-05-15"
+    },
+    "pages": 2,
+    "action_date": "2023-05-15",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM3OTU1MjUyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kbDW_jVrGEJBy328G0ug25hCYhGFVAC-JdNdM7biw-Q"
+    }
+  },
+  {
+    "transaction_id": "MzM3MzYyNTEzNmFkaXF6a2N4",
+    "barcode": "XBZVBTJ6",
+    "type": "CS01",
+    "date": "2023-03-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-03-18"
+    },
+    "pages": 3,
+    "action_date": "2023-03-18",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM3MzYyNTEzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RCZVcyG5uqIMTHxtnsGtx46yj-LsPk45et1JTt6cECk"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDU4NTkyOGFkaXF6a2N4",
+    "barcode": "XBBPMRQP",
+    "type": "AA",
+    "date": "2022-09-02",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-dormant",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 2,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/13279273/filing-history/MzM1MDU4NTkyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zXeB8XyWojIf17dFJcD_XkTsdg2qVwrtYvlf4FG_SxY"
+    }
+  },
+  {
+    "transaction_id": "MzMzNTI5MDY4NmFkaXF6a2N4",
+    "barcode": "XB1ANOEA",
+    "type": "CS01",
+    "date": "2022-04-05",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-03-18"
+    },
+    "pages": 3,
+    "action_date": "2022-03-18",
+    "links": {
+      "self": "/company/13279273/filing-history/MzMzNTI5MDY4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kcB0T-m1iMm1TWBGOir4stY6bndQc37C9C0GNI4CtGE"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDc3MTMwOGFkaXF6a2N4",
+    "barcode": "XA0JRH3T",
+    "type": "NEWINC",
+    "date": "2021-03-19",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-03-19",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-03-19",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-03-19",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2021-03-19"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/13279273/filing-history/MzI5NDc3MTMwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TVPr5GG6pMo3-Uf54EvOgX-q8A8DAivRLPshmVkxdS4"
+    }
+  }
+]

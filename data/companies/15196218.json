@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "next_accounts": {
+      "due_on": "2025-07-09",
+      "overdue": false,
+      "period_end_on": "2024-10-31",
+      "period_start_on": "2023-10-09"
+    },
+    "next_due": "2025-07-09",
+    "next_made_up_to": "2024-10-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ASSIST DIRECT LTD",
+  "company_number": "15196218",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-10-08",
+    "next_due": "2025-10-22",
+    "next_made_up_to": "2025-10-08",
+    "overdue": false
+  },
+  "date_of_creation": "2023-10-09",
+  "etag": "7fbd87244e62cb8b1edc328d7d0f3c24b565a4ad",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15196218/persons-with-significant-control",
+    "self": "/company/15196218",
+    "filing_history": "/company/15196218/filing-history",
+    "officers": "/company/15196218/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "32 Rosehill Garden",
+    "country": "United Kingdom",
+    "locality": "Sutton",
+    "postal_code": "SM1 3JZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,65 @@
+{
+  "company_number": "11623518",
+  "company_name": "TECH CONNECT IT LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "COHEN, Donna",
+      "officer_role": "director",
+      "appointed_on": "2023-12-20",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Dinsdale Gardens",
+        "address_line_2": "New Barnet",
+        "country": "England",
+        "locality": "Barnet",
+        "postal_code": "EN5 1HE",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1959
+      },
+      "links": {
+        "self": "/company/11623518/appointments/wuiHqkF3KpZzAOMkAf35y312naI",
+        "officer": {
+          "appointments": "/officers/9pONMPgpRpjJXlwvPGvAGD7WrUI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "COHEN, Jamie Adam",
+      "officer_role": "director",
+      "appointed_on": "2018-10-15",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Dinsdale Gardens",
+        "address_line_2": "New Barnet",
+        "country": "United Kingdom",
+        "locality": "Barnet",
+        "postal_code": "EN5 1HE",
+        "premises": "10"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1998
+      },
+      "links": {
+        "self": "/company/11623518/appointments/2bWMs192ixrV6na2ChNh9WtN-qc",
+        "officer": {
+          "appointments": "/officers/d_ijDqO4mEQ6I_UB6i-Wi9rWJX4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

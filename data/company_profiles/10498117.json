@@ -1,0 +1,44 @@
+{
+  "company_number": "10498117",
+  "company_name": "TECH GENIUS LTD",
+  "company_status": "active",
+  "date_of_creation": "2016-11-25",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "82990"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "34 Purleigh Road",
+    "country": "England",
+    "locality": "Corsham",
+    "postal_code": "SN13 9LJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2019-11-30",
+      "period_end_on": "2019-11-30",
+      "period_start_on": "2018-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2021-08-31",
+      "overdue": true,
+      "period_end_on": "2020-11-30",
+      "period_start_on": "2019-12-01"
+    },
+    "next_due": "2021-08-31",
+    "next_made_up_to": "2020-11-30",
+    "overdue": true
+  },
+  "etag": "410c1b65e045fc7cd7d2981312529eafd2bb5fdf"
+}

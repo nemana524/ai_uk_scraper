@@ -1,0 +1,116 @@
+[
+  {
+    "transaction_id": "MzQzOTY0NDAzMWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-10-22",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14861762/filing-history/MzQzOTY0NDAzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FzxEg8ofetohln8R8pZNrIAINKZAVIL_vXj227eekh8"
+    }
+  },
+  {
+    "transaction_id": "MzQyOTcxMzI0MWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-08-06",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14861762/filing-history/MzQyOTcxMzI0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Zon6XAjOEO_QljlbkzOXNkq0y1ASQGbBaC2UJD3hlpA"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDU5NjYwOGFkaXF6a2N4",
+    "barcode": "XD4RFQMB",
+    "type": "PSC04",
+    "date": "2024-06-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-06-07",
+      "psc_name": "Stepan Arakelian"
+    },
+    "pages": 2,
+    "action_date": "2024-06-07",
+    "links": {
+      "self": "/company/14861762/filing-history/MzQyNDU5NjYwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0HWlmAlSMDIR70y8ekWqhCv4y22b__b5zDvHBz-xzW0"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDU5NjYwNGFkaXF6a2N4",
+    "barcode": "XD4RFQGY",
+    "type": "CH03",
+    "date": "2024-06-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-secretary-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-06-07",
+      "officer_name": "Mr Stepan Arakelian"
+    },
+    "pages": 1,
+    "action_date": "2024-06-07",
+    "links": {
+      "self": "/company/14861762/filing-history/MzQyNDU5NjYwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/b1PrEDXBSmN9Tzwh9ywxemWHoRv7j3bJXzkcjH8MtUI"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDU5NjU5OGFkaXF6a2N4",
+    "barcode": "XD4RFQCY",
+    "type": "CH01",
+    "date": "2024-06-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-06-07",
+      "officer_name": "Mr Stepan Arakelian"
+    },
+    "pages": 2,
+    "action_date": "2024-06-07",
+    "links": {
+      "self": "/company/14861762/filing-history/MzQyNDU5NjU5OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/g__KPfu6OTsIfsu31dyBoVm83xBwFDvRj61Cot8by6M"
+    }
+  },
+  {
+    "transaction_id": "MzM3OTExNTYzNmFkaXF6a2N4",
+    "barcode": "XC38GMSO",
+    "type": "NEWINC",
+    "date": "2023-05-11",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2023-05-11",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-05-11",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2023-05-11"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/14861762/filing-history/MzM3OTExNTYzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hdc8y9caYgs6GvqdnVz-iOwD5LVT35wqSC_Gjs8nxYg"
+    }
+  }
+]

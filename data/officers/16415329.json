@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "Accrington Road",
+      "country": "England",
+      "locality": "Blackburn",
+      "postal_code": "BB1 2AF",
+      "premises": "59"
+    },
+    "appointed_on": "2025-04-29",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Arab Emirates",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1988
+    },
+    "links": {
+      "self": "/company/16415329/appointments/ZKUri3ltWxFs7N1CIaGeKaJJ6eA",
+      "officer": {
+        "appointments": "/officers/QLWemu9E6ITrO8kCq4t0V0Asd7o/appointments"
+      }
+    },
+    "name": "AHMED, Zohaib, Mr,",
+    "nationality": "Pakistani",
+    "occupation": "Company Secretary/Director",
+    "officer_role": "director",
+    "person_number": "332883210001"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "address_line_1": "46 Mushet Road",
+      "country": "United Kingdom",
+      "locality": "Livingston",
+      "postal_code": "EH54 7GE",
+      "premises": "46"
+    },
+    "appointed_on": "2019-04-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Scotland",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/SC626220/appointments/CzlTbfkmXo3NTCb8m7876YjkKWo",
+      "officer": {
+        "appointments": "/officers/7DhQ2RVfwL8orNd-C_euHyj1E5Q/appointments"
+      }
+    },
+    "name": "KHALID, Muhammad Kashif",
+    "nationality": "British",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "202133790001"
+  }
+]

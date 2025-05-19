@@ -1,0 +1,55 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "05",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-05",
+      "period_end_on": "2024-04-05",
+      "period_start_on": "2023-04-06",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-05",
+      "overdue": false,
+      "period_end_on": "2025-04-05",
+      "period_start_on": "2024-04-06"
+    },
+    "next_due": "2026-01-05",
+    "next_made_up_to": "2025-04-05",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH 8 SERVICES LLP",
+  "company_number": "SO301382",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-25",
+    "next_due": "2025-09-08",
+    "next_made_up_to": "2025-08-25",
+    "overdue": false
+  },
+  "date_of_creation": "2007-06-04",
+  "etag": "1cb76618beb7c29c23333cbc99d511c920dc53bf",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SO301382/persons-with-significant-control",
+    "self": "/company/SO301382",
+    "filing_history": "/company/SO301382/filing-history",
+    "officers": "/company/SO301382/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "C/O Wjm 2 George Square",
+    "address_line_2": "Castle Brae",
+    "country": "Scotland",
+    "locality": "Dunfermline",
+    "postal_code": "KY11 8QF"
+  },
+  "registered_office_is_in_dispute": false,
+  "type": "llp",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,63 @@
+{
+  "company_number": "15275449",
+  "company_name": "TECH CLASS LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "JOEL, Richard",
+      "officer_role": "director",
+      "appointed_on": "2024-08-15",
+      "resigned_on": null,
+      "nationality": "Dutch",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Effra Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "SW19 8PU",
+        "premises": "151"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1995
+      },
+      "links": {
+        "self": "/company/15275449/appointments/t2xKaMvlcN26I4ekjHCgZFMs7Fo",
+        "officer": {
+          "appointments": "/officers/xnF8rXd6Pd35fmGhkdDN0DSBSr0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "CHARAFEDDINE, Ayman",
+      "officer_role": "director",
+      "appointed_on": "2023-11-10",
+      "resigned_on": "2024-08-15",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Engineer",
+      "address": {
+        "address_line_1": "Merton Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "SW18 5JG",
+        "premises": "222"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1990
+      },
+      "links": {
+        "self": "/company/15275449/appointments/BKTpl6Ar_L_XYMqk1QZBH57b9PA",
+        "officer": {
+          "appointments": "/officers/uzvtVsRzQVSBu8zU7zNNR7jy4ZU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

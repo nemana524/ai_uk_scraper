@@ -1,0 +1,34 @@
+{
+  "company_number": "13758884",
+  "company_name": "TECH AZ LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2021-11-22",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "95210"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "215 Whitechapel Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E1 1DE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "type": "dormant"
+    }
+  },
+  "etag": "aeae556ba62318d77de857fd6743e859b54d1c9c"
+}

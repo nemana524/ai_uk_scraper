@@ -1,0 +1,37 @@
+{
+  "company_number": "15107061",
+  "company_name": "TECH DEBT LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MOHSIN, Usama",
+      "officer_role": "director",
+      "appointed_on": "2023-08-31",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "Pakistan",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "International House",
+        "address_line_2": "64 Nile Street",
+        "country": "United Kingdom",
+        "locality": "London",
+        "po_box": "5100",
+        "postal_code": "N1 7SR",
+        "premises": "N1 7sr"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/15107061/appointments/kvAnxv9bFRj8FQD7HIOoJvUBcAk",
+        "officer": {
+          "appointments": "/officers/0WvGJh8AuTmWKxj3tuKLMWvtnIo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

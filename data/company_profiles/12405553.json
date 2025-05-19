@@ -1,0 +1,39 @@
+{
+  "company_number": "12405553",
+  "company_name": "TECH ADMIN DK LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2020-01-15",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "66 Blackmead",
+    "address_line_2": "Orton Malborne",
+    "country": "England",
+    "locality": "Peterborough",
+    "postal_code": "PE2 5PX"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2021-10-15",
+      "overdue": true,
+      "period_end_on": "2021-01-31",
+      "period_start_on": "2020-01-15"
+    },
+    "next_due": "2021-10-15",
+    "next_made_up_to": "2021-01-31",
+    "overdue": true
+  },
+  "etag": "070630ccc731108588804096407709c429f0d31a"
+}

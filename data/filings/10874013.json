@@ -1,0 +1,405 @@
+[
+  {
+    "transaction_id": "MzQ1NjMxOTE3NmFkaXF6a2N4",
+    "barcode": "XDX3Z2VL",
+    "type": "CS01",
+    "date": "2025-02-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2025-01-21"
+    },
+    "pages": 3,
+    "action_date": "2025-01-21",
+    "links": {
+      "self": "/company/10874013/filing-history/MzQ1NjMxOTE3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AndsBsGaSJln4TH6YC4bXGh28SoS5ymFibE4HXQswp0"
+    }
+  },
+  {
+    "transaction_id": "MzQzODQ1MTE0MWFkaXF6a2N4",
+    "barcode": "XDD04IND",
+    "type": "AA",
+    "date": "2024-10-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2024-07-31"
+    },
+    "pages": 9,
+    "links": {
+      "self": "/company/10874013/filing-history/MzQzODQ1MTE0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xqtl7WpWd-JeiqwR0bpVjkksBXw3a4X_pGZdWdfIa8w"
+    }
+  },
+  {
+    "transaction_id": "MzQxODU1ODYyMGFkaXF6a2N4",
+    "barcode": "XD15SD54",
+    "type": "AA",
+    "date": "2024-04-16",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-07-31"
+    },
+    "pages": 8,
+    "action_date": "2023-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzQxODU1ODYyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QMLBOX1P9U7Hc-zY-zehVF1xuAfBWc1uP1KeU04Szzc"
+    }
+  },
+  {
+    "transaction_id": "MzQxMDc5NTM0NWFkaXF6a2N4",
+    "barcode": "XCWPVBCO",
+    "type": "CS01",
+    "date": "2024-02-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-01-21"
+    },
+    "pages": 3,
+    "action_date": "2024-01-21",
+    "links": {
+      "self": "/company/10874013/filing-history/MzQxMDc5NTM0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o4wTLZUA-s58jYmwOJes9blj06rk3BXRJ5HoSmuFGmY"
+    }
+  },
+  {
+    "transaction_id": "MzM5NjYyMjI2MmFkaXF6a2N4",
+    "barcode": "XCE9YO9F",
+    "type": "PSC04",
+    "date": "2023-10-16",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-10-16",
+      "psc_name": "Mr Bilal Ahmed"
+    },
+    "pages": 2,
+    "action_date": "2023-10-16",
+    "links": {
+      "self": "/company/10874013/filing-history/MzM5NjYyMjI2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CUSrc21NYNxnJowffvBVbbTn0Z_EkysgVir5XdpYfRo"
+    }
+  },
+  {
+    "transaction_id": "MzM5NjYyMjExMWFkaXF6a2N4",
+    "barcode": "XCE9YNNE",
+    "type": "CH01",
+    "date": "2023-10-16",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2023-10-16",
+      "officer_name": "Mr Bilal Ahmed"
+    },
+    "pages": 2,
+    "action_date": "2023-10-16",
+    "links": {
+      "self": "/company/10874013/filing-history/MzM5NjYyMjExMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OrvLEsYChmvxiVjFC5ZRa5TlaN0g819KVbWpZzeSp1E"
+    }
+  },
+  {
+    "transaction_id": "MzM5NjYyMTQ2OWFkaXF6a2N4",
+    "barcode": "XCE9YKZL",
+    "type": "AD01",
+    "date": "2023-10-16",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-10-16",
+      "old_address": "157 Blackborne Road Dagenham RM10 8SL England",
+      "new_address": "297C Romford Road Forest Gate E7 9HA"
+    },
+    "pages": 1,
+    "action_date": "2023-10-16",
+    "links": {
+      "self": "/company/10874013/filing-history/MzM5NjYyMTQ2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YXW6pFdiXdU-lbHJ5IuZSgU-GxcpnLwZ07-l31yoBsA"
+    }
+  },
+  {
+    "transaction_id": "MzM4MDgxODYzOGFkaXF6a2N4",
+    "barcode": "XC4A21WR",
+    "type": "AA",
+    "date": "2023-05-25",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-07-31"
+    },
+    "pages": 10,
+    "action_date": "2022-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzM4MDgxODYzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/45EiJMhu0mX1gaovw60AiSGHJypaCDFHDJkDXmACQKo"
+    }
+  },
+  {
+    "transaction_id": "MzM2ODc2Nzg2N2FkaXF6a2N4",
+    "barcode": "XBX0ZYMW",
+    "type": "CS01",
+    "date": "2023-02-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-01-21"
+    },
+    "pages": 3,
+    "action_date": "2023-01-21",
+    "links": {
+      "self": "/company/10874013/filing-history/MzM2ODc2Nzg2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/doFFRqvJVr_WmFlE3todizwsTlmV0Hb7s7t_YWisMEs"
+    }
+  },
+  {
+    "transaction_id": "MzM2MTQ1MTI5OWFkaXF6a2N4",
+    "barcode": "XBIA3IXS",
+    "type": "CERTNM",
+    "date": "2022-12-08",
+    "category": "change-of-name",
+    "resolutions": [
+      {
+        "category": "change-of-name",
+        "description": "resolution-change-of-name",
+        "type": "RES15",
+        "subcategory": "resolution",
+        "description_values": {
+          "resolution_date": "2022-12-01"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "change-of-name",
+        "date": "2022-12-08",
+        "description": "change-of-name-by-resolution",
+        "type": "NM01"
+      }
+    ],
+    "subcategory": "certificate",
+    "description": "certificate-change-of-name-company",
+    "description_values": {
+      "description": "Company name changed bayan traders LIMITED\\certificate issued on 08/12/22"
+    },
+    "pages": 3,
+    "links": {
+      "self": "/company/10874013/filing-history/MzM2MTQ1MTI5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZxluwuZAm4sekImMkcwo1sXnbdlRwPlJUGXIOpmK77o"
+    }
+  },
+  {
+    "transaction_id": "MzMzNzczNTIyNmFkaXF6a2N4",
+    "barcode": "XB2UY8BC",
+    "type": "AA",
+    "date": "2022-04-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2021-07-31"
+    },
+    "pages": 10,
+    "action_date": "2021-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzMzNzczNTIyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z4Cu7WdwHJ-7sEHZnnszeLiZ4tBSxVafWFiEDx-j8MY"
+    }
+  },
+  {
+    "transaction_id": "MzMyNzQ0NDIwNGFkaXF6a2N4",
+    "barcode": "XAW518GY",
+    "type": "CS01",
+    "date": "2022-01-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-01-21"
+    },
+    "pages": 3,
+    "action_date": "2022-01-21",
+    "links": {
+      "self": "/company/10874013/filing-history/MzMyNzQ0NDIwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/6lfJ7Gy5HfJL2rRoNFmAvbooMvqmAQL1Ximr62vxkXk"
+    }
+  },
+  {
+    "transaction_id": "MzMxMzI4MjQ3OGFkaXF6a2N4",
+    "barcode": "XACMM9EH",
+    "type": "CS01",
+    "date": "2021-09-08",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-07-31"
+    },
+    "pages": 3,
+    "action_date": "2021-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzMxMzI4MjQ3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sl0y_ULCM5T2cZ--2lE-cQRSPixYkg503XTP3Ya0X6I"
+    }
+  },
+  {
+    "transaction_id": "MzI5OTMwMjQyMWFkaXF6a2N4",
+    "barcode": "XA3E81LV",
+    "type": "AA",
+    "date": "2021-04-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-07-31"
+    },
+    "pages": 5,
+    "action_date": "2020-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzI5OTMwMjQyMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Y2nGsxtwZOT64mlm-P5u8Lj3y-iIxqOCaMdvZoisZRQ"
+    }
+  },
+  {
+    "transaction_id": "MzI3NjM5OTk4NmFkaXF6a2N4",
+    "barcode": "X9CERHL6",
+    "type": "CS01",
+    "date": "2020-08-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-07-31"
+    },
+    "pages": 3,
+    "action_date": "2020-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzI3NjM5OTk4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0WbuTD-crf6F7oUb5Zd2NKFHZyBDeyePnaAbAZccneI"
+    }
+  },
+  {
+    "transaction_id": "MzI2MzQ2MzI2NGFkaXF6a2N4",
+    "barcode": "X93XYPX4",
+    "type": "AA",
+    "date": "2020-04-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-07-31"
+    },
+    "pages": 5,
+    "action_date": "2019-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzI2MzQ2MzI2NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/UqDv8hq8QxSXqs4Ugwo8vXWZZjPr4-PH8wTlGtCb_bk"
+    }
+  },
+  {
+    "transaction_id": "MzI0MjM3MjgyOGFkaXF6a2N4",
+    "barcode": "X8CDB4V5",
+    "type": "CS01",
+    "date": "2019-08-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-07-18"
+    },
+    "pages": 3,
+    "action_date": "2019-07-18",
+    "links": {
+      "self": "/company/10874013/filing-history/MzI0MjM3MjgyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/g-GRYLkz-ZjbGTExlNVzH6AXFo6CLRyzfjpcOJHppBI"
+    }
+  },
+  {
+    "transaction_id": "MzIzMTU1MDUyNmFkaXF6a2N4",
+    "barcode": "X82YR3PL",
+    "type": "AA",
+    "date": "2019-04-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2018-07-31"
+    },
+    "pages": 9,
+    "action_date": "2018-07-31",
+    "links": {
+      "self": "/company/10874013/filing-history/MzIzMTU1MDUyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8m87b9sQtvR1k90sxU76vbp4sxgAqWfQOzGW3PbkkNg"
+    }
+  },
+  {
+    "transaction_id": "MzIyODM2MzkxMGFkaXF6a2N4",
+    "barcode": "X80B2V6Q",
+    "type": "AD01",
+    "date": "2019-03-01",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2019-03-01",
+      "old_address": "18 Harcourt Avenue London E12 6DG United Kingdom",
+      "new_address": "157 Blackborne Road Dagenham RM10 8SL"
+    },
+    "pages": 1,
+    "action_date": "2019-03-01",
+    "links": {
+      "self": "/company/10874013/filing-history/MzIyODM2MzkxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/QNDxiYgeqrcAAQa7N8l6NXvYpM0bLb1AGvXCfhvho78"
+    }
+  },
+  {
+    "transaction_id": "MzIxMDQzMDIxMGFkaXF6a2N4",
+    "barcode": "X7AUNJ3V",
+    "type": "CS01",
+    "date": "2018-07-24",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-07-18"
+    },
+    "pages": 3,
+    "action_date": "2018-07-18",
+    "links": {
+      "self": "/company/10874013/filing-history/MzIxMDQzMDIxMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/dsOy29DWtbq07kG60ehytUQzLWJZbVvPU1xInA8cyzY"
+    }
+  },
+  {
+    "transaction_id": "MzE4MDgxMDQ1NGFkaXF6a2N4",
+    "barcode": "X6AYPKD5",
+    "type": "NEWINC",
+    "date": "2017-07-19",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2017-07-19",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2017-07-19",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2017-07-19",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2017-07-19"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/10874013/filing-history/MzE4MDgxMDQ1NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/rexNP_RwKmmHW3GdjOWlBh3wFYn5dWttPUTo-Uwc_kE"
+    }
+  }
+]

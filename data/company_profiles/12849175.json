@@ -1,0 +1,35 @@
+{
+  "company_number": "12849175",
+  "company_name": "TECH DAWN LIMITED",
+  "company_status": "dissolved",
+  "date_of_creation": "2020-09-01",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "46520",
+    "46900"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "35 Firs Avenue",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N11 3NE"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-09-30",
+      "period_end_on": "2022-09-30",
+      "type": "dormant"
+    }
+  },
+  "etag": "0cbaf7e2c6e50cd3518ecec6e8acbaa01f3cab14"
+}

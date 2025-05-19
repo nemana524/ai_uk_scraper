@@ -1,0 +1,90 @@
+{
+  "company_number": "08450983",
+  "company_name": "TECH LIVING LIMITED",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "KE, Xiaochuan",
+      "officer_role": "director",
+      "appointed_on": "2019-05-17",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "General Manager",
+      "address": {
+        "locality": "Cardiff",
+        "po_box": "4385",
+        "postal_code": "CF14 8LH",
+        "premises": "08450983 - Companies House Default Address"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1987
+      },
+      "links": {
+        "self": "/company/08450983/appointments/y9JJs6-0XS4cOXfvI-JTREmynjY",
+        "officer": {
+          "appointments": "/officers/DZ2wtvujD30MMXkfgJ3FCxKWgJ4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ZHAO, Dongming",
+      "officer_role": "director",
+      "appointed_on": "2013-03-20",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Company Director",
+      "address": {
+        "locality": "Cardiff",
+        "po_box": "4385",
+        "postal_code": "CF14 8LH",
+        "premises": "08450983 - Companies House Default Address"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/08450983/appointments/FIpaBcijASdypCzAe5y4FonkL80",
+        "officer": {
+          "appointments": "/officers/-sykgKQJ_TsrGuHDquGg8ELj6Ic/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ZHAO, Dongming",
+      "officer_role": "director",
+      "appointed_on": "2013-03-19",
+      "resigned_on": "2019-05-17",
+      "nationality": "Chinese",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Southside",
+        "address_line_2": "St. John's Walk",
+        "country": "England",
+        "locality": "Birmingham",
+        "postal_code": "B5 4TJ",
+        "premises": "Room222"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/08450983/appointments/k0SK_TBG4dwzVCMFDZaj8If6n7Y",
+        "officer": {
+          "appointments": "/officers/dvw5ZMGV--uoLvHzPRbP_k20LJk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

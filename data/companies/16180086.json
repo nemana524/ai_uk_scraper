@@ -1,0 +1,53 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2026-10-13",
+      "overdue": false,
+      "period_end_on": "2026-01-31",
+      "period_start_on": "2025-01-13"
+    },
+    "next_due": "2026-10-13",
+    "next_made_up_to": "2026-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GAMES SOLUTIONS LIMITED",
+  "company_number": "16180086",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-01-26",
+    "next_made_up_to": "2026-01-12",
+    "overdue": false
+  },
+  "date_of_creation": "2025-01-13",
+  "etag": "ceec086ee86b70cca0e328196b079182f61a15c2",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16180086/persons-with-significant-control",
+    "self": "/company/16180086",
+    "filing_history": "/company/16180086/filing-history",
+    "officers": "/company/16180086/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "7 Bell Yard",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2A 2JR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "46900",
+    "47910",
+    "62012",
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

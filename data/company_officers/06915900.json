@@ -1,0 +1,120 @@
+{
+  "company_number": "06915900",
+  "company_name": "TECH CENTER LIMITED",
+  "total_officers": 4,
+  "officers": [
+    {
+      "name": "AWADA, Houssein",
+      "officer_role": "director",
+      "appointed_on": "2020-02-28",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Businessman",
+      "address": {
+        "address_line_1": "Edgware Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "W2 1ES",
+        "premises": "209"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/06915900/appointments/G-Rqk-2A1naagTqfAZKV1rgcFbc",
+        "officer": {
+          "appointments": "/officers/U6vf-CVLul4ZaQ_W_FnWT5a9srA/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "AWADA, Osama Ali",
+      "officer_role": "director",
+      "appointed_on": "2013-09-01",
+      "resigned_on": "2020-02-28",
+      "nationality": "Lebanese",
+      "country_of_residence": "England",
+      "occupation": "Manager",
+      "address": {
+        "address_line_1": "Edgware Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "W2 1ES",
+        "premises": "209"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/06915900/appointments/MwdODTvCkcaZjZ_w_1Q1l0pXIww",
+        "officer": {
+          "appointments": "/officers/l9q4_NVnDd3E0dxTtbrDdDxW85w/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "KHEYAMI, Sam",
+      "officer_role": "director",
+      "appointed_on": "2009-05-27",
+      "resigned_on": "2013-04-20",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "Remsted House",
+        "address_line_2": "Mortimer Crescent",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW6 5UT",
+        "premises": "Flat 25"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/06915900/appointments/W5U8iZDPGjXUFsdzVS89dAlyGJc",
+        "officer": {
+          "appointments": "/officers/xEkm8RcTgVEnqAKGwWmurmhQekk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MAJID, Sadegh Jafar Karbailai",
+      "officer_role": "director",
+      "appointed_on": "2015-09-03",
+      "resigned_on": "2017-04-27",
+      "nationality": "Swedish",
+      "country_of_residence": "England",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "Edgware Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "W2 1ES",
+        "premises": "209"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1970
+      },
+      "links": {
+        "self": "/company/06915900/appointments/ud1rG42ovstO9RD50UxORWnHA6I",
+        "officer": {
+          "appointments": "/officers/b52oRahIP09m9bkVgUt7hUT41CM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

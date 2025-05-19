@@ -1,0 +1,45 @@
+{
+  "company_number": "05160515",
+  "company_name": "TECH DEPT LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2004-06-23",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62090"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Fircliffe House Whitworth Road",
+    "address_line_2": "Darley Dale",
+    "country": "England",
+    "locality": "Matlock",
+    "postal_code": "DE4 2HJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "etag": "4f77bc70e9e028acacc0c53b413d5a490150ebbd"
+}

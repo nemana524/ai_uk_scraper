@@ -1,0 +1,35 @@
+{
+  "company_number": "11643952",
+  "company_name": "TECH EXCHANGE ENTERPRISE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SAQIB, Mohammed",
+      "officer_role": "director",
+      "appointed_on": "2018-10-26",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Delves Crescent",
+        "country": "England",
+        "locality": "Walsall",
+        "postal_code": "WS5 4LS",
+        "premises": "37"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/11643952/appointments/zA2s93Vq-hSFyhyDMPQ6j7Y2REA",
+        "officer": {
+          "appointments": "/officers/bjVIgi53Cbc1yqfMi5yV76K9xg4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

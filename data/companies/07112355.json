@@ -1,0 +1,68 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH 4 OFFICE EQUIPMENT LIMITED",
+  "company_number": "07112355",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-20",
+    "next_due": "2026-03-06",
+    "next_made_up_to": "2026-02-20",
+    "overdue": false
+  },
+  "date_of_creation": "2009-12-23",
+  "etag": "51f996f3a98c92b624223088cf1ce40db3a991ef",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-12-23",
+  "links": {
+    "persons_with_significant_control": "/company/07112355/persons-with-significant-control",
+    "self": "/company/07112355",
+    "charges": "/company/07112355/charges",
+    "filing_history": "/company/07112355/filing-history",
+    "officers": "/company/07112355/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2010-01-08",
+      "effective_from": "2009-12-23",
+      "name": "BAS (TWO HUNDRED AND TWENTY SEVEN) LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Skiddaw Building",
+    "address_line_2": "Carlisle Airport Business Park",
+    "country": "United Kingdom",
+    "locality": "Carlisle",
+    "postal_code": "CA6 4NW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "77330"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

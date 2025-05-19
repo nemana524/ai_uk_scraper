@@ -1,0 +1,78 @@
+[
+  {
+    "transaction_id": "MzQ0NjA4MjEzM2FkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-12-17",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15381661/filing-history/MzQ0NjA4MjEzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wIjWP1YRmTiEuuVYV7Zo2JmpAyTu01yU_5jnth3ikOg"
+    }
+  },
+  {
+    "transaction_id": "MzQzNTM1NDU4OGFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-09-24",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15381661/filing-history/MzQzNTM1NDU4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/o7_8oIaQDEZrZtYqoQztFQGZh9ap1BFwpaAgTVAotgs"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjA4ODAyN2FkaXF6a2N4",
+    "barcode": "XCJJ60WI",
+    "type": "NEWINC",
+    "date": "2024-01-02",
+    "category": "incorporation",
+    "annotations": [
+      {
+        "annotation": "Part Admin Removed The director, person with significant control and shareholder and subscriber details on the IN01 were administratively removed from the public register on 30/07/2024 as the material was not properly delivered",
+        "date": "2024-07-30",
+        "description": "annotation",
+        "category": "annotation",
+        "type": "ANNOTATION",
+        "description_values": {
+          "description": "Part Admin Removed The director, person with significant control and shareholder and subscriber details on the IN01 were administratively removed from the public register on 30/07/2024 as the material was not properly delivered"
+        }
+      }
+    ],
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-01-02",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-01-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-01-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-01-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15381661/filing-history/MzQwNjA4ODAyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fC6eIEaepKf7I2FRrs42WchUwYYflJySKi0fV5RyioI"
+    }
+  }
+]

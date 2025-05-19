@@ -1,0 +1,37 @@
+{
+  "company_number": "15164415",
+  "company_name": "TECH INVESTIGATE LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "HEWAWASAM, Ravindu Chathushanka",
+      "officer_role": "director",
+      "appointed_on": "2023-09-26",
+      "resigned_on": null,
+      "nationality": "Sri Lankan",
+      "country_of_residence": "Sri Lanka",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Unit F, Winston Business Park",
+        "address_line_2": "Churchill Way",
+        "country": "United Kingdom",
+        "locality": "Sheffield",
+        "postal_code": "S35 2PS",
+        "premises": "69637",
+        "region": "South Yorkshire"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 2001
+      },
+      "links": {
+        "self": "/company/15164415/appointments/Z9ECrSALWIywZC4mA_aQSA7k0o4",
+        "officer": {
+          "appointments": "/officers/QMdrZrp9jgdKG629tfKMZ_PukTo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

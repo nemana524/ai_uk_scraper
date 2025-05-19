@@ -1,0 +1,91 @@
+{
+  "company_number": "15020314",
+  "company_name": "TECH & TECH LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "SINGH, Sukhjeet",
+      "officer_role": "director",
+      "appointed_on": "2024-01-02",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "182-184 High Street North",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E6 2JA",
+        "premises": "Office 4595"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 2000
+      },
+      "links": {
+        "self": "/company/15020314/appointments/dbAecOnQphWRKr1XHlpvksww14w",
+        "officer": {
+          "appointments": "/officers/WN0_yAnm5vRVvpI4BuEUx46o4LU/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BEDO, Mihaly",
+      "officer_role": "director",
+      "appointed_on": "2024-04-22",
+      "resigned_on": "2025-01-23",
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Business Person",
+      "address": {
+        "address_line_1": "182-184 High Street North",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E6 2JA",
+        "premises": "Office 4595"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/15020314/appointments/FMcESvHhIlqU6CB2bso-FoN0Vek",
+        "officer": {
+          "appointments": "/officers/KXGW7QorGCjd06oAfATPqZiV0S4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "BEDO, Mihaly",
+      "officer_role": "director",
+      "appointed_on": "2023-07-21",
+      "resigned_on": "2024-01-02",
+      "nationality": "Romanian",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "Thong Lane",
+        "country": "England",
+        "locality": "Gravesend",
+        "postal_code": "DA12 4LG",
+        "premises": "254"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1974
+      },
+      "links": {
+        "self": "/company/15020314/appointments/aDLGGdlOxsF5FXfR4JR6uFkyU-w",
+        "officer": {
+          "appointments": "/officers/CX_7yq3Xjhs4_KRAX8AEJrGOP1s/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "company_number": "11272888",
+  "company_name": "TECH COMMS GLOBAL LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SWALES, James Michael",
+      "officer_role": "director",
+      "appointed_on": "2018-03-23",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "It Sales",
+      "address": {
+        "address_line_1": "Higher Metcombe",
+        "address_line_2": "Ottery St Marys",
+        "country": "England",
+        "locality": "Devon",
+        "postal_code": "EX11 1SN",
+        "premises": "Metcombe Cottage"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/11272888/appointments/9TOzW6iz4DnDpcnVaXc9KctjQ54",
+        "officer": {
+          "appointments": "/officers/08q1dbcCmdJOB0JaIEjkoPEg3_o/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,989 @@
+[
+  {
+    "transaction_id": "MzQ0ODcyMDY2MmFkaXF6a2N4",
+    "barcode": "XDIKHWEH",
+    "type": "AA",
+    "date": "2024-12-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-04-05"
+    },
+    "pages": 6,
+    "action_date": "2024-04-05",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzQ0ODcyMDY2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hmlEjrlhjibTzX4uZbJcCJ6XYnaYTEXoWrh5M8oAgco"
+    }
+  },
+  {
+    "transaction_id": "MzQzODU4ODY5M2FkaXF6a2N4",
+    "barcode": "XDD7UF09",
+    "type": "LLCS01",
+    "date": "2024-10-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-08-25"
+    },
+    "pages": 3,
+    "action_date": "2024-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzQzODU4ODY5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SIwmOm3j-RzRcnJ5Mi2JcZYQEEPxRwV5WtQPyTV93Xo"
+    }
+  },
+  {
+    "transaction_id": "MzQwNDY5MjQ4OGFkaXF6a2N4",
+    "barcode": "XCIMS6Y2",
+    "type": "AA",
+    "date": "2023-12-18",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-04-05"
+    },
+    "pages": 7,
+    "action_date": "2023-04-05",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzQwNDY5MjQ4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ws4lQVoHGxKIYkonE7ERsifQIYjYBxf4WbKWORvOnTY"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzY0NTYwNWFkaXF6a2N4",
+    "barcode": "XCESY88X",
+    "type": "LLCH01",
+    "date": "2023-10-24",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2023-08-04",
+      "officer_name": "Mr James Russell Hill"
+    },
+    "pages": 2,
+    "action_date": "2023-08-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzM5NzY0NTYwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BkZVIc_tD1Mt4cmOCTk-IODtbrg0Dg4FsfiGlis-9QE"
+    }
+  },
+  {
+    "transaction_id": "MzM5NzE2MjY4MGFkaXF6a2N4",
+    "barcode": "XCEI6R7T",
+    "type": "LLCS01",
+    "date": "2023-10-19",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-08-25"
+    },
+    "pages": 3,
+    "action_date": "2023-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzM5NzE2MjY4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qpJnU-8jfVWcWQoVvI27vo-1e4EBGrmGFS9g3eJLn1I"
+    }
+  },
+  {
+    "transaction_id": "MzM2NDA5MzA3NGFkaXF6a2N4",
+    "barcode": "SBJX2IV5",
+    "type": "AA",
+    "date": "2023-01-11",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-04-05"
+    },
+    "pages": 5,
+    "action_date": "2022-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzM2NDA5MzA3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZH5lW2sf9KsYbjYy3ybWkT7L42Br11Z2j375DXzg88E"
+    }
+  },
+  {
+    "transaction_id": "MzM1MzM1NjEwN2FkaXF6a2N4",
+    "barcode": "XBDHS736",
+    "type": "LLAD01",
+    "date": "2022-09-28",
+    "category": "address",
+    "description": "change-registered-office-address-limited-liability-partnership-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-09-28",
+      "old_address": "Crescent House Carnegie Campus Dunfermline Fife KY11 8GR",
+      "new_address": "C/O Wjm 2 George Square Castle Brae Dunfermline KY11 8QF"
+    },
+    "pages": 1,
+    "action_date": "2022-09-28",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzM1MzM1NjEwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J4vIUoQZiCCNucrRTye2Q4N1oEGl7fvairhtkPwsuwU"
+    }
+  },
+  {
+    "transaction_id": "MzM1MDE3NjA1MGFkaXF6a2N4",
+    "barcode": "XBBHIQFD",
+    "type": "LLCS01",
+    "date": "2022-08-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-08-25"
+    },
+    "pages": 3,
+    "action_date": "2022-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzM1MDE3NjA1MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AYnKivoI3DSxLErfvyXH1O17Rj440NEfcQkGVZMg6vw"
+    }
+  },
+  {
+    "transaction_id": "MzMyNTExNjI2NmFkaXF6a2N4",
+    "barcode": "SAKE14UG",
+    "type": "AA",
+    "date": "2021-12-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-04-05"
+    },
+    "pages": 4,
+    "action_date": "2021-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzMyNTExNjI2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PO-dkGQ84i1spZ-5bXB5Alx19IHZEySFl5pXnlor1G4"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTY4NDE2MmFkaXF6a2N4",
+    "barcode": "XAE4JIEX",
+    "type": "LLCS01",
+    "date": "2021-09-30",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-08-25"
+    },
+    "pages": 3,
+    "action_date": "2021-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzMxNTY4NDE2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GrGGK6If5CdRcSvSYmeZPz2T4R8lHjN19M-0ebaH6VI"
+    }
+  },
+  {
+    "transaction_id": "MzMxNTY4Mzg3MGFkaXF6a2N4",
+    "barcode": "XAE4JHHL",
+    "type": "LLCH01",
+    "date": "2021-09-30",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2021-08-18",
+      "officer_name": "Mr James Russell Hill"
+    },
+    "pages": 2,
+    "action_date": "2021-08-18",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzMxNTY4Mzg3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kP9lVR2DmfOHCA-AwbSQsH3UYnfazba19xnNCE4VF4c"
+    }
+  },
+  {
+    "transaction_id": "MzI4NTE5NDU4N2FkaXF6a2N4",
+    "barcode": "S9J6YCYB",
+    "type": "AA",
+    "date": "2020-12-11",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2020-04-05"
+    },
+    "pages": 5,
+    "action_date": "2020-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzI4NTE5NDU4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/G3mIb7sf5U5-75w-O4wH5NKfJ1iHDJEzlc8uukKf3GM"
+    }
+  },
+  {
+    "transaction_id": "MzI3NzU4Mzc4NmFkaXF6a2N4",
+    "barcode": "X9DKV3TL",
+    "type": "LLCS01",
+    "date": "2020-09-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-08-25"
+    },
+    "pages": 3,
+    "action_date": "2020-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzI3NzU4Mzc4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/KEFqIaZ1wLEm0yHfY5RmtwdXPhpnabFechjmW5RLaoE"
+    }
+  },
+  {
+    "transaction_id": "MzI1NjgyOTY5MGFkaXF6a2N4",
+    "barcode": "S8KRI577",
+    "type": "AA",
+    "date": "2020-02-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2019-04-05"
+    },
+    "pages": 5,
+    "action_date": "2019-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzI1NjgyOTY5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/I4ZFULggdjnzr44jfUYVEnOejd-BAuglk8IxNYxAiX8"
+    }
+  },
+  {
+    "transaction_id": "MzI0NDMzMDIxN2FkaXF6a2N4",
+    "barcode": "X8E4GAKA",
+    "type": "LLCS01",
+    "date": "2019-09-16",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-08-25"
+    },
+    "pages": 3,
+    "action_date": "2019-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzI0NDMzMDIxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2a9U_RdPEu8Du4tuuvsfpd_QrYVwiJv8gpTx2oDbPfU"
+    }
+  },
+  {
+    "transaction_id": "MzIyMjc4NTEyNmFkaXF6a2N4",
+    "barcode": "S7LA3H2B",
+    "type": "AA",
+    "date": "2018-12-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2018-04-05"
+    },
+    "pages": 5,
+    "action_date": "2018-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzIyMjc4NTEyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RkLBu3OIWVVZ6FOEdbuJRcybY4JjDz5v4D8NJqoWbZI"
+    }
+  },
+  {
+    "transaction_id": "MzIxMzE2OTE0MWFkaXF6a2N4",
+    "barcode": "X7DC2JGP",
+    "type": "LLCS01",
+    "date": "2018-08-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2018-08-25"
+    },
+    "pages": 3,
+    "action_date": "2018-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzIxMzE2OTE0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2gKOBifNQNPNy1kL4G0xrOxirC3YBsxprouGq3CUUCA"
+    }
+  },
+  {
+    "transaction_id": "MzE5Mzg0Njk1MmFkaXF6a2N4",
+    "barcode": "S6M504H6",
+    "type": "AA",
+    "date": "2018-01-07",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2017-04-05"
+    },
+    "pages": 5,
+    "action_date": "2017-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE5Mzg0Njk1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CKndS93q2R-RLviHhghL-rS7WToUsUHI9UQLLxEO3tI"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzgwMTA4NGFkaXF6a2N4",
+    "barcode": "X6DJP4Y1",
+    "type": "LLCS01",
+    "date": "2017-08-25",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2017-08-25"
+    },
+    "pages": 3,
+    "action_date": "2017-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MzgwMTA4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HtAZ8P_S2TtDG0efu0NRfI3xl9Khj6vR2Z3OhZo5UWM"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzgwMDM5NWFkaXF6a2N4",
+    "barcode": "X6DJOHFC",
+    "type": "LLPSC01",
+    "date": "2017-08-25",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control-limited-liability-partnership",
+    "description_values": {
+      "psc_name": "Martin Russell John Hill",
+      "notification_date": "2017-07-31"
+    },
+    "pages": 2,
+    "action_date": "2017-07-31",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MzgwMDM5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Sz3UhJVMv97NIw86vZVA0DN6LSkniab-5UUemiAWqAE"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzgwMDE2OGFkaXF6a2N4",
+    "barcode": "X6DJO5VU",
+    "type": "LLPSC09",
+    "date": "2017-08-25",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "withdrawal-of-a-person-with-significant-control-statement-limited-liability-partnership",
+    "description_values": {
+      "withdrawal_date": "2017-08-25"
+    },
+    "pages": 2,
+    "action_date": "2017-08-25",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MzgwMDE2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/21urGD7_ZXXcQw3y8kc5mK1WrbR3apirTeegoVPRfN0"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzM2MDMzN2FkaXF6a2N4",
+    "barcode": "X6DAWS4P",
+    "type": "LLCS01",
+    "date": "2017-08-21",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2017-06-04"
+    },
+    "pages": 3,
+    "action_date": "2017-06-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MzM2MDMzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/owTTiEaisB1cqQm6C30r5nR54Ck0NhPL89hYsXzHww4"
+    }
+  },
+  {
+    "transaction_id": "MzE4MzM1OTEyNmFkaXF6a2N4",
+    "barcode": "X6DAVGNU",
+    "type": "LLPSC08",
+    "date": "2017-08-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "statements",
+    "description": "notification-of-a-person-with-significant-control-statement-limited-liability-partnership",
+    "pages": 2,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MzM1OTEyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t-n41-Q17AnZ43BO3og1TtZTcTE_1d6ZkUour-F9CWI"
+    }
+  },
+  {
+    "transaction_id": "MzE4MTkyMjMzMWFkaXF6a2N4",
+    "barcode": "X6BWG161",
+    "type": "LLTM01",
+    "date": "2017-08-01",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Zoe Kay Carter",
+      "termination_date": "2017-07-31"
+    },
+    "pages": 1,
+    "action_date": "2017-07-31",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MTkyMjMzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YbXcubNecZezmVDPKw-1zxp42eegXy3RUHBqWlr_6VU"
+    }
+  },
+  {
+    "transaction_id": "MzE4MTkyMjEwN2FkaXF6a2N4",
+    "barcode": "X6BWFV22",
+    "type": "LLTM01",
+    "date": "2017-08-01",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Norman Clive Carter",
+      "termination_date": "2017-07-31"
+    },
+    "pages": 1,
+    "action_date": "2017-07-31",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MTkyMjEwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/IE8wmOdxK7WByxnAU2an-xVcGdzVfgXdF9PUeKxACGM"
+    }
+  },
+  {
+    "transaction_id": "MzE4MTkyMTY4N2FkaXF6a2N4",
+    "barcode": "X6BWFCEW",
+    "type": "LLCH01",
+    "date": "2017-08-01",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2017-07-31",
+      "officer_name": "Mr James Russell Hill"
+    },
+    "pages": 2,
+    "action_date": "2017-07-31",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE4MTkyMTY4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/iKaJyHVdcxwx3371h4na3s5UcRMu9R3ka-NFvxf6S6I"
+    }
+  },
+  {
+    "transaction_id": "MzE2NTQ3NTYzNmFkaXF6a2N4",
+    "barcode": "S5MIEB9T",
+    "type": "AA",
+    "date": "2017-01-11",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2016-04-05"
+    },
+    "pages": 5,
+    "action_date": "2016-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE2NTQ3NTYzNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qliZ1IfcMsbqYwk7aqKrrMmGD85m2JcedRLm262K3N0"
+    }
+  },
+  {
+    "transaction_id": "MzE1MjAxMzA4MGFkaXF6a2N4",
+    "barcode": "X5A7NRXT",
+    "type": "LLAR01",
+    "date": "2016-06-30",
+    "category": "annual-return",
+    "description": "annual-return-limited-liability-partnership-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2016-06-04"
+    },
+    "pages": 6,
+    "action_date": "2016-06-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzE1MjAxMzA4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BCeGAf8wzjUZMQyaAVgG7R8SO47Js_mWmyyQSRN4fE8"
+    }
+  },
+  {
+    "transaction_id": "MzEzMzQ3OTc4M2FkaXF6a2N4",
+    "barcode": "S4II40I9",
+    "type": "AA",
+    "date": "2015-10-21",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2015-04-05"
+    },
+    "pages": 5,
+    "action_date": "2015-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzEzMzQ3OTc4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4YXHFlCv0TzFkUpF9csii61-bvLRPwTpBl-MEy7488Q"
+    }
+  },
+  {
+    "transaction_id": "MzEyNjQwNTMzMGFkaXF6a2N4",
+    "barcode": "X4AVXRL5",
+    "type": "LLAR01",
+    "date": "2015-07-03",
+    "category": "annual-return",
+    "description": "annual-return-limited-liability-partnership-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2015-06-04"
+    },
+    "pages": 6,
+    "action_date": "2015-06-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzEyNjQwNTMzMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/m28POEz4VNbCZNWmbNy-GpYRYKaHubggWIk6cngX37s"
+    }
+  },
+  {
+    "transaction_id": "MzExMzk2NjgzMWFkaXF6a2N4",
+    "barcode": "S3N44MSQ",
+    "type": "AA",
+    "date": "2014-12-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2014-04-05"
+    },
+    "pages": 5,
+    "action_date": "2014-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzExMzk2NjgzMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/xoTMghJS4VcjiSFcSIGrfVdRZ_-RbqHceu3tuO0vYWM"
+    }
+  },
+  {
+    "transaction_id": "MzEwMzA1OTI4MGFkaXF6a2N4",
+    "barcode": "X3B8UZN2",
+    "type": "LLAR01",
+    "date": "2014-07-02",
+    "category": "annual-return",
+    "description": "annual-return-limited-liability-partnership-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2014-06-04"
+    },
+    "pages": 6,
+    "action_date": "2014-06-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzEwMzA1OTI4MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oMJbdE0QXhACA84b6BGZJ7jI9tOctjxIzf_2ZWwUNQs"
+    }
+  },
+  {
+    "transaction_id": "MzEwMzA1ODk1MWFkaXF6a2N4",
+    "barcode": "X3B8UZMI",
+    "type": "LLCH01",
+    "date": "2014-07-02",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2014-06-03",
+      "officer_name": "Mr James Russell Hill"
+    },
+    "pages": 2,
+    "action_date": "2014-06-03",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzEwMzA1ODk1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Q0LN3Lb0T4Rvu94nwtBwB3wOVafE-3sno1GJUsrPd4"
+    }
+  },
+  {
+    "transaction_id": "MzEwMzA1ODk1MmFkaXF6a2N4",
+    "barcode": "X3B8UZMQ",
+    "type": "LLCH01",
+    "date": "2014-07-02",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2014-06-03",
+      "officer_name": "Martin Russell John Hill"
+    },
+    "pages": 2,
+    "action_date": "2014-06-03",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzEwMzA1ODk1MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hRaLgCFYEGMpiXAz2mxSM8JGCxWua1dBhIZQH_-UkQw"
+    }
+  },
+  {
+    "transaction_id": "MzEwMzA1ODk0OGFkaXF6a2N4",
+    "barcode": "X3B8UZMA",
+    "type": "LLCH01",
+    "date": "2014-07-02",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2014-06-03",
+      "officer_name": "Hilary Susan Hill"
+    },
+    "pages": 2,
+    "action_date": "2014-06-03",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzEwMzA1ODk0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_3B0BHFVI-XNtl7T3LsuvBmXp7MnvlwMe3xMTpk5Tsc"
+    }
+  },
+  {
+    "transaction_id": "MzA5MDY3NTAwM2FkaXF6a2N4",
+    "barcode": "S2N2EYMZ",
+    "type": "AA",
+    "date": "2013-12-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2013-04-05"
+    },
+    "pages": 5,
+    "action_date": "2013-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA5MDY3NTAwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fbYsseZdZJatqn-W0SnXcCETUugy9jW68AG2gaThO6w"
+    }
+  },
+  {
+    "transaction_id": "MzA4NzU1MTg2OWFkaXF6a2N4",
+    "barcode": "X2JO55P4",
+    "type": "LLAP01",
+    "date": "2013-10-24",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-member-limited-liability-partnership",
+    "description_values": {
+      "officer_name": "Mr James Russell Hill"
+    },
+    "pages": 2,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA4NzU1MTg2OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/BLt4cRz75dESlVTszgjqRQ4tJxO4YhqeHI2LJDJKKcE"
+    }
+  },
+  {
+    "transaction_id": "MzA4MzAyMjA1M2FkaXF6a2N4",
+    "barcode": "X2EFB0BC",
+    "type": "LLAR01",
+    "date": "2013-08-09",
+    "category": "annual-return",
+    "description": "annual-return-limited-liability-partnership-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2013-06-04"
+    },
+    "pages": 5,
+    "action_date": "2013-06-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA4MzAyMjA1M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/blSx1BDm6sxbUcANpqFno9au5TxpZ0EPwSdynb5LNKY"
+    }
+  },
+  {
+    "transaction_id": "MzA4MzAyMTk4NGFkaXF6a2N4",
+    "barcode": "X2EFB0B4",
+    "type": "LLCH01",
+    "date": "2013-08-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2013-08-07",
+      "officer_name": "Martin Russell John Hill"
+    },
+    "pages": 2,
+    "action_date": "2013-08-07",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA4MzAyMTk4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z4BSHjizZiJMXelUZy2drV_bczmUoskvCU5d3t59c-4"
+    }
+  },
+  {
+    "transaction_id": "MzA4MzAyMTk4M2FkaXF6a2N4",
+    "barcode": "X2EFB0AW",
+    "type": "LLCH01",
+    "date": "2013-08-09",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2013-07-01",
+      "officer_name": "Hilary Susan Hill"
+    },
+    "pages": 2,
+    "action_date": "2013-07-01",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA4MzAyMTk4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/75geMpzn7ndHAUWDBWNHNOQnhkzb7Z-yNEiKJAHUCV0"
+    }
+  },
+  {
+    "transaction_id": "MzA3MDEwODgyOGFkaXF6a2N4",
+    "barcode": "S1OBZI49",
+    "type": "AA",
+    "date": "2012-12-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2012-04-05"
+    },
+    "pages": 5,
+    "action_date": "2012-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA3MDEwODgyOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Gnrr2xBHOKOfV-jQP-9ROC_iA3PPNbTDkWz7Za6_dqA"
+    }
+  },
+  {
+    "transaction_id": "MzA2MDAzMTU2M2FkaXF6a2N4",
+    "barcode": "X1C3NB0R",
+    "type": "LLAR01",
+    "date": "2012-06-29",
+    "category": "annual-return",
+    "description": "annual-return-limited-liability-partnership-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2012-06-04"
+    },
+    "pages": 5,
+    "action_date": "2012-06-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA2MDAzMTU2M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mUg5xbAX52ZVkY345rIZ6DemPSL_bA1omGI7PoQ-ML4"
+    }
+  },
+  {
+    "transaction_id": "MzA0OTgxMzYzOWFkaXF6a2N4",
+    "barcode": "S0OML4WG",
+    "type": "AA",
+    "date": "2011-12-29",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2011-04-05"
+    },
+    "pages": 5,
+    "action_date": "2011-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzA0OTgxMzYzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/EnYWof4tOqRRA4BsWY-Kh7PDKjSwnJQPQM0Yvqdlweo"
+    }
+  },
+  {
+    "transaction_id": "MzAzOTQ5NDA2NmFkaXF6a2N4",
+    "barcode": "X0TLNVC5",
+    "type": "LLAR01",
+    "date": "2011-06-27",
+    "category": "annual-return",
+    "description": "annual-return-limited-liability-partnership-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2011-06-04"
+    },
+    "pages": 5,
+    "action_date": "2011-06-04",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzAzOTQ5NDA2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GnSi-12121caO0Sl8bDGFa5IB5YrXYc8VXq4de1bO_M"
+    }
+  },
+  {
+    "transaction_id": "MzAzOTQ5MzgzOWFkaXF6a2N4",
+    "barcode": "X0TLLVC3",
+    "type": "LLCH01",
+    "date": "2011-06-27",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2011-06-03",
+      "officer_name": "Hilary Susan Hill"
+    },
+    "pages": 2,
+    "action_date": "2011-06-03",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzAzOTQ5MzgzOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ows8-vMzi-PLa80o7oF-mLyLSws_6zSHag1GB15ysec"
+    }
+  },
+  {
+    "transaction_id": "MzAzOTQ5Mzg0MWFkaXF6a2N4",
+    "barcode": "X0TLMVC4",
+    "type": "LLCH01",
+    "date": "2011-06-27",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+    "description_values": {
+      "change_date": "2011-06-03",
+      "officer_name": "Martin Russell John Hill"
+    },
+    "pages": 2,
+    "action_date": "2011-06-03",
+    "links": {
+      "self": "/company/SO301382/filing-history/MzAzOTQ5Mzg0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wgs-FzSyzLoXygsgwB-h9dt6lzhXhhdodFbH12-6ro4"
+    }
+  },
+  {
+    "transaction_id": "MzAyOTkxMzM3NWFkaXF6a2N4",
+    "barcode": "SY9KPQCA",
+    "type": "AA",
+    "date": "2011-01-06",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2010-04-05"
+    },
+    "pages": 5,
+    "action_date": "2010-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzAyOTkxMzM3NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pyKp3vJV-Sdv50zUizMJVCnJD47ETVJpUyBfJFyxpDc"
+    }
+  },
+  {
+    "transaction_id": "MzAxODc2NzE5NWFkaXF6a2N4",
+    "barcode": "S4DUYL9V",
+    "type": "LLAR01",
+    "date": "2010-07-02",
+    "category": "annual-return",
+    "description": "annual-return-limited-liability-partnership-with-made-up-date",
+    "description_values": {
+      "made_up_date": "2010-06-04"
+    },
+    "pages": 10,
+    "action_date": "2010-06-04",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzAxODc2NzE5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/hWmK1hEVInNavuqVTLldzVp0gPfWpkRh6iblLvTCDcI"
+    }
+  },
+  {
+    "transaction_id": "MzAwNzAwODU3N2FkaXF6a2N4",
+    "barcode": "SASWJGG5",
+    "type": "AA",
+    "date": "2010-01-13",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2009-04-05"
+    },
+    "pages": 5,
+    "action_date": "2009-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MzAwNzAwODU3N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0CV_u90t8TDQnK2bbiGjg5cz1rTQo3Z-WYA6PGx0y7o"
+    }
+  },
+  {
+    "transaction_id": "MjAzNzM2ODU5MGFkaXF6a2N4",
+    "barcode": "SI160BKC",
+    "type": "LLP363",
+    "date": "2009-07-17",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Annual return made up to 04/06/09"
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MjAzNzM2ODU5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JUD0MExJSmkTun7ohOwPAwOwjCHVijfCkh4MFKxdygA"
+    }
+  },
+  {
+    "transaction_id": "MjAyNDYyODE3OGFkaXF6a2N4",
+    "barcode": "SOWEH6XA",
+    "type": "AA",
+    "date": "2009-01-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-small",
+    "description_values": {
+      "made_up_date": "2008-04-05"
+    },
+    "pages": 5,
+    "action_date": "2008-04-05",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MjAyNDYyODE3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Wwwh0ov7jRgCmW8fsLBZIj8usx-DA_Pd45FWLcEN_To"
+    }
+  },
+  {
+    "transaction_id": "MjAwODU0MTE4N2FkaXF6a2N4",
+    "barcode": "SWQLF12H",
+    "type": "LLP363",
+    "date": "2008-07-07",
+    "category": "annual-return",
+    "description": "legacy",
+    "description_values": {
+      "description": "Annual return made up to 04/06/08"
+    },
+    "pages": 3,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MjAwODU0MTE4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/g3Ti0U28X70G2A4UtgXwHWvizFgLDm-dXWJXWuPnP68"
+    }
+  },
+  {
+    "transaction_id": "MTkyNTk1OTIwYWRpcXprY3g",
+    "type": "288c",
+    "date": "2008-02-20",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "Member's particulars changed"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MTkyNTk1OTIwYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OqIgfELVbwbKWeLlDULFrp2P-dxuDZ8TjP04rRJsWZI"
+    }
+  },
+  {
+    "transaction_id": "MTkyNTk1OTE5YWRpcXprY3g",
+    "type": "288a",
+    "date": "2008-02-20",
+    "category": "officers",
+    "description": "legacy",
+    "description_values": {
+      "description": "New member appointed"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MTkyNTk1OTE5YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TFe0fobfehsn8kCAMRF-8vvRRzZviATNYIDXosvk16Y"
+    }
+  },
+  {
+    "transaction_id": "MTg0NjY4MTg4YWRpcXprY3g",
+    "type": "225",
+    "date": "2007-08-27",
+    "category": "accounts",
+    "description": "legacy",
+    "description_values": {
+      "description": "Accounting reference date shortened from 30/06/08 to 05/04/08"
+    },
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MTg0NjY4MTg4YWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/g8PEy66mUny9-ltdU6lV2kj3u9uFmwqbM437rgcxUGc"
+    }
+  },
+  {
+    "transaction_id": "MTgxMzg5MzYxYWRpcXprY3g",
+    "type": "NEWINC",
+    "date": "2007-06-04",
+    "category": "incorporation",
+    "description": "incorporation-company",
+    "pages": 4,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/SO301382/filing-history/MTgxMzg5MzYxYWRpcXprY3g",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tlvoChZG08TXpkCA0BVcpfqERO7qy3fexfklJV1_LgI"
+    }
+  }
+]

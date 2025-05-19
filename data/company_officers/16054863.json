@@ -1,0 +1,36 @@
+{
+  "company_number": "16054863",
+  "company_name": "TECH AETHER LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "ACHARYA, Ujjwal",
+      "officer_role": "director",
+      "appointed_on": "2024-11-01",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "India",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "213 Kingsbury Road",
+        "address_line_2": "Jubilee Business Centre",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "NW9 8AQ",
+        "premises": "Suite 15, I Floor"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/16054863/appointments/eT4IbCaBM6snkgLjE7oZaX5O5tA",
+        "officer": {
+          "appointments": "/officers/k2d4GmN-kUvdqDjXyjCBpSoqBa0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

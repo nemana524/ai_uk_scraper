@@ -1,0 +1,57 @@
+[
+  {
+    "address": {
+      "address_line_1": "Shepherds Close",
+      "country": "United Kingdom",
+      "locality": "Romford",
+      "postal_code": "RM6 5AJ",
+      "premises": "118",
+      "region": "Essex"
+    },
+    "appointed_on": "2024-07-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1978
+    },
+    "links": {
+      "self": "/company/15829469/appointments/ocq5RdOlhP5w_cNHVbScLTR2bZI",
+      "officer": {
+        "appointments": "/officers/p7Qog4IVa6WmYhaCQksauZqYxwc/appointments"
+      }
+    },
+    "name": "KHALID, Sikander",
+    "nationality": "British",
+    "occupation": "Information Technology",
+    "officer_role": "director",
+    "person_number": "276116220001"
+  },
+  {
+    "address": {
+      "address_line_1": "450 High Road",
+      "country": "United Kingdom",
+      "locality": "Ilford",
+      "postal_code": "IG1 1ZG",
+      "premises": "Unit 6, 450 Charter House, Charter Business Centre"
+    },
+    "appointed_on": "2024-07-09",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/15829469/appointments/DFVFHeHVfUFtC74qwS-M7t6vNig",
+      "officer": {
+        "appointments": "/officers/5ja4pDFlFA2O5q4U1G-YNg3KfgQ/appointments"
+      }
+    },
+    "name": "RAHIM, Abdul",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "110305130001"
+  }
+]

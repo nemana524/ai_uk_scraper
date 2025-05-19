@@ -1,0 +1,38 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH CONSULTING AI LIMITED",
+  "company_number": "15270855",
+  "company_status": "dissolved",
+  "date_of_cessation": "2025-04-22",
+  "date_of_creation": "2023-11-08",
+  "etag": "fde1a833bf61032f072846516c1e9dcff2c7a239",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15270855/persons-with-significant-control",
+    "self": "/company/15270855",
+    "filing_history": "/company/15270855/filing-history",
+    "officers": "/company/15270855/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Bartle House",
+    "address_line_2": "9 Oxford Court",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M2 3WQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

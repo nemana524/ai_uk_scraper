@@ -1,0 +1,77 @@
+[
+  {
+    "address": {
+      "address_line_1": "Suite 8",
+      "address_line_2": "Mount Pleasant",
+      "country": "England",
+      "locality": "Wembley",
+      "postal_code": "HA0 1TX",
+      "premises": "Unit 9 Liberty Centre"
+    },
+    "appointed_on": "2018-10-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/11652130/appointments/je-Lz8oGx2omPj2MKyMHiirhjEI",
+      "officer": {
+        "appointments": "/officers/tK4hgyJK6ahRNhbt2WBlGMzaX3s/appointments"
+      }
+    },
+    "name": "HASHI, Sayid-Abubaker Abdirashid",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "person_number": "252002450003"
+  },
+  {
+    "address": {
+      "country": "England",
+      "locality": "London",
+      "postal_code": "W10 4QW",
+      "premises": "34 Galton Street"
+    },
+    "appointed_on": "2018-10-31",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/11652130/appointments/9-AnnViUmy58747njFiX9X7bmfg",
+      "officer": {
+        "appointments": "/officers/bk5gzvual5175Ej_cnDWroF9Fcc/appointments"
+      }
+    },
+    "name": "HASHI, Sayid",
+    "officer_role": "secretary",
+    "resigned_on": "2019-01-05",
+    "person_number": "252002480001"
+  },
+  {
+    "address": {
+      "address_line_1": "Great Portland Street",
+      "locality": "London",
+      "postal_code": "W1W 7LT",
+      "premises": "85"
+    },
+    "appointed_on": "2018-10-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/11652130/appointments/wQNwQNJnCKwb-s5ToVcD3knccAs",
+      "officer": {
+        "appointments": "/officers/CUxA1icYpQgvt8LboNDpygoE7KQ/appointments"
+      }
+    },
+    "name": "AHMED, Mustafa",
+    "nationality": "British",
+    "occupation": "It Consultant",
+    "officer_role": "director",
+    "resigned_on": "2022-05-31",
+    "person_number": "252002470001"
+  }
+]

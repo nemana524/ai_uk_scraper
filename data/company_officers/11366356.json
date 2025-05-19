@@ -1,0 +1,150 @@
+{
+  "company_number": "11366356",
+  "company_name": "TECH ALLIANCE GROUP LIMITED",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "AGAR, Anthony James Shelton",
+      "officer_role": "director",
+      "appointed_on": "2019-06-25",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Compair Crescent",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 0EH",
+        "premises": "80",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/11366356/appointments/UvYRHhSYtdT-wO9K4V367GwZghM",
+        "officer": {
+          "appointments": "/officers/fg5jtd29F9OWq7QQ_TeCto97Cmo/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "WAITE, Christopher",
+      "officer_role": "director",
+      "appointed_on": "2024-09-30",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Compair Crescent",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 0EH",
+        "premises": "80",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/11366356/appointments/tzWV8XB4HWNLFO_i_uszFUI7crk",
+        "officer": {
+          "appointments": "/officers/3e26MckkJAWPTa7iezR13r1X45c/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "CROFT-SHARLAND, Richard Martin Hamilton",
+      "officer_role": "director",
+      "appointed_on": "2021-05-15",
+      "resigned_on": "2024-09-30",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Compair Crescent",
+        "country": "United Kingdom",
+        "locality": "Ipswich",
+        "postal_code": "IP2 0EH",
+        "premises": "80",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/11366356/appointments/14SYRkCkJkRC2zj2l1--dRG9dmU",
+        "officer": {
+          "appointments": "/officers/3oBfUcXtlaNqO-2qCe8mLVmS1sg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "DUNHILL, David Robert",
+      "officer_role": "director",
+      "appointed_on": "2018-05-16",
+      "resigned_on": "2020-02-18",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "country": "England",
+        "locality": "Bury St Edmunds",
+        "postal_code": "IP33 1NX",
+        "premises": "15 Whiting Street"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/11366356/appointments/7u6rlp5OAtVT3wJzAYyyiVrDMMs",
+        "officer": {
+          "appointments": "/officers/-YR3DsilW-StLzHoj22a06YixZ4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "HUTTON, Jonathan Paul",
+      "officer_role": "director",
+      "appointed_on": "2019-01-15",
+      "resigned_on": "2020-02-18",
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Station Road",
+        "country": "England",
+        "locality": "Sudbury",
+        "postal_code": "CO10 2SP",
+        "premises": "61",
+        "region": "Suffolk"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1978
+      },
+      "links": {
+        "self": "/company/11366356/appointments/d2WMOc_bZUdyiKcXtsFcaTYLFLw",
+        "officer": {
+          "appointments": "/officers/o1cK3Xs0-8aID8klXXAMqEBgvyY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

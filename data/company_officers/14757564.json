@@ -1,0 +1,65 @@
+{
+  "company_number": "14757564",
+  "company_name": "TECH 4 SOCIAL IMPACT LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "PEMBERTON, Jeanette Caroline",
+      "officer_role": "director",
+      "appointed_on": "2023-03-25",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Spaces,",
+        "address_line_2": "Oxford St,",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M1 5AN",
+        "premises": "Peter House,"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1962
+      },
+      "links": {
+        "self": "/company/14757564/appointments/b0mlb8ylGEpcWaxKP4xLiotzY5Y",
+        "officer": {
+          "appointments": "/officers/8vHneB79pc4OPcOf5wOshaCvUVk/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SAIT, Christian Michael",
+      "officer_role": "director",
+      "appointed_on": "2023-03-25",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Spaces,",
+        "address_line_2": "Oxford St,",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M1 5AN",
+        "premises": "Peter House,"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1977
+      },
+      "links": {
+        "self": "/company/14757564/appointments/XIPOfk0UwfbmBfxLQekbfxjipA8",
+        "officer": {
+          "appointments": "/officers/pOmziGTA3K8r35qXfLrCj-1uNns/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "company_number": "15066843",
+  "company_name": "TECH CHANNEL AMBASSADORS CIC",
+  "total_officers": 5,
+  "officers": [
+    {
+      "name": "KILPATRICK, Ian",
+      "officer_role": "director",
+      "appointed_on": "2023-08-13",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Parkstone Road",
+        "country": "England",
+        "locality": "Poole",
+        "postal_code": "BH15 2PW",
+        "premises": "Towngate House 2-8"
+      },
+      "date_of_birth": {
+        "month": 3,
+        "year": 1952
+      },
+      "links": {
+        "self": "/company/15066843/appointments/RCqD-4-EP6y1_0hAylc5xt0CrnQ",
+        "officer": {
+          "appointments": "/officers/4qg10RnTqyyygGwokF6gmnFRPVY/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MONK, Rebecca Louise",
+      "officer_role": "director",
+      "appointed_on": "2023-10-30",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Chief People Officer",
+      "address": {
+        "address_line_1": "Parkstone Road",
+        "country": "England",
+        "locality": "Poole",
+        "postal_code": "BH15 2PW",
+        "premises": "Towngate House 2-8"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1981
+      },
+      "links": {
+        "self": "/company/15066843/appointments/5SApL_EohTjUlzXPhEKdsY2ZOfQ",
+        "officer": {
+          "appointments": "/officers/mUbZx8Xf97enE52xSOHgBhBmZh4/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MOONEY, Hayley",
+      "officer_role": "director",
+      "appointed_on": "2023-10-30",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "General Manager",
+      "address": {
+        "address_line_1": "Parkstone Road",
+        "country": "England",
+        "locality": "Poole",
+        "postal_code": "BH15 2PW",
+        "premises": "Towngate House 2-8"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/15066843/appointments/FGHsHTtH2sLDKQJZv_xVr4lHecg",
+        "officer": {
+          "appointments": "/officers/WGzZYtSTExYOwIVYamTHjulpcYg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ROBERTS, Hayley",
+      "officer_role": "director",
+      "appointed_on": "2023-10-30",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Ceo",
+      "address": {
+        "address_line_1": "Parkstone Road",
+        "country": "England",
+        "locality": "Poole",
+        "postal_code": "BH15 2PW",
+        "premises": "Towngate House 2-8"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1975
+      },
+      "links": {
+        "self": "/company/15066843/appointments/9xiEskRaubyt_ieFKKkJY9d1wXI",
+        "officer": {
+          "appointments": "/officers/FXnzFEwVmtzrkXL5Nl3m1x784UI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "SHORE, Wendy",
+      "officer_role": "director",
+      "appointed_on": "2023-10-30",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Business Manager",
+      "address": {
+        "address_line_1": "Parkstone Road",
+        "country": "England",
+        "locality": "Poole",
+        "postal_code": "BH15 2PW",
+        "premises": "Towngate House 2-8"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1973
+      },
+      "links": {
+        "self": "/company/15066843/appointments/xD53GqEboRnNdHrERwNCsnOsnuk",
+        "officer": {
+          "appointments": "/officers/UldXRP-jnYUMpKblxU5C6mngqak/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

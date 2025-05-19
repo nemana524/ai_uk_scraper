@@ -1,0 +1,35 @@
+{
+  "company_number": "12243300",
+  "company_name": "TECH IT OUT LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "LEWIS, Mark Herbert Fredrick",
+      "officer_role": "director",
+      "appointed_on": "2019-10-04",
+      "resigned_on": null,
+      "nationality": "Welsh",
+      "country_of_residence": "Wales",
+      "occupation": "Chief Executive Officer",
+      "address": {
+        "address_line_1": "Gaen Street",
+        "country": "Wales",
+        "locality": "Abertillery",
+        "postal_code": "NP13 1PT",
+        "premises": "6"
+      },
+      "date_of_birth": {
+        "month": 2,
+        "year": 1971
+      },
+      "links": {
+        "self": "/company/12243300/appointments/3wtWOiAeZxigiUn4lOZwuyq37xA",
+        "officer": {
+          "appointments": "/officers/2HEgU_XMFpoqSTlrfqslxlN_NyM/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

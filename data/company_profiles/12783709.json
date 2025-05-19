@@ -1,0 +1,35 @@
+{
+  "company_number": "12783709",
+  "company_name": "TECH BY NEXARISE LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2020-07-31",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "Unit 7 Navigation Business Village, Navigation Way",
+    "address_line_2": "Ashton-On-Ribble",
+    "country": "England",
+    "locality": "Preston",
+    "postal_code": "PR2 2YP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "27",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-12-30",
+      "period_end_on": "2022-12-30",
+      "type": "total-exemption-full"
+    }
+  },
+  "etag": "7bdcd7ba34eedd1001f1b3908bdbe8d4bfaf4716"
+}

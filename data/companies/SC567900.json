@@ -1,0 +1,65 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-06-30",
+      "period_end_on": "2024-06-30",
+      "period_start_on": "2023-07-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-31",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01"
+    },
+    "next_due": "2026-03-31",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH FRONTIER LTD",
+  "company_number": "SC567900",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-04",
+    "next_due": "2025-06-18",
+    "next_made_up_to": "2025-06-04",
+    "overdue": false
+  },
+  "date_of_creation": "2017-06-05",
+  "etag": "3451c7f1d7c3dbce84b30dbe114c7053e4f78fbe",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC567900/persons-with-significant-control",
+    "self": "/company/SC567900",
+    "filing_history": "/company/SC567900/filing-history",
+    "officers": "/company/SC567900/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2017-11-30",
+      "effective_from": "2017-06-05",
+      "name": "IEES IN ENGINEERING LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Robertson House",
+    "address_line_2": "Shore Street",
+    "country": "Scotland",
+    "locality": "Inverness",
+    "postal_code": "IV1 1NF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "74100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

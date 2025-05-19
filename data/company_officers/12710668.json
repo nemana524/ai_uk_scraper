@@ -1,0 +1,63 @@
+{
+  "company_number": "12710668",
+  "company_name": "TECH CONSULTING LIMITED",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "PRITCHARD, Michael John",
+      "officer_role": "director",
+      "appointed_on": "2020-07-01",
+      "resigned_on": null,
+      "nationality": "Welsh",
+      "country_of_residence": "Wales",
+      "occupation": "Technical Consultant",
+      "address": {
+        "address_line_1": "Llantwit Fardre",
+        "country": "Wales",
+        "locality": "Pontypridd",
+        "postal_code": "CF38 2NJ",
+        "premises": "54 Chandlers Reach"
+      },
+      "date_of_birth": {
+        "month": 4,
+        "year": 1969
+      },
+      "links": {
+        "self": "/company/12710668/appointments/Ht3IdyHo_puhylg-uq_idBDvOPA",
+        "officer": {
+          "appointments": "/officers/uzyI9sZDGNFlvTjl-fXYX8ZrN1w/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "PRITCHARD, Sarah Jane",
+      "officer_role": "director",
+      "appointed_on": "2023-05-15",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "Wales",
+      "occupation": "Administrator",
+      "address": {
+        "address_line_1": "Llantwit Fardre",
+        "country": "Wales",
+        "locality": "Pontypridd",
+        "postal_code": "CF38 2NJ",
+        "premises": "54 Chandlers Reach"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1967
+      },
+      "links": {
+        "self": "/company/12710668/appointments/gcfGuT0sphy9yz4hFsGlYeCR3z0",
+        "officer": {
+          "appointments": "/officers/s8ALxb9Is_kbzFAN8xTliD372uI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

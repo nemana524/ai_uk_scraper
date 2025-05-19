@@ -1,0 +1,72 @@
+[
+  {
+    "transaction_id": "MzQ1OTgwMTEzM2FkaXF6a2N4",
+    "barcode": "XDYZY6OW",
+    "type": "AD01",
+    "date": "2025-03-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2025-03-24",
+      "old_address": "Flat 33 Hatton Place 118 Midland Road Luton LU2 0FB England",
+      "new_address": "16 Garter Court Knights Field Luton LU2 7LL"
+    },
+    "pages": 1,
+    "action_date": "2025-03-24",
+    "links": {
+      "self": "/company/16076354/filing-history/MzQ1OTgwMTEzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HwkCpMnakxe208ZDI4-LhNmhpuCKc-vRLUKputshCT8"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTM4NDMzM2FkaXF6a2N4",
+    "barcode": "XDYMQBTK",
+    "type": "EH02",
+    "date": "2025-03-19",
+    "category": "officers",
+    "subcategory": "register",
+    "description": "elect-to-keep-the-directors-residential-address-register-information-on-the-public-register",
+    "pages": 1,
+    "links": {
+      "self": "/company/16076354/filing-history/MzQ1OTM4NDMzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4DJIRN0UEWP9A8sNuVeDPq6FVucjFOgivBdWdd7F75g"
+    }
+  },
+  {
+    "transaction_id": "MzQ0Mjg0Mjg0M2FkaXF6a2N4",
+    "barcode": "XDFP9BOJ",
+    "type": "NEWINC",
+    "date": "2024-11-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2024-11-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2024-11-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2024-11-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2024-11-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/16076354/filing-history/MzQ0Mjg0Mjg0M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OJTJoDAFbbMjjUceb5clGJPJhWuLjeG84sUAgrtNHMc"
+    }
+  }
+]

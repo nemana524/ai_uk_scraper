@@ -1,0 +1,31 @@
+[
+  {
+    "address": {
+      "address_line_1": "International House",
+      "address_line_2": "64 Nile Street",
+      "country": "United Kingdom",
+      "locality": "London",
+      "po_box": "5100",
+      "postal_code": "N1 7SR",
+      "premises": "N1 7sr"
+    },
+    "appointed_on": "2023-08-31",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 7,
+      "year": 1994
+    },
+    "links": {
+      "self": "/company/15107061/appointments/kvAnxv9bFRj8FQD7HIOoJvUBcAk",
+      "officer": {
+        "appointments": "/officers/0WvGJh8AuTmWKxj3tuKLMWvtnIo/appointments"
+      }
+    },
+    "name": "MOHSIN, Usama",
+    "nationality": "Pakistani",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "312991760001"
+  }
+]

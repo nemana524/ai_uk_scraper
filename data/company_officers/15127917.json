@@ -1,0 +1,35 @@
+{
+  "company_number": "15127917",
+  "company_name": "TECH CONNECT SOLUTIONS LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "RICKETT, Anthony",
+      "officer_role": "director",
+      "appointed_on": "2023-09-10",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director And Company Secretary",
+      "address": {
+        "address_line_1": "Gladden Place",
+        "country": "England",
+        "locality": "Skelmersdale",
+        "postal_code": "WN8 9SX",
+        "premises": "Unit 17"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/15127917/appointments/YHdPAuvM6x3EvIBCjQvWR36CT8Q",
+        "officer": {
+          "appointments": "/officers/EVugz6TCfVPjBGC0mFtKmIgru9s/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

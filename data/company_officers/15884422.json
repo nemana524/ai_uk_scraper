@@ -1,0 +1,35 @@
+{
+  "company_number": "15884422",
+  "company_name": "TECH BUILDERS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "COXHEAD, Toby Edward",
+      "officer_role": "director",
+      "appointed_on": "2024-08-07",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "country": "England",
+        "locality": "Poole",
+        "postal_code": "BH17 7JH",
+        "premises": "50 Gough Crescent",
+        "region": "Dorset"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15884422/appointments/ZeHZY_CZjXjPDD68goZzi3qK7rI",
+        "officer": {
+          "appointments": "/officers/pO-MeZo7IXQFiHzRTcp4pq824cw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "company_number": "09760629",
+  "company_name": "TECH CIRCUS LTD",
+  "company_status": "liquidation",
+  "date_of_creation": "2015-09-03",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "82301",
+    "93290",
+    "96090"
+  ],
+  "has_insolvency_history": true,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "C/O B&C Associates Limited Concorde House",
+    "address_line_2": "Grenville Place",
+    "locality": "Mill Hill",
+    "postal_code": "NW7 3SA",
+    "region": "London"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-12-31",
+      "period_end_on": "2022-12-31",
+      "period_start_on": "2022-01-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-09-30",
+      "overdue": true,
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01"
+    },
+    "next_due": "2024-09-30",
+    "next_made_up_to": "2023-12-31",
+    "overdue": true
+  },
+  "etag": "5e1cb633daa8ddf33a9658a020b2459318acaba3"
+}

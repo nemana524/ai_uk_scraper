@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "next_accounts": {
+      "due_on": "2026-10-24",
+      "overdue": false,
+      "period_end_on": "2026-01-31",
+      "period_start_on": "2025-01-24"
+    },
+    "next_due": "2026-10-24",
+    "next_made_up_to": "2026-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH AND VAPE SOLUTION LTD",
+  "company_number": "16206499",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2026-02-06",
+    "next_made_up_to": "2026-01-23",
+    "overdue": false
+  },
+  "date_of_creation": "2025-01-24",
+  "etag": "a1da4f96d5f383361fb6590adfa8618dfbb5ed95",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/16206499/persons-with-significant-control",
+    "self": "/company/16206499",
+    "filing_history": "/company/16206499/filing-history",
+    "officers": "/company/16206499/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Flat 24 Alwyne Court",
+    "address_line_2": "6 Garnet Place",
+    "country": "England",
+    "locality": "West Drayton",
+    "postal_code": "UB7 7GG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47190"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

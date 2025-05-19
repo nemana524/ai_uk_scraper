@@ -1,0 +1,36 @@
+{
+  "company_number": "14964509",
+  "company_name": "TECH HARBOR LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "IQBAL, Mohammad Asim",
+      "officer_role": "director",
+      "appointed_on": "2023-06-27",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "68",
+        "address_line_2": "Chorley Street",
+        "country": "United Kingdom",
+        "locality": "Bolton",
+        "postal_code": "BL1 4AL",
+        "premises": "Unit 2"
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1986
+      },
+      "links": {
+        "self": "/company/14964509/appointments/KYup84OwM1I-dH_qfzUm-pz5Irs",
+        "officer": {
+          "appointments": "/officers/HJIq-tt3MzI0peICGYp6BPKHEFI/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

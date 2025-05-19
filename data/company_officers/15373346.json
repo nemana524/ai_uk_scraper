@@ -1,0 +1,35 @@
+{
+  "company_number": "15373346",
+  "company_name": "TECH LEAD INSIGHTS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "DUMITRASCU, Florin",
+      "officer_role": "director",
+      "appointed_on": "2023-12-28",
+      "resigned_on": null,
+      "nationality": "Romanian",
+      "country_of_residence": "Romania",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Wenlock Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "N1 7GU",
+        "premises": "20"
+      },
+      "date_of_birth": {
+        "month": 5,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/15373346/appointments/6DKm7gF3aBeCvD5uen87lrddGak",
+        "officer": {
+          "appointments": "/officers/DvQp84o_3ij0sT1hf2s4KIHYTWg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "transaction_id": "MzQ2NTUwNzA5M2FkaXF6a2N4",
+    "barcode": "XE23TLD5",
+    "type": "AA",
+    "date": "2025-05-08",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2024-12-31"
+    },
+    "pages": 7,
+    "links": {
+      "self": "/company/13798956/filing-history/MzQ2NTUwNzA5M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/7hyg8Msfab4NXZFiiqka0PiqeNkOurStI4S5OZAjM1w"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MDc3ODgwNmFkaXF6a2N4",
+    "barcode": "XDU6CC1K",
+    "type": "CS01",
+    "date": "2025-01-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-12-13"
+    },
+    "pages": 3,
+    "action_date": "2024-12-13",
+    "links": {
+      "self": "/company/13798956/filing-history/MzQ1MDc3ODgwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ES-7ZX0z0bgveALQPGeqOv8rbseR-nmEQZ_UoGfphC4"
+    }
+  },
+  {
+    "transaction_id": "MzQyMTI3NjYwMmFkaXF6a2N4",
+    "barcode": "XD2THC6Q",
+    "type": "AA",
+    "date": "2024-05-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2023-12-31"
+    },
+    "pages": 7,
+    "links": {
+      "self": "/company/13798956/filing-history/MzQyMTI3NjYwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/5m1fSZcAV8KrfGsuEIFUCz8gIBARuTv249mmmrCvAvo"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzkzMzU5MGFkaXF6a2N4",
+    "barcode": "XCIC1NE0",
+    "type": "CS01",
+    "date": "2023-12-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-13"
+    },
+    "pages": 3,
+    "action_date": "2023-12-13",
+    "links": {
+      "self": "/company/13798956/filing-history/MzQwMzkzMzU5MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CabgQo46RhwWP1yJtIYC4VD3UJGy1vTnHE74rA9BQz4"
+    }
+  },
+  {
+    "transaction_id": "MzM4Mzk4NjY2MWFkaXF6a2N4",
+    "barcode": "XC6AHUKZ",
+    "type": "AA",
+    "date": "2023-06-23",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-unaudited-abridged",
+    "description_values": {
+      "made_up_date": "2022-12-31"
+    },
+    "pages": 7,
+    "links": {
+      "self": "/company/13798956/filing-history/MzM4Mzk4NjY2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/CABcjOnEEmEQC1xyxYFv59iMpzlovYX-6HrhWIidA-8"
+    }
+  },
+  {
+    "transaction_id": "MzM2MzQ3NDI4MWFkaXF6a2N4",
+    "barcode": "XBJEUFFF",
+    "type": "CS01",
+    "date": "2022-12-22",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-12-13"
+    },
+    "pages": 3,
+    "action_date": "2022-12-13",
+    "links": {
+      "self": "/company/13798956/filing-history/MzM2MzQ3NDI4MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/C39-dcd5Jy4sZCx2eRkzZ4wbbvljp5EOzAFt4tMRB18"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzM5NTE5NGFkaXF6a2N4",
+    "barcode": "XAJ97XAZ",
+    "type": "NEWINC",
+    "date": "2021-12-14",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2021-12-14",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-12-14",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "10"
+            }
+          ]
+        },
+        "action_date": "2021-12-14"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 38,
+    "links": {
+      "self": "/company/13798956/filing-history/MzMyMzM5NTE5NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Wx-aTzi6I-FfU2hJCNJCFWDwsmeGbmpYhn4xEFvHlc"
+    }
+  }
+]

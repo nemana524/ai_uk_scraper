@@ -1,0 +1,31 @@
+{
+  "company_number": "15349415",
+  "company_name": "TECH DIVINERS LTD",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-12-13",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62011"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "Unit A",
+    "address_line_2": "82 James Carter Road",
+    "country": "United Kingdom",
+    "locality": "Mildenhall",
+    "postal_code": "IP28 7DE",
+    "region": "Suffolk"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    }
+  },
+  "etag": "01881c977ec8cb257cf5426fc109aae1dbec2aa5"
+}

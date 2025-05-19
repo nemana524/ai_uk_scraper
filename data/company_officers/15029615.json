@@ -1,0 +1,35 @@
+{
+  "company_number": "15029615",
+  "company_name": "TECH BARGAINS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SINGH, Resham",
+      "officer_role": "director",
+      "appointed_on": "2023-07-26",
+      "resigned_on": null,
+      "nationality": "Indian",
+      "country_of_residence": "England",
+      "occupation": "Sales Director",
+      "address": {
+        "address_line_1": "Raleigh Road",
+        "country": "England",
+        "locality": "Southall",
+        "postal_code": "UB2 5TW",
+        "premises": "32"
+      },
+      "date_of_birth": {
+        "month": 1,
+        "year": 2003
+      },
+      "links": {
+        "self": "/company/15029615/appointments/PS-4kE_AkaKGclrLzPhXAFGwYmk",
+        "officer": {
+          "appointments": "/officers/PB7vvGj3an03iBUxc4LIWcierC8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

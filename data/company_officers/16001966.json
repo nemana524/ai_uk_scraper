@@ -1,0 +1,35 @@
+{
+  "company_number": "16001966",
+  "company_name": "TECH LIFER LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MUIZZ, Muhammod Abdul",
+      "officer_role": "director",
+      "appointed_on": "2024-10-07",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Bethnal Green Road",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "E2 0AG",
+        "premises": "296"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 2002
+      },
+      "links": {
+        "self": "/company/16001966/appointments/6s-z7cqbcc8sSCulH754Ll4RAlY",
+        "officer": {
+          "appointments": "/officers/JkwspbL9Q08MUEqKIxGL3O8VfF0/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

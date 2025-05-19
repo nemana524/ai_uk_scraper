@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "country": "United Kingdom",
+      "locality": "Witney",
+      "postal_code": "OX28 4GE",
+      "premises": "9 Thorney Leys Park",
+      "region": "Oxfordshire"
+    },
+    "appointed_on": "2015-02-10",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 11,
+      "year": 1975
+    },
+    "links": {
+      "self": "/company/09431559/appointments/x4PyuHDWDyAT3qtj4qjjo9VmRwE",
+      "officer": {
+        "appointments": "/officers/67-s3X9fckXvi_kHzERu-wRjmm4/appointments"
+      }
+    },
+    "name": "GREENWELL, Rory Morrison",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "194860320002"
+  }
+]

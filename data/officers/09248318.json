@@ -1,0 +1,76 @@
+[
+  {
+    "address": {
+      "address_line_1": "60 Windsor Avenue",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SW19 2RR",
+      "premises": "Dalton House"
+    },
+    "appointed_on": "2014-10-03",
+    "is_pre_1992_appointment": false,
+    "links": {
+      "self": "/company/09248318/appointments/3DpQ-2HOIK8KAh8nQ5rp27kJsv0",
+      "officer": {
+        "appointments": "/officers/xs_3sU7yqWZlL5GcgW_Vab6XkRA/appointments"
+      }
+    },
+    "name": "KALUARATCHIE, Dileep Chalana",
+    "officer_role": "secretary",
+    "person_number": "191493390001"
+  },
+  {
+    "address": {
+      "address_line_1": "60 Windsor Avenue",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SW19 2RR",
+      "premises": "Dalton House"
+    },
+    "appointed_on": "2014-10-03",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 3,
+      "year": 1984
+    },
+    "links": {
+      "self": "/company/09248318/appointments/LAo4vYokwKv5CJKiA3a_Sp4A8YM",
+      "officer": {
+        "appointments": "/officers/-4Yjv48krYMtvpPxlg2epaBdx_8/appointments"
+      }
+    },
+    "name": "KALUARATCHIE, Dileep Chalana",
+    "nationality": "British",
+    "occupation": "Computer Engineer",
+    "officer_role": "director",
+    "person_number": "191493380004"
+  },
+  {
+    "address": {
+      "address_line_1": "60 Windsor Avenue",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "SW19 2RR",
+      "premises": "Dalton House"
+    },
+    "appointed_on": "2024-08-05",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/09248318/appointments/NLogwFurA2asX3zIYzqRj_ML2K0",
+      "officer": {
+        "appointments": "/officers/AjMt2LQ5lgZ_VJn_yZn3XOoBFQw/appointments"
+      }
+    },
+    "name": "KALUARATCHIE, Inga",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "325819140001"
+  }
+]

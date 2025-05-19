@@ -1,0 +1,122 @@
+[
+  {
+    "transaction_id": "MzQ0MDY0NDUyMGFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2024-11-05",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15044430/filing-history/MzQ0MDY0NDUyMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yDWjIJGPFPYih43FcFtNFjfDkkTfHWAr_zyGwk8OsXU"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDg2Nzg3M2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2024-08-13",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15044430/filing-history/MzQzMDg2Nzg3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xve-_UQkCcp3nOUFuB1AUvaoEUHhgRwvzJWhH8B2Amw"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg4ODY1MWFkaXF6a2N4",
+    "barcode": "RD5LT2CH",
+    "type": "RP05",
+    "date": "2024-06-19",
+    "category": "address",
+    "description": "default-companies-house-registered-office-address-applied",
+    "description_values": {
+      "change_date": "2024-06-19",
+      "default_address": "PO Box 4385, 15044430 - Companies House Default Address, Cardiff, CF14 8LH"
+    },
+    "pages": 1,
+    "action_date": "2024-06-19",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15044430/filing-history/MzQyNTg4ODY1MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XWBEpSVxS-X5NrBtKD4teLt_yAcK-sxyjfhqhV2WONc"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg4ODYzM2FkaXF6a2N4",
+    "barcode": "XD5KTMND",
+    "type": "RP09",
+    "date": "2024-06-19",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-officer",
+    "description_values": {
+      "change_date": "2024-06-19",
+      "officer_name": "Syed Muhammad Askari",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "15044430"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/15044430/filing-history/MzQyNTg4ODYzM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jOSw8lgkxFoX9qEwD8BWpsvS4XzXjC6KM4C2pCoqURY"
+    }
+  },
+  {
+    "transaction_id": "MzQyNTg4ODYyN2FkaXF6a2N4",
+    "barcode": "XD5KTMPU",
+    "type": "RP10",
+    "date": "2024-06-19",
+    "category": "address",
+    "description": "default-companies-house-service-address-applied-psc",
+    "description_values": {
+      "change_date": "2024-06-19",
+      "default_address": "Companies House Default Address, PO Box 4385, Cardiff, CF14 8LH",
+      "company_number": "15044430",
+      "psc_name": "Syed Muhammad Askari"
+    },
+    "pages": 1,
+    "links": {
+      "self": "/company/15044430/filing-history/MzQyNTg4ODYyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZxA3eCnZzKtF9NASOZxa3xv0Gj4JeFH1Te5va9cEIuQ"
+    }
+  },
+  {
+    "transaction_id": "MzM4ODMwNTc2MWFkaXF6a2N4",
+    "barcode": "XC8ZJ31E",
+    "type": "NEWINC",
+    "date": "2023-08-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-08-02",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-08-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-08-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-08-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15044430/filing-history/MzM4ODMwNTc2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mgfyQMxwrvgIJwVQywGrJdGqTFcM1ONOr_o9u9C3Tr0"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "type": "micro-entity"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH BIT LIMITED",
+  "company_number": "08549652",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-06-02"
+  },
+  "date_of_cessation": "2024-12-24",
+  "date_of_creation": "2013-05-30",
+  "etag": "091aa5d9fc2370ae02a2f2b1c03216711c42439f",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-06-02",
+  "links": {
+    "persons_with_significant_control": "/company/08549652/persons-with-significant-control",
+    "self": "/company/08549652",
+    "filing_history": "/company/08549652/filing-history",
+    "officers": "/company/08549652/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "234 Whitechapel Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 1BJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62011"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

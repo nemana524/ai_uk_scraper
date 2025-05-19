@@ -1,0 +1,44 @@
+{
+  "company_number": "SC590809",
+  "company_name": "TECH CITY (SCOT) LTD.",
+  "company_status": "active",
+  "date_of_creation": "2018-03-08",
+  "type": "ltd",
+  "jurisdiction": "scotland",
+  "sic_codes": [
+    "47421"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "171 High Street",
+    "country": "United Kingdom",
+    "locality": "Arbroath",
+    "postal_code": "DD11 1DY"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2019-03-31",
+      "period_end_on": "2019-03-31",
+      "period_start_on": "2018-03-08",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2021-03-31",
+      "overdue": true,
+      "period_end_on": "2020-03-31",
+      "period_start_on": "2019-04-01"
+    },
+    "next_due": "2021-03-31",
+    "next_made_up_to": "2020-03-31",
+    "overdue": true
+  },
+  "etag": "ba3141019ca565f3b445c0136cf8627be10f51d8"
+}

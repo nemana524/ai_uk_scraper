@@ -1,0 +1,35 @@
+{
+  "company_number": "15616202",
+  "company_name": "TECH EXPRESSERS LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "HAMID, Ammad",
+      "officer_role": "director",
+      "appointed_on": "2024-04-04",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Administrator",
+      "address": {
+        "address_line_1": "Llewellin Road",
+        "country": "United Kingdom",
+        "locality": "Kington",
+        "postal_code": "HR5 3AB",
+        "premises": "5"
+      },
+      "date_of_birth": {
+        "month": 11,
+        "year": 2003
+      },
+      "links": {
+        "self": "/company/15616202/appointments/UIjc3V5qH7WSlC_pf3sWcNO6sII",
+        "officer": {
+          "appointments": "/officers/l2JXA_YMrlcOcrtOpylVzeS_Z6E/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

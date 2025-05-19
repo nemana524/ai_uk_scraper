@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-12-31",
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-09-30",
+      "overdue": false,
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-01-01"
+    },
+    "next_due": "2025-09-30",
+    "next_made_up_to": "2024-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH COURIERS LIMITED",
+  "company_number": "SC613073",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-07",
+    "next_due": "2025-11-21",
+    "next_made_up_to": "2025-11-07",
+    "overdue": false
+  },
+  "date_of_creation": "2018-11-08",
+  "etag": "e43694e46df4b70c61af7ef991d5d90f792875e6",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC613073/persons-with-significant-control",
+    "self": "/company/SC613073",
+    "filing_history": "/company/SC613073/filing-history",
+    "officers": "/company/SC613073/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "209 Glasgow Road Unit 4 Longcroft Trading Estate",
+    "address_line_2": "Longcroft",
+    "country": "United Kingdom",
+    "locality": "Bonnybridge",
+    "postal_code": "FK4 1QQ",
+    "region": "Stirlingshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

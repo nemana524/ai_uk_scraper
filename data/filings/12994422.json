@@ -1,0 +1,341 @@
+[
+  {
+    "transaction_id": "MzQzMzQzOTk4M2FkaXF6a2N4",
+    "barcode": "XDACUW6B",
+    "type": "AA",
+    "date": "2024-08-27",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-11-30"
+    },
+    "pages": 2,
+    "action_date": "2023-11-30",
+    "links": {
+      "self": "/company/12994422/filing-history/MzQzMzQzOTk4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/J-h_eIU4CY7bCWaOsRcLfhjfb2dKhSuL9jE2qChp9h8"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDc0Nzk3NGFkaXF6a2N4",
+    "barcode": "XD8I7ONE",
+    "type": "CS01",
+    "date": "2024-07-31",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-06-09"
+    },
+    "pages": 3,
+    "action_date": "2024-06-09",
+    "links": {
+      "self": "/company/12994422/filing-history/MzQzMDc0Nzk3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jt7UPYglWvhc3OgWmLMtm_tLqCR_2i9t2p2zjslNlEk"
+    }
+  },
+  {
+    "transaction_id": "MzM5NTY4NDMxMmFkaXF6a2N4",
+    "barcode": "XCDR4Z9S",
+    "type": "AD01",
+    "date": "2023-10-09",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-10-09",
+      "old_address": "1198 Mallinson Road London SW11 1BH England",
+      "new_address": "119B Mallinson Road London SW11 1BH"
+    },
+    "pages": 1,
+    "action_date": "2023-10-09",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM5NTY4NDMxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XL7UbRw2xCT-kL2uIYTnCVuOoCntrbupg4BO9CA25aU"
+    }
+  },
+  {
+    "transaction_id": "MzM5MjYxOTY1NWFkaXF6a2N4",
+    "barcode": "XCBVN2VS",
+    "type": "AD01",
+    "date": "2023-09-12",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2023-09-12",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ United Kingdom",
+      "new_address": "1198 Mallinson Road London SW11 1BH"
+    },
+    "pages": 1,
+    "action_date": "2023-09-12",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM5MjYxOTY1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/uAJBOK0qQfLTzKJif7QdXugCY03keQul6KpRUtS-abM"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjQxNzUwMmFkaXF6a2N4",
+    "barcode": "XC5BOR0I",
+    "type": "CS01",
+    "date": "2023-06-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-06-09"
+    },
+    "pages": 4,
+    "action_date": "2023-06-09",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM4MjQxNzUwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/AOX774atbfeJjS0p33AGCFrPKnWtW3GRz-ilPcR9g5M"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjQxNzE2MWFkaXF6a2N4",
+    "barcode": "XC5BOPTK",
+    "type": "PSC04",
+    "date": "2023-06-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2023-06-08",
+      "psc_name": "Ms Adriana Szopian"
+    },
+    "pages": 2,
+    "action_date": "2023-06-08",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM4MjQxNzE2MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_sT6ovU1vClQwd37Xx0oSxh5QpBTf9-S3jvA_6mhd8A"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjQxNzA1NWFkaXF6a2N4",
+    "barcode": "XC5BOPMX",
+    "type": "PSC01",
+    "date": "2023-06-09",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Grzegorz Szopian",
+      "notification_date": "2023-06-08"
+    },
+    "pages": 2,
+    "action_date": "2023-06-08",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM4MjQxNzA1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/2U13evhzrCvkprZ-a7R6dQZcfkZB9cbX1Y_JQwH7TY4"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjQxNjgyNmFkaXF6a2N4",
+    "barcode": "XC5BOOLE",
+    "type": "AP01",
+    "date": "2023-06-09",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Grzegorz Szopian",
+      "appointment_date": "2023-06-09"
+    },
+    "pages": 2,
+    "action_date": "2023-06-09",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM4MjQxNjgyNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RQ4Qdjm3q02-2EU8hm0VuZ5CxOg5_y6Fx9EopreV8Tw"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODY1NTU1OGFkaXF6a2N4",
+    "barcode": "YC2VA59U",
+    "type": "SH02",
+    "date": "2023-05-18",
+    "category": "capital",
+    "description": "capital-alter-shares-subdivision",
+    "description_values": {
+      "date": "2023-05-04"
+    },
+    "pages": 6,
+    "action_date": "2023-05-04",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12994422/filing-history/MzM3ODY1NTU1OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HWe8m2aoAjfWcONoGcduJD01icxP_JDmcjo65WOMkzs"
+    }
+  },
+  {
+    "transaction_id": "MzM3ODU1OTE4N2FkaXF6a2N4",
+    "barcode": "XC2SN04H",
+    "type": "AA",
+    "date": "2023-05-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-11-30"
+    },
+    "pages": 2,
+    "action_date": "2022-11-30",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM3ODU1OTE4N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/qwSqtUBbQGnxGFmINpeE_Uc-XrIr8aKblF77QU7DmZg"
+    }
+  },
+  {
+    "transaction_id": "MzM1ODQ1MjE1OWFkaXF6a2N4",
+    "barcode": "XBGS3NJF",
+    "type": "CS01",
+    "date": "2022-11-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-11-02"
+    },
+    "pages": 3,
+    "action_date": "2022-11-02",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM1ODQ1MjE1OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/3jOwZ0XFY6gj27aVND06v3O1eyh1bAL_cv0BXuCBBmo"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTcyNTAwNmFkaXF6a2N4",
+    "barcode": "XBCGA76H",
+    "type": "AD01",
+    "date": "2022-09-13",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2022-09-13",
+      "old_address": "119B Mallinson Road London SW11 1BH United Kingdom",
+      "new_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ"
+    },
+    "pages": 1,
+    "action_date": "2022-09-13",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM1MTcyNTAwNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vFkukcKYzkM6GNxuKRTgceL7JRSrgZx75lcS6KDhUaw"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjA2NzIwOWFkaXF6a2N4",
+    "barcode": "XB8LCJFS",
+    "type": "AA",
+    "date": "2022-07-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-11-30"
+    },
+    "pages": 2,
+    "action_date": "2021-11-30",
+    "links": {
+      "self": "/company/12994422/filing-history/MzM0NjA2NzIwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/81fl3oTIAuIvunJaGV_ST22wOsB275BngZ_lG4Oumyg"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDE4MzIxMWFkaXF6a2N4",
+    "barcode": "XAHBGV5J",
+    "type": "CS01",
+    "date": "2021-11-15",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-11-02"
+    },
+    "pages": 3,
+    "action_date": "2021-11-02",
+    "links": {
+      "self": "/company/12994422/filing-history/MzMyMDE4MzIxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/27rJ9wm7NJ9MX_-L9A2FBanxhcHHk75rIxJSQ06UL1k"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzg4MDIzOGFkaXF6a2N4",
+    "barcode": "XAFONEGH",
+    "type": "AD01",
+    "date": "2021-10-22",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2021-10-22",
+      "old_address": "71-75 Shelton Street Covent Garden London WC2H 9JQ England",
+      "new_address": "119B Mallinson Road London SW11 1BH"
+    },
+    "pages": 1,
+    "action_date": "2021-10-22",
+    "links": {
+      "self": "/company/12994422/filing-history/MzMxNzg4MDIzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/q34xvpvrXSYDEPTjSkOmxii_pfQAS985jI3JjpdbBOY"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzg4MDE5MWFkaXF6a2N4",
+    "barcode": "XAFONEX6",
+    "type": "CH01",
+    "date": "2021-10-22",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2021-10-22",
+      "officer_name": "Ms Adriana Szopian"
+    },
+    "pages": 2,
+    "action_date": "2021-10-22",
+    "links": {
+      "self": "/company/12994422/filing-history/MzMxNzg4MDE5MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JFpPj5Lu6BpUXFIqLPrOaNwGRtCyY8yUkvMs6hNDU8Q"
+    }
+  },
+  {
+    "transaction_id": "MzMxNzg4MDE5NmFkaXF6a2N4",
+    "barcode": "XAFONEPF",
+    "type": "PSC04",
+    "date": "2021-10-22",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2021-10-22",
+      "psc_name": "Ms Adriana Szopian"
+    },
+    "pages": 2,
+    "action_date": "2021-10-22",
+    "links": {
+      "self": "/company/12994422/filing-history/MzMxNzg4MDE5NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/4KPqqQwEQDHoM77tXCLw_yEDqvFPB2wZ2pD4Q9DwqV4"
+    }
+  },
+  {
+    "transaction_id": "MzI4MjM1MTY0NWFkaXF6a2N4",
+    "barcode": "X9H2A3ZN",
+    "type": "NEWINC",
+    "date": "2020-11-03",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "capital",
+        "date": "2020-11-03",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-11-03",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-11-03"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 29,
+    "links": {
+      "self": "/company/12994422/filing-history/MzI4MjM1MTY0NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/PvslKNb954cMa3xpBbFiAsGyBvsax7smLFWaG1PFlhI"
+    }
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "transaction_id": "MzQzODU4NDUxN2FkaXF6a2N4",
+    "barcode": "XDD7TYXN",
+    "type": "PSC04",
+    "date": "2024-10-08",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-10-07",
+      "psc_name": "Mr Ying Kit Lim"
+    },
+    "pages": 2,
+    "action_date": "2024-10-07",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQzODU4NDUxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/wjPo0obBL8MfVu8CcndySQkr6hjLI-aYiVrHCDeqg2I"
+    }
+  },
+  {
+    "transaction_id": "MzQzODU4NTcyMmFkaXF6a2N4",
+    "barcode": "XDD7U3HE",
+    "type": "CS01",
+    "date": "2024-10-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-10-07"
+    },
+    "pages": 4,
+    "action_date": "2024-10-07",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQzODU4NTcyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/y-CBBn3jC1QbrKgKaRpogJuhnFJHAtBrRmMJrEH2_rU"
+    }
+  },
+  {
+    "transaction_id": "MzQzODU4NDIwNWFkaXF6a2N4",
+    "barcode": "XDD7TXR5",
+    "type": "PSC04",
+    "date": "2024-10-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-10-07",
+      "psc_name": "Mrs Lyndsey Lim"
+    },
+    "pages": 2,
+    "action_date": "2024-10-07",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQzODU4NDIwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VGJmszXZ0At0SFbx7fscjvIkGOJQKJnh0ZnRD4qGoco"
+    }
+  },
+  {
+    "transaction_id": "MzQzODU4NDEwN2FkaXF6a2N4",
+    "barcode": "XDD7TXAI",
+    "type": "PSC04",
+    "date": "2024-10-07",
+    "category": "persons-with-significant-control",
+    "subcategory": "change",
+    "description": "change-to-a-person-with-significant-control",
+    "description_values": {
+      "change_date": "2024-10-07",
+      "psc_name": "Mr Ying Kit Lim"
+    },
+    "pages": 3,
+    "action_date": "2024-10-07",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQzODU4NDEwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Py8dBlXS-79AGTHz8J7_6GwqsLX7T6bO-s1Yiji6W7g"
+    }
+  },
+  {
+    "transaction_id": "MzQzODU3MzYxMWFkaXF6a2N4",
+    "barcode": "XDD7SPHU",
+    "type": "CH01",
+    "date": "2024-10-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-10-07",
+      "officer_name": "Mr Ying Kit Lim"
+    },
+    "pages": 2,
+    "action_date": "2024-10-07",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQzODU3MzYxMWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XBzkA_OvyHWlUu_B1Yel7fckdR45u5tS21ev2nIBBDg"
+    }
+  },
+  {
+    "transaction_id": "MzQzODU3MzQ0OGFkaXF6a2N4",
+    "barcode": "XDD7SOQ2",
+    "type": "CH01",
+    "date": "2024-10-07",
+    "category": "officers",
+    "subcategory": "change",
+    "description": "change-person-director-company-with-change-date",
+    "description_values": {
+      "change_date": "2024-10-07",
+      "officer_name": "Mrs Lyndsey Lim"
+    },
+    "pages": 2,
+    "action_date": "2024-10-07",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQzODU3MzQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WjOP9kAjEXFM0fswNI3_gK0EQtGG4lJRr-MelDg_VhY"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDQ4NjcxN2FkaXF6a2N4",
+    "barcode": "XDAYKM6B",
+    "type": "AA",
+    "date": "2024-09-04",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-01-31"
+    },
+    "pages": 2,
+    "action_date": "2024-01-31",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQzNDQ4NjcxN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/M0B3WOidx2QRrtiEYvUQRCll8ZrQxs5gQ2w-blQRRbo"
+    }
+  },
+  {
+    "transaction_id": "MzQwMzk1OTE5OWFkaXF6a2N4",
+    "barcode": "XCIC448X",
+    "type": "CS01",
+    "date": "2023-12-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-12-13"
+    },
+    "pages": 3,
+    "action_date": "2023-12-13",
+    "links": {
+      "self": "/company/11746752/filing-history/MzQwMzk1OTE5OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VH-PIm8VME0bBLX1W7-O-Bq4J6kfidhAglMnAIA7C4g"
+    }
+  },
+  {
+    "transaction_id": "MzM5NDA5NTg2OGFkaXF6a2N4",
+    "barcode": "XCCMNPOQ",
+    "type": "AA",
+    "date": "2023-09-22",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-01-31"
+    },
+    "pages": 2,
+    "action_date": "2023-01-31",
+    "links": {
+      "self": "/company/11746752/filing-history/MzM5NDA5NTg2OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GtDjt7lnfxeYOr97UXtihEQhkPlFRakYKd_8pMskXCE"
+    }
+  },
+  {
+    "transaction_id": "MzM2Mzc5ODE4OGFkaXF6a2N4",
+    "barcode": "XBJRSZE2",
+    "type": "CS01",
+    "date": "2022-12-27",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2022-12-13"
+    },
+    "pages": 3,
+    "action_date": "2022-12-13",
+    "links": {
+      "self": "/company/11746752/filing-history/MzM2Mzc5ODE4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YmL-kL0vgoUK8cX6LV3fM4IOsmVJU2bw2lJoKlPS6M8"
+    }
+  },
+  {
+    "transaction_id": "MzM0OTY2NDQzOGFkaXF6a2N4",
+    "barcode": "XBB1PM3T",
+    "type": "AA",
+    "date": "2022-08-24",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2022-01-31"
+    },
+    "pages": 2,
+    "action_date": "2022-01-31",
+    "links": {
+      "self": "/company/11746752/filing-history/MzM0OTY2NDQzOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XIrN-Q6TKq1RHg8O-Aoe3G2I_spQOXLVa8C_xeydlxE"
+    }
+  },
+  {
+    "transaction_id": "MzMyNDI3NDY5NWFkaXF6a2N4",
+    "barcode": "XAJSHX4B",
+    "type": "PSC01",
+    "date": "2021-12-21",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Lyndsey Lim",
+      "notification_date": "2020-01-01"
+    },
+    "pages": 2,
+    "action_date": "2020-01-01",
+    "links": {
+      "self": "/company/11746752/filing-history/MzMyNDI3NDY5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/DLyPOimKbJEcpc2UCT_HwIGkTMeg0BFVSlGX7Ch1U5k"
+    }
+  },
+  {
+    "transaction_id": "MzMyMzM5MjQ0OGFkaXF6a2N4",
+    "barcode": "XAJ97MLC",
+    "type": "CS01",
+    "date": "2021-12-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-12-13"
+    },
+    "pages": 3,
+    "action_date": "2021-12-13",
+    "links": {
+      "self": "/company/11746752/filing-history/MzMyMzM5MjQ0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/vH6NTz1GYFu-h3bCgU7PqXBj74Gt6jeBAOSvpSr6GSY"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDA1NzExOWFkaXF6a2N4",
+    "barcode": "XAH3PWCJ",
+    "type": "AA",
+    "date": "2021-11-12",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-01-31"
+    },
+    "pages": 2,
+    "action_date": "2021-01-31",
+    "links": {
+      "self": "/company/11746752/filing-history/MzMyMDA1NzExOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/bnQQPmFkVwcs3uTQ601DPQje5ED8WP3PqNL101xJYKU"
+    }
+  },
+  {
+    "transaction_id": "MzMyMDA0OTY0OGFkaXF6a2N4",
+    "barcode": "XAH3P47C",
+    "type": "TM01",
+    "date": "2021-11-12",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Siew Chin Ooi",
+      "termination_date": "2021-11-11"
+    },
+    "pages": 1,
+    "action_date": "2021-11-11",
+    "links": {
+      "self": "/company/11746752/filing-history/MzMyMDA0OTY0OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/JVpAFvq6-G953UzgKOS0gqf5X9uw2kiJXciDfgte04U"
+    }
+  },
+  {
+    "transaction_id": "MzI4NzkxNjA3NGFkaXF6a2N4",
+    "barcode": "X9VN256X",
+    "type": "CS01",
+    "date": "2021-01-07",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2020-12-04"
+    },
+    "pages": 3,
+    "action_date": "2020-12-04",
+    "links": {
+      "self": "/company/11746752/filing-history/MzI4NzkxNjA3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jzeoJs4JvJqvxd6KYWPvWm_sKIrBx11SXqJ7HTd6hxA"
+    }
+  },
+  {
+    "transaction_id": "MzI1ODQ4OTA4NGFkaXF6a2N4",
+    "barcode": "X8ZRB7A2",
+    "type": "AA",
+    "date": "2020-02-28",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2020-01-31"
+    },
+    "pages": 17,
+    "action_date": "2020-01-31",
+    "links": {
+      "self": "/company/11746752/filing-history/MzI1ODQ4OTA4NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/kzlivT2BF2ajgkof4zxIVsLUQ-5SxJ9qMQEW2a2Z1ys"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTIyMTU4NmFkaXF6a2N4",
+    "barcode": "X8JLAE7N",
+    "type": "CS01",
+    "date": "2019-12-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2019-12-04"
+    },
+    "pages": 3,
+    "action_date": "2019-12-04",
+    "links": {
+      "self": "/company/11746752/filing-history/MzI1MTIyMTU4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/H-Q9uvhghrMUiVmUXqAK9l2Y0pBtnMNqciWRyVNz6tU"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTIyMTMxMmFkaXF6a2N4",
+    "barcode": "X8JLAD0X",
+    "type": "AP01",
+    "date": "2019-12-04",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Siew Chin Ooi",
+      "appointment_date": "2019-02-10"
+    },
+    "pages": 2,
+    "action_date": "2019-02-10",
+    "links": {
+      "self": "/company/11746752/filing-history/MzI1MTIyMTMxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/cBOqrgQMSFyVqDTPvuefSdoXgTmJYTByDp4St5R694M"
+    }
+  },
+  {
+    "transaction_id": "MzI1MTIyMTA3MGFkaXF6a2N4",
+    "barcode": "X8JLAC1C",
+    "type": "AP01",
+    "date": "2019-12-04",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mrs Lyndsey Lim",
+      "appointment_date": "2019-01-10"
+    },
+    "pages": 2,
+    "action_date": "2019-01-10",
+    "links": {
+      "self": "/company/11746752/filing-history/MzI1MTIyMTA3MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SYAGbxC3kdmosg9NcPIX_AB4mf5ls9XsDXAjVZ4en2U"
+    }
+  },
+  {
+    "transaction_id": "MzIyMzQzNTE0OWFkaXF6a2N4",
+    "barcode": "X7W96JQB",
+    "type": "NEWINC",
+    "date": "2019-01-02",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2019-01-02",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2019-01-02",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2019-01-02",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2019-01-02"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/11746752/filing-history/MzIyMzQzNTE0OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/NqaaVfC10B5vBJSfpGMJpUfp2xQRXwLHibroe30McXg"
+    }
+  }
+]

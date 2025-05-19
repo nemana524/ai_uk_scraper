@@ -1,0 +1,56 @@
+[
+  {
+    "address": {
+      "address_line_1": "Dickenson Road",
+      "country": "United Kingdom",
+      "locality": "Manchester",
+      "postal_code": "M14 5HJ",
+      "premises": "100"
+    },
+    "appointed_on": "2025-01-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "Pakistan",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1991
+    },
+    "links": {
+      "self": "/company/16158712/appointments/y-du60bF6ZzAizvbQaz768_781M",
+      "officer": {
+        "appointments": "/officers/gFewizANyNMTzqAXzcS5Ect9eXo/appointments"
+      }
+    },
+    "name": "BASHIR, Adil",
+    "nationality": "Pakistani",
+    "occupation": "Company Director",
+    "officer_role": "director",
+    "person_number": "330771470001"
+  },
+  {
+    "address": {
+      "address_line_1": "Dickenson Road",
+      "country": "United Kingdom",
+      "locality": "Manchester",
+      "postal_code": "M14 5HJ",
+      "premises": "100"
+    },
+    "appointed_on": "2025-01-02",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 10,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/16158712/appointments/X-Q6BNFn9MiR4sk2sma3uP0as3g",
+      "officer": {
+        "appointments": "/officers/2Iq6wsSnpwVIT8whKUPFHcrCPVs/appointments"
+      }
+    },
+    "name": "BASHIR, Hina",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "330771480001"
+  }
+]

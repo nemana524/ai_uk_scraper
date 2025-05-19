@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-05-31",
+      "period_end_on": "2023-05-31",
+      "period_start_on": "2022-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-05-31",
+      "overdue": false,
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01"
+    },
+    "next_due": "2025-05-31",
+    "next_made_up_to": "2024-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH & DESIGN LTD",
+  "company_number": "10783488",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-21",
+    "next_due": "2025-06-04",
+    "next_made_up_to": "2025-05-21",
+    "overdue": false
+  },
+  "date_of_creation": "2017-05-22",
+  "etag": "de9c0c9c620bff209260934786d802dfe110726d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10783488/persons-with-significant-control",
+    "self": "/company/10783488",
+    "filing_history": "/company/10783488/filing-history",
+    "officers": "/company/10783488/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Bay 16 Crawley Mill Industrial Estate",
+    "address_line_2": "Dry Lane",
+    "country": "England",
+    "locality": "Witney",
+    "postal_code": "OX29 9TJ",
+    "region": "Oxfordshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "74100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

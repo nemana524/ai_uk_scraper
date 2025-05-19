@@ -1,0 +1,88 @@
+[
+  {
+    "address": {
+      "address_line_1": "Cormallen Grove",
+      "address_line_2": "Failsworth",
+      "country": "England",
+      "locality": "Manchester",
+      "postal_code": "M35 9GJ",
+      "premises": "9"
+    },
+    "appointed_on": "2020-12-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1979
+    },
+    "links": {
+      "self": "/company/07963317/appointments/zesSSIvddQjhuvWFHRIE33QYSMw",
+      "officer": {
+        "appointments": "/officers/OKGaMyiPOKsbspl0vyKgGDBZrsE/appointments"
+      }
+    },
+    "name": "TWIST, Stuart Wayne",
+    "nationality": "British",
+    "occupation": "Manager",
+    "officer_role": "director",
+    "person_number": "178705520001"
+  },
+  {
+    "address": {
+      "address_line_1": "Floor",
+      "address_line_2": "Blackfriars House",
+      "country": "United Kingdom",
+      "locality": "Manchester",
+      "postal_code": "M3 2JA",
+      "premises": "6th"
+    },
+    "appointed_on": "2012-02-24",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1980
+    },
+    "links": {
+      "self": "/company/07963317/appointments/Cu4xwa0miZqEZjieIXkOgf5hCds",
+      "officer": {
+        "appointments": "/officers/whpafViS-ug85kxzCaBe3kOAk9c/appointments"
+      }
+    },
+    "name": "AKBAR, Mohammed Pervez",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2012-04-20",
+    "person_number": "166988680001"
+  },
+  {
+    "address": {
+      "address_line_1": "Floor",
+      "address_line_2": "Blackfriars House",
+      "country": "United Kingdom",
+      "locality": "Manchester",
+      "postal_code": "M3 2JA",
+      "premises": "6th"
+    },
+    "appointed_on": "2012-02-24",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 5,
+      "year": 1972
+    },
+    "links": {
+      "self": "/company/07963317/appointments/hTXf_8egTkXxFTvDh3CWY0PY5ek",
+      "officer": {
+        "appointments": "/officers/opk7zkt7mMsE8M0S09gKDYtstoo/appointments"
+      }
+    },
+    "name": "RAJA, Javed Akhter",
+    "nationality": "British",
+    "occupation": "Director",
+    "officer_role": "director",
+    "resigned_on": "2023-07-13",
+    "person_number": "140320630001"
+  }
+]

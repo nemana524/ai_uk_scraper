@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-13",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-13"
+    },
+    "next_due": "2025-11-13",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH GENIUS PRO LTD",
+  "company_number": "15486670",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-12",
+    "next_due": "2026-02-26",
+    "next_made_up_to": "2026-02-12",
+    "overdue": false
+  },
+  "date_of_creation": "2024-02-13",
+  "etag": "05d6dac874cd421bc5007738dbcc3cb9aa8e8fc8",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15486670/persons-with-significant-control",
+    "self": "/company/15486670",
+    "filing_history": "/company/15486670/filing-history",
+    "officers": "/company/15486670/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012",
+    "62020",
+    "82990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

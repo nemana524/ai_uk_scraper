@@ -1,0 +1,51 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-11-30"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH ALLY NP LTD",
+  "company_number": "15318232",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-29",
+    "next_due": "2025-12-13",
+    "next_made_up_to": "2025-11-29",
+    "overdue": false
+  },
+  "date_of_creation": "2023-11-30",
+  "etag": "647bff66a5d8ae435611a522cc06efea3ea90156",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15318232/persons-with-significant-control",
+    "self": "/company/15318232",
+    "filing_history": "/company/15318232/filing-history",
+    "officers": "/company/15318232/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "8 Thirlmere Walk",
+    "country": "England",
+    "locality": "Camberley",
+    "postal_code": "GU15 1RG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

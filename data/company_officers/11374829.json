@@ -1,0 +1,35 @@
+{
+  "company_number": "11374829",
+  "company_name": "TECH FIX LAB LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "SAMY, Remon Samy Mahrouse",
+      "officer_role": "director",
+      "appointed_on": "2018-05-22",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Chapel Road",
+        "country": "England",
+        "locality": "Worthing",
+        "postal_code": "BN11 1HU",
+        "premises": "83"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1989
+      },
+      "links": {
+        "self": "/company/11374829/appointments/1RQ-EN5haWnzbGshrWFY6nKJfzU",
+        "officer": {
+          "appointments": "/officers/zkW-qgdEuyCf2lNf2IvcwWcxg-M/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

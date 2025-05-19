@@ -1,0 +1,31 @@
+[
+  {
+    "address": {
+      "address_line_1": "Olivia House",
+      "address_line_2": "Oxford Road",
+      "country": "England",
+      "locality": "Luton",
+      "postal_code": "LU1 3AX",
+      "premises": "Flat 24",
+      "region": "Bedfordshire"
+    },
+    "appointed_on": "2023-07-30",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 1,
+      "year": 1996
+    },
+    "links": {
+      "self": "/company/15037321/appointments/lsUNCHLPTZ3GTBZ_kGbqVO1Zlvw",
+      "officer": {
+        "appointments": "/officers/io4j7m-kUZX3i6KRdMurGZ0PMXk/appointments"
+      }
+    },
+    "name": "SHAH FATIMA, Syeda Farwa",
+    "nationality": "Spanish",
+    "occupation": "Director",
+    "officer_role": "director",
+    "person_number": "311847190001"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH COURT LIMITED",
+  "company_number": "14406735",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-10-09"
+  },
+  "date_of_cessation": "2024-12-10",
+  "date_of_creation": "2022-10-10",
+  "etag": "cb4674b0844d1848f586429639b22304b5201ce7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14406735/persons-with-significant-control",
+    "self": "/company/14406735",
+    "filing_history": "/company/14406735/filing-history",
+    "officers": "/company/14406735/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "17 Plumbers Row",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E1 1EQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

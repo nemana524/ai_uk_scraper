@@ -1,0 +1,89 @@
+{
+  "company_number": "06331494",
+  "company_name": "TECH CITY LABS LTD",
+  "total_officers": 3,
+  "officers": [
+    {
+      "name": "SIMS, Benjamin Francis",
+      "officer_role": "director",
+      "appointed_on": "2007-08-02",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Tor",
+        "address_line_2": "Saint-Cloud Way",
+        "country": "England",
+        "locality": "Maidenhead",
+        "postal_code": "SL6 8BN",
+        "premises": "C/O Wilson Partners Limited",
+        "region": "Berkshire"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1979
+      },
+      "links": {
+        "self": "/company/06331494/appointments/CtViGmYixZGQ8qQUCuzDm14TvCc",
+        "officer": {
+          "appointments": "/officers/ylBMjlGFlmH_8Hw2KaohSUGsNIw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "TAYLER BRADSHAW LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2007-08-02",
+      "resigned_on": "2014-08-05",
+      "nationality": null,
+      "country_of_residence": null,
+      "occupation": null,
+      "address": {
+        "address_line_1": "Cambridge House",
+        "address_line_2": "16 High Street",
+        "locality": "Saffron Walden",
+        "postal_code": "CB10 1AX",
+        "region": "Essex"
+      },
+      "date_of_birth": {},
+      "links": {
+        "self": "/company/06331494/appointments/BUiGLA2zU_OeIQG8qn68sX7ePpA",
+        "officer": {
+          "appointments": "/officers/Lj0Jie7lhRGn9XCucDIDiSvG3tg/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "ROBERTS, David Wynne",
+      "officer_role": "director",
+      "appointed_on": "2007-08-02",
+      "resigned_on": "2009-02-24",
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "It Consultant",
+      "address": {
+        "address_line_1": "Horsleyhill Farmhouse",
+        "locality": "Harwick",
+        "postal_code": "TD9 8PT",
+        "region": "Scottish Borders"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1982
+      },
+      "links": {
+        "self": "/company/06331494/appointments/vvt36c_GSZArPYezRpFCTVwbsyM",
+        "officer": {
+          "appointments": "/officers/RNsSNq9dDfqr71cM5lYng4LH6Gc/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

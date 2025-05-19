@@ -1,0 +1,35 @@
+{
+  "company_number": "14824779",
+  "company_name": "TECH FILA LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "FIAZ, Muhammad",
+      "officer_role": "director",
+      "appointed_on": "2023-04-25",
+      "resigned_on": null,
+      "nationality": "Pakistani",
+      "country_of_residence": "England",
+      "occupation": "Business Executive",
+      "address": {
+        "address_line_1": "Riverhead Close",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "E17 5PY",
+        "premises": "30"
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1972
+      },
+      "links": {
+        "self": "/company/14824779/appointments/pL6uuHuytN9l1z5MI4vZeDlqcYA",
+        "officer": {
+          "appointments": "/officers/MZmn-hCjfKrPkSi20r5glLi8q2E/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

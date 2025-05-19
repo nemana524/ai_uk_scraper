@@ -1,0 +1,63 @@
+{
+  "company_number": "15925661",
+  "company_name": "TECH GUYS CORPORATION UK LTD",
+  "total_officers": 2,
+  "officers": [
+    {
+      "name": "HAMZA, Mohammed",
+      "officer_role": "director",
+      "appointed_on": "2024-08-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Consultant",
+      "address": {
+        "address_line_1": "Aked Close",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M12 4AN",
+        "premises": "29"
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1996
+      },
+      "links": {
+        "self": "/company/15925661/appointments/mcYwcBi4gnlYYFyMAeITaApyb_Q",
+        "officer": {
+          "appointments": "/officers/IhGsEEu-Lch6tppA2A04tWrl3b8/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    },
+    {
+      "name": "MEER, Sharjeel",
+      "officer_role": "director",
+      "appointed_on": "2024-08-29",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "United Kingdom",
+      "occupation": "Business",
+      "address": {
+        "address_line_1": "Aked Close",
+        "country": "United Kingdom",
+        "locality": "Manchester",
+        "postal_code": "M12 4AN",
+        "premises": "29"
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1985
+      },
+      "links": {
+        "self": "/company/15925661/appointments/bs4CKe_3QMHsn9ET7ZNc4qFMY3s",
+        "officer": {
+          "appointments": "/officers/mIKi0VMWoSoFF1cc8-j_VbI7b9g/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

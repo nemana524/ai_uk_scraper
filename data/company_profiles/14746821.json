@@ -1,0 +1,44 @@
+{
+  "company_number": "14746821",
+  "company_name": "TECH COMMUNITY CONSULTING LTD",
+  "company_status": "active",
+  "date_of_creation": "2023-03-21",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62020"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-03-31",
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-31",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-04-01"
+    },
+    "next_due": "2026-12-31",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "etag": "c9cdd09d6b2f35da45c1ff57f684d26fa4d79e5b"
+}

@@ -1,0 +1,31 @@
+{
+  "company_number": "15140003",
+  "company_name": "TECH LAB33 LIMITED",
+  "company_status": "dissolved",
+  "date_of_creation": "2023-09-15",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "62012",
+    "63110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "71-75 Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    }
+  },
+  "etag": "6fb32190f335f5c8ee7d363a7b966179d63fc770"
+}

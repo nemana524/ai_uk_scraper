@@ -1,0 +1,88 @@
+[
+  {
+    "address": {
+      "address_line_1": "165 High Street",
+      "country": "United Kingdom",
+      "locality": "Barnet",
+      "postal_code": "EN5 5SU",
+      "premises": "Highstone House",
+      "region": "Hertfordshire"
+    },
+    "appointed_on": "2025-04-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 12,
+      "year": 1982
+    },
+    "links": {
+      "self": "/company/15812816/appointments/EaUqchuu-Cq7Dw0dbWi96wsdZLk",
+      "officer": {
+        "appointments": "/officers/Gr6xkLzg4H72O3rEprxxn3RHF1w/appointments"
+      }
+    },
+    "name": "LEWIS, Simon David Malcolm",
+    "nationality": "British",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "person_number": "335233830001"
+  },
+  {
+    "address": {
+      "address_line_1": "165 High Street",
+      "country": "United Kingdom",
+      "locality": "Barnet",
+      "postal_code": "EN5 5SU",
+      "premises": "Highstone House",
+      "region": "Hertfordshire"
+    },
+    "appointed_on": "2024-07-01",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "United Kingdom",
+    "date_of_birth": {
+      "month": 9,
+      "year": 1981
+    },
+    "links": {
+      "self": "/company/15812816/appointments/l4I-3wsKoUotJ0zyUD567RidXBU",
+      "officer": {
+        "appointments": "/officers/PuiUWyGvcYWFFXreVlSd91izffI/appointments"
+      }
+    },
+    "name": "JAMES, Rubelyn Manzon",
+    "nationality": "British",
+    "occupation": "Business Woman",
+    "officer_role": "director",
+    "resigned_on": "2025-01-27",
+    "person_number": "324659140001"
+  },
+  {
+    "address": {
+      "address_line_1": "165 High Street",
+      "country": "United Kingdom",
+      "locality": "Barnet",
+      "postal_code": "EN5 5SU",
+      "premises": "Highstone House",
+      "region": "Hertfordshire"
+    },
+    "appointed_on": "2025-01-27",
+    "is_pre_1992_appointment": false,
+    "country_of_residence": "England",
+    "date_of_birth": {
+      "month": 8,
+      "year": 1985
+    },
+    "links": {
+      "self": "/company/15812816/appointments/4dS0TzDkuv0hEmOhVHqiBsjfrTg",
+      "officer": {
+        "appointments": "/officers/sKUFpI4PrC03t9cu7ImS046DA7o/appointments"
+      }
+    },
+    "name": "ROUF, Alom Hassan",
+    "nationality": "British",
+    "occupation": "Business Person",
+    "officer_role": "director",
+    "resigned_on": "2025-04-01",
+    "person_number": "156921750001"
+  }
+]

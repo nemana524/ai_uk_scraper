@@ -1,0 +1,36 @@
+{
+  "company_number": "14882939",
+  "company_name": "TECH HEARING LIMITED",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "MOHAMED, Abdijabar Abdi Mohamud",
+      "officer_role": "director",
+      "appointed_on": "2023-05-20",
+      "resigned_on": null,
+      "nationality": "Danish",
+      "country_of_residence": "England",
+      "occupation": "Director",
+      "address": {
+        "address_line_1": "Paul Street",
+        "country": "United Kingdom",
+        "locality": "London",
+        "postal_code": "EC2A 4NE",
+        "premises": "86-90",
+        "region": "England"
+      },
+      "date_of_birth": {
+        "month": 10,
+        "year": 1994
+      },
+      "links": {
+        "self": "/company/14882939/appointments/fM_vP8wigp0PHVkpkRa5nTh8R_E",
+        "officer": {
+          "appointments": "/officers/Q1bX8OmLvPjfpKmgztIDQqFTOqs/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

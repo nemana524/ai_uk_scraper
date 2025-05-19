@@ -1,0 +1,243 @@
+[
+  {
+    "transaction_id": "MzQ1OTAyNTUxOGFkaXF6a2N4",
+    "barcode": "XDYM6YX6",
+    "type": "CS01",
+    "date": "2025-03-18",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-03-07"
+    },
+    "pages": 5,
+    "action_date": "2025-03-07",
+    "links": {
+      "self": "/company/13271561/filing-history/MzQ1OTAyNTUxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/OH-VYOPBhc3FkxIpflTnndD9ZLL8rDMhs9v5N3wXrFY"
+    }
+  },
+  {
+    "transaction_id": "MzQ1NDI1NDkwN2FkaXF6a2N4",
+    "barcode": "XDW4KXB5",
+    "type": "AA",
+    "date": "2025-02-10",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-03-31"
+    },
+    "pages": 3,
+    "action_date": "2024-03-31",
+    "links": {
+      "self": "/company/13271561/filing-history/MzQ1NDI1NDkwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ham43t3q8I-q3GMraMim5UcnbYveGcBP94ak2i07cgg"
+    }
+  },
+  {
+    "transaction_id": "MzQxNDI5NzQ3MmFkaXF6a2N4",
+    "barcode": "XCYTHWD5",
+    "type": "CS01",
+    "date": "2024-03-13",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2024-03-07"
+    },
+    "pages": 5,
+    "action_date": "2024-03-07",
+    "links": {
+      "self": "/company/13271561/filing-history/MzQxNDI5NzQ3MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/TX_Ag01LVC36TwGIFCzcqZBciZ4kF9nLxPO_LCplYjE"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjA3NjY0NGFkaXF6a2N4",
+    "barcode": "XCJGLX7E",
+    "type": "AA",
+    "date": "2023-12-30",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2023-03-31"
+    },
+    "pages": 6,
+    "action_date": "2023-03-31",
+    "links": {
+      "self": "/company/13271561/filing-history/MzQwNjA3NjY0NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/L9YvDa7Co1XcitdQDZdceGT2zE1L-Ek5U12hhUX12zU"
+    }
+  },
+  {
+    "transaction_id": "MzM3NjI2NzIyM2FkaXF6a2N4",
+    "barcode": "XC1G7SUA",
+    "type": "CS01",
+    "date": "2023-04-14",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2023-03-06"
+    },
+    "pages": 5,
+    "action_date": "2023-03-06",
+    "links": {
+      "self": "/company/13271561/filing-history/MzM3NjI2NzIyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Dnc6j-MOnzMP0U_5kfgHe8IxkwNNn6dnriJ-SqRSf6w"
+    }
+  },
+  {
+    "transaction_id": "MzM2Nzk0MzQ4NmFkaXF6a2N4",
+    "barcode": "XBWFLBZT",
+    "type": "AA",
+    "date": "2023-02-01",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-total-exemption-full",
+    "description_values": {
+      "made_up_date": "2022-03-31"
+    },
+    "pages": 6,
+    "action_date": "2022-03-31",
+    "links": {
+      "self": "/company/13271561/filing-history/MzM2Nzk0MzQ4NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ABBeYeIv34V3_uuOmcS57HoWOprBud9yZqbP0kCi-tQ"
+    }
+  },
+  {
+    "transaction_id": "MzM2NzA3NTI4MmFkaXF6a2N4",
+    "barcode": "XBVZ1C23",
+    "type": "TM01",
+    "date": "2023-01-25",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Andrew Dyer",
+      "termination_date": "2023-01-19"
+    },
+    "pages": 1,
+    "action_date": "2023-01-19",
+    "links": {
+      "self": "/company/13271561/filing-history/MzM2NzA3NTI4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MkBaLZHyqCyf-c2Fp_B10pv4EENClqCIvCh-TcfLVPA"
+    }
+  },
+  {
+    "transaction_id": "MzMzMjAxNDQ1NWFkaXF6a2N4",
+    "barcode": "XAZ6ZJUI",
+    "type": "CS01",
+    "date": "2022-03-06",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-03-06"
+    },
+    "pages": 5,
+    "action_date": "2022-03-06",
+    "links": {
+      "self": "/company/13271561/filing-history/MzMzMjAxNDQ1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HszoVGhE0k0zZ-kyMjPq56EK81Yk94zz2rFgQQWEvsg"
+    }
+  },
+  {
+    "transaction_id": "MzMwMDY1ODg4OWFkaXF6a2N4",
+    "barcode": "XA4AQFPL",
+    "type": "SH01",
+    "date": "2021-05-11",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2021-05-01",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "416"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2021-05-01",
+    "links": {
+      "self": "/company/13271561/filing-history/MzMwMDY1ODg4OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/SXmPduqu_NzAFSDSw-fIL0KDMb_z8AXaxQyvjeQlkK8"
+    }
+  },
+  {
+    "transaction_id": "MzMwMDY1ODQwMGFkaXF6a2N4",
+    "barcode": "XA4AQE5T",
+    "type": "SH01",
+    "date": "2021-05-11",
+    "category": "capital",
+    "description": "capital-allotment-shares",
+    "description_values": {
+      "date": "2021-04-01",
+      "capital": [
+        {
+          "currency": "GBP",
+          "figure": "202"
+        }
+      ]
+    },
+    "pages": 3,
+    "action_date": "2021-04-01",
+    "links": {
+      "self": "/company/13271561/filing-history/MzMwMDY1ODQwMGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/M0Fpqyaf5Pm7Ta6m2UssFKcrOvsQOO_l4Ov3oZCJbtY"
+    }
+  },
+  {
+    "transaction_id": "MzI5ODEyOTAyMmFkaXF6a2N4",
+    "barcode": "AA24LF61",
+    "type": "AP01",
+    "date": "2021-04-20",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Andrew Dyer",
+      "appointment_date": "2021-04-01"
+    },
+    "pages": 2,
+    "action_date": "2021-04-01",
+    "paper_filed": true,
+    "links": {
+      "self": "/company/13271561/filing-history/MzI5ODEyOTAyMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WIvZ2tMPwdiRIqGysaHwpLZbM44bvNKs25XNMcjgESU"
+    }
+  },
+  {
+    "transaction_id": "MzI5NDM1MTcwOWFkaXF6a2N4",
+    "barcode": "XA0BL103",
+    "type": "NEWINC",
+    "date": "2021-03-16",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2021-03-16",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2021-03-16",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2021-03-16",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "2"
+            }
+          ]
+        },
+        "action_date": "2021-03-16"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 13,
+    "links": {
+      "self": "/company/13271561/filing-history/MzI5NDM1MTcwOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ILQfCx7Q9PqjUffk-laPdyB2W8bwc4BL5bpcQv2eT64"
+    }
+  }
+]

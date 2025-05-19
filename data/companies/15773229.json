@@ -1,0 +1,53 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2026-03-12",
+      "overdue": false,
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-06-12"
+    },
+    "next_due": "2026-03-12",
+    "next_made_up_to": "2025-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DEPOT LTD",
+  "company_number": "15773229",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2025-06-25",
+    "next_made_up_to": "2025-06-11",
+    "overdue": false
+  },
+  "date_of_creation": "2024-06-12",
+  "etag": "87f65d88a1fb40c208fab03ff46d3b48f8f4baa5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/15773229/persons-with-significant-control",
+    "self": "/company/15773229",
+    "filing_history": "/company/15773229/filing-history",
+    "officers": "/company/15773229/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Islington Suite 1543 275 New North Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "N1 7AA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "47910"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

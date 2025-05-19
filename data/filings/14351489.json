@@ -1,0 +1,247 @@
+[
+  {
+    "transaction_id": "MzQ2NDE0MzYxOGFkaXF6a2N4",
+    "barcode": "XE1F0PZU",
+    "type": "CS01",
+    "date": "2025-04-28",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2025-04-28"
+    },
+    "pages": 4,
+    "action_date": "2025-04-28",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQ2NDE0MzYxOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/sBsZfndFcOPntW3XEgNUH-dFMQk3hz_pwrozW2oPbXM"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NDE0MzI3NmFkaXF6a2N4",
+    "barcode": "XE1F0ORC",
+    "type": "AP01",
+    "date": "2025-04-28",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Bhageeradh Chowdary Manukonda",
+      "appointment_date": "2025-04-15"
+    },
+    "pages": 2,
+    "action_date": "2025-04-15",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQ2NDE0MzI3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/MmQvDqG89mxeV5BdrVIiAFJ-g18KMOUAeTeLMpNT7sk"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NDE0MzE0MGFkaXF6a2N4",
+    "barcode": "XE1F0OKB",
+    "type": "PSC01",
+    "date": "2025-04-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Bhageerdah Chowdary Manukonda",
+      "notification_date": "2025-04-15"
+    },
+    "pages": 2,
+    "action_date": "2025-04-15",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQ2NDE0MzE0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ki6tKULyIPPFw0tJWCXHG812jUrfeTfsjTClcrUu4UI"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NDE0MjUwOGFkaXF6a2N4",
+    "barcode": "XE1F0N4G",
+    "type": "TM01",
+    "date": "2025-04-28",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Muhammad Waseem",
+      "termination_date": "2025-04-15"
+    },
+    "pages": 1,
+    "action_date": "2025-04-15",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQ2NDE0MjUwOGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZF2wu__zK67Fl_CtAUEHXlsn8BYXiQhgX34tqLF3X08"
+    }
+  },
+  {
+    "transaction_id": "MzQ2NDE0MjQ4MmFkaXF6a2N4",
+    "barcode": "XE1F0N1V",
+    "type": "PSC07",
+    "date": "2025-04-28",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Waseem",
+      "cessation_date": "2025-04-15"
+    },
+    "pages": 1,
+    "action_date": "2025-04-15",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQ2NDE0MjQ4MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/t_vUoW_AJFMwpowsWNImjvO3UVH5XK0-cQFOF27Pnbc"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTQyNDA5NWFkaXF6a2N4",
+    "barcode": "XDYP8O0W",
+    "type": "PSC01",
+    "date": "2025-03-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Waseem",
+      "notification_date": "2025-03-19"
+    },
+    "pages": 2,
+    "action_date": "2025-03-19",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQ1OTQyNDA5NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RB-3ME18wUO1F-N_u8ADS_FcynJVWkcRiri8sflyBGA"
+    }
+  },
+  {
+    "transaction_id": "MzQ1OTQxNDU1NWFkaXF6a2N4",
+    "barcode": "XDYP8NPF",
+    "type": "PSC07",
+    "date": "2025-03-20",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Muhammad Waseem",
+      "cessation_date": "2025-03-20"
+    },
+    "pages": 1,
+    "action_date": "2025-03-20",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQ1OTQxNDU1NWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xcw-IF1P67fZEgv_mCd5YNZdghJLchrypNIduzxxmnM"
+    }
+  },
+  {
+    "transaction_id": "MzQzNDk4MTMxMmFkaXF6a2N4",
+    "barcode": "XDB9F9OG",
+    "type": "CS01",
+    "date": "2024-09-09",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-09-09"
+    },
+    "pages": 3,
+    "action_date": "2024-09-09",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQzNDk4MTMxMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/tp1zDmOJC_UfBMii1r862Or551pT2Blm1gebP8KzNgk"
+    }
+  },
+  {
+    "transaction_id": "MzQyNDY1ODQwM2FkaXF6a2N4",
+    "barcode": "XD4WJB6H",
+    "type": "AA",
+    "date": "2024-06-09",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2023-09-30"
+    },
+    "pages": 3,
+    "action_date": "2023-09-30",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQyNDY1ODQwM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LuJw8Ky_L8sBF9zF8sdaXJQrQuxjMjsRdd5Vcyr_n8M"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjQ0MDY3NmFkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2023-12-05",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14351489/filing-history/MzQwMjQ0MDY3NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8PHLVi4ZMMgXciMtnP0Zx3aFHZfBwBlt3bXiu9h2Xr0"
+    }
+  },
+  {
+    "transaction_id": "MzQwMjQ0MDU4OGFkaXF6a2N4",
+    "barcode": "XCHNEWKO",
+    "type": "CS01",
+    "date": "2023-12-04",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2023-09-11"
+    },
+    "pages": 3,
+    "action_date": "2023-09-11",
+    "links": {
+      "self": "/company/14351489/filing-history/MzQwMjQ0MDU4OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GjA8k4bKmbkz7bkTt8LzE3ROi95CkzP9xZ2bLsXqo70"
+    }
+  },
+  {
+    "transaction_id": "MzQwMDk0NTgxNmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-11-28",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/14351489/filing-history/MzQwMDk0NTgxNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/YSskBxRBigbHaeJAe7e4ZnjhTm-ISoevrfxD5tLs7mw"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTUzNTYzN2FkaXF6a2N4",
+    "barcode": "XBCAY4ER",
+    "type": "NEWINC",
+    "date": "2022-09-12",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2022-09-12",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2022-09-12",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2022-09-12",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "100"
+            }
+          ]
+        },
+        "action_date": "2022-09-12"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/14351489/filing-history/MzM1MTUzNTYzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/oqgDjYGOkfJ7UR6MUtPe7kP0kL2K4QDv8v_i-qjboj0"
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "transaction_id": "MzM4OTQ0Njc0MGFkaXF6a2N4",
+    "type": "DISS16(SOAS)",
+    "date": "2023-08-15",
+    "category": "dissolution",
+    "description": "dissolved-compulsory-strike-off-suspended",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12794196/filing-history/MzM4OTQ0Njc0MGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Jfm5x-mcyGTS1_u-84wqiJZASElezdJyGJtmu3_OrSI"
+    }
+  },
+  {
+    "transaction_id": "MzM4NzMwMjMzN2FkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2023-08-01",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12794196/filing-history/MzM4NzMwMjMzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/D2yEmEyxtCLpVeKEXAbnVleTgfNyOoYygsPiQH2W2BE"
+    }
+  },
+  {
+    "transaction_id": "MzM1MTYyMjgwNWFkaXF6a2N4",
+    "barcode": "XBCDMR88",
+    "type": "CS01",
+    "date": "2022-09-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-updates",
+    "description_values": {
+      "made_up_date": "2022-07-22"
+    },
+    "pages": 4,
+    "action_date": "2022-07-22",
+    "links": {
+      "self": "/company/12794196/filing-history/MzM1MTYyMjgwNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0zPNSO9jpw6kHjLdn4n1kFlfLPayDCqXMZ6kKGcSEQ0"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjA1NDMxM2FkaXF6a2N4",
+    "type": "DISS40",
+    "date": "2022-07-20",
+    "category": "gazette",
+    "description": "gazette-filings-brought-up-to-date",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12794196/filing-history/MzM0NjA1NDMxM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/LDlP0uyIH7BGG7JypAxJEBmbN28Y3IFjWNU6jKiagqU"
+    }
+  },
+  {
+    "transaction_id": "MzM0NjA1NDIxNWFkaXF6a2N4",
+    "barcode": "XB8LB45P",
+    "type": "AA",
+    "date": "2022-07-19",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2021-08-31"
+    },
+    "pages": 3,
+    "action_date": "2021-08-31",
+    "links": {
+      "self": "/company/12794196/filing-history/MzM0NjA1NDIxNWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/0R43e5-kMHtKyE2iYGCpCfitST2g_mMjrY1nmSb1daU"
+    }
+  },
+  {
+    "transaction_id": "MzM0Mzc2MzgzMmFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2022-07-05",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/12794196/filing-history/MzM0Mzc2MzgzMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/yLyDMdzVpfItLwcrqRc0D3ROdTKpCejiypSILPaC2nU"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTA2ODAwNGFkaXF6a2N4",
+    "barcode": "XAYLE0DD",
+    "type": "PSC01",
+    "date": "2022-02-25",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Graeme Thomas Muir",
+      "notification_date": "2022-02-21"
+    },
+    "pages": 2,
+    "action_date": "2022-02-21",
+    "links": {
+      "self": "/company/12794196/filing-history/MzMzMTA2ODAwNGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/FHJ-nGIQfw93A35HxhruSTyqmfMUi1PUcw4CbqhsFeQ"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTA2Nzc0N2FkaXF6a2N4",
+    "barcode": "XAYLDZEQ",
+    "type": "AP01",
+    "date": "2022-02-25",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Graeme Thomas Muir",
+      "appointment_date": "2022-02-21"
+    },
+    "pages": 2,
+    "action_date": "2022-02-21",
+    "links": {
+      "self": "/company/12794196/filing-history/MzMzMTA2Nzc0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/VDihYi1nFUQqQ7luvd8xO21wV6b_nfFMoLKomvNLQnQ"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTA2NzY3OGFkaXF6a2N4",
+    "barcode": "XAYLDZ7F",
+    "type": "TM01",
+    "date": "2022-02-25",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Darren Symes",
+      "termination_date": "2022-02-21"
+    },
+    "pages": 1,
+    "action_date": "2022-02-21",
+    "links": {
+      "self": "/company/12794196/filing-history/MzMzMTA2NzY3OGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/z0b7XwjtChBHY-yYC-wZDhlnvSijc_brDW-R5CnxShM"
+    }
+  },
+  {
+    "transaction_id": "MzMzMTA2NzU3NGFkaXF6a2N4",
+    "barcode": "XAYLDYWW",
+    "type": "PSC07",
+    "date": "2022-02-25",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Darren Symes",
+      "cessation_date": "2022-02-21"
+    },
+    "pages": 1,
+    "action_date": "2022-02-21",
+    "links": {
+      "self": "/company/12794196/filing-history/MzMzMTA2NzU3NGFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/O9sS-Z3C5GgkQR4tErXQsEG0bXGLogNZUKNZrVzJnFU"
+    }
+  },
+  {
+    "transaction_id": "MzMxNjc0NDQwN2FkaXF6a2N4",
+    "barcode": "XAEXUMSY",
+    "type": "CS01",
+    "date": "2021-10-12",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2021-08-04"
+    },
+    "pages": 3,
+    "action_date": "2021-08-04",
+    "links": {
+      "self": "/company/12794196/filing-history/MzMxNjc0NDQwN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/_cqDTbkVa-nH8CLv8ZDJfANpF_anrKtJssxp0pJM3Lo"
+    }
+  },
+  {
+    "transaction_id": "MzI3NDU4NTkyM2FkaXF6a2N4",
+    "barcode": "X9ASOSAQ",
+    "type": "NEWINC",
+    "date": "2020-08-05",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2020-08-05",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2020-08-05",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2020-08-05",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2020-08-05"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/12794196/filing-history/MzI3NDU4NTkyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mOFeXD_BbtaDPOvpIkNv8pX-iF3ID8OE5J0m5okB3V4"
+    }
+  }
+]

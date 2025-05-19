@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-11-30",
+      "period_end_on": "2023-11-30",
+      "period_start_on": "2022-12-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2025-08-31",
+      "overdue": false,
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01"
+    },
+    "next_due": "2025-08-31",
+    "next_made_up_to": "2024-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH DISCOVERY LTD",
+  "company_number": "07344142",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-08-08",
+    "next_due": "2025-08-22",
+    "next_made_up_to": "2025-08-08",
+    "overdue": false
+  },
+  "date_of_creation": "2010-08-12",
+  "etag": "f0d246c8d5a3056f78379a4a4ba1def4fa1a1976",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-08-12",
+  "links": {
+    "persons_with_significant_control": "/company/07344142/persons-with-significant-control",
+    "self": "/company/07344142",
+    "filing_history": "/company/07344142/filing-history",
+    "officers": "/company/07344142/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "32 Wilshire Avenue",
+    "address_line_2": "Springfield",
+    "country": "England",
+    "locality": "Chelmsford",
+    "postal_code": "CM2 6QW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

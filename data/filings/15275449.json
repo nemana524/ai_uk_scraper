@@ -1,0 +1,160 @@
+[
+  {
+    "transaction_id": "MzQ2MTg2NTY3OWFkaXF6a2N4",
+    "type": "GAZ2",
+    "date": "2025-04-15",
+    "category": "gazette",
+    "description": "gazette-dissolved-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15275449/filing-history/MzQ2MTg2NTY3OWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/zSGk-eQu1CeQ0MExiIPMrkRIAAJNL9nCXnulxKDAyDg"
+    }
+  },
+  {
+    "transaction_id": "MzQ1MjAxMzE0MWFkaXF6a2N4",
+    "type": "GAZ1",
+    "date": "2025-01-28",
+    "category": "gazette",
+    "description": "gazette-notice-compulsory",
+    "pages": 1,
+    "paper_filed": true,
+    "links": {
+      "self": "/company/15275449/filing-history/MzQ1MjAxMzE0MWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ku1n_x031OnwZY9vGZLaNbGk8FHUHAsdgw6LLQciy04"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzI4Mjc0N2FkaXF6a2N4",
+    "barcode": "XDA56CLT",
+    "type": "AD01",
+    "date": "2024-08-24",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-08-24",
+      "old_address": "222 Merton Road London SW18 5JG United Kingdom",
+      "new_address": "151 Effra Road London SW19 8PU"
+    },
+    "pages": 1,
+    "action_date": "2024-08-24",
+    "links": {
+      "self": "/company/15275449/filing-history/MzQzMzI4Mjc0N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/pCqN879ggZ4bhCKUIS6JuECqHniA4vwyij5PoBP5VO0"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzI4Mjc0MmFkaXF6a2N4",
+    "barcode": "XDA56CK9",
+    "type": "PSC07",
+    "date": "2024-08-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Ayman Charafeddine",
+      "cessation_date": "2024-08-15"
+    },
+    "pages": 1,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/15275449/filing-history/MzQzMzI4Mjc0MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/RcTj2M2oLBXto5Rn7VxV3xYIvFo55OMnvSBiw-ZRgaI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzI4MjczNmFkaXF6a2N4",
+    "barcode": "XDA56CL5",
+    "type": "PSC01",
+    "date": "2024-08-24",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Richard Joel",
+      "notification_date": "2024-08-15"
+    },
+    "pages": 2,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/15275449/filing-history/MzQzMzI4MjczNmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/HuJqxgeYQ2JJAhpzbIMRu1PuUW4dUQzibEpitMqADpM"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzI4MjcyN2FkaXF6a2N4",
+    "barcode": "XDA56CMX",
+    "type": "TM01",
+    "date": "2024-08-24",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Ayman Charafeddine",
+      "termination_date": "2024-08-15"
+    },
+    "pages": 1,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/15275449/filing-history/MzQzMzI4MjcyN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/mPLIbflG63eGA-Cqw8gJ7Q7L9eVWzXWFrSll-e4oMhI"
+    }
+  },
+  {
+    "transaction_id": "MzQzMzI4MjY2N2FkaXF6a2N4",
+    "barcode": "XDA56CHU",
+    "type": "AP01",
+    "date": "2024-08-24",
+    "category": "officers",
+    "subcategory": "appointments",
+    "description": "appoint-person-director-company-with-name-date",
+    "description_values": {
+      "officer_name": "Mr Richard Joel",
+      "appointment_date": "2024-08-15"
+    },
+    "pages": 2,
+    "action_date": "2024-08-15",
+    "links": {
+      "self": "/company/15275449/filing-history/MzQzMzI4MjY2N2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/XgcRlWLboYPDpJPj4_zFvqyO6_XusLuxsPTf-c7N4wc"
+    }
+  },
+  {
+    "transaction_id": "MzM5OTQ0MTI4M2FkaXF6a2N4",
+    "barcode": "XCFXO2D5",
+    "type": "NEWINC",
+    "date": "2023-11-10",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-11-10",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-11-10",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-11-10",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1"
+            }
+          ]
+        },
+        "action_date": "2023-11-10"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 10,
+    "links": {
+      "self": "/company/15275449/filing-history/MzM5OTQ0MTI4M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/jMJX4mT8jdsxtsIaPRQCzWrDjKMJUygSLT312UMtmv4"
+    }
+  }
+]

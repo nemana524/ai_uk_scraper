@@ -1,0 +1,35 @@
+{
+  "company_number": "14339917",
+  "company_name": "TECH FRANKLIN LTD",
+  "total_officers": 1,
+  "officers": [
+    {
+      "name": "FRANKLIN, Edward William",
+      "officer_role": "director",
+      "appointed_on": "2022-09-06",
+      "resigned_on": null,
+      "nationality": "British",
+      "country_of_residence": "England",
+      "occupation": "Company Director",
+      "address": {
+        "address_line_1": "21 Lionel Street",
+        "country": "England",
+        "locality": "Birmingham",
+        "postal_code": "B3 1AT",
+        "premises": "Apartment 28 Maxim 28"
+      },
+      "date_of_birth": {
+        "month": 7,
+        "year": 1993
+      },
+      "links": {
+        "self": "/company/14339917/appointments/I21YCUWD4cDSSFdv9HB77qgULAM",
+        "officer": {
+          "appointments": "/officers/s8GkawdUiHpDN-8hkzpWx99e_mw/appointments"
+        }
+      },
+      "former_names": [],
+      "identification": {}
+    }
+  ]
+}

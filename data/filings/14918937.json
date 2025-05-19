@@ -1,0 +1,149 @@
+[
+  {
+    "transaction_id": "MzQ2MDc5MzY3M2FkaXF6a2N4",
+    "barcode": "XDZGQ5IJ",
+    "type": "AA",
+    "date": "2025-03-31",
+    "category": "accounts",
+    "description": "accounts-with-accounts-type-micro-entity",
+    "description_values": {
+      "made_up_date": "2024-06-30"
+    },
+    "pages": 3,
+    "action_date": "2024-06-30",
+    "links": {
+      "self": "/company/14918937/filing-history/MzQ2MDc5MzY3M2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/8SIOqz1yNLgu3dKnUrPO-45jSYtSRsXVy8cYNirlR3I"
+    }
+  },
+  {
+    "transaction_id": "MzQzMDM4MjgyOWFkaXF6a2N4",
+    "barcode": "XD8CKGCI",
+    "type": "CS01",
+    "date": "2024-07-29",
+    "category": "confirmation-statement",
+    "description": "confirmation-statement-with-no-updates",
+    "description_values": {
+      "made_up_date": "2024-06-05"
+    },
+    "pages": 3,
+    "action_date": "2024-06-05",
+    "links": {
+      "self": "/company/14918937/filing-history/MzQzMDM4MjgyOWFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/WwbQx_CQMiassPgJBa-IN5KveilTZGE7QrYbfVciXJ4"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjIxNjE2NmFkaXF6a2N4",
+    "barcode": "XCTVGKYW",
+    "type": "AD01",
+    "date": "2024-01-02",
+    "category": "address",
+    "description": "change-registered-office-address-company-with-date-old-address-new-address",
+    "description_values": {
+      "change_date": "2024-01-02",
+      "old_address": "1 Newbury Court Newbury Gillingham SP8 4QX England",
+      "new_address": "26 Downsview Drive Gillingham Dorset SP8 4RL"
+    },
+    "pages": 1,
+    "action_date": "2024-01-02",
+    "links": {
+      "self": "/company/14918937/filing-history/MzQwNjIxNjE2NmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/fWdaAvY9m7kdSfgrZqsrxtfEvnrAUGNaCzYVqJDKsm4"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjIxNjAzN2FkaXF6a2N4",
+    "barcode": "XCTVGKA8",
+    "type": "PSC01",
+    "date": "2024-01-02",
+    "category": "persons-with-significant-control",
+    "subcategory": "notifications",
+    "description": "notification-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "David Ware",
+      "notification_date": "2023-12-23"
+    },
+    "pages": 2,
+    "action_date": "2023-12-23",
+    "links": {
+      "self": "/company/14918937/filing-history/MzQwNjIxNjAzN2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/GEsWQ7AwoclBQp8mk1z2iLxJnovcTGtlFAo9yozxVXQ"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjIxNTAyM2FkaXF6a2N4",
+    "barcode": "XCTVGFLV",
+    "type": "PSC07",
+    "date": "2024-01-02",
+    "category": "persons-with-significant-control",
+    "subcategory": "termination",
+    "description": "cessation-of-a-person-with-significant-control",
+    "description_values": {
+      "psc_name": "Christopher Stuart Ryu",
+      "cessation_date": "2023-12-23"
+    },
+    "pages": 1,
+    "action_date": "2023-12-23",
+    "links": {
+      "self": "/company/14918937/filing-history/MzQwNjIxNTAyM2FkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/9hHPDUYmI2W5WvCWJzdCrq2jcxrGRP43wqoe80vH29E"
+    }
+  },
+  {
+    "transaction_id": "MzQwNjIxNDg2MmFkaXF6a2N4",
+    "barcode": "XCTVGEWZ",
+    "type": "TM01",
+    "date": "2024-01-02",
+    "category": "officers",
+    "subcategory": "termination",
+    "description": "termination-director-company-with-name-termination-date",
+    "description_values": {
+      "officer_name": "Christopher Stuart Ryu",
+      "termination_date": "2023-12-23"
+    },
+    "pages": 1,
+    "action_date": "2023-12-23",
+    "links": {
+      "self": "/company/14918937/filing-history/MzQwNjIxNDg2MmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/ALt3kUa0S3_qFnnl_vOrq27gnMM9P13wjRU3E3Pw14w"
+    }
+  },
+  {
+    "transaction_id": "MzM4MjA0NzUwMmFkaXF6a2N4",
+    "barcode": "XC53MUS2",
+    "type": "NEWINC",
+    "date": "2023-06-06",
+    "category": "incorporation",
+    "associated_filings": [
+      {
+        "category": "incorporation",
+        "date": "2023-06-06",
+        "description": "model-articles-adopted",
+        "type": "MODEL ARTICLES"
+      },
+      {
+        "category": "capital",
+        "date": "2023-06-06",
+        "description": "statement-of-capital",
+        "type": "SH01",
+        "description_values": {
+          "date": "2023-06-06",
+          "capital": [
+            {
+              "currency": "GBP",
+              "figure": "1,000"
+            }
+          ]
+        },
+        "action_date": "2023-06-06"
+      }
+    ],
+    "description": "incorporation-company",
+    "pages": 11,
+    "links": {
+      "self": "/company/14918937/filing-history/MzM4MjA0NzUwMmFkaXF6a2N4",
+      "document_metadata": "https://document-api.company-information.service.gov.uk/document/y6jTLUNvJXtuLH_48jstPhamu84Zpy86MXxaaBO93gk"
+    }
+  }
+]

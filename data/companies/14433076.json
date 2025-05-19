@@ -1,0 +1,41 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    }
+  },
+  "can_file": false,
+  "company_name": "TECH BLADE ELLIOTT ENGINEERING LTD",
+  "company_number": "14433076",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-10-19"
+  },
+  "date_of_cessation": "2024-12-03",
+  "date_of_creation": "2022-10-20",
+  "etag": "d23e2728691c586b6053d0262d7ddc62ce1f6e87",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14433076/persons-with-significant-control",
+    "self": "/company/14433076",
+    "filing_history": "/company/14433076/filing-history",
+    "officers": "/company/14433076/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "C/O Milner Smeaton Viking House, Falcon Court",
+    "address_line_2": "Preston Farm",
+    "country": "United Kingdom",
+    "locality": "Stockton On Tees",
+    "postal_code": "TS18 3TS"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

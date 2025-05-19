@@ -1,0 +1,65 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "TECH CONNECT IT LTD",
+  "company_number": "11623518",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-07-30",
+    "next_due": "2025-08-13",
+    "next_made_up_to": "2025-07-30",
+    "overdue": false
+  },
+  "date_of_creation": "2018-10-15",
+  "etag": "3341eb1ecbbdc20e48dcb261eb2847715708f61d",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11623518/persons-with-significant-control",
+    "self": "/company/11623518",
+    "filing_history": "/company/11623518/filing-history",
+    "officers": "/company/11623518/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2020-06-30",
+      "effective_from": "2018-10-15",
+      "name": "I FIXIT IT.COM LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "10 Dinsdale Gardens",
+    "address_line_2": "New Barnet",
+    "country": "United Kingdom",
+    "locality": "Barnet",
+    "postal_code": "EN5 1HE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}
