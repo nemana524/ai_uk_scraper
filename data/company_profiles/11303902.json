@@ -1,0 +1,45 @@
+{
+  "company_number": "11303902",
+  "company_name": "SICODA LIMITED",
+  "company_status": "active",
+  "date_of_creation": "2018-04-11",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "41100"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "1 Bickenhall Mansions",
+    "address_line_2": "Bickenhall Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1U 6BP"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "etag": "51ee706dbef48a86762f42ab49f934aa90cc903f"
+}

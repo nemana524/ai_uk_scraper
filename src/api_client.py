@@ -107,6 +107,27 @@ class CompaniesHouseClient:
             logger.error(f"Failed to parse JSON response: {e}")
             raise
     
+    def search_companies_by_sic(self, sic_code: str, items_per_page: int = 100, 
+                              start_index: int = 0) -> Dict[str, Any]:
+        """Search for companies by SIC code.
+        
+        Args:
+            sic_code: The SIC code to search for
+            items_per_page: Number of results per page
+            start_index: Starting index for pagination
+            
+        Returns:
+            Search results as a dictionary
+        """
+        # Companies House API expects SIC codes in the format "SIC code: 41100"
+        query = f"SIC code: {sic_code}"
+        params = {
+            "q": query,
+            "items_per_page": items_per_page,
+            "start_index": start_index
+        }
+        return self._make_request(COMPANY_SEARCH_URL, params)
+    
     def search_companies(self, query: str, items_per_page: int = 100, 
                         start_index: int = 0) -> Dict[str, Any]:
         """Search for companies by name or number.

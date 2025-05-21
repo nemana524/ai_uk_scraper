@@ -14,6 +14,7 @@ import sys
 import os
 import requests
 import base64
+from tqdm import tqdm
 
 from src.scraper import CompaniesHouseScraper
 from src.config import API_KEY, TEST_COMPANY_NUMBER
@@ -91,8 +92,8 @@ def main():
     
     # Add arguments
     parser.add_argument("--query", type=str, help="Search query for companies")
-    parser.add_argument("--max-pages", type=int, default=10, 
-                       help="Maximum number of pages to retrieve (default: 10)")
+    parser.add_argument("--max-pages", type=int, default=None, 
+                       help="Maximum number of pages to retrieve (default: None = all available pages)")
     parser.add_argument("--export", action="store_true", 
                        help="Export collected data to CSV")
     parser.add_argument("--company-number", type=str,
@@ -101,6 +102,10 @@ def main():
                        help="API key for Companies House (overrides config and env var)")
     parser.add_argument("--debug", action="store_true",
                        help="Enable debug logging")
+    
+    # Add new argument for SIC code search
+    parser.add_argument("--sic", type=str,
+                       help="Search for companies by SIC code")
     
     # Add new argument for scraping all companies
     parser.add_argument("--scrape-all", action="store_true",
@@ -165,6 +170,26 @@ def main():
             logger.warning("Scraping process interrupted by user")
         except Exception as e:
             logger.error(f"Error during comprehensive scraping: {e}")
+            sys.exit(1)
+    
+    # Handle SIC code search
+    if args.sic:
+        try:
+            logger.info(f"Starting search for companies with SIC code: {args.sic}")
+            results = scraper.search_companies_by_sic(args.sic, args.max_pages)
+            logger.info(f"Completed scraping. Found {len(results)} companies with SIC code {args.sic}.")
+            
+            # Save results if any found
+            if results:
+                logger.info("Saving company data...")
+                for company in tqdm(results, desc="Saving companies"):
+                    scraper.save_company_data({'profile': company})
+                logger.info("All company data saved successfully")
+        except requests.exceptions.HTTPError as e:
+            logger.error(f"HTTP error occurred during SIC code search: {e}")
+            sys.exit(1)
+        except Exception as e:
+            logger.error(f"An unexpected error occurred during SIC code search: {e}")
             sys.exit(1)
     
     # Handle search query

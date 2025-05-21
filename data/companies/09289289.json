@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-03-31",
+      "period_end_on": "2022-03-31",
+      "type": "total-exemption-full"
+    }
+  },
+  "can_file": false,
+  "company_name": "SICON HOLDINGS LIMITED",
+  "company_number": "09289289",
+  "company_status": "dissolved",
+  "date_of_cessation": "2023-02-07",
+  "date_of_creation": "2014-10-31",
+  "etag": "1b60932207cadd102a66c87f918c387793398b9b",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-10-31",
+  "links": {
+    "persons_with_significant_control": "/company/09289289/persons-with-significant-control",
+    "self": "/company/09289289",
+    "filing_history": "/company/09289289/filing-history",
+    "officers": "/company/09289289/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2017-12-13",
+      "effective_from": "2014-10-31",
+      "name": "RICJAN DEVELOPMENTS LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "St Peters House",
+    "address_line_2": "Olding Road",
+    "country": "England",
+    "locality": "Bury St. Edmunds",
+    "postal_code": "IP33 3TA",
+    "region": "Suffolk"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "41100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

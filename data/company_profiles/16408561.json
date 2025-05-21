@@ -1,0 +1,40 @@
+{
+  "company_number": "16408561",
+  "company_name": "SICOCA LTD",
+  "company_status": "active",
+  "date_of_creation": "2025-04-25",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "41100",
+    "77110"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": true,
+  "registered_office_address": {
+    "address_line_1": "Crabbett Wood",
+    "address_line_2": "Itchingwood Common Road",
+    "country": "England",
+    "locality": "Oxted",
+    "postal_code": "RH8 0RJ"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "next_accounts": {
+      "due_on": "2027-01-25",
+      "overdue": false,
+      "period_end_on": "2026-04-30",
+      "period_start_on": "2025-04-25"
+    },
+    "next_due": "2027-01-25",
+    "next_made_up_to": "2026-04-30",
+    "overdue": false
+  },
+  "etag": "6c55bc51a65b614f5678675277ac917ad0f802fc"
+}

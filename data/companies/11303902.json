@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "SICODA LIMITED",
+  "company_number": "11303902",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-10",
+    "next_due": "2026-04-24",
+    "next_made_up_to": "2026-04-10",
+    "overdue": false
+  },
+  "date_of_creation": "2018-04-11",
+  "etag": "51ee706dbef48a86762f42ab49f934aa90cc903f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11303902/persons-with-significant-control",
+    "self": "/company/11303902",
+    "charges": "/company/11303902/charges",
+    "filing_history": "/company/11303902/filing-history",
+    "officers": "/company/11303902/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "1 Bickenhall Mansions",
+    "address_line_2": "Bickenhall Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1U 6BP"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "41100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

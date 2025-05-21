@@ -1,0 +1,36 @@
+{
+  "company_number": "09289289",
+  "company_name": "SICON HOLDINGS LIMITED",
+  "company_status": "dissolved",
+  "date_of_creation": "2014-10-31",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "sic_codes": [
+    "41100"
+  ],
+  "has_insolvency_history": false,
+  "has_charges": false,
+  "has_super_secure_pscs": false,
+  "can_file": false,
+  "registered_office_address": {
+    "address_line_1": "St Peters House",
+    "address_line_2": "Olding Road",
+    "country": "England",
+    "locality": "Bury St. Edmunds",
+    "postal_code": "IP33 3TA",
+    "region": "Suffolk"
+  },
+  "annual_return": {},
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-03-31",
+      "period_end_on": "2022-03-31",
+      "type": "total-exemption-full"
+    }
+  },
+  "etag": "1b60932207cadd102a66c87f918c387793398b9b"
+}

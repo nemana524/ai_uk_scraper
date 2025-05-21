@@ -57,12 +57,12 @@ class CompaniesHouseScraper:
         logger.info("Scraper initialized")
     
     def search_companies_paginated(self, query: str, 
-                                max_pages: int = 10) -> Generator[Dict[str, Any], None, None]:
+                                max_pages: Optional[int] = None) -> Generator[Dict[str, Any], None, None]:
         """Search for companies and handle pagination.
         
         Args:
             query: The search query
-            max_pages: Maximum number of pages to retrieve
+            max_pages: Maximum number of pages to retrieve (None for all pages)
             
         Yields:
             Company data dictionaries
@@ -72,7 +72,7 @@ class CompaniesHouseScraper:
         total_results = None
         current_page = 0
         
-        while current_page < max_pages:
+        while True:  # Continue until we break
             try:
                 response = self.client.search_companies(query, items_per_page, start_index)
                 
@@ -91,6 +91,12 @@ class CompaniesHouseScraper:
                 start_index += items_per_page
                 current_page += 1
                 
+                # Check if we've reached the maximum number of pages
+                if max_pages is not None and current_page >= max_pages:
+                    logger.info(f"Reached maximum number of pages ({max_pages})")
+                    break
+                
+                # Check if we've reached the end of results
                 if start_index >= total_results:
                     logger.info("Reached end of results")
                     break
@@ -602,201 +608,166 @@ class CompaniesHouseScraper:
             }, f, indent=2)
 
     def export_to_csv(self, output_dir: str = DATA_DIR) -> None:
-        """Export collected data to CSV files for analysis.
+        """Export collected data to CSV files.
         
         Args:
             output_dir: Directory to save CSV files
         """
-        # Export companies data (original format)
-        companies = []
-        for filename in os.listdir(self.companies_data_dir):
-            if filename.endswith('.json'):
-                try:
-                    with open(os.path.join(self.companies_data_dir, filename), 'r', encoding='utf-8') as f:
-                        company = json.load(f)
-                        companies.append({
-                            'company_number': company.get('company_number'),
-                            'company_name': company.get('company_name'),
-                            'company_status': company.get('company_status'),
-                            'date_of_creation': company.get('date_of_creation'),
-                            'sic_codes': ', '.join(company.get('sic_codes', [])),
-                            'registered_office_address': json.dumps(company.get('registered_office_address', {})),
-                            'has_insolvency_history': company.get('has_insolvency_history'),
-                            'has_charges': company.get('has_charges'),
-                            'jurisdiction': company.get('jurisdiction'),
-                            'last_updated': company.get('last_full_members_list_date')
-                        })
-                except Exception as e:
-                    logger.error(f"Error processing company file {filename}: {e}")
-                    continue
-        
-        if companies:
-            df_companies = pd.DataFrame(companies)
-            companies_csv_path = os.path.join(output_dir, 'companies.csv')
-            df_companies.to_csv(companies_csv_path, index=False)
-            logger.info(f"Exported {len(companies)} companies to {companies_csv_path}")
-        else:
-            logger.warning("No company data to export")
-        
-        # Export structured company profiles
-        company_profiles = []
-        for filename in os.listdir(self.company_profiles_dir):
-            if filename.endswith('.json'):
-                try:
-                    with open(os.path.join(self.company_profiles_dir, filename), 'r', encoding='utf-8') as f:
+        try:
+            # Export company profiles with enhanced SIC code information
+            profiles = []
+            for filename in os.listdir(self.company_profiles_dir):
+                if filename.endswith('.json'):
+                    with open(os.path.join(self.company_profiles_dir, filename), 'r') as f:
                         profile = json.load(f)
-                        
-                        # Extract address components for easier analysis
-                        address = profile.get('registered_office_address', {})
-                        address_str = ", ".join([v for k, v in address.items() if v and k != 'postal_code'])
-                        
-                        # Extract accounts data
-                        accounts = profile.get('accounts', {})
-                        next_accounts = accounts.get('next_accounts', {})
-                        last_accounts = accounts.get('last_accounts', {})
-                        
-                        company_profiles.append({
-                            'company_number': profile.get('company_number'),
-                            'company_name': profile.get('company_name'),
-                            'company_status': profile.get('company_status'),
-                            'date_of_creation': profile.get('date_of_creation'),
-                            'type': profile.get('type'),
-                            'jurisdiction': profile.get('jurisdiction'),
-                            'sic_codes': ', '.join(profile.get('sic_codes', [])),
-                            'has_insolvency_history': profile.get('has_insolvency_history'),
-                            'has_charges': profile.get('has_charges'),
-                            'can_file': profile.get('can_file'),
-                            'address': address_str,
-                            'postal_code': address.get('postal_code'),
-                            'country': address.get('country'),
-                            'next_accounts_due': next_accounts.get('due_on'),
-                            'last_accounts_type': last_accounts.get('type'),
-                            'last_accounts_date': last_accounts.get('made_up_to')
-                        })
-                except Exception as e:
-                    logger.error(f"Error processing company profile file {filename}: {e}")
-                    continue
+                        # Expand SIC codes into separate columns
+                        sic_codes = profile.get('sic_codes', [])
+                        profile['sic_code_1'] = sic_codes[0] if len(sic_codes) > 0 else None
+                        profile['sic_code_2'] = sic_codes[1] if len(sic_codes) > 1 else None
+                        profile['sic_code_3'] = sic_codes[2] if len(sic_codes) > 2 else None
+                        profile['sic_code_4'] = sic_codes[3] if len(sic_codes) > 3 else None
+                        profiles.append(profile)
+            
+            if profiles:
+                df_profiles = pd.DataFrame(profiles)
+                # Reorder columns to put SIC codes together
+                columns = df_profiles.columns.tolist()
+                sic_columns = [col for col in columns if col.startswith('sic_code_')]
+                other_columns = [col for col in columns if not col.startswith('sic_code_')]
+                df_profiles = df_profiles[other_columns + sic_columns]
+                
+                profiles_path = os.path.join(output_dir, 'company_profiles.csv')
+                df_profiles.to_csv(profiles_path, index=False)
+                logger.info(f"Exported {len(profiles)} company profiles to {profiles_path}")
+            else:
+                logger.warning("No company profiles to export")
+
+            # Export officers data
+            officers = []
+            for filename in os.listdir(self.company_officers_dir):
+                if filename.endswith('.json'):
+                    with open(os.path.join(self.company_officers_dir, filename), 'r') as f:
+                        officers.extend(json.load(f))
+            
+            if officers:
+                df_officers = pd.DataFrame(officers)
+                officers_path = os.path.join(output_dir, 'company_officers.csv')
+                df_officers.to_csv(officers_path, index=False)
+                logger.info(f"Exported {len(officers)} officer records to {officers_path}")
+            else:
+                logger.warning("No officer data to export")
+
+            # Export filing history
+            filings = []
+            for filename in os.listdir(self.filings_data_dir):
+                if filename.endswith('.json'):
+                    with open(os.path.join(self.filings_data_dir, filename), 'r') as f:
+                        filings.extend(json.load(f))
+            
+            if filings:
+                df_filings = pd.DataFrame(filings)
+                filings_path = os.path.join(output_dir, 'filing_history.csv')
+                df_filings.to_csv(filings_path, index=False)
+                logger.info(f"Exported {len(filings)} filing records to {filings_path}")
+            else:
+                logger.warning("No filing data to export")
+
+        except Exception as e:
+            logger.error(f"Error exporting data: {e}")
+            raise
+
+    def search_companies_by_sic(self, sic_code: str, max_pages: Optional[int] = None) -> List[Dict[str, Any]]:
+        """Search for companies by SIC code.
         
-        if company_profiles:
-            df_profiles = pd.DataFrame(company_profiles)
-            profiles_csv_path = os.path.join(output_dir, 'company_profiles.csv')
-            df_profiles.to_csv(profiles_csv_path, index=False)
-            logger.info(f"Exported {len(company_profiles)} company profiles to {profiles_csv_path}")
-        else:
-            logger.warning("No company profile data to export")
+        Args:
+            sic_code: The SIC code to search for
+            max_pages: Maximum number of pages to retrieve (None for all available pages)
+            
+        Returns:
+            List of company data dictionaries
+        """
+        logger.info(f"Starting search for companies with SIC code: {sic_code}")
         
-        # Export officers data (original format)
-        officers = []
-        for filename in os.listdir(self.officers_data_dir):
-            if filename.endswith('.json'):
-                try:
-                    company_number = filename.replace('.json', '')
-                    with open(os.path.join(self.officers_data_dir, filename), 'r', encoding='utf-8') as f:
-                        officers_data = json.load(f)
-                        for officer in officers_data:
-                            officers.append({
-                                'company_number': company_number,
-                                'name': officer.get('name'),
-                                'officer_role': officer.get('officer_role'),
-                                'appointed_on': officer.get('appointed_on'),
-                                'resigned_on': officer.get('resigned_on'),
-                                'nationality': officer.get('nationality'),
-                                'country_of_residence': officer.get('country_of_residence'),
-                                'occupation': officer.get('occupation'),
-                                'address': json.dumps(officer.get('address', {})),
-                                'date_of_birth': json.dumps(officer.get('date_of_birth', {}))
-                            })
-                except Exception as e:
-                    logger.error(f"Error processing officers file {filename}: {e}")
-                    continue
+        companies = []
+        total_processed = 0
         
-        if officers:
-            df_officers = pd.DataFrame(officers)
-            officers_csv_path = os.path.join(output_dir, 'officers.csv')
-            df_officers.to_csv(officers_csv_path, index=False)
-            logger.info(f"Exported {len(officers)} officers to {officers_csv_path}")
-        else:
-            logger.warning("No officer data to export")
-        
-        # Export structured company officers data
-        company_officers = []
-        for filename in os.listdir(self.company_officers_dir):
-            if filename.endswith('.json'):
-                try:
-                    with open(os.path.join(self.company_officers_dir, filename), 'r', encoding='utf-8') as f:
-                        officers_data = json.load(f)
-                        company_number = officers_data.get('company_number')
-                        company_name = officers_data.get('company_name')
+        try:
+            # First, get the total number of results
+            initial_response = self.client.search_companies_by_sic(sic_code, 1, 0)
+            total_results = initial_response.get('total_results', 0)
+            
+            if total_results == 0:
+                logger.info("No companies found with this SIC code")
+                return []
+            
+            logger.info(f"Found {total_results} total results for SIC code {sic_code}")
+            
+            # Calculate total items to process
+            items_per_page = 100
+            if max_pages is None:
+                # Calculate total pages needed
+                total_pages = (total_results + items_per_page - 1) // items_per_page
+                items_to_process = total_results
+                logger.info(f"Will process all {total_results} companies ({total_pages} pages)")
+            else:
+                items_to_process = min(total_results, max_pages * items_per_page)
+                logger.info(f"Will process up to {items_to_process} companies (max {max_pages} pages)")
+            
+            # Create progress bar
+            with tqdm(total=items_to_process, desc="Processing companies", unit="companies") as pbar:
+                start_index = 0
+                while total_processed < items_to_process:
+                    try:
+                        # Get a page of results
+                        response = self.client.search_companies_by_sic(sic_code, items_per_page, start_index)
+                        items = response.get('items', [])
                         
-                        for officer in officers_data.get('officers', []):
-                            # Extract address components for easier analysis
-                            address = officer.get('address', {})
-                            address_str = ", ".join([v for k, v in address.items() if v and k != 'postal_code'])
+                        if not items:
+                            logger.info("No more items found")
+                            break
+                        
+                        # Process each company in the page
+                        for company in items:
+                            if total_processed >= items_to_process:
+                                break
+                                
+                            total_processed += 1
+                            pbar.update(1)
                             
-                            # Process date of birth if available
-                            dob = officer.get('date_of_birth', {})
-                            birth_year = dob.get('year')
-                            birth_month = dob.get('month')
-                            # Format birth date if available
-                            birth_date = None
-                            if birth_year and birth_month:
-                                birth_date = f"{birth_year}-{birth_month:02d}"
+                            company_number = company.get('company_number')
+                            if company_number:
+                                try:
+                                    # Get the full company profile
+                                    profile = self.client.get_company_profile(company_number)
+                                    # Verify the company has the correct SIC code
+                                    if sic_code in profile.get('sic_codes', []):
+                                        companies.append(profile)
+                                        # Update progress bar description with current count and percentage
+                                        percentage = (len(companies) / total_results) * 100
+                                        pbar.set_description(f"Found {len(companies)} matching companies ({percentage:.1f}% of total)")
+                                except Exception as e:
+                                    logger.error(f"Error getting profile for company {company_number}: {e}")
+                                    continue
                             
-                            company_officers.append({
-                                'company_number': company_number,
-                                'company_name': company_name,
-                                'name': officer.get('name'),
-                                'officer_role': officer.get('officer_role'),
-                                'appointed_on': officer.get('appointed_on'),
-                                'resigned_on': officer.get('resigned_on'),
-                                'nationality': officer.get('nationality'),
-                                'country_of_residence': officer.get('country_of_residence'),
-                                'occupation': officer.get('occupation'),
-                                'address': address_str,
-                                'postal_code': address.get('postal_code', ''),
-                                'country': address.get('country', ''),
-                                'birth_date': birth_date,
-                                'former_names': json.dumps(officer.get('former_names', []))
-                            })
-                except Exception as e:
-                    logger.error(f"Error processing structured officers file {filename}: {e}")
-                    continue
-        
-        if company_officers:
-            df_company_officers = pd.DataFrame(company_officers)
-            company_officers_csv_path = os.path.join(output_dir, 'company_officers.csv')
-            df_company_officers.to_csv(company_officers_csv_path, index=False)
-            logger.info(f"Exported {len(company_officers)} company officers to {company_officers_csv_path}")
-        else:
-            logger.warning("No structured company officers data to export")
-        
-        # Export filings data
-        filings = []
-        for filename in os.listdir(self.filings_data_dir):
-            if filename.endswith('.json'):
-                try:
-                    company_number = filename.replace('.json', '')
-                    with open(os.path.join(self.filings_data_dir, filename), 'r', encoding='utf-8') as f:
-                        filings_data = json.load(f)
-                        for filing in filings_data:
-                            filings.append({
-                                'company_number': company_number,
-                                'filing_type': filing.get('type'),
-                                'description': filing.get('description'),
-                                'date': filing.get('date'),
-                                'category': filing.get('category'),
-                                'subcategory': filing.get('subcategory'),
-                                'barcode': filing.get('barcode'),
-                                'transaction_id': filing.get('transaction_id')
-                            })
-                except Exception as e:
-                    logger.error(f"Error processing filings file {filename}: {e}")
-                    continue
-        
-        if filings:
-            df_filings = pd.DataFrame(filings)
-            filings_csv_path = os.path.join(output_dir, 'filings.csv')
-            df_filings.to_csv(filings_csv_path, index=False)
-            logger.info(f"Exported {len(filings)} filings to {filings_csv_path}")
-        else:
-            logger.warning("No filing data to export") 
+                            # Add a small delay to avoid hitting rate limits
+                            time.sleep(0.1)
+                        
+                        # Move to next page
+                        start_index += items_per_page
+                        
+                    except Exception as e:
+                        logger.error(f"Error processing page starting at index {start_index}: {e}")
+                        break
+            
+            logger.info(f"Search completed:")
+            logger.info(f"- Total companies processed: {total_processed}")
+            logger.info(f"- Companies with matching SIC code: {len(companies)}")
+            if max_pages is None:
+                logger.info(f"- Coverage: {len(companies)}/{total_results} companies ({len(companies)/total_results*100:.1f}%)")
+            
+            return companies
+            
+        except Exception as e:
+            logger.error(f"Error during SIC code search: {e}")
+            logger.info(f"Search interrupted after processing {total_processed} companies")
+            return companies 

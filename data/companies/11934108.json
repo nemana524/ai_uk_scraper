@@ -1,0 +1,56 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "type": "total-exemption-full"
+    }
+  },
+  "can_file": false,
+  "company_name": "EMERALD CORPORATE GROUP LTD.",
+  "company_number": "11934108",
+  "company_status": "dissolved",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-05-07"
+  },
+  "date_of_cessation": "2025-05-06",
+  "date_of_creation": "2019-04-09",
+  "etag": "22ffffe13c7ae8e202ee9a8aa4e7e4a3482ba8ae",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11934108/persons-with-significant-control",
+    "registers": "/company/11934108/registers",
+    "self": "/company/11934108",
+    "filing_history": "/company/11934108/filing-history",
+    "officers": "/company/11934108/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2022-05-03",
+      "effective_from": "2019-04-09",
+      "name": "THE SICA ADVISORS CAPITAL LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "11934108 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "registered_office_is_in_dispute": true,
+  "sic_codes": [
+    "41100",
+    "42990",
+    "43999",
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}
